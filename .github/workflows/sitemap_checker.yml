@@ -2,20 +2,26 @@
 name: Sitemap Checker
 
 on:
+  # 定时触发
   schedule:
     - cron: '0 16 * * *'
+  
+  # 手动触发
   workflow_dispatch:
+    # 新增: 定义手动触发时的输入参数
+    inputs:
+      sitemap_url:
+        description: '要单独检查的Sitemap网址 (可选)'
+        required: false
+        default: ''
 
 # 定义工作任务
 jobs:
   check-sitemap:
     runs-on: ubuntu-latest
-
-    # 【重要改动】为该任务授予写入仓库内容的权限
     permissions:
       contents: write
 
-    # 定义任务执行的步骤
     steps:
       # 步骤 1: 检出代码
       - name: Check out repository
@@ -37,6 +43,8 @@ jobs:
       - name: Run sitemap checker script
         env:
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+          # 新增: 将手动输入的URL作为环境变量传递给脚本
+          MANUAL_SITEMAP_URL: ${{ github.event.inputs.sitemap_url }}
         run: python sitemap_checker.py
 
       # 步骤 5: 提交并推送文件变更
@@ -44,7 +52,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add urls.txt new_urls.txt
+          # 修改git add命令以匹配动态生成的文件名
+          git add ./*-urls.txt ./*-new_urls.txt
           if ! git diff --staged --quiet; then
             git commit -m "chore: 自动更新 sitemap URL 列表"
             git push
