@@ -21,39 +21,34 @@ jobs:
     # 定义任务执行的步骤
     steps:
       # 步骤 1: 检出代码
-      # 这个动作会将您的仓库代码下载到虚拟环境中，以便后续步骤使用
       - name: Check out repository
         uses: actions/checkout@v4
 
       # 步骤 2: 设置 Python 环境
-      # 使用官方的 setup-python 动作来安装指定版本的 Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # 您可以根据需要指定 Python 版本
+          python-version: '3.10'
 
       # 步骤 3: 安装依赖库
-      # 运行 pip install 来安装脚本运行所需要的第三方库
+      # 【重要改动】在这里增加了 lxml
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lxml
 
       # 步骤 4: 运行 Python 脚本
-      # 关键步骤：通过 env 将 GitHub Secret 传递为环境变量给脚本
       - name: Run sitemap checker script
         env:
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
         run: python sitemap_checker.py
 
       # 步骤 5: 提交并推送文件变更
-      # 如果脚本修改了 urls.txt 或 new_urls.txt，此步骤会将变更提交回您的 GitHub 仓库
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add urls.txt new_urls.txt
-          # 检查是否有文件被修改，只有在有修改时才执行提交和推送操作
           if ! git diff --staged --quiet; then
             git commit -m "chore: 自动更新 sitemap URL 列表"
             git push
