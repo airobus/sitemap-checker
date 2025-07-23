@@ -1,0 +1,5 @@
+# 这是 Dictionary.com 的网站地图
+https://play.dictionary.com/sitemap.xml
+
+# 这是 W3C 的网站地图
+https://www.w3.org/sitemap.xml
