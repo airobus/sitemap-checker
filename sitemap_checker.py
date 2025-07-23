@@ -129,7 +129,7 @@ if __name__ == "__main__":
     else:
         # 如果没有手动输入，则执行原有的批量处理逻辑
         DOMAINS_FILE = 'domains.txt'
-        MAX_WORKERS = 5  # 最多同时处理5个网站
+        MAX_WORKERS = 10  # 最多同时处理5个网站
 
         if not os.path.exists(DOMAINS_FILE):
             print(f"错误: 找不到配置文件 '{DOMAINS_FILE}'。")
