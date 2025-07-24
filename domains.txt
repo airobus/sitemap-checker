@@ -2,3 +2,4 @@
 https://play.dictionary.com/sitemap.xml
 
 https://wordly.org/sitemap.xml
+https://gamedistribution.com/sitemap-games-1.xml
