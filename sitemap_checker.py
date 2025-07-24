@@ -43,7 +43,7 @@ def send_push_notification_for_domain(new_urls, domain_prefix):
             f"{urls_to_show}\n"
             f"------------------------\n"
             f"以及其他 {num_new_urls - MAX_URLS_IN_NOTIFICATION} 个...\n"
-            f"请在GitHub仓库的 {domain_prefix}-new_urls.txt 文件中查看完整列表。"
+            f"请点击以下链接查看完整列表：\nhttps://github.com/airobus/sitemap_checker/blob/master/{domain_prefix}-new_urls.txt"
         )
     # 如果数量不多，则发送完整列表
     else:
