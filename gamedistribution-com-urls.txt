@@ -5314,6 +5314,7 @@ https://gamedistribution.com/games/blob-tank-wars/
 https://gamedistribution.com/games/block-3d/
 https://gamedistribution.com/games/block-avalanche/
 https://gamedistribution.com/games/block-blast-1/
+https://gamedistribution.com/games/block-blast-2048/
 https://gamedistribution.com/games/block-blast/
 https://gamedistribution.com/games/block-blaster-puzzle/
 https://gamedistribution.com/games/block-blasty-saga/
@@ -8967,6 +8968,7 @@ https://gamedistribution.com/games/daddys-hair-salon/
 https://gamedistribution.com/games/dagelijkse-sudoku/
 https://gamedistribution.com/games/daily-america-jigsaw/
 https://gamedistribution.com/games/daily-baby-care/
+https://gamedistribution.com/games/daily-chess-puzzle/
 https://gamedistribution.com/games/daily-commuter-crossword/
 https://gamedistribution.com/games/daily-crossword/
 https://gamedistribution.com/games/daily-driver/
@@ -13483,6 +13485,7 @@ https://gamedistribution.com/games/guess-the-character-word-puzzle-game/
 https://gamedistribution.com/games/guess-the-color/
 https://gamedistribution.com/games/guess-the-drawing/
 https://gamedistribution.com/games/guess-the-flag/
+https://gamedistribution.com/games/guess-the-italian-brainrot-animals/
 https://gamedistribution.com/games/guess-the-kitty/
 https://gamedistribution.com/games/guess-the-name-hangman/
 https://gamedistribution.com/games/guess-the-path/
@@ -15345,6 +15348,7 @@ https://gamedistribution.com/games/jelly-match-4/
 https://gamedistribution.com/games/jelly-match-worlds/
 https://gamedistribution.com/games/jelly-match3/
 https://gamedistribution.com/games/jelly-matching/
+https://gamedistribution.com/games/jelly-math-3d/
 https://gamedistribution.com/games/jelly-mergence/
 https://gamedistribution.com/games/jelly-merger-1/
 https://gamedistribution.com/games/jelly-merger/
@@ -16369,6 +16373,7 @@ https://gamedistribution.com/games/lateral-defense/
 https://gamedistribution.com/games/latina-princess-spa-day/
 https://gamedistribution.com/games/lava-and-ninja-skateboard/
 https://gamedistribution.com/games/lava-car-escape/
+https://gamedistribution.com/games/lava-jump/
 https://gamedistribution.com/games/lava-ladder-leap/
 https://gamedistribution.com/games/lavanoid/
 https://gamedistribution.com/games/lavender-dream/
@@ -16585,6 +16590,7 @@ https://gamedistribution.com/games/live-aqua-hero-adventure/
 https://gamedistribution.com/games/live-avatar-maker%3A-girls/
 https://gamedistribution.com/games/live-line/
 https://gamedistribution.com/games/live-or-die/
+https://gamedistribution.com/games/live-star-doll-dress-up/
 https://gamedistribution.com/games/lizard-lady-vs-herself/
 https://gamedistribution.com/games/lizard-lady-vs-the-cats/
 https://gamedistribution.com/games/llama-spitter/
@@ -27659,6 +27665,7 @@ https://gamedistribution.com/games/water-park-fun/
 https://gamedistribution.com/games/water-park-visit/
 https://gamedistribution.com/games/water-power-boat-racer-3d/
 https://gamedistribution.com/games/water-race-3d/
+https://gamedistribution.com/games/water-shooter/
 https://gamedistribution.com/games/water-shooty-1/
 https://gamedistribution.com/games/water-shooty/
 https://gamedistribution.com/games/water-slide-car-race/

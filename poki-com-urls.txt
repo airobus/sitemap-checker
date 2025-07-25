@@ -572,6 +572,7 @@ https://poki.com/en/g/drift-boss
 https://poki.com/en/g/drift-clicker-drift-max
 https://poki.com/en/g/driftwave
 https://poki.com/en/g/drill-up
+https://poki.com/en/g/drills-merge-master
 https://poki.com/en/g/drilly-the-miner
 https://poki.com/en/g/drive-freedom
 https://poki.com/en/g/drive-mad
@@ -589,7 +590,6 @@ https://poki.com/en/g/ducklife-2
 https://poki.com/en/g/ducklife-3
 https://poki.com/en/g/ducklife-4
 https://poki.com/en/g/ducklings-io
-https://poki.com/en/g/dudeball
 https://poki.com/en/g/duel-of-chance
 https://poki.com/en/g/duke-dashington-remastered
 https://poki.com/en/g/dumb-ways-to-die-3-world-tour
@@ -857,6 +857,7 @@ https://poki.com/en/g/grand-mini-slam
 https://poki.com/en/g/grand-prix-hero
 https://poki.com/en/g/grandmas-delicious-cakes
 https://poki.com/en/g/grapple-grip
+https://poki.com/en/g/grass-cutter
 https://poki.com/en/g/graveyard-shift
 https://poki.com/en/g/gravity-blast
 https://poki.com/en/g/gravity-soccer
@@ -866,6 +867,7 @@ https://poki.com/en/g/grow-up-the-cats
 https://poki.com/en/g/growmi
 https://poki.com/en/g/gswitch
 https://poki.com/en/g/gswitch-2
+https://poki.com/en/g/guess-the-brainrot
 https://poki.com/en/g/guess-the-emojis
 https://poki.com/en/g/guess-what
 https://poki.com/en/g/guess-who
@@ -2078,6 +2080,7 @@ https://poki.com/en/g/water-gun-shooter
 https://poki.com/en/g/water-polo-ragdoll
 https://poki.com/en/g/watercraft-rush
 https://poki.com/en/g/watermelon-drop
+https://poki.com/en/g/watermelon-slide
 https://poki.com/en/g/wave-rider
 https://poki.com/en/g/we-become-what-we-behold
 https://poki.com/en/g/we-skate
