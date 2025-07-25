@@ -3,3 +3,4 @@ https://play.dictionary.com/sitemap.xml
 https://www.twoplayergames.org/sitemap-games.xml
 https://wordly.org/sitemap.xml
 https://gamedistribution.com/sitemap-games-1.xml
+https://poki.com/en/sitemaps/games.xml
