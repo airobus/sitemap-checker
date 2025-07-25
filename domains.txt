@@ -4,3 +4,6 @@ https://www.twoplayergames.org/sitemap-games.xml
 https://wordly.org/sitemap.xml
 https://gamedistribution.com/sitemap-games-1.xml
 https://poki.com/en/sitemaps/games.xml
+https://sprunkin.com/wp-sitemap-posts-game-1.xml
+https://sprunki.org/sitemap.xml
+https://cpstest.org/sitemap.xml
