@@ -1367,7 +1367,6 @@ https://www.crazygames.com/game/flash-circle-td
 https://www.crazygames.com/game/fleeing-the-complex
 https://www.crazygames.com/game/fleet-battle
 https://www.crazygames.com/game/flip-bottle
-https://www.crazygames.com/game/flip-goal
 https://www.crazygames.com/game/flip-the-box
 https://www.crazygames.com/game/flipped-chain-dunk
 https://www.crazygames.com/game/flipper-dunk-3d
@@ -1478,6 +1477,7 @@ https://www.crazygames.com/game/furcifer-s-fungeon
 https://www.crazygames.com/game/furry-dress-up-anime-creator
 https://www.crazygames.com/game/furry-road-veb
 https://www.crazygames.com/game/fury-bike-rider
+https://www.crazygames.com/game/fury-wars---online-shooter
 https://www.crazygames.com/game/galactic-crusade-clicker
 https://www.crazygames.com/game/galactic-grind
 https://www.crazygames.com/game/galaxy-clicker
@@ -1960,6 +1960,7 @@ https://www.crazygames.com/game/kawaii-friends-tiles-matcher
 https://www.crazygames.com/game/keep-it-straight
 https://www.crazygames.com/game/keeper-of-the-grove-2
 https://www.crazygames.com/game/kick-football-herosoccer-game
+https://www.crazygames.com/game/kick-loser
 https://www.crazygames.com/game/kick-the-noobik-3d
 https://www.crazygames.com/game/kids-kitchen
 https://www.crazygames.com/game/kill-boi-9000
@@ -2848,6 +2849,7 @@ https://www.crazygames.com/game/pop-culture-halloween-makeup
 https://www.crazygames.com/game/pop-it-3d
 https://www.crazygames.com/game/pop-it-duel
 https://www.crazygames.com/game/pop-jewels
+https://www.crazygames.com/game/pop-match-3d
 https://www.crazygames.com/game/popcorn-chef-2
 https://www.crazygames.com/game/popcorn-fever
 https://www.crazygames.com/game/popit-vs-spinner
