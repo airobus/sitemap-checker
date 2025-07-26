@@ -1459,6 +1459,7 @@ https://www.twoplayergames.org/game/pooper-deluxe
 https://www.twoplayergames.org/game/pop-it-master
 https://www.twoplayergames.org/game/pop-us-3d
 https://www.twoplayergames.org/game/popcorn-master
+https://www.twoplayergames.org/game/poppy-strike-5
 https://www.twoplayergames.org/game/port-bike-stunt
 https://www.twoplayergames.org/game/portal-defenders-fast-break
 https://www.twoplayergames.org/game/possession-football
@@ -1533,6 +1534,7 @@ https://www.twoplayergames.org/game/red-driver-2
 https://www.twoplayergames.org/game/red-hands
 https://www.twoplayergames.org/game/red-light-green-light
 https://www.twoplayergames.org/game/red-stickman-fighting-stick
+https://www.twoplayergames.org/game/red-stickman-vs-monster-school
 https://www.twoplayergames.org/game/red-vs-blue
 https://www.twoplayergames.org/game/reflex-ball
 https://www.twoplayergames.org/game/regular-show-fist-punch
@@ -1573,6 +1575,7 @@ https://www.twoplayergames.org/game/robot-police-iron-panther
 https://www.twoplayergames.org/game/rock-paper-scissors
 https://www.twoplayergames.org/game/rocket-bike
 https://www.twoplayergames.org/game/rocket-bikes-highway-race
+https://www.twoplayergames.org/game/rocket-car-ball
 https://www.twoplayergames.org/game/rocket-stunt-cars
 https://www.twoplayergames.org/game/roller-coaster
 https://www.twoplayergames.org/game/roller-splat

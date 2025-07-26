@@ -6658,6 +6658,7 @@ https://gamedistribution.com/games/car-crash-star/
 https://gamedistribution.com/games/car-crash/
 https://gamedistribution.com/games/car-crush/
 https://gamedistribution.com/games/car-crusher-master/
+https://gamedistribution.com/games/car-dealer-idle/
 https://gamedistribution.com/games/car-defender-1/
 https://gamedistribution.com/games/car-defender/
 https://gamedistribution.com/games/car-destroy-car/
@@ -11500,6 +11501,7 @@ https://gamedistribution.com/games/feed-the-monster/
 https://gamedistribution.com/games/feed-the-panda-1/
 https://gamedistribution.com/games/feed-the-parrot/
 https://gamedistribution.com/games/feed-the-wild/
+https://gamedistribution.com/games/feet-doctor-urgency-care/
 https://gamedistribution.com/games/feet-skin-doctor/
 https://gamedistribution.com/games/felicia's-day/
 https://gamedistribution.com/games/feller-3d/
@@ -16469,6 +16471,7 @@ https://gamedistribution.com/games/light-up/
 https://gamedistribution.com/games/lightbulb-physics/
 https://gamedistribution.com/games/lighthouse-havoc/
 https://gamedistribution.com/games/lights-1/
+https://gamedistribution.com/games/lights-out-1/
 https://gamedistribution.com/games/lights-out-christmas-/
 https://gamedistribution.com/games/lights/
 https://gamedistribution.com/games/lil-puppy-memory/
@@ -17285,6 +17288,7 @@ https://gamedistribution.com/games/match-candy-1/
 https://gamedistribution.com/games/match-candy/
 https://gamedistribution.com/games/match-cartoon-creatures/
 https://gamedistribution.com/games/match-colors-colors-game/
+https://gamedistribution.com/games/match-fighter/
 https://gamedistribution.com/games/match-find-3d/
 https://gamedistribution.com/games/match-four/
 https://gamedistribution.com/games/match-fruits/
@@ -19235,6 +19239,7 @@ https://gamedistribution.com/games/nutty-twins/
 https://gamedistribution.com/games/ny-rex/
 https://gamedistribution.com/games/nynjump/
 https://gamedistribution.com/games/nypd-parking/
+https://gamedistribution.com/games/obby%3A-gym-simulator-escape/
 https://gamedistribution.com/games/obby%3A-pogo-parkour!/
 https://gamedistribution.com/games/obby-%2B1-pet-every-seconds/
 https://gamedistribution.com/games/obby-3d-sprunki-parkour/
@@ -19892,6 +19897,7 @@ https://gamedistribution.com/games/perfect-prom-night-look/
 https://gamedistribution.com/games/perfect-roll-hit/
 https://gamedistribution.com/games/perfect-sakura-girl/
 https://gamedistribution.com/games/perfect-salon/
+https://gamedistribution.com/games/perfect-shot/
 https://gamedistribution.com/games/perfect-slices-2/
 https://gamedistribution.com/games/perfect-slices-master/
 https://gamedistribution.com/games/perfect-slices-online/
@@ -24475,6 +24481,7 @@ https://gamedistribution.com/games/sprunki-garden/
 https://gamedistribution.com/games/sprunki-gets-surgery/
 https://gamedistribution.com/games/sprunki-jigsaw-puzzle/
 https://gamedistribution.com/games/sprunki-lava-escape-2player/
+https://gamedistribution.com/games/sprunki-match/
 https://gamedistribution.com/games/sprunki-memory-card-match/
 https://gamedistribution.com/games/sprunki-mini-games/
 https://gamedistribution.com/games/sprunki-phase-brainrot/
@@ -25702,6 +25709,7 @@ https://gamedistribution.com/games/switch-sides/
 https://gamedistribution.com/games/switch-to-red/
 https://gamedistribution.com/games/switch/
 https://gamedistribution.com/games/switches-and-brain/
+https://gamedistribution.com/games/sword-and-spin/
 https://gamedistribution.com/games/sword-block-painter/
 https://gamedistribution.com/games/sword-knight/
 https://gamedistribution.com/games/sword-life/
