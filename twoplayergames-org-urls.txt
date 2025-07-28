@@ -654,6 +654,7 @@ https://www.twoplayergames.org/game/eat-blobs-simulator
 https://www.twoplayergames.org/game/eating-simulator
 https://www.twoplayergames.org/game/ebowars-io
 https://www.twoplayergames.org/game/edge-rider
+https://www.twoplayergames.org/game/egg-dash
 https://www.twoplayergames.org/game/egg-fighters
 https://www.twoplayergames.org/game/eggy-car
 https://www.twoplayergames.org/game/eight-ball-pool
@@ -1333,6 +1334,7 @@ https://www.twoplayergames.org/game/nuke-zone
 https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
 https://www.twoplayergames.org/game/obby-1-pet-every-seconds
 https://www.twoplayergames.org/game/obby-blox-parkour
+https://www.twoplayergames.org/game/obby-gym-simulator-escape
 https://www.twoplayergames.org/game/obby-on-a-bike
 https://www.twoplayergames.org/game/obby-parkour-ultimate
 https://www.twoplayergames.org/game/obby-pogo-parkour
@@ -1460,6 +1462,7 @@ https://www.twoplayergames.org/game/pooper-deluxe
 https://www.twoplayergames.org/game/pop-it-master
 https://www.twoplayergames.org/game/pop-us-3d
 https://www.twoplayergames.org/game/popcorn-master
+https://www.twoplayergames.org/game/poppy-strike-3
 https://www.twoplayergames.org/game/poppy-strike-5
 https://www.twoplayergames.org/game/port-bike-stunt
 https://www.twoplayergames.org/game/portal-defenders-fast-break
@@ -1867,6 +1870,7 @@ https://www.twoplayergames.org/game/stickman-bridge-constructor
 https://www.twoplayergames.org/game/stickman-broken-bones-io
 https://www.twoplayergames.org/game/stickman-downhill
 https://www.twoplayergames.org/game/stickman-epic
+https://www.twoplayergames.org/game/stickman-escape-school
 https://www.twoplayergames.org/game/stickman-escapes-from-prison
 https://www.twoplayergames.org/game/stickman-fighter-epic-battles
 https://www.twoplayergames.org/game/stickman-halloween

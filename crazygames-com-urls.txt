@@ -171,6 +171,7 @@ https://www.crazygames.com/game/airport-security
 https://www.crazygames.com/game/alcatraz-prison-escape-plan
 https://www.crazygames.com/game/alchemy
 https://www.crazygames.com/game/alchemy-merge-clicker
+https://www.crazygames.com/game/alchemy-puzzle
 https://www.crazygames.com/game/algerian-solitaire
 https://www.crazygames.com/game/alice-is-dead-2
 https://www.crazygames.com/game/alice-is-dead-3
@@ -4624,6 +4625,7 @@ https://www.crazygames.com/t/survive/6
 https://www.crazygames.com/t/sword
 https://www.crazygames.com/t/tank
 https://www.crazygames.com/t/tetris
+https://www.crazygames.com/t/thinky
 https://www.crazygames.com/t/third-person-shooter
 https://www.crazygames.com/t/third-person-shooter/2
 https://www.crazygames.com/t/top-down
