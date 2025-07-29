@@ -6697,6 +6697,7 @@ https://gamedistribution.com/games/car-mechanic-simulator/
 https://gamedistribution.com/games/car-merge-and-fight/
 https://gamedistribution.com/games/car-model-dress-up/
 https://gamedistribution.com/games/car-out/
+https://gamedistribution.com/games/car-paint/
 https://gamedistribution.com/games/car-park-puzzle/
 https://gamedistribution.com/games/car-park-simulator/
 https://gamedistribution.com/games/car-parking-3d/
@@ -21667,6 +21668,7 @@ https://gamedistribution.com/games/quickmath/
 https://gamedistribution.com/games/quiet-boy-escape/
 https://gamedistribution.com/games/quiz-guess-the-flag/
 https://gamedistribution.com/games/quiz-kingdoms/
+https://gamedistribution.com/games/quiz-mater/
 https://gamedistribution.com/games/quiz-squid-round-1/
 https://gamedistribution.com/games/quiz-squid-round/
 https://gamedistribution.com/games/quizland-conquest/
