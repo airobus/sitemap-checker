@@ -47,6 +47,7 @@ https://poki.com/en/g/adventure-cube
 https://poki.com/en/g/adventure-drivers
 https://poki.com/en/g/afterlife-the-game
 https://poki.com/en/g/age-of-war
+https://poki.com/en/g/agent-hunt-pro-shooter
 https://poki.com/en/g/air-hockey-championship-deluxe
 https://poki.com/en/g/air-traffic-control-atc-game
 https://poki.com/en/g/airport-clash-3d
@@ -200,6 +201,7 @@ https://poki.com/en/g/bonk-beach-ball
 https://poki.com/en/g/boost-buddies
 https://poki.com/en/g/boss-level-shootout
 https://poki.com/en/g/bossy-toss
+https://poki.com/en/g/botanica
 https://poki.com/en/g/bottle-flip
 https://poki.com/en/g/bottle-flip-challenge
 https://poki.com/en/g/bounce-ball
@@ -621,7 +623,6 @@ https://poki.com/en/g/electric-highway
 https://poki.com/en/g/elemental-master
 https://poki.com/en/g/elixpur-idle
 https://poki.com/en/g/eliza-mall-mania
-https://poki.com/en/g/ella-timeless-fashionista
 https://poki.com/en/g/ellie-and-ben-date-night
 https://poki.com/en/g/ellies-surprise-birthday-party
 https://poki.com/en/g/elysian
@@ -1313,6 +1314,7 @@ https://poki.com/en/g/ocean
 https://poki.com/en/g/odd-bot-out
 https://poki.com/en/g/off-road-rain-cargo-simulator
 https://poki.com/en/g/off-the-rails
+https://poki.com/en/g/office-boss-simulator
 https://poki.com/en/g/offroader-v5
 https://poki.com/en/g/oh-flip-a-game-about-backflips
 https://poki.com/en/g/old-towers
@@ -1856,6 +1858,7 @@ https://poki.com/en/g/sushi-chef
 https://poki.com/en/g/sushi-matching
 https://poki.com/en/g/sushi-merge
 https://poki.com/en/g/sushi-party-io
+https://poki.com/en/g/sushi-situation
 https://poki.com/en/g/swatforce-vs-terrorists
 https://poki.com/en/g/sweet-and-fruity-makeup
 https://poki.com/en/g/sweet-ball-sprint
@@ -2105,6 +2108,7 @@ https://poki.com/en/g/winter-dodge
 https://poki.com/en/g/wonderputt
 https://poki.com/en/g/wood-blocks-3d
 https://poki.com/en/g/woodcraft
+https://poki.com/en/g/woodoku-block-puzzle
 https://poki.com/en/g/woody-sort
 https://poki.com/en/g/woof-foow-merge-cute-dogs
 https://poki.com/en/g/word-boss

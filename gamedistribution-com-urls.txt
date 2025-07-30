@@ -19208,6 +19208,7 @@ https://gamedistribution.com/games/number-master/
 https://gamedistribution.com/games/number-match/
 https://gamedistribution.com/games/number-maze-1/
 https://gamedistribution.com/games/number-maze/
+https://gamedistribution.com/games/number-merge-10/
 https://gamedistribution.com/games/number-merge/
 https://gamedistribution.com/games/number-sequences/
 https://gamedistribution.com/games/number-shapes/
@@ -27767,6 +27768,7 @@ https://gamedistribution.com/games/wedding-ragdoll/
 https://gamedistribution.com/games/wedding-shopping-with-bridesmaids/
 https://gamedistribution.com/games/wedding-spring/
 https://gamedistribution.com/games/wednesday-dark-academia/
+https://gamedistribution.com/games/wednesday-light-academia/
 https://gamedistribution.com/games/weightlifting-beauty/
 https://gamedistribution.com/games/weird-dance-on-wednesday/
 https://gamedistribution.com/games/weld-it-3d/
@@ -28407,6 +28409,7 @@ https://gamedistribution.com/games/yummy-tales-2/
 https://gamedistribution.com/games/yummy-tales-3/
 https://gamedistribution.com/games/yummy-tales/
 https://gamedistribution.com/games/yummy-toast/
+https://gamedistribution.com/games/yummy-trails/
 https://gamedistribution.com/games/yummy-waffle-ice-cream/
 https://gamedistribution.com/games/yuna-kitchen-chinese-new-year-cake/
 https://gamedistribution.com/games/z-day-shootout/

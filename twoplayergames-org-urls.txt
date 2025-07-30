@@ -449,6 +449,7 @@ https://www.twoplayergames.org/game/cosmo-void
 https://www.twoplayergames.org/game/cotton-candy-shop
 https://www.twoplayergames.org/game/cougar-simulator-big-cats
 https://www.twoplayergames.org/game/count-master
+https://www.twoplayergames.org/game/counter-craft-classic-2
 https://www.twoplayergames.org/game/counter-terror
 https://www.twoplayergames.org/game/country-racers
 https://www.twoplayergames.org/game/countryside-driving-quest
@@ -1616,6 +1617,7 @@ https://www.twoplayergames.org/game/save-my-pet-party
 https://www.twoplayergames.org/game/save-the-ball
 https://www.twoplayergames.org/game/school-teacher-simulator
 https://www.twoplayergames.org/game/sci-fighters
+https://www.twoplayergames.org/game/scooter-stunt-simulator
 https://www.twoplayergames.org/game/sd-robo-battle-arena
 https://www.twoplayergames.org/game/sd-robo-combat-arena
 https://www.twoplayergames.org/game/seesawball

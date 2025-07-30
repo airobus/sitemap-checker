@@ -1933,6 +1933,7 @@ https://www.crazygames.com/game/jingle-defense
 https://www.crazygames.com/game/johnny-n-tommy---prank-masters
 https://www.crazygames.com/game/johnny-rocketfingers
 https://www.crazygames.com/game/johnny-rocketfingers-2
+https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
 https://www.crazygames.com/game/juicy
@@ -2887,7 +2888,6 @@ https://www.crazygames.com/game/prinxy-house-of-fashion
 https://www.crazygames.com/game/prinxy-winterella
 https://www.crazygames.com/game/prison-break-architect-tycoon
 https://www.crazygames.com/game/prison-escape-lnj
-https://www.crazygames.com/game/prisoners-io
 https://www.crazygames.com/game/pro-bowling
 https://www.crazygames.com/game/pro-construction-simulator-3d-swm
 https://www.crazygames.com/game/professional-sniper
@@ -3339,6 +3339,7 @@ https://www.crazygames.com/game/sort-n-hold-3d
 https://www.crazygames.com/game/sort-parking
 https://www.crazygames.com/game/soul-grinder
 https://www.crazygames.com/game/soul-not-found
+https://www.crazygames.com/game/spa-tycoon
 https://www.crazygames.com/game/space-battle
 https://www.crazygames.com/game/space-box-battle-arena
 https://www.crazygames.com/game/space-city---build-your-empire
@@ -3976,6 +3977,7 @@ https://www.crazygames.com/game/what-s-the-difference-online
 https://www.crazygames.com/game/wheel-of-felines-kwm
 https://www.crazygames.com/game/wheelie-up
 https://www.crazygames.com/game/wheelstars
+https://www.crazygames.com/game/wheelx-race
 https://www.crazygames.com/game/where-s-my-pizza
 https://www.crazygames.com/game/while-we-sleep-slendrina-is-here
 https://www.crazygames.com/game/white-jigsaw
