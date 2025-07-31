@@ -159,7 +159,6 @@ https://www.crazygames.com/game/air-battle-royale-sky-blitz
 https://www.crazygames.com/game/air-block
 https://www.crazygames.com/game/air-defence-3
 https://www.crazygames.com/game/air-hockey-cup
-https://www.crazygames.com/game/air-hockey-glow
 https://www.crazygames.com/game/air-strike
 https://www.crazygames.com/game/air-wars-2
 https://www.crazygames.com/game/air-wars-3
@@ -786,7 +785,6 @@ https://www.crazygames.com/game/colorbox-puzzle
 https://www.crazygames.com/game/colorful-city-of-cards
 https://www.crazygames.com/game/coloring-by-numbers-pixel-house
 https://www.crazygames.com/game/coloring-by-numbers-pixel-room
-https://www.crazygames.com/game/colors-craft
 https://www.crazygames.com/game/colortris-demo
 https://www.crazygames.com/game/command-strike-fps-iqh
 https://www.crazygames.com/game/commando-myk
@@ -1798,7 +1796,6 @@ https://www.crazygames.com/game/idle-airline-tycoon
 https://www.crazygames.com/game/idle-airport-tycoon
 https://www.crazygames.com/game/idle-animal-anatomy
 https://www.crazygames.com/game/idle-ants
-https://www.crazygames.com/game/idle-art-tycoon
 https://www.crazygames.com/game/idle-bee-swarm-simulator
 https://www.crazygames.com/game/idle-blogger-simulator
 https://www.crazygames.com/game/idle-bouncy-ball
@@ -1936,7 +1933,6 @@ https://www.crazygames.com/game/johnny-rocketfingers-2
 https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
-https://www.crazygames.com/game/juicy
 https://www.crazygames.com/game/juicyjong
 https://www.crazygames.com/game/jump-and-hover
 https://www.crazygames.com/game/jump-guys
@@ -3033,7 +3029,6 @@ https://www.crazygames.com/game/rise-of-the-blobs-ehk
 https://www.crazygames.com/game/risehero
 https://www.crazygames.com/game/road-battle-gather-the-gang-vvf
 https://www.crazygames.com/game/road-master
-https://www.crazygames.com/game/road-to-golflantis
 https://www.crazygames.com/game/road-turn
 https://www.crazygames.com/game/robbie-game-challenges
 https://www.crazygames.com/game/robbie-the-robot
@@ -3047,7 +3042,6 @@ https://www.crazygames.com/game/robotik
 https://www.crazygames.com/game/robots-backpack-mech-ops
 https://www.crazygames.com/game/robowars
 https://www.crazygames.com/game/robox
-https://www.crazygames.com/game/robybox---space-station-warehouse
 https://www.crazygames.com/game/rock-buster-3d
 https://www.crazygames.com/game/rock-climbing
 https://www.crazygames.com/game/rock-hard-coliseum
@@ -3090,7 +3084,6 @@ https://www.crazygames.com/game/rpg-idle-clicker-uzz
 https://www.crazygames.com/game/rsvp
 https://www.crazygames.com/game/rude-races
 https://www.crazygames.com/game/rumble-high
-https://www.crazygames.com/game/rummy-blast
 https://www.crazygames.com/game/run
 https://www.crazygames.com/game/run-3
 https://www.crazygames.com/game/run-desnecessauro
@@ -3105,7 +3098,6 @@ https://www.crazygames.com/game/rush-hour-owq
 https://www.crazygames.com/game/russian-car-driver-zil-130
 https://www.crazygames.com/game/russian-checkers-free
 https://www.crazygames.com/game/russian-delivery-club-baikal
-https://www.crazygames.com/game/russian-driver-3d
 https://www.crazygames.com/game/russian-kamaz-truck-driver
 https://www.crazygames.com/game/russian-kamaz-truck-driver-2
 https://www.crazygames.com/game/russian-uaz-4x4-driving-simulator
@@ -3276,7 +3268,6 @@ https://www.crazygames.com/game/smartfriends-hoj
 https://www.crazygames.com/game/smarty-bubbles
 https://www.crazygames.com/game/smash-block-arena
 https://www.crazygames.com/game/smash-karts
-https://www.crazygames.com/game/smash-n-collect-kfn
 https://www.crazygames.com/game/smash-quest
 https://www.crazygames.com/game/smile-slime
 https://www.crazygames.com/game/smileys-family-tree-emoji
@@ -3608,7 +3599,6 @@ https://www.crazygames.com/game/tabletop-idle
 https://www.crazygames.com/game/tactical-assassin
 https://www.crazygames.com/game/tactical-assassin-2
 https://www.crazygames.com/game/tactical-assassin-3
-https://www.crazygames.com/game/tag-2-3-4-players
 https://www.crazygames.com/game/taiga-car-driver
 https://www.crazygames.com/game/tailed-demon-slayer
 https://www.crazygames.com/game/take-photo
@@ -3704,7 +3694,6 @@ https://www.crazygames.com/game/the-milk-quest
 https://www.crazygames.com/game/the-most-addicting-sheep-game
 https://www.crazygames.com/game/the-owner-is-dead
 https://www.crazygames.com/game/the-pillar
-https://www.crazygames.com/game/the-prison-maze
 https://www.crazygames.com/game/the-quest-hcv
 https://www.crazygames.com/game/the-range-3d
 https://www.crazygames.com/game/the-rooms-escape-challenge
@@ -3778,6 +3767,7 @@ https://www.crazygames.com/game/tiny-sails
 https://www.crazygames.com/game/tntcraft
 https://www.crazygames.com/game/toilet-rush---draw-puzzle
 https://www.crazygames.com/game/toilets-worms-shooter
+https://www.crazygames.com/game/tong-kuy
 https://www.crazygames.com/game/tongits
 https://www.crazygames.com/game/toodee-and-topdee-demo
 https://www.crazygames.com/game/toolbox-screw-jam-puzzle-you
