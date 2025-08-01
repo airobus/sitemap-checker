@@ -397,7 +397,6 @@ https://poki.com/en/g/cleanscape
 https://poki.com/en/g/clicker-merge
 https://poki.com/en/g/climb-fling
 https://poki.com/en/g/climb-up
-https://poki.com/en/g/clinko
 https://poki.com/en/g/cloud-bashers-dx
 https://poki.com/en/g/coil
 https://poki.com/en/g/coin-factory
@@ -465,6 +464,7 @@ https://poki.com/en/g/crazy-road-trip
 https://poki.com/en/g/cricket-hero
 https://poki.com/en/g/cricket-superstar
 https://poki.com/en/g/cricket-world-cup
+https://poki.com/en/g/critters-quest
 https://poki.com/en/g/crossy-road
 https://poki.com/en/g/crown-guard
 https://poki.com/en/g/crush-it
@@ -1052,7 +1052,6 @@ https://poki.com/en/g/knight-brawl
 https://poki.com/en/g/knuckleheads
 https://poki.com/en/g/koala-bros-bash
 https://poki.com/en/g/kori-walk
-https://poki.com/en/g/kour-io
 https://poki.com/en/g/krash-karts
 https://poki.com/en/g/kronchnroll
 https://poki.com/en/g/kubi-pets
@@ -1736,7 +1735,6 @@ https://poki.com/en/g/stack-city
 https://poki.com/en/g/stacktris
 https://poki.com/en/g/star-blogger-left-or-right
 https://poki.com/en/g/star-catchers
-https://poki.com/en/g/steal-and-run
 https://poki.com/en/g/stealing-the-diamond
 https://poki.com/en/g/step-and-slash
 https://poki.com/en/g/steve-and-the-duck-shooter
@@ -1829,7 +1827,6 @@ https://poki.com/en/g/super-gauntlent
 https://poki.com/en/g/super-girl-story
 https://poki.com/en/g/super-killboi-9000
 https://poki.com/en/g/super-liquid-soccer
-https://poki.com/en/g/super-match-find-all-pairs
 https://poki.com/en/g/super-mx-last-season
 https://poki.com/en/g/super-mx-the-champion
 https://poki.com/en/g/super-oscar
