@@ -5831,6 +5831,7 @@ https://gamedistribution.com/games/brainrot-evolution-game/
 https://gamedistribution.com/games/brainrot-hook-swing/
 https://gamedistribution.com/games/brainrot-ice-truck/
 https://gamedistribution.com/games/brainrot-merge-drop-puzzles/
+https://gamedistribution.com/games/brainrot-merge/
 https://gamedistribution.com/games/brainstorm/
 https://gamedistribution.com/games/brainstorming-2d/
 https://gamedistribution.com/games/brainy-cars/
@@ -6083,6 +6084,7 @@ https://gamedistribution.com/games/bubble-hit-rewarded/
 https://gamedistribution.com/games/bubble-hit-ru/
 https://gamedistribution.com/games/bubble-hunt/
 https://gamedistribution.com/games/bubble-invasion/
+https://gamedistribution.com/games/bubble-it-jam/
 https://gamedistribution.com/games/bubble-letters/
 https://gamedistribution.com/games/bubble-mania-shooter/
 https://gamedistribution.com/games/bubble-marble/
@@ -13574,6 +13576,7 @@ https://gamedistribution.com/games/gurido/
 https://gamedistribution.com/games/gurido3/
 https://gamedistribution.com/games/gym-muscle-merge-tycoon/
 https://gamedistribution.com/games/gym-shark-woman/
+https://gamedistribution.com/games/gym-simulator-tycoon/
 https://gamedistribution.com/games/gym-toss/
 https://gamedistribution.com/games/gymnastics-dress-up/
 https://gamedistribution.com/games/gymnastics-girls-dress-up-game/
@@ -16930,6 +16933,7 @@ https://gamedistribution.com/games/magic-fashion-world/
 https://gamedistribution.com/games/magic-fast-food/
 https://gamedistribution.com/games/magic-finger-puzzle-3d/
 https://gamedistribution.com/games/magic-finger/
+https://gamedistribution.com/games/magic-flow/
 https://gamedistribution.com/games/magic-forest-tiles-puzzle/
 https://gamedistribution.com/games/magic-girl-escape-1/
 https://gamedistribution.com/games/magic-girl-escape/
@@ -19655,6 +19659,7 @@ https://gamedistribution.com/games/pandemic-simulator/
 https://gamedistribution.com/games/pandjohng-solitaire/
 https://gamedistribution.com/games/panic-princess/
 https://gamedistribution.com/games/panzer-hero/
+https://gamedistribution.com/games/papa-buzja/
 https://gamedistribution.com/games/papa-cherry-saga/
 https://gamedistribution.com/games/paparazzi-diva-goldie/
 https://gamedistribution.com/games/paparazzi-diva-the-mermaid-princess/
@@ -20082,6 +20087,7 @@ https://gamedistribution.com/games/pin-and-balls/
 https://gamedistribution.com/games/pin-board-puzzle/
 https://gamedistribution.com/games/pin-circle/
 https://gamedistribution.com/games/pin-detective/
+https://gamedistribution.com/games/pin-master%3A-screw-puzzle-quest-and-brain-games/
 https://gamedistribution.com/games/pin-master/
 https://gamedistribution.com/games/pin-puzzle-love-story/
 https://gamedistribution.com/games/pin-puzzle-save-the-sheep/
@@ -27154,6 +27160,7 @@ https://gamedistribution.com/games/ultimate-angry-cat/
 https://gamedistribution.com/games/ultimate-baseball/
 https://gamedistribution.com/games/ultimate-birds-adventure/
 https://gamedistribution.com/games/ultimate-boxing-game/
+https://gamedistribution.com/games/ultimate-brainrot-clicker/
 https://gamedistribution.com/games/ultimate-car-arena/
 https://gamedistribution.com/games/ultimate-car-racing-game-2020/
 https://gamedistribution.com/games/ultimate-car-simulator/

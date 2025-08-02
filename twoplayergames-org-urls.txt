@@ -273,6 +273,7 @@ https://www.twoplayergames.org/game/br-br-patapim-obby-challenge
 https://www.twoplayergames.org/game/brain-teasers
 https://www.twoplayergames.org/game/braindom-2
 https://www.twoplayergames.org/game/brainrot-clicker
+https://www.twoplayergames.org/game/brainrot-evolution
 https://www.twoplayergames.org/game/brainrot-mini-challenge
 https://www.twoplayergames.org/game/brainrots-io
 https://www.twoplayergames.org/game/brainy-cars
@@ -779,6 +780,7 @@ https://www.twoplayergames.org/game/fnf-2-player
 https://www.twoplayergames.org/game/food-empire-inc
 https://www.twoplayergames.org/game/foosball
 https://www.twoplayergames.org/game/foot-doctor
+https://www.twoplayergames.org/game/foot-hospital
 https://www.twoplayergames.org/game/football-fizzix
 https://www.twoplayergames.org/game/football-head-stars
 https://www.twoplayergames.org/game/football-heads-2014-world-cup
@@ -1296,6 +1298,7 @@ https://www.twoplayergames.org/game/my-dolphin-show
 https://www.twoplayergames.org/game/my-dolphin-show-5
 https://www.twoplayergames.org/game/my-dream-hospital
 https://www.twoplayergames.org/game/my-fish-tank-aquarium
+https://www.twoplayergames.org/game/my-parking-lot
 https://www.twoplayergames.org/game/my-shark-show
 https://www.twoplayergames.org/game/mysterious-journey
 https://www.twoplayergames.org/game/nail-challenge
@@ -1330,6 +1333,7 @@ https://www.twoplayergames.org/game/noob-vs-pro-2-jailbreak
 https://www.twoplayergames.org/game/noob-vs-pro-3
 https://www.twoplayergames.org/game/noob-vs-pro-4-lucky-block
 https://www.twoplayergames.org/game/noob-vs-pro-challenge
+https://www.twoplayergames.org/game/nose-hospital
 https://www.twoplayergames.org/game/nsr-street-car-racing
 https://www.twoplayergames.org/game/nuke-zone
 https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
