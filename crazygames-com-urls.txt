@@ -161,7 +161,6 @@ https://www.crazygames.com/game/air-defence-3
 https://www.crazygames.com/game/air-hockey-cup
 https://www.crazygames.com/game/air-strike
 https://www.crazygames.com/game/air-wars-2
-https://www.crazygames.com/game/air-wars-3
 https://www.crazygames.com/game/airborne-motocross
 https://www.crazygames.com/game/airline-tycoon-idle
 https://www.crazygames.com/game/airplane-survival
@@ -436,6 +435,7 @@ https://www.crazygames.com/game/block-tech-epic-sandbox
 https://www.crazygames.com/game/block-tour-kfz
 https://www.crazygames.com/game/block-wall-destroyer
 https://www.crazygames.com/game/blockbuster-puzzle
+https://www.crazygames.com/game/blockogramm
 https://www.crazygames.com/game/blocks
 https://www.crazygames.com/game/blocks-fill-tangram
 https://www.crazygames.com/game/blocktanks-io
@@ -515,6 +515,7 @@ https://www.crazygames.com/game/braains-io
 https://www.crazygames.com/game/brain-teaser
 https://www.crazygames.com/game/braindom-2-who-is-lying
 https://www.crazygames.com/game/brainrot-idle-clicker
+https://www.crazygames.com/game/brainrot-merge-drop-puzzle-twt
 https://www.crazygames.com/game/brat-girl-summer
 https://www.crazygames.com/game/brawl-frenzy-fight-io
 https://www.crazygames.com/game/brawl-hero
@@ -565,6 +566,7 @@ https://www.crazygames.com/game/bump-it-up
 https://www.crazygames.com/game/burger-boss
 https://www.crazygames.com/game/burger-cafe
 https://www.crazygames.com/game/burger-clicker-ktl
+https://www.crazygames.com/game/burger-life
 https://www.crazygames.com/game/burger-time
 https://www.crazygames.com/game/burnin-rubber-5-xs
 https://www.crazygames.com/game/burnin-rubber-crash-n-burn
@@ -1591,6 +1593,7 @@ https://www.crazygames.com/game/gretel-and-hansel
 https://www.crazygames.com/game/gridle
 https://www.crazygames.com/game/gridpunk---3v3-battle-royale
 https://www.crazygames.com/game/grimdark-survivors
+https://www.crazygames.com/game/grindcraft
 https://www.crazygames.com/game/grocery-kart
 https://www.crazygames.com/game/grow-cube
 https://www.crazygames.com/game/grow-defense
@@ -2266,6 +2269,7 @@ https://www.crazygames.com/game/megamodgames
 https://www.crazygames.com/game/meme-survivors-backrooms-xus
 https://www.crazygames.com/game/memebattle-what-s-that-meme
 https://www.crazygames.com/game/memoji-puzzle
+https://www.crazygames.com/game/meow-market-krz
 https://www.crazygames.com/game/merge-academy
 https://www.crazygames.com/game/merge-and-fight
 https://www.crazygames.com/game/merge-army
@@ -2888,6 +2892,7 @@ https://www.crazygames.com/game/prinxy-house-of-fashion
 https://www.crazygames.com/game/prinxy-winterella
 https://www.crazygames.com/game/prison-break-architect-tycoon
 https://www.crazygames.com/game/prison-escape-lnj
+https://www.crazygames.com/game/prisoners-io
 https://www.crazygames.com/game/pro-bowling
 https://www.crazygames.com/game/pro-construction-simulator-3d-swm
 https://www.crazygames.com/game/professional-sniper
@@ -3616,7 +3621,6 @@ https://www.crazygames.com/game/tangled-ropes
 https://www.crazygames.com/game/tank-battle-war-commander
 https://www.crazygames.com/game/tank-masters---idle-tanks
 https://www.crazygames.com/game/tank-merge-royal
-https://www.crazygames.com/game/tank-off-2
 https://www.crazygames.com/game/tank-wars-iaw
 https://www.crazygames.com/game/tankcraft
 https://www.crazygames.com/game/tankgank-com
@@ -4643,7 +4647,6 @@ https://www.crazygames.com/t/turn-based
 https://www.crazygames.com/t/tycoon
 https://www.crazygames.com/t/war
 https://www.crazygames.com/t/war/2
-https://www.crazygames.com/t/war/3
 https://www.crazygames.com/t/water
 https://www.crazygames.com/t/with-friends
 https://www.crazygames.com/t/with-friends/2
