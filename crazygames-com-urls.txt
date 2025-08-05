@@ -160,7 +160,6 @@ https://www.crazygames.com/game/air-block
 https://www.crazygames.com/game/air-defence-3
 https://www.crazygames.com/game/air-hockey-cup
 https://www.crazygames.com/game/air-strike
-https://www.crazygames.com/game/air-wars-2
 https://www.crazygames.com/game/airborne-motocross
 https://www.crazygames.com/game/airline-tycoon-idle
 https://www.crazygames.com/game/airplane-survival
@@ -302,7 +301,6 @@ https://www.crazygames.com/game/baseball-pro
 https://www.crazygames.com/game/bash-arena
 https://www.crazygames.com/game/basket-ball
 https://www.crazygames.com/game/basket-battle-zmg
-https://www.crazygames.com/game/basket-blitz
 https://www.crazygames.com/game/basket-champs
 https://www.crazygames.com/game/basket-monsterz
 https://www.crazygames.com/game/basket-random
@@ -904,6 +902,7 @@ https://www.crazygames.com/game/cube-commander
 https://www.crazygames.com/game/cube-gun
 https://www.crazygames.com/game/cube-island-3d
 https://www.crazygames.com/game/cube-stories-escape
+https://www.crazygames.com/game/cube-to-hole-puzzle
 https://www.crazygames.com/game/cube-vs-ball-clicker
 https://www.crazygames.com/game/cubecraft-merge-battle-uxw
 https://www.crazygames.com/game/cubefield
@@ -2039,7 +2038,6 @@ https://www.crazygames.com/game/kogarashi
 https://www.crazygames.com/game/kour-io
 https://www.crazygames.com/game/krakax-com
 https://www.crazygames.com/game/krampus
-https://www.crazygames.com/game/krash-karts
 https://www.crazygames.com/game/krazy-kitchen
 https://www.crazygames.com/game/krewio
 https://www.crazygames.com/game/krunker-io
@@ -2852,6 +2850,7 @@ https://www.crazygames.com/game/pool-bubbles
 https://www.crazygames.com/game/pool-club
 https://www.crazygames.com/game/pool-hustlers
 https://www.crazygames.com/game/pool-match-jam
+https://www.crazygames.com/game/pool-merge-mania
 https://www.crazygames.com/game/pool-rush-frvr
 https://www.crazygames.com/game/pop-a-word
 https://www.crazygames.com/game/pop-culture-halloween-makeup
@@ -3218,6 +3217,7 @@ https://www.crazygames.com/game/simplyup-io
 https://www.crazygames.com/game/singing-horses
 https://www.crazygames.com/game/single-line-drawing-puzzle
 https://www.crazygames.com/game/single-stroke-line-draw
+https://www.crazygames.com/game/singularity-machine-idle-nev
 https://www.crazygames.com/game/sinjid
 https://www.crazygames.com/game/siren-head-playing-in-the-forest
 https://www.crazygames.com/game/skeleton-simulator
@@ -3309,7 +3309,6 @@ https://www.crazygames.com/game/snow-plow-truck
 https://www.crazygames.com/game/snow-rider-3d
 https://www.crazygames.com/game/snowball-io
 https://www.crazygames.com/game/snowball-skirmish
-https://www.crazygames.com/game/soccar
 https://www.crazygames.com/game/soccer-arena-x
 https://www.crazygames.com/game/soccer-bros
 https://www.crazygames.com/game/soccer-clicker
@@ -4026,6 +4025,7 @@ https://www.crazygames.com/game/word-swipe-uwf
 https://www.crazygames.com/game/word-wipe
 https://www.crazygames.com/game/wording
 https://www.crazygames.com/game/wordler
+https://www.crazygames.com/game/wordling
 https://www.crazygames.com/game/wordmeister
 https://www.crazygames.com/game/words-of-wonders
 https://www.crazygames.com/game/wordy-night

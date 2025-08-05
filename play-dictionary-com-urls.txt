@@ -64,6 +64,7 @@ https://play.dictionary.com/games/find-hidden-object
 https://play.dictionary.com/games/follow-me
 https://play.dictionary.com/games/freecell-solitaire
 https://play.dictionary.com/games/fremantle-national-game-show-day-jigsaw
+https://play.dictionary.com/games/fruit-merge
 https://play.dictionary.com/games/game-day-block-champ
 https://play.dictionary.com/games/geoguessr
 https://play.dictionary.com/games/get-10-ultimate
@@ -73,6 +74,7 @@ https://play.dictionary.com/games/hard-crossword
 https://play.dictionary.com/games/hex-jigsaw-challenge
 https://play.dictionary.com/games/hex-puzzle-adventure
 https://play.dictionary.com/games/house-flip
+https://play.dictionary.com/games/jewel-quest
 https://play.dictionary.com/games/jewel-shuffle
 https://play.dictionary.com/games/jigsaw
 https://play.dictionary.com/games/jigsaw-blast
