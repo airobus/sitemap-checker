@@ -5356,6 +5356,7 @@ https://gamedistribution.com/games/block-merge-city/
 https://gamedistribution.com/games/block-mine-fuse-tnt/
 https://gamedistribution.com/games/block-pile/
 https://gamedistribution.com/games/block-pixel-cop/
+https://gamedistribution.com/games/block-pixels/
 https://gamedistribution.com/games/block-pusher/
 https://gamedistribution.com/games/block-puzzle-1/
 https://gamedistribution.com/games/block-puzzle-2/
@@ -7059,6 +7060,7 @@ https://gamedistribution.com/games/celebrity-stardom-fashion/
 https://gamedistribution.com/games/celebrity-sundance-film-festival/
 https://gamedistribution.com/games/celebrity-tailor-shop/
 https://gamedistribution.com/games/celebrity-tailor-shops/
+https://gamedistribution.com/games/celebrity-wednesday-addams-style/
 https://gamedistribution.com/games/celebritys-chinese-new-year-look/
 https://gamedistribution.com/games/celestial-fall/
 https://gamedistribution.com/games/cell-war/
@@ -13597,6 +13599,7 @@ https://gamedistribution.com/games/hair-challenge-online/
 https://gamedistribution.com/games/hair-challenge-rush/
 https://gamedistribution.com/games/hair-challenge/
 https://gamedistribution.com/games/hair-chop-risk%3A-cut-challenge/
+https://gamedistribution.com/games/hair-salon%3A-beauty-salon/
 https://gamedistribution.com/games/hair-salon-kids/
 https://gamedistribution.com/games/hair-shuffle/
 https://gamedistribution.com/games/hair-stack-3d/
@@ -19675,6 +19678,7 @@ https://gamedistribution.com/games/paper-animals-pair/
 https://gamedistribution.com/games/paper-block-2048/
 https://gamedistribution.com/games/paper-blocks-hexa/
 https://gamedistribution.com/games/paper-dash/
+https://gamedistribution.com/games/paper-doll-diary-chibi-dolls/
 https://gamedistribution.com/games/paper-fighter-3d/
 https://gamedistribution.com/games/paper-flick/
 https://gamedistribution.com/games/paper-flight-1/

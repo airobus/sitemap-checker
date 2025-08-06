@@ -274,6 +274,7 @@ https://www.crazygames.com/game/bad-egg
 https://www.crazygames.com/game/bad-soccer-manager
 https://www.crazygames.com/game/badland
 https://www.crazygames.com/game/bag-defense
+https://www.crazygames.com/game/bakery-manage-store-simulator
 https://www.crazygames.com/game/balanced-running
 https://www.crazygames.com/game/ball-blast
 https://www.crazygames.com/game/ball-blaster
@@ -1323,6 +1324,7 @@ https://www.crazygames.com/game/fighter-aircraft-pilot
 https://www.crazygames.com/game/fighter-legends-duo
 https://www.crazygames.com/game/fill-the-fridge
 https://www.crazygames.com/game/fill-the-gap
+https://www.crazygames.com/game/fill-the-heart
 https://www.crazygames.com/game/find-bird
 https://www.crazygames.com/game/find-brainrot
 https://www.crazygames.com/game/find-cat
@@ -2611,6 +2613,7 @@ https://www.crazygames.com/game/obby-sprunki-pet-world
 https://www.crazygames.com/game/obby-tame-the-legendary-dragon
 https://www.crazygames.com/game/obby-the-royal-race
 https://www.crazygames.com/game/obby-with-friends-draw-and-jump
+https://www.crazygames.com/game/obby-world-squid-escape
 https://www.crazygames.com/game/obstacle-course-ragdoll
 https://www.crazygames.com/game/obstacle-race-destroying-simulator
 https://www.crazygames.com/game/ocean-blast
@@ -3346,6 +3349,7 @@ https://www.crazygames.com/game/space-city---build-your-empire
 https://www.crazygames.com/game/space-colony
 https://www.crazygames.com/game/space-company
 https://www.crazygames.com/game/space-flight
+https://www.crazygames.com/game/space-heroes-epic-galaxy-rpg
 https://www.crazygames.com/game/space-hex-war-merge-shooter
 https://www.crazygames.com/game/space-invaders
 https://www.crazygames.com/game/space-io-vft
@@ -3566,7 +3570,6 @@ https://www.crazygames.com/game/supermarket-simulator-cashier-game
 https://www.crazygames.com/game/supermarket-sort-grocery-game
 https://www.crazygames.com/game/superstar-college-girls-makeover
 https://www.crazygames.com/game/superstar-family-dress-up-game
-https://www.crazygames.com/game/supertrucks-offroad-racing
 https://www.crazygames.com/game/supply-chain-idle
 https://www.crazygames.com/game/supreme-bomb-tag
 https://www.crazygames.com/game/sure-shot
