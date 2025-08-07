@@ -15,6 +15,7 @@ https://play.dictionary.com/games/block-champ
 https://play.dictionary.com/games/bridge
 https://play.dictionary.com/games/bubble-dragons
 https://play.dictionary.com/games/bubble-dragons-saga
+https://play.dictionary.com/games/canasta
 https://play.dictionary.com/games/candy-mahjongg
 https://play.dictionary.com/games/canfield-solitaire
 https://play.dictionary.com/games/categories
@@ -59,6 +60,7 @@ https://play.dictionary.com/games/dictionary-wordle-solver
 https://play.dictionary.com/games/dictionary-words-with-friends-cheat
 https://play.dictionary.com/games/easy-crossword
 https://play.dictionary.com/games/element-blocks
+https://play.dictionary.com/games/euchre
 https://play.dictionary.com/games/family-feud
 https://play.dictionary.com/games/find-hidden-object
 https://play.dictionary.com/games/follow-me
@@ -68,6 +70,7 @@ https://play.dictionary.com/games/fruit-merge
 https://play.dictionary.com/games/game-day-block-champ
 https://play.dictionary.com/games/geoguessr
 https://play.dictionary.com/games/get-10-ultimate
+https://play.dictionary.com/games/gin-rummy
 https://play.dictionary.com/games/go-fish
 https://play.dictionary.com/games/golf-solitaire
 https://play.dictionary.com/games/hard-crossword
@@ -103,6 +106,7 @@ https://play.dictionary.com/games/penny-dell-fill-ins
 https://play.dictionary.com/games/penny-dell-sudoku
 https://play.dictionary.com/games/penny-dell-sunday-crossword
 https://play.dictionary.com/games/penny-dell-word-search
+https://play.dictionary.com/games/pinochle-online
 https://play.dictionary.com/games/polymath-crossword-by-cincinnus
 https://play.dictionary.com/games/pool
 https://play.dictionary.com/games/premier-crossword
@@ -113,6 +117,7 @@ https://play.dictionary.com/games/ridella
 https://play.dictionary.com/games/room-escape
 https://play.dictionary.com/games/sheffer-crossword
 https://play.dictionary.com/games/smartle
+https://play.dictionary.com/games/spades-multiplayer
 https://play.dictionary.com/games/spider-solitaire-game
 https://play.dictionary.com/games/sudoku
 https://play.dictionary.com/games/summer-sweet-shuffle

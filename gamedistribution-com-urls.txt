@@ -1034,6 +1034,7 @@ https://gamedistribution.com/games/Ellie-Dish-Washing-Realife/
 https://gamedistribution.com/games/Elsa-Brain-Doctor/
 https://gamedistribution.com/games/Elsa-Dish-Washing-Realife/
 https://gamedistribution.com/games/Elsa-Family-Christmas/
+https://gamedistribution.com/games/Elsa-Gift-Shopping/
 https://gamedistribution.com/games/Elsa-Ice-Skating-Injuries/
 https://gamedistribution.com/games/Elsa-Mommy-Birth/
 https://gamedistribution.com/games/Elsa-Mommy-Toddler-Feed/
@@ -1589,6 +1590,7 @@ https://gamedistribution.com/games/Lady-Gaga-Makeover/
 https://gamedistribution.com/games/Ladybug-And-Elsa-Xmas-Selfie/
 https://gamedistribution.com/games/Ladybug-Baby-Shower-Care/
 https://gamedistribution.com/games/Ladybug-Brain-Doctor/
+https://gamedistribution.com/games/Ladybug-Elsa-College-Fashion/
 https://gamedistribution.com/games/Ladybug-Glittery-Makeup/
 https://gamedistribution.com/games/Ladybug-Maternity-Deco/
 https://gamedistribution.com/games/Ladybug-Mommy-Toddler-Feed/
@@ -4861,11 +4863,13 @@ https://gamedistribution.com/games/beauty's-royal-ball/
 https://gamedistribution.com/games/beauty-and-the-beast-kissing/
 https://gamedistribution.com/games/beauty-and-the-beast-wedding-party/
 https://gamedistribution.com/games/beauty-and-the-beat/
+https://gamedistribution.com/games/beauty-coloring-book/
 https://gamedistribution.com/games/beauty-girl-dress-up/
 https://gamedistribution.com/games/beauty-mommy-accident-er/
 https://gamedistribution.com/games/beauty-mommy-birth/
 https://gamedistribution.com/games/beauty-party-rush/
 https://gamedistribution.com/games/beauty-potion-gone-wrong/
+https://gamedistribution.com/games/beauty-pregnant-bath-spa/
 https://gamedistribution.com/games/beauty-princess-modern-life/
 https://gamedistribution.com/games/beauty-queen-coloring-book/
 https://gamedistribution.com/games/beauty-run-run/
@@ -5033,6 +5037,7 @@ https://gamedistribution.com/games/bff-two-piece-trends/
 https://gamedistribution.com/games/bff-wedding-dress-design/
 https://gamedistribution.com/games/bff-weekend-style/
 https://gamedistribution.com/games/bff-witchy-transformation/
+https://gamedistribution.com/games/bffs-after-party-dorm/
 https://gamedistribution.com/games/bffs-black-friday-collection/
 https://gamedistribution.com/games/bffs-black-friday-shopping/
 https://gamedistribution.com/games/bffs-cherry-blossom-celebration/
@@ -10603,6 +10608,7 @@ https://gamedistribution.com/games/ellie-halloween-trick-or-treat/
 https://gamedistribution.com/games/ellie-highschool-crush/
 https://gamedistribution.com/games/ellie-hollywood-star/
 https://gamedistribution.com/games/ellie-home-recovery/
+https://gamedistribution.com/games/ellie-instagram-makeup/
 https://gamedistribution.com/games/ellie-life-in-luxury/
 https://gamedistribution.com/games/ellie-life-in-pink/
 https://gamedistribution.com/games/ellie-lips-injections/
@@ -12509,6 +12515,7 @@ https://gamedistribution.com/games/fruit-juice-maker-1/
 https://gamedistribution.com/games/fruit-juice-maker/
 https://gamedistribution.com/games/fruit-juice/
 https://gamedistribution.com/games/fruit-juices/
+https://gamedistribution.com/games/fruit-king-merge/
 https://gamedistribution.com/games/fruit-knife-hit/
 https://gamedistribution.com/games/fruit-legions-monsters-siege/
 https://gamedistribution.com/games/fruit-lines-saga/
@@ -12926,6 +12933,7 @@ https://gamedistribution.com/games/gemstone-glam/
 https://gamedistribution.com/games/gemz!/
 https://gamedistribution.com/games/general-rocket/
 https://gamedistribution.com/games/genie-quest/
+https://gamedistribution.com/games/genies-injured-emergency/
 https://gamedistribution.com/games/genius-memory/
 https://gamedistribution.com/games/genius-ran/
 https://gamedistribution.com/games/geo-challenge-country-flag/
@@ -12935,6 +12943,7 @@ https://gamedistribution.com/games/geography-quiz/
 https://gamedistribution.com/games/geometric-solids/
 https://gamedistribution.com/games/geometrical-dash/
 https://gamedistribution.com/games/geometrix/
+https://gamedistribution.com/games/geometry-arrow-2/
 https://gamedistribution.com/games/geometry-arrow/
 https://gamedistribution.com/games/geometry-challenge/
 https://gamedistribution.com/games/geometry-dash-bit-by-bit/
@@ -14877,6 +14886,7 @@ https://gamedistribution.com/games/ice-queen-halloween-party/
 https://gamedistribution.com/games/ice-queen-home-recovery/
 https://gamedistribution.com/games/ice-queen-make-up-salon/
 https://gamedistribution.com/games/ice-queen-makeover-time/
+https://gamedistribution.com/games/ice-queen-mission-accident/
 https://gamedistribution.com/games/ice-queen-movie-time/
 https://gamedistribution.com/games/ice-queen-nails-spa/
 https://gamedistribution.com/games/ice-queen-new-year-makeover/
@@ -16322,6 +16332,7 @@ https://gamedistribution.com/games/ladder-climber/
 https://gamedistribution.com/games/ladder-master-color-run/
 https://gamedistribution.com/games/ladder-race/
 https://gamedistribution.com/games/laddu-champion/
+https://gamedistribution.com/games/lady-and-kitty-pregnant-bffs/
 https://gamedistribution.com/games/lady-hero-action-surgery/
 https://gamedistribution.com/games/lady-mommy-goes-shopping/
 https://gamedistribution.com/games/lady-pool/

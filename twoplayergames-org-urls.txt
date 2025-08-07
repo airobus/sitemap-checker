@@ -843,6 +843,7 @@ https://www.twoplayergames.org/game/gang-fall-party
 https://www.twoplayergames.org/game/gangsters
 https://www.twoplayergames.org/game/garden-survive
 https://www.twoplayergames.org/game/geometry-arrow
+https://www.twoplayergames.org/game/geometry-arrow-2
 https://www.twoplayergames.org/game/geometry-challenge
 https://www.twoplayergames.org/game/geometry-dash-1
 https://www.twoplayergames.org/game/geometry-dash-2
@@ -1923,6 +1924,7 @@ https://www.twoplayergames.org/game/stunt-multiplayer-arena
 https://www.twoplayergames.org/game/stunt-pilot
 https://www.twoplayergames.org/game/stunt-pilot-2
 https://www.twoplayergames.org/game/sugarshock-io
+https://www.twoplayergames.org/game/summer-rider-3d
 https://www.twoplayergames.org/game/sumo-balls
 https://www.twoplayergames.org/game/sumo-death-match
 https://www.twoplayergames.org/game/sumo-party
