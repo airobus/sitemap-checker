@@ -189,6 +189,7 @@ https://www.crazygames.com/game/animal-zoo-clicker
 https://www.crazygames.com/game/animalon-epic-monsters-battle
 https://www.crazygames.com/game/animals-minigame-party
 https://www.crazygames.com/game/anime-boy-dress-up-games
+https://www.crazygames.com/game/anime-couple-avatar-maker
 https://www.crazygames.com/game/anime-couple-dress-up
 https://www.crazygames.com/game/anime-girls-dress-up-games
 https://www.crazygames.com/game/anime-kawaii-dress-up-games
@@ -1352,6 +1353,7 @@ https://www.crazygames.com/game/fish-eat-getting-big
 https://www.crazygames.com/game/fish-frenzy
 https://www.crazygames.com/game/fish-io-be-the-king
 https://www.crazygames.com/game/fish-merge-frvr
+https://www.crazygames.com/game/fish-orbit
 https://www.crazygames.com/game/fish-stab-getting-big
 https://www.crazygames.com/game/fisherman-life
 https://www.crazygames.com/game/fishing-clicker-3d
@@ -2648,7 +2650,6 @@ https://www.crazygames.com/game/om-nom-connect-classic
 https://www.crazygames.com/game/om-nom-run
 https://www.crazygames.com/game/omega-layers
 https://www.crazygames.com/game/once-upon-a-coma
-https://www.crazygames.com/game/one-among-zombies
 https://www.crazygames.com/game/one-chance
 https://www.crazygames.com/game/one-treasure
 https://www.crazygames.com/game/onebit-adventure
@@ -4092,6 +4093,7 @@ https://www.crazygames.com/game/yummy-waffle-ice-cream
 https://www.crazygames.com/game/zarcane-a-zombie-apocalypse
 https://www.crazygames.com/game/zena-trial-of-gods
 https://www.crazygames.com/game/zeppelin-assault
+https://www.crazygames.com/game/zingrush-lwv
 https://www.crazygames.com/game/zom-strike-vvq
 https://www.crazygames.com/game/zombie-arena
 https://www.crazygames.com/game/zombie-car-racing
