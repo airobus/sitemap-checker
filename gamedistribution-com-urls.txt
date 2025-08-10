@@ -5315,6 +5315,7 @@ https://gamedistribution.com/games/blind-shot/
 https://gamedistribution.com/games/blind-zombie/
 https://gamedistribution.com/games/blob-bridge-run/
 https://gamedistribution.com/games/blob-giant-3d/
+https://gamedistribution.com/games/blob-hero/
 https://gamedistribution.com/games/blob-runner-3d/
 https://gamedistribution.com/games/blob-tank-wars/
 https://gamedistribution.com/games/block-3d/
@@ -14248,6 +14249,7 @@ https://gamedistribution.com/games/hex-triple-match/
 https://gamedistribution.com/games/hex-zen/
 https://gamedistribution.com/games/hexa-2048-puzzle-block-merge/
 https://gamedistribution.com/games/hexa-blast-game-puzzle/
+https://gamedistribution.com/games/hexa-block%3A-honey-cells/
 https://gamedistribution.com/games/hexa-block-puzzle/
 https://gamedistribution.com/games/hexa-blocks/
 https://gamedistribution.com/games/hexa-cars/
@@ -16973,6 +16975,7 @@ https://gamedistribution.com/games/magic-piano-tiles-1/
 https://gamedistribution.com/games/magic-piano-tiles/
 https://gamedistribution.com/games/magic-pom/
 https://gamedistribution.com/games/magic-pops/
+https://gamedistribution.com/games/magic-princess%3A-dress-up-doll/
 https://gamedistribution.com/games/magic-printer/
 https://gamedistribution.com/games/magic-rings/
 https://gamedistribution.com/games/magic-show-memory/
@@ -17142,6 +17145,7 @@ https://gamedistribution.com/games/make-it-perfect/
 https://gamedistribution.com/games/make-it-rain/
 https://gamedistribution.com/games/make-me-10_clean/
 https://gamedistribution.com/games/make-pop-its/
+https://gamedistribution.com/games/make-two/
 https://gamedistribution.com/games/make-up-queen-r/
 https://gamedistribution.com/games/make-your-little-kids/
 https://gamedistribution.com/games/make-your-own-cosmetic-brand/
@@ -23695,6 +23699,7 @@ https://gamedistribution.com/games/sliding-santa-clause/
 https://gamedistribution.com/games/sliding-santa/
 https://gamedistribution.com/games/sliding-slide/
 https://gamedistribution.com/games/slime-arrows/
+https://gamedistribution.com/games/slime-attack%3A-puzzle!/
 https://gamedistribution.com/games/slime-ball/
 https://gamedistribution.com/games/slime-farm/
 https://gamedistribution.com/games/slime-farmer-advanced/
@@ -24322,6 +24327,7 @@ https://gamedistribution.com/games/speed-traffic/
 https://gamedistribution.com/games/speed-typing-test/
 https://gamedistribution.com/games/speedball/
 https://gamedistribution.com/games/speedlust-driver/
+https://gamedistribution.com/games/speedrun-platformer-1/
 https://gamedistribution.com/games/speedrun-platformer/
 https://gamedistribution.com/games/speedway-racing/
 https://gamedistribution.com/games/speedy-ball/

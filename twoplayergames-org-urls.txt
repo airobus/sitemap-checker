@@ -420,6 +420,7 @@ https://www.twoplayergames.org/game/color-galaxy
 https://www.twoplayergames.org/game/color-race-obby
 https://www.twoplayergames.org/game/color-snake
 https://www.twoplayergames.org/game/color-tanks
+https://www.twoplayergames.org/game/color-tunnel
 https://www.twoplayergames.org/game/color-warriors
 https://www.twoplayergames.org/game/color-wave
 https://www.twoplayergames.org/game/colorbox-mustard
@@ -753,6 +754,7 @@ https://www.twoplayergames.org/game/fishing-io
 https://www.twoplayergames.org/game/five-nations
 https://www.twoplayergames.org/game/flappy-bird
 https://www.twoplayergames.org/game/flappy-birdies
+https://www.twoplayergames.org/game/flappy-dunk
 https://www.twoplayergames.org/game/flappy-foot-chinko
 https://www.twoplayergames.org/game/flappy-wings
 https://www.twoplayergames.org/game/flash-bash
@@ -918,6 +920,7 @@ https://www.twoplayergames.org/game/grow-wars-io
 https://www.twoplayergames.org/game/gt-cars-city-racing
 https://www.twoplayergames.org/game/gt-cars-mega-ramps
 https://www.twoplayergames.org/game/guess-the-italian-brainrot-animals
+https://www.twoplayergames.org/game/guess-the-kitty
 https://www.twoplayergames.org/game/guess-their-answer
 https://www.twoplayergames.org/game/guess-who
 https://www.twoplayergames.org/game/gulper-io
@@ -1253,6 +1256,7 @@ https://www.twoplayergames.org/game/monster-cars-ultimate-simulator
 https://www.twoplayergames.org/game/monster-catcher-team
 https://www.twoplayergames.org/game/monster-dash
 https://www.twoplayergames.org/game/monster-rush
+https://www.twoplayergames.org/game/monster-school-challenge
 https://www.twoplayergames.org/game/monster-soccer-3d
 https://www.twoplayergames.org/game/monster-truck-3d-reloaded
 https://www.twoplayergames.org/game/monster-truck-destroyer
@@ -2012,6 +2016,7 @@ https://www.twoplayergames.org/game/tanks-pvp-showdown
 https://www.twoplayergames.org/game/tap-road
 https://www.twoplayergames.org/game/tap-tap-shots
 https://www.twoplayergames.org/game/tap-the-frog
+https://www.twoplayergames.org/game/tap-to-color-painting-book
 https://www.twoplayergames.org/game/tarzan-brothers
 https://www.twoplayergames.org/game/temple-of-boom
 https://www.twoplayergames.org/game/tennis
