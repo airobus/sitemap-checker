@@ -15,6 +15,7 @@ https://play.dictionary.com/games/block-champ
 https://play.dictionary.com/games/bridge
 https://play.dictionary.com/games/bubble-dragons
 https://play.dictionary.com/games/bubble-dragons-saga
+https://play.dictionary.com/games/bubble-town
 https://play.dictionary.com/games/canasta
 https://play.dictionary.com/games/candy-mahjongg
 https://play.dictionary.com/games/canfield-solitaire
@@ -68,6 +69,7 @@ https://play.dictionary.com/games/freecell-solitaire
 https://play.dictionary.com/games/fremantle-national-game-show-day-jigsaw
 https://play.dictionary.com/games/fruit-merge
 https://play.dictionary.com/games/game-day-block-champ
+https://play.dictionary.com/games/garden-bloom
 https://play.dictionary.com/games/geoguessr
 https://play.dictionary.com/games/get-10-ultimate
 https://play.dictionary.com/games/gin-rummy
@@ -95,8 +97,10 @@ https://play.dictionary.com/games/mahjongg-solitaire
 https://play.dictionary.com/games/mahjongg-toy-chest
 https://play.dictionary.com/games/math-doku
 https://play.dictionary.com/games/mega-jump
+https://play.dictionary.com/games/merge-and-purge-office-tower-defense
 https://play.dictionary.com/games/millionaire
 https://play.dictionary.com/games/mr-runner-x
+https://play.dictionary.com/games/not-not-game
 https://play.dictionary.com/games/one-line
 https://play.dictionary.com/games/outspell
 https://play.dictionary.com/games/penny-dell-brain-booster-crossword
@@ -136,4 +140,5 @@ https://play.dictionary.com/games/word-clash
 https://play.dictionary.com/games/word-scramble
 https://play.dictionary.com/games/word-search
 https://play.dictionary.com/games/word-wipe
+https://play.dictionary.com/games/wordlink
 https://play.dictionary.com/games/zoo-boom

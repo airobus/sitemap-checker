@@ -473,6 +473,7 @@ https://poki.com/en/g/crossy-road
 https://poki.com/en/g/crown-guard
 https://poki.com/en/g/crush-it
 https://poki.com/en/g/cryzen-io
+https://poki.com/en/g/cube-archer-vs-1000-zobies
 https://poki.com/en/g/cube-builder
 https://poki.com/en/g/cube-miner-escape-from-prison
 https://poki.com/en/g/cube-wave
@@ -564,6 +565,7 @@ https://poki.com/en/g/double-bounce
 https://poki.com/en/g/double-dodgers
 https://poki.com/en/g/double-edged
 https://poki.com/en/g/double-panda
+https://poki.com/en/g/dragon-merge
 https://poki.com/en/g/dragon-simulator-3d
 https://poki.com/en/g/draw-2-gogo
 https://poki.com/en/g/draw-my-path-obby
@@ -869,6 +871,7 @@ https://poki.com/en/g/gravity-blast
 https://poki.com/en/g/gravity-soccer
 https://poki.com/en/g/green
 https://poki.com/en/g/ground-digger
+https://poki.com/en/g/grow-my-farm
 https://poki.com/en/g/grow-up-the-cats
 https://poki.com/en/g/growmi
 https://poki.com/en/g/gswitch
@@ -1233,7 +1236,6 @@ https://poki.com/en/g/monster-truck-shadow-racer
 https://poki.com/en/g/monster-truck-torment
 https://poki.com/en/g/monsters-wheels-special
 https://poki.com/en/g/monstrainer
-https://poki.com/en/g/moo-deng-baby-hippo-dress-up
 https://poki.com/en/g/moon-waltz
 https://poki.com/en/g/mophead-dash
 https://poki.com/en/g/morph-balls
@@ -1438,6 +1440,7 @@ https://poki.com/en/g/platform-countdown
 https://poki.com/en/g/platzle
 https://poki.com/en/g/plonky
 https://poki.com/en/g/plunger
+https://poki.com/en/g/pocket-car-city
 https://poki.com/en/g/pocket-hockey
 https://poki.com/en/g/pocket-zoo
 https://poki.com/en/g/pogo-penguin
@@ -2058,6 +2061,7 @@ https://poki.com/en/g/up-and-beyond
 https://poki.com/en/g/up-together
 https://poki.com/en/g/upwarp
 https://poki.com/en/g/urban-racer
+https://poki.com/en/g/vampire-survivors-classic
 https://poki.com/en/g/vectaria-io
 https://poki.com/en/g/veggie-kittens
 https://poki.com/en/g/venge-io
