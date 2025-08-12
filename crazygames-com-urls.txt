@@ -1227,6 +1227,7 @@ https://www.crazygames.com/game/epic-sword-battle-fight-in-arena
 https://www.crazygames.com/game/epicballz-io
 https://www.crazygames.com/game/eraze-that
 https://www.crazygames.com/game/escape-20-rooms
+https://www.crazygames.com/game/escape-evil-granny-viz
 https://www.crazygames.com/game/escape-from-pizzeria
 https://www.crazygames.com/game/escape-from-prison-multiplayer
 https://www.crazygames.com/game/escape-from-the-bunker-survival
@@ -1486,6 +1487,7 @@ https://www.crazygames.com/game/furry-dress-up-anime-creator
 https://www.crazygames.com/game/furry-road-veb
 https://www.crazygames.com/game/fury-bike-rider
 https://www.crazygames.com/game/fury-wars---online-shooter
+https://www.crazygames.com/game/gadget-universe
 https://www.crazygames.com/game/galactic-crusade-clicker
 https://www.crazygames.com/game/galactic-grind
 https://www.crazygames.com/game/galaxy-clicker
@@ -1593,6 +1595,7 @@ https://www.crazygames.com/game/greedy-bunnies
 https://www.crazygames.com/game/greedy-dwarves
 https://www.crazygames.com/game/green
 https://www.crazygames.com/game/gretel-and-hansel
+https://www.crazygames.com/game/grid-odyssey-nonograms
 https://www.crazygames.com/game/gridle
 https://www.crazygames.com/game/gridpunk---3v3-battle-royale
 https://www.crazygames.com/game/grimdark-survivors
@@ -1600,6 +1603,7 @@ https://www.crazygames.com/game/grindcraft
 https://www.crazygames.com/game/grocery-kart
 https://www.crazygames.com/game/grow-cube
 https://www.crazygames.com/game/grow-defense
+https://www.crazygames.com/game/grow-home-raq
 https://www.crazygames.com/game/grow-in-the-hole
 https://www.crazygames.com/game/grow-island
 https://www.crazygames.com/game/grow-nano
@@ -2650,6 +2654,7 @@ https://www.crazygames.com/game/om-nom-connect-classic
 https://www.crazygames.com/game/om-nom-run
 https://www.crazygames.com/game/omega-layers
 https://www.crazygames.com/game/once-upon-a-coma
+https://www.crazygames.com/game/one-among-zombies
 https://www.crazygames.com/game/one-chance
 https://www.crazygames.com/game/one-treasure
 https://www.crazygames.com/game/onebit-adventure
@@ -3425,6 +3430,7 @@ https://www.crazygames.com/game/starbase-gunship
 https://www.crazygames.com/game/starblastio
 https://www.crazygames.com/game/startup-fever
 https://www.crazygames.com/game/state-wars-conquer-them-all
+https://www.crazygames.com/game/steal-brainrot-online
 https://www.crazygames.com/game/stealing-the-diamond
 https://www.crazygames.com/game/stealth-hunter
 https://www.crazygames.com/game/stealth-optional
@@ -4658,6 +4664,7 @@ https://www.crazygames.com/t/war/2
 https://www.crazygames.com/t/water
 https://www.crazygames.com/t/with-friends
 https://www.crazygames.com/t/with-friends/2
+https://www.crazygames.com/t/with-friends/3
 https://www.crazygames.com/t/word
 https://www.crazygames.com/t/world-cup
 https://www.crazygames.com/t/wtf
