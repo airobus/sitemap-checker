@@ -12209,6 +12209,7 @@ https://gamedistribution.com/games/food-rush-traffic/
 https://gamedistribution.com/games/food-snake/
 https://gamedistribution.com/games/food-stand-difference/
 https://gamedistribution.com/games/food-tiles-match-3/
+https://gamedistribution.com/games/food-truck-chef-cooking/
 https://gamedistribution.com/games/food-truck-differences/
 https://gamedistribution.com/games/food-trucks-jigsaw/
 https://gamedistribution.com/games/food-venture-master/
@@ -13399,6 +13400,7 @@ https://gamedistribution.com/games/grass-cut-master/
 https://gamedistribution.com/games/grass-cutter-1/
 https://gamedistribution.com/games/grass-cutter/
 https://gamedistribution.com/games/grass-cutting-puzzle/
+https://gamedistribution.com/games/grass-land/
 https://gamedistribution.com/games/grass-ranch/
 https://gamedistribution.com/games/grass-reaper/
 https://gamedistribution.com/games/grate-cut-slice-game/
@@ -17396,6 +17398,7 @@ https://gamedistribution.com/games/math-quest/
 https://gamedistribution.com/games/math-quiz-game/
 https://gamedistribution.com/games/math-rockets-addition/
 https://gamedistribution.com/games/math-rockets-division/
+https://gamedistribution.com/games/math-runner/
 https://gamedistribution.com/games/math-signs-game/
 https://gamedistribution.com/games/math-skill-puzzle/
 https://gamedistribution.com/games/math-speed-racing-rounding-10/
