@@ -1,5 +1,5 @@
 # 工作流的名称
-name: Sitemap Checker
+name: Blog Sitemap Checker
 
 on:
   # 定时触发
