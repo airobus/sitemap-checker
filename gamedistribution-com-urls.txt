@@ -17072,6 +17072,7 @@ https://gamedistribution.com/games/mahjong-earth/
 https://gamedistribution.com/games/mahjong-firefly/
 https://gamedistribution.com/games/mahjong-fishing-combats/
 https://gamedistribution.com/games/mahjong-flowers/
+https://gamedistribution.com/games/mahjong-four-rivers/
 https://gamedistribution.com/games/mahjong-frenzy-1/
 https://gamedistribution.com/games/mahjong-frenzy/
 https://gamedistribution.com/games/mahjong-fruits/
@@ -19238,6 +19239,7 @@ https://gamedistribution.com/games/num-bubbles-merging/
 https://gamedistribution.com/games/num-bubbles-ordering/
 https://gamedistribution.com/games/num-cannons/
 https://gamedistribution.com/games/number-7/
+https://gamedistribution.com/games/number-bubble-shooter/
 https://gamedistribution.com/games/number-collector%3A-brainteaser/
 https://gamedistribution.com/games/number-composition/
 https://gamedistribution.com/games/number-constellations/
@@ -22724,6 +22726,7 @@ https://gamedistribution.com/games/run-dude!/
 https://gamedistribution.com/games/run-fighter-girl/
 https://gamedistribution.com/games/run-fireball/
 https://gamedistribution.com/games/run-for-treasure-combo/
+https://gamedistribution.com/games/run-friends/
 https://gamedistribution.com/games/run-from-baba-yaga/
 https://gamedistribution.com/games/run-from-corona/
 https://gamedistribution.com/games/run-giant-3d/

@@ -399,6 +399,7 @@ https://www.crazygames.com/game/bird-flight-idle
 https://www.crazygames.com/game/bird-sort-puzzle
 https://www.crazygames.com/game/bit-gun-io
 https://www.crazygames.com/game/bitcoin-mining-simulator
+https://www.crazygames.com/game/bitcoiner-dth
 https://www.crazygames.com/game/black
 https://www.crazygames.com/game/black-friday-mystery-sale
 https://www.crazygames.com/game/black-hole-blitz
@@ -1089,7 +1090,6 @@ https://www.crazygames.com/game/donutcats-merge
 https://www.crazygames.com/game/doodieman-voodoo
 https://www.crazygames.com/game/doodle-block-puzzle-pym
 https://www.crazygames.com/game/doodle-road
-https://www.crazygames.com/game/doodlr-io
 https://www.crazygames.com/game/doomr-io
 https://www.crazygames.com/game/doomsday-shooter
 https://www.crazygames.com/game/doors-castle
@@ -2452,6 +2452,7 @@ https://www.crazygames.com/game/mopeio
 https://www.crazygames.com/game/more-bloons
 https://www.crazygames.com/game/more-ore
 https://www.crazygames.com/game/mortal-kombat-karnage
+https://www.crazygames.com/game/moscow-metro-driver-3d
 https://www.crazygames.com/game/motherload
 https://www.crazygames.com/game/moto-maniac
 https://www.crazygames.com/game/moto-maniac-2
@@ -4010,7 +4011,6 @@ https://www.crazygames.com/game/wire-beat
 https://www.crazygames.com/game/witch-pong
 https://www.crazygames.com/game/witchy-sacrifices
 https://www.crazygames.com/game/wizard-io
-https://www.crazygames.com/game/wizard-masters
 https://www.crazygames.com/game/wksp-rumble
 https://www.crazygames.com/game/wodr
 https://www.crazygames.com/game/wolf-family-simulator
@@ -4665,7 +4665,6 @@ https://www.crazygames.com/t/war/2
 https://www.crazygames.com/t/water
 https://www.crazygames.com/t/with-friends
 https://www.crazygames.com/t/with-friends/2
-https://www.crazygames.com/t/with-friends/3
 https://www.crazygames.com/t/word
 https://www.crazygames.com/t/world-cup
 https://www.crazygames.com/t/wtf

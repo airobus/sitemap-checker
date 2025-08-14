@@ -1183,6 +1183,7 @@ https://poki.com/en/g/merge-cakes
 https://poki.com/en/g/merge-cyber-racers
 https://poki.com/en/g/merge-fish
 https://poki.com/en/g/merge-gangster-cars
+https://poki.com/en/g/merge-monster-battles
 https://poki.com/en/g/merge-mosaics
 https://poki.com/en/g/merge-party
 https://poki.com/en/g/merge-penguins
@@ -2064,7 +2065,6 @@ https://poki.com/en/g/up-and-beyond
 https://poki.com/en/g/up-together
 https://poki.com/en/g/upwarp
 https://poki.com/en/g/urban-racer
-https://poki.com/en/g/vampire-survivors-classic
 https://poki.com/en/g/vectaria-io
 https://poki.com/en/g/veggie-kittens
 https://poki.com/en/g/venge-io
