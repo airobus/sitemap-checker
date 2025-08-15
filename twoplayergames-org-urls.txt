@@ -1218,6 +1218,7 @@ https://www.twoplayergames.org/game/mind-games-for-2-player
 https://www.twoplayergames.org/game/mine-clone
 https://www.twoplayergames.org/game/mine-craft-io
 https://www.twoplayergames.org/game/minecraft-classic
+https://www.twoplayergames.org/game/minecraft-pixel-warfare
 https://www.twoplayergames.org/game/minecraft-tower-defense
 https://www.twoplayergames.org/game/minecraft-tower-defense-2
 https://www.twoplayergames.org/game/mineenergy
@@ -1630,6 +1631,7 @@ https://www.twoplayergames.org/game/save-my-doge-3
 https://www.twoplayergames.org/game/save-my-pet
 https://www.twoplayergames.org/game/save-my-pet-party
 https://www.twoplayergames.org/game/save-the-ball
+https://www.twoplayergames.org/game/school-stories-teacher-simulator
 https://www.twoplayergames.org/game/school-teacher-simulator
 https://www.twoplayergames.org/game/sci-fighters
 https://www.twoplayergames.org/game/scooter-stunt-simulator

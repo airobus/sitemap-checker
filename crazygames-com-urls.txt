@@ -266,7 +266,6 @@ https://www.crazygames.com/game/back-2-school-makeover
 https://www.crazygames.com/game/back-to-school-uniforms-edition
 https://www.crazygames.com/game/backpack-battles
 https://www.crazygames.com/game/backpack-idle
-https://www.crazygames.com/game/backpack-viking
 https://www.crazygames.com/game/backwoods
 https://www.crazygames.com/game/bacteria-nrz
 https://www.crazygames.com/game/bad-cat---granny-s-return
@@ -1944,7 +1943,6 @@ https://www.crazygames.com/game/jingle-defense
 https://www.crazygames.com/game/johnny-n-tommy---prank-masters
 https://www.crazygames.com/game/johnny-rocketfingers
 https://www.crazygames.com/game/johnny-rocketfingers-2
-https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
 https://www.crazygames.com/game/juicyjong
@@ -2509,6 +2507,7 @@ https://www.crazygames.com/game/my-island
 https://www.crazygames.com/game/my-jelly-bear-pet
 https://www.crazygames.com/game/my-mart
 https://www.crazygames.com/game/my-monster-pet-train-fight
+https://www.crazygames.com/game/my-monsters-zoo
 https://www.crazygames.com/game/my-perfect-year-planner
 https://www.crazygames.com/game/my-pet-care-salon
 https://www.crazygames.com/game/my-space-hotel-tycoon
@@ -3870,6 +3869,7 @@ https://www.crazygames.com/game/tube-jumpers
 https://www.crazygames.com/game/tube-sort
 https://www.crazygames.com/game/tuggowar
 https://www.crazygames.com/game/tung-tung-sahur-obby-challenge
+https://www.crazygames.com/game/tuning-car-racing-2-nfi
 https://www.crazygames.com/game/tunnel-54
 https://www.crazygames.com/game/tunnel-runner
 https://www.crazygames.com/game/turbo-cars---pipe-stunts
@@ -4084,6 +4084,7 @@ https://www.crazygames.com/game/you-are-being-watched---horror-game
 https://www.crazygames.com/game/you-have-to-burn-the-rope
 https://www.crazygames.com/game/you-vs-100-skibidi-toilets
 https://www.crazygames.com/game/your-chronicle
+https://www.crazygames.com/game/your-majesty---build-conquer
 https://www.crazygames.com/game/yummy-candy-factory
 https://www.crazygames.com/game/yummy-chocolate-factory
 https://www.crazygames.com/game/yummy-churros-ice-cream
