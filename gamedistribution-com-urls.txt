@@ -3501,6 +3501,7 @@ https://gamedistribution.com/games/animal-house/
 https://gamedistribution.com/games/animal-html5-coloring/
 https://gamedistribution.com/games/animal-hunters/
 https://gamedistribution.com/games/animal-ice-cream-shop/
+https://gamedistribution.com/games/animal-in-rails!/
 https://gamedistribution.com/games/animal-jump/
 https://gamedistribution.com/games/animal-kindergarten/
 https://gamedistribution.com/games/animal-kingdom-match-3/
@@ -10846,6 +10847,7 @@ https://gamedistribution.com/games/equestria-girls-first-day-at-school/
 https://gamedistribution.com/games/equilibrium/
 https://gamedistribution.com/games/erase-it/
 https://gamedistribution.com/games/erase-one-part/
+https://gamedistribution.com/games/erase-the-extra-element/
 https://gamedistribution.com/games/es-kepal-moli/
 https://gamedistribution.com/games/escape-abandoned-mine/
 https://gamedistribution.com/games/escape-abandoned-pool/
@@ -17157,6 +17159,7 @@ https://gamedistribution.com/games/make-it-perfect/
 https://gamedistribution.com/games/make-it-rain/
 https://gamedistribution.com/games/make-me-10_clean/
 https://gamedistribution.com/games/make-pop-its/
+https://gamedistribution.com/games/make-ten-tiles/
 https://gamedistribution.com/games/make-two/
 https://gamedistribution.com/games/make-up-queen-r/
 https://gamedistribution.com/games/make-your-little-kids/
@@ -24784,6 +24787,7 @@ https://gamedistribution.com/games/stealth-prison-escape/
 https://gamedistribution.com/games/steam-droid/
 https://gamedistribution.com/games/steam-king/
 https://gamedistribution.com/games/steam-rocket/
+https://gamedistribution.com/games/steam-sorter/
 https://gamedistribution.com/games/steam-trucker/
 https://gamedistribution.com/games/steam-trucker2/
 https://gamedistribution.com/games/steampunk-1/
@@ -26335,6 +26339,7 @@ https://gamedistribution.com/games/the-spear-stickman/
 https://gamedistribution.com/games/the-specimen-zero/
 https://gamedistribution.com/games/the-speed-ninja/
 https://gamedistribution.com/games/the-spotlight/
+https://gamedistribution.com/games/the-stone-miner/
 https://gamedistribution.com/games/the-strongest-green-man/
 https://gamedistribution.com/games/the-superhero-league/
 https://gamedistribution.com/games/the-survey/
