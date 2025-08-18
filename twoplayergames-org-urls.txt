@@ -422,6 +422,7 @@ https://www.twoplayergames.org/game/color-race-obby
 https://www.twoplayergames.org/game/color-snake
 https://www.twoplayergames.org/game/color-tanks
 https://www.twoplayergames.org/game/color-tunnel
+https://www.twoplayergames.org/game/color-tunnel-2
 https://www.twoplayergames.org/game/color-warriors
 https://www.twoplayergames.org/game/color-wave
 https://www.twoplayergames.org/game/colorbox-mustard
@@ -675,6 +676,7 @@ https://www.twoplayergames.org/game/epic-basketball
 https://www.twoplayergames.org/game/epic-battle-puzzle
 https://www.twoplayergames.org/game/epic-car-stunt-race-obby
 https://www.twoplayergames.org/game/epic-clash
+https://www.twoplayergames.org/game/erase-the-extra-element
 https://www.twoplayergames.org/game/escape-from-school-hellish-teacher
 https://www.twoplayergames.org/game/escape-out
 https://www.twoplayergames.org/game/escape-road
@@ -707,6 +709,7 @@ https://www.twoplayergames.org/game/farming-missions-2023
 https://www.twoplayergames.org/game/fashion-blogger
 https://www.twoplayergames.org/game/fashion-challenge-catwalk-run
 https://www.twoplayergames.org/game/fashion-famous
+https://www.twoplayergames.org/game/fashion-princess-dress-up-for-girls
 https://www.twoplayergames.org/game/fast-ball-jump
 https://www.twoplayergames.org/game/fast-fruit-juice
 https://www.twoplayergames.org/game/fast-math
@@ -908,6 +911,7 @@ https://www.twoplayergames.org/game/grand-city-stunts
 https://www.twoplayergames.org/game/grand-cyber-city
 https://www.twoplayergames.org/game/grand-extreme-racing
 https://www.twoplayergames.org/game/grand-prix-hero
+https://www.twoplayergames.org/game/granny
 https://www.twoplayergames.org/game/granny-parkour
 https://www.twoplayergames.org/game/grass-cut-master
 https://www.twoplayergames.org/game/gravity-guy

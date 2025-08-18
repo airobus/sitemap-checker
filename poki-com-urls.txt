@@ -968,6 +968,7 @@ https://poki.com/en/g/idle-success
 https://poki.com/en/g/idle-tree-city
 https://poki.com/en/g/idle-zoo-safari-rescue
 https://poki.com/en/g/im-borr
+https://poki.com/en/g/imagine-island
 https://poki.com/en/g/impossible-13
 https://poki.com/en/g/impossible-tic-tac-toe
 https://poki.com/en/g/in-space
@@ -1179,6 +1180,7 @@ https://poki.com/en/g/merge-and-double
 https://poki.com/en/g/merge-arena
 https://poki.com/en/g/merge-battle
 https://poki.com/en/g/merge-cakes
+https://poki.com/en/g/merge-cats-ccce54b7
 https://poki.com/en/g/merge-cyber-racers
 https://poki.com/en/g/merge-fish
 https://poki.com/en/g/merge-gangster-cars
