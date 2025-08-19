@@ -6159,6 +6159,7 @@ https://gamedistribution.com/games/bubble-shooter-fruits-candies/
 https://gamedistribution.com/games/bubble-shooter-fruits-wheel/
 https://gamedistribution.com/games/bubble-shooter-fruits/
 https://gamedistribution.com/games/bubble-shooter-galaxy-defense/
+https://gamedistribution.com/games/bubble-shooter-go/
 https://gamedistribution.com/games/bubble-shooter-gold-mining/
 https://gamedistribution.com/games/bubble-shooter-gold/
 https://gamedistribution.com/games/bubble-shooter-golden-chests/
@@ -6783,6 +6784,7 @@ https://gamedistribution.com/games/car-wash-with-john-2/
 https://gamedistribution.com/games/car-wash-with-john/
 https://gamedistribution.com/games/car-wash/
 https://gamedistribution.com/games/card-battle/
+https://gamedistribution.com/games/card-master/
 https://gamedistribution.com/games/card-match-10/
 https://gamedistribution.com/games/card-shuffle-sort/
 https://gamedistribution.com/games/cardbox-race/
@@ -12989,6 +12991,7 @@ https://gamedistribution.com/games/geometry-neon-dash-subzero/
 https://gamedistribution.com/games/geometry-neon-dash-world-two/
 https://gamedistribution.com/games/geometry-neon-dash/
 https://gamedistribution.com/games/geometry-open-world/
+https://gamedistribution.com/games/geometry-platformer/
 https://gamedistribution.com/games/geometry-quiz/
 https://gamedistribution.com/games/geometry-rash-challenge/
 https://gamedistribution.com/games/geometry-road/
@@ -13538,6 +13541,7 @@ https://gamedistribution.com/games/guess-who-multiplayer/
 https://gamedistribution.com/games/guess-word-1/
 https://gamedistribution.com/games/guess-word/
 https://gamedistribution.com/games/guestzilla-villain/
+https://gamedistribution.com/games/guivo.io/
 https://gamedistribution.com/games/gully-baseball/
 https://gamedistribution.com/games/gum-adventures-dx/
 https://gamedistribution.com/games/gum-and-friends-memory/
