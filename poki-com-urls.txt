@@ -1549,6 +1549,7 @@ https://poki.com/en/g/reversi-elite
 https://poki.com/en/g/rhino-rush-stampede
 https://poki.com/en/g/rhomb
 https://poki.com/en/g/ribbit
+https://poki.com/en/g/right-jump
 https://poki.com/en/g/rio-rex
 https://poki.com/en/g/rise-of-pico
 https://poki.com/en/g/roar-rampage
@@ -1965,6 +1966,7 @@ https://poki.com/en/g/tic-tac-toe
 https://poki.com/en/g/tic-tac-toe-3
 https://poki.com/en/g/tictactoe
 https://poki.com/en/g/tictoc-kpop-fashion
+https://poki.com/en/g/tictoc-nightlife-fashion
 https://poki.com/en/g/tictoc-summer-fashion
 https://poki.com/en/g/tiger-simulator-3d
 https://poki.com/en/g/tiger-tank

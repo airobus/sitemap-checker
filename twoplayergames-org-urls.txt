@@ -289,6 +289,7 @@ https://www.twoplayergames.org/game/bubble-fall
 https://www.twoplayergames.org/game/bubble-pop-classic
 https://www.twoplayergames.org/game/bubble-race-party
 https://www.twoplayergames.org/game/bubble-shooter
+https://www.twoplayergames.org/game/bubble-shooter-2
 https://www.twoplayergames.org/game/bubble-shooter-pro-2
 https://www.twoplayergames.org/game/bubble-struggle-2-rebubbled
 https://www.twoplayergames.org/game/bubble-struggle-3
@@ -864,6 +865,7 @@ https://www.twoplayergames.org/game/geometry-flap
 https://www.twoplayergames.org/game/geometry-jump
 https://www.twoplayergames.org/game/geometry-jump-sketchy
 https://www.twoplayergames.org/game/geometry-open-world
+https://www.twoplayergames.org/game/geometry-platformer
 https://www.twoplayergames.org/game/geometry-vibes
 https://www.twoplayergames.org/game/geometry-vibes-3d
 https://www.twoplayergames.org/game/geometry-vibes-monster
@@ -912,6 +914,7 @@ https://www.twoplayergames.org/game/grand-cyber-city
 https://www.twoplayergames.org/game/grand-extreme-racing
 https://www.twoplayergames.org/game/grand-prix-hero
 https://www.twoplayergames.org/game/granny
+https://www.twoplayergames.org/game/granny-2
 https://www.twoplayergames.org/game/granny-parkour
 https://www.twoplayergames.org/game/grass-cut-master
 https://www.twoplayergames.org/game/gravity-guy
@@ -1718,6 +1721,7 @@ https://www.twoplayergames.org/game/snakez
 https://www.twoplayergames.org/game/sneak-mission-3d
 https://www.twoplayergames.org/game/sneaker-art-coloring-game
 https://www.twoplayergames.org/game/sniper-hero
+https://www.twoplayergames.org/game/sniper-team-3
 https://www.twoplayergames.org/game/snow-bros
 https://www.twoplayergames.org/game/snow-monsters
 https://www.twoplayergames.org/game/snow-rider-3d
@@ -1921,6 +1925,7 @@ https://www.twoplayergames.org/game/street-fighter-creation-3
 https://www.twoplayergames.org/game/street-fighters
 https://www.twoplayergames.org/game/street-mayhem-beat-em-up
 https://www.twoplayergames.org/game/street-racing-3d
+https://www.twoplayergames.org/game/street-traffic-racer
 https://www.twoplayergames.org/game/strike-force-heroes
 https://www.twoplayergames.org/game/strike-force-heroes-2
 https://www.twoplayergames.org/game/strike-force-heroes-3

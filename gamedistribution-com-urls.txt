@@ -20384,6 +20384,7 @@ https://gamedistribution.com/games/pizza-master/
 https://gamedistribution.com/games/pizza-ninja-mania/
 https://gamedistribution.com/games/pizza-ninja/
 https://gamedistribution.com/games/pizza-party/
+https://gamedistribution.com/games/pizza-puzzle/
 https://gamedistribution.com/games/pizza-quest/
 https://gamedistribution.com/games/pizza-realife-cooking/
 https://gamedistribution.com/games/pizza-rush/
@@ -23943,6 +23944,7 @@ https://gamedistribution.com/games/sniper-shot-3d/
 https://gamedistribution.com/games/sniper-shot-secret-mission/
 https://gamedistribution.com/games/sniper-stag-hunter/
 https://gamedistribution.com/games/sniper-strike/
+https://gamedistribution.com/games/sniper-team-3/
 https://gamedistribution.com/games/sniper-trigger-revenge/
 https://gamedistribution.com/games/sniper-trigger/
 https://gamedistribution.com/games/sniper-ultimate-assassin-2/
@@ -25137,6 +25139,7 @@ https://gamedistribution.com/games/street-racing-mania/
 https://gamedistribution.com/games/street-rider/
 https://gamedistribution.com/games/street-shadow-classic-fighter/
 https://gamedistribution.com/games/street-shooter/
+https://gamedistribution.com/games/street-traffic-racer/
 https://gamedistribution.com/games/streets-of-anarchy-fists-of-war/
 https://gamedistribution.com/games/streets-rage-fight/
 https://gamedistribution.com/games/stretch-guy/
