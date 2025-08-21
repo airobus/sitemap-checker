@@ -4,7 +4,11 @@ https://play.dictionary.com/category/daily
 https://play.dictionary.com/category/puzzles
 https://play.dictionary.com/category/word
 https://play.dictionary.com/games/2048
+https://play.dictionary.com/games/29-card-game
+https://play.dictionary.com/games/4-in-a-row
 https://play.dictionary.com/games/5roll
+https://play.dictionary.com/games/8-ball-billiards
+https://play.dictionary.com/games/9-ball-billiards
 https://play.dictionary.com/games/9-ball-pool
 https://play.dictionary.com/games/anagram-crossword
 https://play.dictionary.com/games/arkadium-fill-ins
@@ -20,6 +24,7 @@ https://play.dictionary.com/games/canasta
 https://play.dictionary.com/games/candy-mahjongg
 https://play.dictionary.com/games/canfield-solitaire
 https://play.dictionary.com/games/categories
+https://play.dictionary.com/games/checkers-online
 https://play.dictionary.com/games/chess
 https://play.dictionary.com/games/classic-solitaire
 https://play.dictionary.com/games/clutter-cornucopia
@@ -65,6 +70,7 @@ https://play.dictionary.com/games/euchre
 https://play.dictionary.com/games/family-feud
 https://play.dictionary.com/games/find-hidden-object
 https://play.dictionary.com/games/follow-me
+https://play.dictionary.com/games/foono
 https://play.dictionary.com/games/freecell-solitaire
 https://play.dictionary.com/games/fremantle-national-game-show-day-jigsaw
 https://play.dictionary.com/games/fruit-merge
@@ -120,6 +126,7 @@ https://play.dictionary.com/games/pyramid-solitaire
 https://play.dictionary.com/games/ridella
 https://play.dictionary.com/games/room-escape
 https://play.dictionary.com/games/sheffer-crossword
+https://play.dictionary.com/games/smart-friends
 https://play.dictionary.com/games/smartle
 https://play.dictionary.com/games/spades-multiplayer
 https://play.dictionary.com/games/spider-solitaire-game

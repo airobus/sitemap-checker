@@ -3220,6 +3220,7 @@ https://gamedistribution.com/games/alhambra-solitaire/
 https://gamedistribution.com/games/alice-back-from-wonderland/
 https://gamedistribution.com/games/alien-bot-madness/
 https://gamedistribution.com/games/alien-bubbles/
+https://gamedistribution.com/games/alien-chase-swing-and-fly/
 https://gamedistribution.com/games/alien-drops/
 https://gamedistribution.com/games/alien-escape/
 https://gamedistribution.com/games/alien-home-block-collapse/
@@ -10180,6 +10181,7 @@ https://gamedistribution.com/games/dying-easter-eggs/
 https://gamedistribution.com/games/dynamite-drop/
 https://gamedistribution.com/games/dynamons-10/
 https://gamedistribution.com/games/dynamons-11/
+https://gamedistribution.com/games/dynamons-12/
 https://gamedistribution.com/games/dynamons-2/
 https://gamedistribution.com/games/dynamons-4/
 https://gamedistribution.com/games/dynamons-5/
@@ -15499,6 +15501,7 @@ https://gamedistribution.com/games/jewel-pets-match/
 https://gamedistribution.com/games/jewel-pop/
 https://gamedistribution.com/games/jewel-royal-saga/
 https://gamedistribution.com/games/jewel-shuffle/
+https://gamedistribution.com/games/jewel-solitaire-tripeaks/
 https://gamedistribution.com/games/jewel-treasure-1/
 https://gamedistribution.com/games/jewel-treasure/
 https://gamedistribution.com/games/jewelry-competition/
@@ -28703,6 +28706,7 @@ https://gamedistribution.com/games/zombie-space-episode-ii/
 https://gamedistribution.com/games/zombie-squad/
 https://gamedistribution.com/games/zombie-survival-1/
 https://gamedistribution.com/games/zombie-survival-2/
+https://gamedistribution.com/games/zombie-survival-3/
 https://gamedistribution.com/games/zombie-survival-gun-3d/
 https://gamedistribution.com/games/zombie-survival-shooter/
 https://gamedistribution.com/games/zombie-survival/
