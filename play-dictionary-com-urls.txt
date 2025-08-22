@@ -4,7 +4,6 @@ https://play.dictionary.com/category/daily
 https://play.dictionary.com/category/puzzles
 https://play.dictionary.com/category/word
 https://play.dictionary.com/games/2048
-https://play.dictionary.com/games/29-card-game
 https://play.dictionary.com/games/4-in-a-row
 https://play.dictionary.com/games/5roll
 https://play.dictionary.com/games/8-ball-billiards
@@ -141,6 +140,7 @@ https://play.dictionary.com/games/todays-hurdle
 https://play.dictionary.com/games/tri-peaks-solitaire
 https://play.dictionary.com/games/trizzle-halloween
 https://play.dictionary.com/games/true-trivia-game
+https://play.dictionary.com/games/twenty-nine
 https://play.dictionary.com/games/two-minute-mini-crossword
 https://play.dictionary.com/games/wander-words
 https://play.dictionary.com/games/word-clash

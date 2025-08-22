@@ -1660,6 +1660,7 @@ https://www.crazygames.com/game/hanafuda-flash
 https://www.crazygames.com/game/hand-over-hand
 https://www.crazygames.com/game/hand-spinner-io-3d
 https://www.crazygames.com/game/hanoi-3d
+https://www.crazygames.com/game/happy-burger
 https://www.crazygames.com/game/happy-cakes
 https://www.crazygames.com/game/happy-dog
 https://www.crazygames.com/game/happy-farm-the-crop
@@ -2079,6 +2080,7 @@ https://www.crazygames.com/game/laqueus-escape-chapter-iv
 https://www.crazygames.com/game/laqueus-escape-chapter-vi
 https://www.crazygames.com/game/laser-lizard
 https://www.crazygames.com/game/laser-tanks-zwi
+https://www.crazygames.com/game/last-archer
 https://www.crazygames.com/game/last-debt
 https://www.crazygames.com/game/last-plant-on-earth
 https://www.crazygames.com/game/last-play-ragdoll-sandbox-kqb
@@ -2627,6 +2629,7 @@ https://www.crazygames.com/game/o-void
 https://www.crazygames.com/game/obby-1-to-spaceflight-altitude
 https://www.crazygames.com/game/obby-boxer
 https://www.crazygames.com/game/obby-cards-the-legend-hunt
+https://www.crazygames.com/game/obby-dead-river
 https://www.crazygames.com/game/obby-dumb-or-genius-iq-test
 https://www.crazygames.com/game/obby-parkour-race
 https://www.crazygames.com/game/obby-pull-a-sword
@@ -2897,6 +2900,7 @@ https://www.crazygames.com/game/power-badminton
 https://www.crazygames.com/game/power-blocks
 https://www.crazygames.com/game/power-players-defenders
 https://www.crazygames.com/game/power-the-grid-2020
+https://www.crazygames.com/game/powerline-guardians
 https://www.crazygames.com/game/powerlineio
 https://www.crazygames.com/game/poxel-io
 https://www.crazygames.com/game/practice-on-me
@@ -3237,6 +3241,7 @@ https://www.crazygames.com/game/silly-walker
 https://www.crazygames.com/game/simple-loot-idle
 https://www.crazygames.com/game/simple-words
 https://www.crazygames.com/game/simplebox-2
+https://www.crazygames.com/game/simply-prop-hunt
 https://www.crazygames.com/game/simplyup-io
 https://www.crazygames.com/game/singing-horses
 https://www.crazygames.com/game/single-line-drawing-puzzle
@@ -3801,6 +3806,7 @@ https://www.crazygames.com/game/timewarriors
 https://www.crazygames.com/game/tiny-auto-knight
 https://www.crazygames.com/game/tiny-fishing
 https://www.crazygames.com/game/tiny-sails
+https://www.crazygames.com/game/titan-soul-action-rpg-offline
 https://www.crazygames.com/game/tntcraft
 https://www.crazygames.com/game/toilet-rush---draw-puzzle
 https://www.crazygames.com/game/toilets-worms-shooter

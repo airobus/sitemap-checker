@@ -36,7 +36,7 @@ https://poki.com/en/g/8bit-fiesta
 https://poki.com/en/g/9-ball-pool
 https://poki.com/en/g/99-balls
 https://poki.com/en/g/a-cat-story
-https://poki.com/en/g/a-cleaning-story-fe991a34
+https://poki.com/en/g/a-cleaning-story
 https://poki.com/en/g/a-long-way-home
 https://poki.com/en/g/a-pretty-odd-bunny
 https://poki.com/en/g/a-pretty-odd-bunny-roast-it
@@ -822,6 +822,7 @@ https://poki.com/en/g/galactic-empire
 https://poki.com/en/g/galaxy-miner
 https://poki.com/en/g/game-of-farmers
 https://poki.com/en/g/gangster-contract-mafia-wars
+https://poki.com/en/g/gas-station
 https://poki.com/en/g/gear-madness
 https://poki.com/en/g/gem-11
 https://poki.com/en/g/gem-smash
@@ -851,7 +852,6 @@ https://poki.com/en/g/gold-mines
 https://poki.com/en/g/golden-hit
 https://poki.com/en/g/golf-champions
 https://poki.com/en/g/golf-maze
-https://poki.com/en/g/golf-orbit
 https://poki.com/en/g/golf-zero
 https://poki.com/en/g/golfinity
 https://poki.com/en/g/golfparty-io
@@ -1531,6 +1531,7 @@ https://poki.com/en/g/real-estate-rush
 https://poki.com/en/g/real-simulator-monster-truck
 https://poki.com/en/g/real-tennis
 https://poki.com/en/g/rebels-clash
+https://poki.com/en/g/rebound-shift
 https://poki.com/en/g/recoil
 https://poki.com/en/g/red-ball-4
 https://poki.com/en/g/refuge-solitaire

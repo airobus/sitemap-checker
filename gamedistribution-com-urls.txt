@@ -7207,6 +7207,7 @@ https://gamedistribution.com/games/chicken-survival/
 https://gamedistribution.com/games/chicken-wars-merge-guns/
 https://gamedistribution.com/games/chicken-wild-run/
 https://gamedistribution.com/games/chiki's-chase/
+https://gamedistribution.com/games/childcare-master-online/
 https://gamedistribution.com/games/children's-day-memory/
 https://gamedistribution.com/games/children's-doctor%3A-treating-ears/
 https://gamedistribution.com/games/children-doctor-dentist-2/
@@ -8612,6 +8613,7 @@ https://gamedistribution.com/games/crazy-zoo-swipe-match-3-puzzle-game/
 https://gamedistribution.com/games/crazycle/
 https://gamedistribution.com/games/crazyniteio/
 https://gamedistribution.com/games/crazysteveio/
+https://gamedistribution.com/games/crazyzombies-3d/
 https://gamedistribution.com/games/cream.-the-last-chance/
 https://gamedistribution.com/games/create-balloons/
 https://gamedistribution.com/games/create-challenge-text-fast/
@@ -10102,6 +10104,7 @@ https://gamedistribution.com/games/dsf-dfs/
 https://gamedistribution.com/games/dta%3A-best-thief/
 https://gamedistribution.com/games/dta-2%3A-maniac/
 https://gamedistribution.com/games/dual/
+https://gamedistribution.com/games/dualight-a-reflected-game/
 https://gamedistribution.com/games/dubai-drift-4x4-simulator-3d/
 https://gamedistribution.com/games/ducati-panigale-puzzle/
 https://gamedistribution.com/games/duck-carnival-shoot/
@@ -17340,6 +17343,7 @@ https://gamedistribution.com/games/masterchef-restaurant/
 https://gamedistribution.com/games/mastermind/
 https://gamedistribution.com/games/match-1010/
 https://gamedistribution.com/games/match-20-challenge/
+https://gamedistribution.com/games/match-3%3A-dream-room/
 https://gamedistribution.com/games/match-3-classic-1/
 https://gamedistribution.com/games/match-3-classic/
 https://gamedistribution.com/games/match-3-forest-1/
@@ -17354,6 +17358,7 @@ https://gamedistribution.com/games/match-blast/
 https://gamedistribution.com/games/match-candy-1/
 https://gamedistribution.com/games/match-candy/
 https://gamedistribution.com/games/match-cartoon-creatures/
+https://gamedistribution.com/games/match-collection/
 https://gamedistribution.com/games/match-colors-colors-game/
 https://gamedistribution.com/games/match-fighter/
 https://gamedistribution.com/games/match-find-3d/
@@ -24583,6 +24588,7 @@ https://gamedistribution.com/games/sprunki-lava-escape-2player/
 https://gamedistribution.com/games/sprunki-match/
 https://gamedistribution.com/games/sprunki-memory-card-match/
 https://gamedistribution.com/games/sprunki-mini-games/
+https://gamedistribution.com/games/sprunki-monster-music-beats/
 https://gamedistribution.com/games/sprunki-phase-brainrot/
 https://gamedistribution.com/games/sprunki-popit/
 https://gamedistribution.com/games/sprunki-puzzles-and-singing/
@@ -28310,6 +28316,7 @@ https://gamedistribution.com/games/wormroyaleio/
 https://gamedistribution.com/games/worms-combat-coop/
 https://gamedistribution.com/games/worms-zone-a-slithery-snake/
 https://gamedistribution.com/games/worms-zone/
+https://gamedistribution.com/games/worms/
 https://gamedistribution.com/games/wormsarena.io/
 https://gamedistribution.com/games/wormsio-multiplayer/
 https://gamedistribution.com/games/wormzilla/
