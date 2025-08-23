@@ -7771,6 +7771,7 @@ https://gamedistribution.com/games/clock-shoot-game/
 https://gamedistribution.com/games/clocks/
 https://gamedistribution.com/games/clone-ball-maze-3d/
 https://gamedistribution.com/games/clone-ball-rush/
+https://gamedistribution.com/games/cloneup-stack-yourself/
 https://gamedistribution.com/games/cloud-flight/
 https://gamedistribution.com/games/clouds-and-stars/
 https://gamedistribution.com/games/clown-girl-and-friends/
@@ -7894,6 +7895,7 @@ https://gamedistribution.com/games/color-couple-bump-3d/
 https://gamedistribution.com/games/color-crash/
 https://gamedistribution.com/games/color-cube-jump/
 https://gamedistribution.com/games/color-destroyer/
+https://gamedistribution.com/games/color-dodge-1/
 https://gamedistribution.com/games/color-dodge/
 https://gamedistribution.com/games/color-dots/
 https://gamedistribution.com/games/color-drop/
@@ -8739,6 +8741,7 @@ https://gamedistribution.com/games/crystal-lines/
 https://gamedistribution.com/games/crystal-miner-alpha/
 https://gamedistribution.com/games/crystical/
 https://gamedistribution.com/games/cs%3A-chaos-squad/
+https://gamedistribution.com/games/cs%3A-command-snipers/
 https://gamedistribution.com/games/cs-clone/
 https://gamedistribution.com/games/cs-online/
 https://gamedistribution.com/games/cs-war-gun-king-fps/
@@ -8876,6 +8879,7 @@ https://gamedistribution.com/games/cute-christmas-bull-difference/
 https://gamedistribution.com/games/cute-coloring-games/
 https://gamedistribution.com/games/cute-cookie-cut/
 https://gamedistribution.com/games/cute-couples-puzzle/
+https://gamedistribution.com/games/cute-critters-connect/
 https://gamedistribution.com/games/cute-cupid-is-preparing-for-valentines-day/
 https://gamedistribution.com/games/cute-dinosaur-differences/
 https://gamedistribution.com/games/cute-dinosaur-jigsaw/
@@ -9883,6 +9887,7 @@ https://gamedistribution.com/games/draw-bullet-master/
 https://gamedistribution.com/games/draw-car-fight/
 https://gamedistribution.com/games/draw-car-race/
 https://gamedistribution.com/games/draw-car-road/
+https://gamedistribution.com/games/draw-climb-race-the-ultimate-hill-climbing-challenge/
 https://gamedistribution.com/games/draw-climber-online/
 https://gamedistribution.com/games/draw-climber/
 https://gamedistribution.com/games/draw-curve/
@@ -10116,6 +10121,7 @@ https://gamedistribution.com/games/duck-hunter-2/
 https://gamedistribution.com/games/duck-hunter-autumn-forest/
 https://gamedistribution.com/games/duck-hunter/
 https://gamedistribution.com/games/duck-hunting-open-season/
+https://gamedistribution.com/games/duck-luck/
 https://gamedistribution.com/games/duck-memory-challenge/
 https://gamedistribution.com/games/duck-puzzle-challenge/
 https://gamedistribution.com/games/duck-shoot-evolution/
@@ -16354,6 +16360,7 @@ https://gamedistribution.com/games/labrador-at-the-doctor-salon/
 https://gamedistribution.com/games/labuba-merge/
 https://gamedistribution.com/games/labubu-adventure/
 https://gamedistribution.com/games/labubu-and-treasures%3A-fun-adventure/
+https://gamedistribution.com/games/labubu-coloring-adventure/
 https://gamedistribution.com/games/labubu-doll-mukbang-asmr-unblocked/
 https://gamedistribution.com/games/labubu-merge-clicker/
 https://gamedistribution.com/games/labubu-merge/
@@ -17360,6 +17367,7 @@ https://gamedistribution.com/games/match-candy/
 https://gamedistribution.com/games/match-cartoon-creatures/
 https://gamedistribution.com/games/match-collection/
 https://gamedistribution.com/games/match-colors-colors-game/
+https://gamedistribution.com/games/match-factory/
 https://gamedistribution.com/games/match-fighter/
 https://gamedistribution.com/games/match-find-3d/
 https://gamedistribution.com/games/match-four/
@@ -17587,6 +17595,7 @@ https://gamedistribution.com/games/mercedes-benz-glc63-puzzle/
 https://gamedistribution.com/games/merge-13/
 https://gamedistribution.com/games/merge-2048-gun-rush/
 https://gamedistribution.com/games/merge-2048/
+https://gamedistribution.com/games/merge-3d-match-3-balloons/
 https://gamedistribution.com/games/merge-all/
 https://gamedistribution.com/games/merge-alphabet-3d/
 https://gamedistribution.com/games/merge-and-decor/
@@ -24585,6 +24594,7 @@ https://gamedistribution.com/games/sprunki-garden/
 https://gamedistribution.com/games/sprunki-gets-surgery/
 https://gamedistribution.com/games/sprunki-jigsaw-puzzle/
 https://gamedistribution.com/games/sprunki-lava-escape-2player/
+https://gamedistribution.com/games/sprunki-link/
 https://gamedistribution.com/games/sprunki-match/
 https://gamedistribution.com/games/sprunki-memory-card-match/
 https://gamedistribution.com/games/sprunki-mini-games/
@@ -28761,6 +28771,7 @@ https://gamedistribution.com/games/zombo/
 https://gamedistribution.com/games/zone-jumping-fly-in-a-spaceship/
 https://gamedistribution.com/games/zonic-rush-toilet/
 https://gamedistribution.com/games/zoo-animal-transport-simulator/
+https://gamedistribution.com/games/zoo-anomaly-simulation/
 https://gamedistribution.com/games/zoo-chefs/
 https://gamedistribution.com/games/zoo-doctor-time/
 https://gamedistribution.com/games/zoo-doctor/
