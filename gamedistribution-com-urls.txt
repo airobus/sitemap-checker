@@ -3207,6 +3207,7 @@ https://gamedistribution.com/games/alarmy-monster-family/
 https://gamedistribution.com/games/alchemist-master/
 https://gamedistribution.com/games/alchemist-puzzle/
 https://gamedistribution.com/games/alchemy-master/
+https://gamedistribution.com/games/alchemy-puzzle/
 https://gamedistribution.com/games/alchemy/
 https://gamedistribution.com/games/aleinoid/
 https://gamedistribution.com/games/alex-2d/
@@ -12210,6 +12211,7 @@ https://gamedistribution.com/games/fnf-2-player/
 https://gamedistribution.com/games/fnf-music-3d/
 https://gamedistribution.com/games/fnf-music-battle-3d/
 https://gamedistribution.com/games/fnf-unblocked-italian-brainrot/
+https://gamedistribution.com/games/foam-and-find/
 https://gamedistribution.com/games/folding-block-puzzle/
 https://gamedistribution.com/games/folding-blocks/
 https://gamedistribution.com/games/follow-finger/
@@ -13397,6 +13399,7 @@ https://gamedistribution.com/games/grand-theft-stunt/
 https://gamedistribution.com/games/grand-vegas-simulator/
 https://gamedistribution.com/games/grand-zombie-swarm/
 https://gamedistribution.com/games/grandiose-hotel-escape/
+https://gamedistribution.com/games/grandma's-last-stand/
 https://gamedistribution.com/games/grandma-recipe-apple-pie/
 https://gamedistribution.com/games/grandma-recipe-nigiri-sushi/
 https://gamedistribution.com/games/grandma-recipe-ramen/
@@ -18604,6 +18607,7 @@ https://gamedistribution.com/games/move-the-pin-1/
 https://gamedistribution.com/games/move-the-pin-2/
 https://gamedistribution.com/games/move-the-pin/
 https://gamedistribution.com/games/move-the-rolls/
+https://gamedistribution.com/games/move-the-rubber-bands%3A-logic-puzzle/
 https://gamedistribution.com/games/move-till-you-match/
 https://gamedistribution.com/games/movie-date/
 https://gamedistribution.com/games/movie-night-match-3/
@@ -18665,6 +18669,7 @@ https://gamedistribution.com/games/mr-one-punch%3A-action-fighting-game/
 https://gamedistribution.com/games/mr-paul/
 https://gamedistribution.com/games/mr-pong/
 https://gamedistribution.com/games/mr-racer-car-racing/
+https://gamedistribution.com/games/mr-reckless%3A-car-chase-simulator/
 https://gamedistribution.com/games/mr-secret-agent/
 https://gamedistribution.com/games/mr-shooter/
 https://gamedistribution.com/games/mr-smith/
@@ -19286,6 +19291,7 @@ https://gamedistribution.com/games/number-jump-kids-educational-game/
 https://gamedistribution.com/games/number-jump/
 https://gamedistribution.com/games/number-jumping/
 https://gamedistribution.com/games/number-line-match/
+https://gamedistribution.com/games/number-master-run-and-merge/
 https://gamedistribution.com/games/number-master/
 https://gamedistribution.com/games/number-match/
 https://gamedistribution.com/games/number-maze-1/
@@ -19678,6 +19684,7 @@ https://gamedistribution.com/games/paint-the-fence/
 https://gamedistribution.com/games/paint-the-game/
 https://gamedistribution.com/games/paint-the-rings/
 https://gamedistribution.com/games/paint-them-all/
+https://gamedistribution.com/games/paint-tiles-puzzle/
 https://gamedistribution.com/games/paintball-fun-shooting-multiplayer/
 https://gamedistribution.com/games/paintball-gun-pixel-3d-multiplayer/
 https://gamedistribution.com/games/paintball-racers/
@@ -21685,6 +21692,7 @@ https://gamedistribution.com/games/puzzle-fever-ja/
 https://gamedistribution.com/games/puzzle-fever/
 https://gamedistribution.com/games/puzzle-game-boys/
 https://gamedistribution.com/games/puzzle-game-girls/
+https://gamedistribution.com/games/puzzle-games%3A-outing-day/
 https://gamedistribution.com/games/puzzle-guitar/
 https://gamedistribution.com/games/puzzle-kostenlos/
 https://gamedistribution.com/games/puzzle-lab/
@@ -21701,6 +21709,7 @@ https://gamedistribution.com/games/puzzle-santa-dash/
 https://gamedistribution.com/games/puzzle-tractor-farm/
 https://gamedistribution.com/games/puzzle-wood-block/
 https://gamedistribution.com/games/puzzleguys-hearts/
+https://gamedistribution.com/games/puzzlejam/
 https://gamedistribution.com/games/puzzles-1/
 https://gamedistribution.com/games/puzzles-balls-merge-the-new-year!/
 https://gamedistribution.com/games/puzzles-princesses-and-angels-new-look/
@@ -24602,6 +24611,7 @@ https://gamedistribution.com/games/sprunki-monster-music-beats/
 https://gamedistribution.com/games/sprunki-phase-brainrot/
 https://gamedistribution.com/games/sprunki-popit/
 https://gamedistribution.com/games/sprunki-puzzles-and-singing/
+https://gamedistribution.com/games/sprunki-quiz/
 https://gamedistribution.com/games/sprunki-shooter-2025/
 https://gamedistribution.com/games/sprunki-space-challenge/
 https://gamedistribution.com/games/sprunki-torches-maze/
