@@ -486,6 +486,7 @@ https://www.twoplayergames.org/game/crowdcityio
 https://www.twoplayergames.org/game/crunch-lock
 https://www.twoplayergames.org/game/crunchball-3000
 https://www.twoplayergames.org/game/crunching-ninjas
+https://www.twoplayergames.org/game/cs-go-sniper-map
 https://www.twoplayergames.org/game/cube-battle-royale
 https://www.twoplayergames.org/game/cube-city-racing
 https://www.twoplayergames.org/game/cube-city-wars
@@ -647,6 +648,7 @@ https://www.twoplayergames.org/game/duck-duck-clicker
 https://www.twoplayergames.org/game/duck-hunter
 https://www.twoplayergames.org/game/duckpark-io
 https://www.twoplayergames.org/game/ducky-adventure
+https://www.twoplayergames.org/game/dude-theft-auto
 https://www.twoplayergames.org/game/dumb-riders
 https://www.twoplayergames.org/game/dumb-ways-jr-zanys-hospital
 https://www.twoplayergames.org/game/dumb-ways-to-die-2-the-games
@@ -915,6 +917,7 @@ https://www.twoplayergames.org/game/grand-extreme-racing
 https://www.twoplayergames.org/game/grand-prix-hero
 https://www.twoplayergames.org/game/granny
 https://www.twoplayergames.org/game/granny-2
+https://www.twoplayergames.org/game/granny-3
 https://www.twoplayergames.org/game/granny-parkour
 https://www.twoplayergames.org/game/grass-cut-master
 https://www.twoplayergames.org/game/gravity-guy
@@ -1354,6 +1357,7 @@ https://www.twoplayergames.org/game/noob-vs-pro-challenge
 https://www.twoplayergames.org/game/nose-hospital
 https://www.twoplayergames.org/game/nsr-street-car-racing
 https://www.twoplayergames.org/game/nuke-zone
+https://www.twoplayergames.org/game/number-master-run-and-merge
 https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
 https://www.twoplayergames.org/game/obby-1-pet-every-seconds
 https://www.twoplayergames.org/game/obby-blox-parkour
@@ -2192,6 +2196,7 @@ https://www.twoplayergames.org/game/uphill-rush-9
 https://www.twoplayergames.org/game/valentines-meet
 https://www.twoplayergames.org/game/vegetable-ninjas
 https://www.twoplayergames.org/game/veggie-slicer
+https://www.twoplayergames.org/game/venom-run-3d
 https://www.twoplayergames.org/game/vertical-drop-heroes
 https://www.twoplayergames.org/game/vex-3
 https://www.twoplayergames.org/game/vex-3-xmas

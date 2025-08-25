@@ -7895,6 +7895,7 @@ https://gamedistribution.com/games/color-cocktail/
 https://gamedistribution.com/games/color-couple-bump-3d/
 https://gamedistribution.com/games/color-crash/
 https://gamedistribution.com/games/color-cube-jump/
+https://gamedistribution.com/games/color-dash/
 https://gamedistribution.com/games/color-destroyer/
 https://gamedistribution.com/games/color-dodge-1/
 https://gamedistribution.com/games/color-dodge/
@@ -9338,6 +9339,7 @@ https://gamedistribution.com/games/diamond-mosaic/
 https://gamedistribution.com/games/diamond-painting-asmr-coloring/
 https://gamedistribution.com/games/diamond-rush-2/
 https://gamedistribution.com/games/diamond-rush/
+https://gamedistribution.com/games/diamond-solitaire-mahjong/
 https://gamedistribution.com/games/diamonds-mission/
 https://gamedistribution.com/games/dibbles-2.-winter-woes/
 https://gamedistribution.com/games/dibbles-3.-desert-despair/
@@ -9882,6 +9884,7 @@ https://gamedistribution.com/games/draw-and-slash/
 https://gamedistribution.com/games/draw-around/
 https://gamedistribution.com/games/draw-attack/
 https://gamedistribution.com/games/draw-blocks-3d/
+https://gamedistribution.com/games/draw-bridge%3A-brain-game/
 https://gamedistribution.com/games/draw-bridge-challenge/
 https://gamedistribution.com/games/draw-brige-puzzle/
 https://gamedistribution.com/games/draw-bullet-master/
@@ -12231,6 +12234,7 @@ https://gamedistribution.com/games/food-pusher-challenge/
 https://gamedistribution.com/games/food-roll/
 https://gamedistribution.com/games/food-rush-traffic/
 https://gamedistribution.com/games/food-snake/
+https://gamedistribution.com/games/food-sort-3d/
 https://gamedistribution.com/games/food-stand-difference/
 https://gamedistribution.com/games/food-tiles-match-3/
 https://gamedistribution.com/games/food-truck-chef-cooking/
@@ -16689,6 +16693,7 @@ https://gamedistribution.com/games/lof-snakes-and-ladders/
 https://gamedistribution.com/games/lof-tetriz/
 https://gamedistribution.com/games/lofys-numbers/
 https://gamedistribution.com/games/logic-blast-explorer/
+https://gamedistribution.com/games/logic-slide/
 https://gamedistribution.com/games/logical-journey/
 https://gamedistribution.com/games/logical-theatre-nums/
 https://gamedistribution.com/games/logical-theatre-six-monkeys/
@@ -17146,6 +17151,7 @@ https://gamedistribution.com/games/mahjong-solitaire-deluxe/
 https://gamedistribution.com/games/mahjong-solitaire-world-tour/
 https://gamedistribution.com/games/mahjong-solitaire/
 https://gamedistribution.com/games/mahjong-sort-puzzle/
+https://gamedistribution.com/games/mahjong-stack/
 https://gamedistribution.com/games/mahjong-story-2-1/
 https://gamedistribution.com/games/mahjong-story-2/
 https://gamedistribution.com/games/mahjong-story/
@@ -19341,6 +19347,7 @@ https://gamedistribution.com/games/obby-3d-sprunki-parkour/
 https://gamedistribution.com/games/obby-blox-parkour/
 https://gamedistribution.com/games/obby-climb-racing/
 https://gamedistribution.com/games/obby-draw-to-escape/
+https://gamedistribution.com/games/obby-escape%3A-prison-rat-dance/
 https://gamedistribution.com/games/obby-flip/
 https://gamedistribution.com/games/obby-halloween-danger-skate/
 https://gamedistribution.com/games/obby-massive-attack/
@@ -19748,6 +19755,7 @@ https://gamedistribution.com/games/paper-animals-pair/
 https://gamedistribution.com/games/paper-block-2048/
 https://gamedistribution.com/games/paper-blocks-hexa/
 https://gamedistribution.com/games/paper-dash/
+https://gamedistribution.com/games/paper-doll-diary%3A-dress-up-diy/
 https://gamedistribution.com/games/paper-doll-diary-chibi-dolls/
 https://gamedistribution.com/games/paper-fighter-3d/
 https://gamedistribution.com/games/paper-flick/
@@ -23115,6 +23123,7 @@ https://gamedistribution.com/games/scary-nightmare-clap-clap/
 https://gamedistribution.com/games/scary-pairs/
 https://gamedistribution.com/games/scary-reptiles-coloring/
 https://gamedistribution.com/games/scary-run/
+https://gamedistribution.com/games/scary-teacher-3d-returns/
 https://gamedistribution.com/games/scary-tiki-mask-memory/
 https://gamedistribution.com/games/scary-villa-escape/
 https://gamedistribution.com/games/scatty-maps-africa/
@@ -24618,6 +24627,7 @@ https://gamedistribution.com/games/sprunki-torches-maze/
 https://gamedistribution.com/games/sprunki/
 https://gamedistribution.com/games/sprunky-incredibox-mods/
 https://gamedistribution.com/games/spy-car/
+https://gamedistribution.com/games/squad-assembler/
 https://gamedistribution.com/games/squad-defense/
 https://gamedistribution.com/games/squad-goals%3A-soccer-3d/
 https://gamedistribution.com/games/squad-rifles/
@@ -28316,6 +28326,7 @@ https://gamedistribution.com/games/world-of-dragons-hidden-stars/
 https://gamedistribution.com/games/world-of-fighters%3A-iron-fists/
 https://gamedistribution.com/games/world-of-war-tanks/
 https://gamedistribution.com/games/world-puzzle/
+https://gamedistribution.com/games/world-solitaire-tripeaks/
 https://gamedistribution.com/games/world-tank-wars/
 https://gamedistribution.com/games/world-trivia/
 https://gamedistribution.com/games/world-war-2-shooter/

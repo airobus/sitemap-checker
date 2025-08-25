@@ -124,6 +124,7 @@ https://play.dictionary.com/games/puzzle-pieces
 https://play.dictionary.com/games/pyramid-solitaire
 https://play.dictionary.com/games/ridella
 https://play.dictionary.com/games/room-escape
+https://play.dictionary.com/games/sergeant-major
 https://play.dictionary.com/games/sheffer-crossword
 https://play.dictionary.com/games/smart-friends
 https://play.dictionary.com/games/smartle
@@ -132,9 +133,12 @@ https://play.dictionary.com/games/spider-solitaire-game
 https://play.dictionary.com/games/sudoku
 https://play.dictionary.com/games/summer-sweet-shuffle
 https://play.dictionary.com/games/sunday-crossword
+https://play.dictionary.com/games/supermarket-sort
 https://play.dictionary.com/games/sweet-shuffle
 https://play.dictionary.com/games/swipe-city
 https://play.dictionary.com/games/ten-x-ten
+https://play.dictionary.com/games/the-chase-uk
+https://play.dictionary.com/games/the-chase-us
 https://play.dictionary.com/games/tile-match-flowers
 https://play.dictionary.com/games/todays-hurdle
 https://play.dictionary.com/games/tri-peaks-solitaire
@@ -143,6 +147,7 @@ https://play.dictionary.com/games/true-trivia-game
 https://play.dictionary.com/games/twenty-nine
 https://play.dictionary.com/games/two-minute-mini-crossword
 https://play.dictionary.com/games/wander-words
+https://play.dictionary.com/games/whist
 https://play.dictionary.com/games/word-clash
 https://play.dictionary.com/games/word-scramble
 https://play.dictionary.com/games/word-search
