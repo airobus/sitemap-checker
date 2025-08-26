@@ -1362,6 +1362,7 @@ https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
 https://www.twoplayergames.org/game/obby-1-pet-every-seconds
 https://www.twoplayergames.org/game/obby-blox-parkour
 https://www.twoplayergames.org/game/obby-disaster-survival
+https://www.twoplayergames.org/game/obby-escape-prison-rat-dance
 https://www.twoplayergames.org/game/obby-gym-simulator-escape
 https://www.twoplayergames.org/game/obby-on-a-bike
 https://www.twoplayergames.org/game/obby-parkour-ultimate
@@ -1642,6 +1643,7 @@ https://www.twoplayergames.org/game/save-my-doge-3
 https://www.twoplayergames.org/game/save-my-pet
 https://www.twoplayergames.org/game/save-my-pet-party
 https://www.twoplayergames.org/game/save-the-ball
+https://www.twoplayergames.org/game/scary-teacher-3d
 https://www.twoplayergames.org/game/school-stories-teacher-simulator
 https://www.twoplayergames.org/game/school-teacher-simulator
 https://www.twoplayergames.org/game/sci-fighters
@@ -2004,6 +2006,7 @@ https://www.twoplayergames.org/game/table-soccer-3d
 https://www.twoplayergames.org/game/table-tennis
 https://www.twoplayergames.org/game/table-tennis-pro
 https://www.twoplayergames.org/game/table-toss
+https://www.twoplayergames.org/game/tag-run
 https://www.twoplayergames.org/game/tale-of-two-hearts
 https://www.twoplayergames.org/game/tall-man-run
 https://www.twoplayergames.org/game/taming-io
@@ -2085,6 +2088,7 @@ https://www.twoplayergames.org/game/timmys-tile-turner
 https://www.twoplayergames.org/game/tiny-diggers
 https://www.twoplayergames.org/game/tiny-fishing
 https://www.twoplayergames.org/game/tm-driver
+https://www.twoplayergames.org/game/toca-boca-world
 https://www.twoplayergames.org/game/together-alone
 https://www.twoplayergames.org/game/tom-and-jerry-bomberman
 https://www.twoplayergames.org/game/tom-and-jerry-gold-miner
