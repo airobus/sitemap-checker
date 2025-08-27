@@ -603,6 +603,7 @@ https://www.crazygames.com/game/cannon-clash-yoo
 https://www.crazygames.com/game/cannon-pirates-multiplayer
 https://www.crazygames.com/game/captains-idle
 https://www.crazygames.com/game/capture-war
+https://www.crazygames.com/game/capybara-block-blast
 https://www.crazygames.com/game/capybara-block-shot
 https://www.crazygames.com/game/capybara-clicker
 https://www.crazygames.com/game/capybara-clicker-2
@@ -626,6 +627,7 @@ https://www.crazygames.com/game/car-speed-racing-tycoon
 https://www.crazygames.com/game/car-tuning-simulator
 https://www.crazygames.com/game/carball-io
 https://www.crazygames.com/game/card-cafe
+https://www.crazygames.com/game/card-scramble-viola-s-diner
 https://www.crazygames.com/game/card-shuffle-sort
 https://www.crazygames.com/game/cardboard-house
 https://www.crazygames.com/game/cards-keeper
@@ -1367,6 +1369,7 @@ https://www.crazygames.com/game/fish-eat-fishes
 https://www.crazygames.com/game/fish-eat-getting-big
 https://www.crazygames.com/game/fish-frenzy
 https://www.crazygames.com/game/fish-io-be-the-king
+https://www.crazygames.com/game/fish-merge---under-water
 https://www.crazygames.com/game/fish-merge-frvr
 https://www.crazygames.com/game/fish-orbit
 https://www.crazygames.com/game/fish-stab-getting-big
@@ -3777,6 +3780,7 @@ https://www.crazygames.com/game/think-to-escape-3
 https://www.crazygames.com/game/this-is-the-only-level
 https://www.crazygames.com/game/thread-master--asmr-embroidery
 https://www.crazygames.com/game/three-goblets
+https://www.crazygames.com/game/through-the-wall
 https://www.crazygames.com/game/tic-tac-toe
 https://www.crazygames.com/game/tictoc-catwalk-fashion
 https://www.crazygames.com/game/tictoc-kpop-fashion
@@ -4271,6 +4275,7 @@ https://www.crazygames.com/t/animal
 https://www.crazygames.com/t/animal/2
 https://www.crazygames.com/t/animal/3
 https://www.crazygames.com/t/animal/4
+https://www.crazygames.com/t/animal/5
 https://www.crazygames.com/t/anime
 https://www.crazygames.com/t/arcade
 https://www.crazygames.com/t/arcade/2
@@ -4684,6 +4689,7 @@ https://www.crazygames.com/t/top-down
 https://www.crazygames.com/t/top-down/2
 https://www.crazygames.com/t/top-down/3
 https://www.crazygames.com/t/top-down/4
+https://www.crazygames.com/t/top-mobile-games
 https://www.crazygames.com/t/tower-defense
 https://www.crazygames.com/t/tower-defense/2
 https://www.crazygames.com/t/traffic
