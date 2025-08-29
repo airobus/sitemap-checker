@@ -5841,6 +5841,7 @@ https://gamedistribution.com/games/brain-wash/
 https://gamedistribution.com/games/brain-workout/
 https://gamedistribution.com/games/braindom-2/
 https://gamedistribution.com/games/braindom/
+https://gamedistribution.com/games/brainrot-a-difference-challenge/
 https://gamedistribution.com/games/brainrot-boing-boing-merge/
 https://gamedistribution.com/games/brainrot-clicker/
 https://gamedistribution.com/games/brainrot-evolution-game/
@@ -15985,6 +15986,7 @@ https://gamedistribution.com/games/kids-scrambled-word/
 https://gamedistribution.com/games/kids-secrets-find-the-difference/
 https://gamedistribution.com/games/kids-super-heroes/
 https://gamedistribution.com/games/kids-superheroes-memory/
+https://gamedistribution.com/games/kids-supermarket/
 https://gamedistribution.com/games/kids-tangram/
 https://gamedistribution.com/games/kids-toys-hidden-stars/
 https://gamedistribution.com/games/kids-tractors-puzzle/
@@ -24191,6 +24193,7 @@ https://gamedistribution.com/games/solitaire-seasons/
 https://gamedistribution.com/games/solitaire-shuffle/
 https://gamedistribution.com/games/solitaire-social/
 https://gamedistribution.com/games/solitaire-solitaire/
+https://gamedistribution.com/games/solitaire-soviet/
 https://gamedistribution.com/games/solitaire-spider-and-klondike/
 https://gamedistribution.com/games/solitaire-story-tripeaks-3/
 https://gamedistribution.com/games/solitaire-story-tripeaks-4/
@@ -25291,6 +25294,7 @@ https://gamedistribution.com/games/sudoku-guru-classic-sudoku/
 https://gamedistribution.com/games/sudoku-hawaii/
 https://gamedistribution.com/games/sudoku-master-1/
 https://gamedistribution.com/games/sudoku-master/
+https://gamedistribution.com/games/sudoku-relax/
 https://gamedistribution.com/games/sudoku-royal/
 https://gamedistribution.com/games/sudoku-village/
 https://gamedistribution.com/games/sudoku/

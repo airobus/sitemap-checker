@@ -1886,6 +1886,7 @@ https://www.crazygames.com/game/idle-streamer
 https://www.crazygames.com/game/idle-supermarket-tycoon
 https://www.crazygames.com/game/idle-superpowers
 https://www.crazygames.com/game/idle-train-empire-tycoon
+https://www.crazygames.com/game/idle-transport-tycoon-eqf
 https://www.crazygames.com/game/idle-treadmill
 https://www.crazygames.com/game/idle-world
 https://www.crazygames.com/game/idle-world-miner-tycoon
@@ -2089,6 +2090,7 @@ https://www.crazygames.com/game/laqueus-escape-chapter-ii
 https://www.crazygames.com/game/laqueus-escape-chapter-iii
 https://www.crazygames.com/game/laqueus-escape-chapter-iv
 https://www.crazygames.com/game/laqueus-escape-chapter-vi
+https://www.crazygames.com/game/larry-world-xrl
 https://www.crazygames.com/game/laser-lizard
 https://www.crazygames.com/game/laser-tanks-zwi
 https://www.crazygames.com/game/last-archer
@@ -2574,6 +2576,7 @@ https://www.crazygames.com/game/new-year-s-glitter-fest
 https://www.crazygames.com/game/new-york-shark
 https://www.crazygames.com/game/nextdoor
 https://www.crazygames.com/game/night-city-racing
+https://www.crazygames.com/game/night-club-security
 https://www.crazygames.com/game/night-rider
 https://www.crazygames.com/game/night-watchman
 https://www.crazygames.com/game/nightfall-drifters
@@ -3656,6 +3659,7 @@ https://www.crazygames.com/game/tactical-assassin-2
 https://www.crazygames.com/game/tactical-assassin-3
 https://www.crazygames.com/game/taiga-car-driver
 https://www.crazygames.com/game/tailed-demon-slayer
+https://www.crazygames.com/game/take-actions
 https://www.crazygames.com/game/take-photo
 https://www.crazygames.com/game/takeover
 https://www.crazygames.com/game/talking-and-nobody-explosion
@@ -3896,6 +3900,7 @@ https://www.crazygames.com/game/tropical-island
 https://www.crazygames.com/game/tropical-merge
 https://www.crazygames.com/game/truck-driver-crazy-road-3
 https://www.crazygames.com/game/truck-driving-simulator-game
+https://www.crazygames.com/game/truck-hit-hero-isekai-arena
 https://www.crazygames.com/game/truck-simulator-russia
 https://www.crazygames.com/game/truck-space
 https://www.crazygames.com/game/trucks-race
@@ -4065,6 +4070,7 @@ https://www.crazygames.com/game/word-chef
 https://www.crazygames.com/game/word-connect-multiplayer
 https://www.crazygames.com/game/word-duel
 https://www.crazygames.com/game/word-fishing
+https://www.crazygames.com/game/word-sauce
 https://www.crazygames.com/game/word-scramble
 https://www.crazygames.com/game/word-scramble---family-tales
 https://www.crazygames.com/game/word-search
@@ -4221,6 +4227,7 @@ https://www.crazygames.com/sitemap/games/39
 https://www.crazygames.com/sitemap/games/4
 https://www.crazygames.com/sitemap/games/40
 https://www.crazygames.com/sitemap/games/41
+https://www.crazygames.com/sitemap/games/42
 https://www.crazygames.com/sitemap/games/5
 https://www.crazygames.com/sitemap/games/6
 https://www.crazygames.com/sitemap/games/7
@@ -4616,6 +4623,7 @@ https://www.crazygames.com/t/relaxing
 https://www.crazygames.com/t/relaxing/2
 https://www.crazygames.com/t/relaxing/3
 https://www.crazygames.com/t/restaurant
+https://www.crazygames.com/t/restaurant/2
 https://www.crazygames.com/t/retro-1
 https://www.crazygames.com/t/roblox
 https://www.crazygames.com/t/robot
@@ -4647,6 +4655,7 @@ https://www.crazygames.com/t/skill
 https://www.crazygames.com/t/skill/2
 https://www.crazygames.com/t/skill/3
 https://www.crazygames.com/t/skill/4
+https://www.crazygames.com/t/skill/5
 https://www.crazygames.com/t/snake
 https://www.crazygames.com/t/sniper
 https://www.crazygames.com/t/soccer

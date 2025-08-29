@@ -476,6 +476,7 @@ https://poki.com/en/g/crush-it
 https://poki.com/en/g/cryzen-io
 https://poki.com/en/g/cube-archer-vs-1000-zobies
 https://poki.com/en/g/cube-builder
+https://poki.com/en/g/cube-mart
 https://poki.com/en/g/cube-miner-escape-from-prison
 https://poki.com/en/g/cube-wave
 https://poki.com/en/g/cubies
@@ -827,7 +828,6 @@ https://poki.com/en/g/galactic-empire
 https://poki.com/en/g/galaxy-miner
 https://poki.com/en/g/game-of-farmers
 https://poki.com/en/g/gangster-contract-mafia-wars
-https://poki.com/en/g/gas-station
 https://poki.com/en/g/gear-madness
 https://poki.com/en/g/gem-11
 https://poki.com/en/g/gem-smash
@@ -1007,6 +1007,7 @@ https://poki.com/en/g/jamming-car-escape
 https://poki.com/en/g/javelin-fighting
 https://poki.com/en/g/jelly-bounce-3d
 https://poki.com/en/g/jelly-cat
+https://poki.com/en/g/jelly-drop
 https://poki.com/en/g/jelly-merge-party
 https://poki.com/en/g/jelly-party
 https://poki.com/en/g/jelly-sokoban
@@ -1213,6 +1214,7 @@ https://poki.com/en/g/microwars-2
 https://poki.com/en/g/midnight-drive
 https://poki.com/en/g/midnight-fable
 https://poki.com/en/g/mikas-candy-adventure
+https://poki.com/en/g/mike-and-mia-1st-day-at-school
 https://poki.com/en/g/mimelet
 https://poki.com/en/g/mine-and-dig
 https://poki.com/en/g/mine-cartoon-cube-world
@@ -1444,6 +1446,7 @@ https://poki.com/en/g/pizzafall
 https://poki.com/en/g/pizzapunk
 https://poki.com/en/g/plactions
 https://poki.com/en/g/plane-wars
+https://poki.com/en/g/planet-destruction
 https://poki.com/en/g/planet-plummet
 https://poki.com/en/g/platform-countdown
 https://poki.com/en/g/platzle
@@ -1761,6 +1764,7 @@ https://poki.com/en/g/stack-city
 https://poki.com/en/g/stacktris
 https://poki.com/en/g/star-blogger-left-or-right
 https://poki.com/en/g/star-catchers
+https://poki.com/en/g/steal-a-car
 https://poki.com/en/g/stealing-the-diamond
 https://poki.com/en/g/step-and-slash
 https://poki.com/en/g/steve-and-the-duck-shooter
@@ -1828,6 +1832,7 @@ https://poki.com/en/g/stupidella-3
 https://poki.com/en/g/stupidella-4
 https://poki.com/en/g/stupidella-click
 https://poki.com/en/g/stupidella-horror
+https://poki.com/en/g/stupidella-horror-2
 https://poki.com/en/g/submolok
 https://poki.com/en/g/subway-clash-3d
 https://poki.com/en/g/subway-surfers
@@ -1971,6 +1976,7 @@ https://poki.com/en/g/thumb-fighter
 https://poki.com/en/g/thumb-fighter-christmas
 https://poki.com/en/g/thumb-fighter-halloween
 https://poki.com/en/g/thunderdogs-io
+https://poki.com/en/g/thung-wars
 https://poki.com/en/g/tic-tac-toe
 https://poki.com/en/g/tic-tac-toe-3
 https://poki.com/en/g/tictactoe
@@ -2112,6 +2118,7 @@ https://poki.com/en/g/watermelon-slide
 https://poki.com/en/g/wave-rider
 https://poki.com/en/g/we-become-what-we-behold
 https://poki.com/en/g/we-skate
+https://poki.com/en/g/weapon-run
 https://poki.com/en/g/wedding-dress-up
 https://poki.com/en/g/whack-em-all
 https://poki.com/en/g/wheat-clicker
