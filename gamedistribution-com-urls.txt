@@ -4499,6 +4499,7 @@ https://gamedistribution.com/games/balloon-hero-2/
 https://gamedistribution.com/games/balloon-match-3d/
 https://gamedistribution.com/games/balloon-paradise/
 https://gamedistribution.com/games/balloon-pop-1/
+https://gamedistribution.com/games/balloon-pop-frenzy/
 https://gamedistribution.com/games/balloon-pop/
 https://gamedistribution.com/games/balloon-protect/
 https://gamedistribution.com/games/balloon-run/
@@ -10143,6 +10144,7 @@ https://gamedistribution.com/games/duckpark-io/
 https://gamedistribution.com/games/ducky-adventure/
 https://gamedistribution.com/games/ducky-duckie/
 https://gamedistribution.com/games/dude-basket/
+https://gamedistribution.com/games/dudu-engineering-truck/
 https://gamedistribution.com/games/duel-hit/
 https://gamedistribution.com/games/duel-of-builders/
 https://gamedistribution.com/games/duel-of-wizards/
@@ -12797,6 +12799,7 @@ https://gamedistribution.com/games/fury-of-the-steampunk-princess/
 https://gamedistribution.com/games/fury-road-rampage/
 https://gamedistribution.com/games/fury-road-zombie-crash/
 https://gamedistribution.com/games/fuse-3/
+https://gamedistribution.com/games/fusion-2048/
 https://gamedistribution.com/games/futoshiki/
 https://gamedistribution.com/games/future-racer/
 https://gamedistribution.com/games/future-soldier-multiplayer/
@@ -18493,6 +18496,7 @@ https://gamedistribution.com/games/mortario/
 https://gamedistribution.com/games/mosaic-artimo/
 https://gamedistribution.com/games/mosaic-fantasy/
 https://gamedistribution.com/games/mosaic-puzzle-art/
+https://gamedistribution.com/games/moscow-metro-driver-3d/
 https://gamedistribution.com/games/mosquito-bite-3d/
 https://gamedistribution.com/games/mosquito-run-3d/
 https://gamedistribution.com/games/mosquito-smash-game/
@@ -23201,6 +23205,7 @@ https://gamedistribution.com/games/screw-jam-fun-puzzle-game/
 https://gamedistribution.com/games/screw-nuts-and-bolts%3A-wood-solve/
 https://gamedistribution.com/games/screw-puzzle-master/
 https://gamedistribution.com/games/screw-puzzle/
+https://gamedistribution.com/games/screw-sort-3d%3A-screw-puzzle/
 https://gamedistribution.com/games/screw-the-nut-2/
 https://gamedistribution.com/games/screw-the-nut-3/
 https://gamedistribution.com/games/screw-the-nut/
@@ -24915,6 +24920,7 @@ https://gamedistribution.com/games/stick-man-battle-fighting/
 https://gamedistribution.com/games/stick-man-hook/
 https://gamedistribution.com/games/stick-ninja-survival/
 https://gamedistribution.com/games/stick-panda/
+https://gamedistribution.com/games/stick-rope-hero/
 https://gamedistribution.com/games/stick-run/
 https://gamedistribution.com/games/stick-running/
 https://gamedistribution.com/games/stick-santa/
@@ -27181,6 +27187,7 @@ https://gamedistribution.com/games/tung-sahur-coloring/
 https://gamedistribution.com/games/tung-tung-sagur%3A-clicker/
 https://gamedistribution.com/games/tung-tung-sahur%3A-obby-challenge/
 https://gamedistribution.com/games/tung-tung-sahur-coloring-book/
+https://gamedistribution.com/games/tung-tung-sahur-in-geometry-dash/
 https://gamedistribution.com/games/tunnel-race/
 https://gamedistribution.com/games/tunnel-racer/
 https://gamedistribution.com/games/tunnel-road/
@@ -28139,6 +28146,7 @@ https://gamedistribution.com/games/winx-club%3A-love-and-pet/
 https://gamedistribution.com/games/winx-club-baby-adventure/
 https://gamedistribution.com/games/winx-club-spot-the-differences/
 https://gamedistribution.com/games/wipe-insight-master/
+https://gamedistribution.com/games/wire-connect/
 https://gamedistribution.com/games/wire-hoop/
 https://gamedistribution.com/games/wired-chicken-inc/
 https://gamedistribution.com/games/witch-alchemist-saga/
@@ -28257,6 +28265,7 @@ https://gamedistribution.com/games/word-mania/
 https://gamedistribution.com/games/word-mine/
 https://gamedistribution.com/games/word-nature-connect/
 https://gamedistribution.com/games/word-ocean/
+https://gamedistribution.com/games/word-of-fortune/
 https://gamedistribution.com/games/word-puzz/
 https://gamedistribution.com/games/word-rivers/
 https://gamedistribution.com/games/word-rush/
