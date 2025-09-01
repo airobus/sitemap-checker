@@ -1326,7 +1326,6 @@ https://poki.com/en/g/numbers
 https://poki.com/en/g/numbskull
 https://poki.com/en/g/nuts-and-bolts-screwing-puzzle
 https://poki.com/en/g/o-mandala
-https://poki.com/en/g/obby-roads
 https://poki.com/en/g/obby-tag
 https://poki.com/en/g/ocean
 https://poki.com/en/g/odd-bot-out
@@ -1704,6 +1703,7 @@ https://poki.com/en/g/snake-is-mlg-edition
 https://poki.com/en/g/snake-mail-delivery-service
 https://poki.com/en/g/snake-shooter
 https://poki.com/en/g/snake-solver
+https://poki.com/en/g/snake-vs-human
 https://poki.com/en/g/snake-vs-worms
 https://poki.com/en/g/snakes-and-ladders
 https://poki.com/en/g/snap-it-the-ultimate-puzzle-challenge
@@ -1982,6 +1982,7 @@ https://poki.com/en/g/tic-tac-toe-3
 https://poki.com/en/g/tictactoe
 https://poki.com/en/g/tictoc-kpop-fashion
 https://poki.com/en/g/tictoc-nightlife-fashion
+https://poki.com/en/g/tictoc-paris-fashion
 https://poki.com/en/g/tictoc-summer-fashion
 https://poki.com/en/g/tiger-simulator-3d
 https://poki.com/en/g/tiger-tank

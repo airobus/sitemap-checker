@@ -904,6 +904,7 @@ https://www.crazygames.com/game/crossection
 https://www.crazygames.com/game/crossword
 https://www.crazygames.com/game/crossword-connect
 https://www.crazygames.com/game/crowd-lumberjack-stickman
+https://www.crazygames.com/game/crown-cannon
 https://www.crazygames.com/game/crusher-block-jwd
 https://www.crazygames.com/game/crusher-clicker
 https://www.crazygames.com/game/cry-islands
@@ -1154,6 +1155,7 @@ https://www.crazygames.com/game/drill-quest
 https://www.crazygames.com/game/drive-or-die-zombie-pixel-racing
 https://www.crazygames.com/game/drive-taxi
 https://www.crazygames.com/game/driver-club-highway-racing
+https://www.crazygames.com/game/drivetown
 https://www.crazygames.com/game/drone-io---ai-survivor
 https://www.crazygames.com/game/drone-racing-championship
 https://www.crazygames.com/game/drop-ahead-sandbox-madness
@@ -1796,6 +1798,7 @@ https://www.crazygames.com/game/html5-lemmings
 https://www.crazygames.com/game/hula-hoop-race
 https://www.crazygames.com/game/human-mech
 https://www.crazygames.com/game/human-resistance
+https://www.crazygames.com/game/hungry-frog-zot
 https://www.crazygames.com/game/hungry-hamster
 https://www.crazygames.com/game/hungry-ocean-eat-feed-and-grow-fish
 https://www.crazygames.com/game/hungry-pet-mania
@@ -1967,6 +1970,7 @@ https://www.crazygames.com/game/jingle-defense
 https://www.crazygames.com/game/johnny-n-tommy---prank-masters
 https://www.crazygames.com/game/johnny-rocketfingers
 https://www.crazygames.com/game/johnny-rocketfingers-2
+https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
 https://www.crazygames.com/game/juicyjong
@@ -2049,18 +2053,15 @@ https://www.crazygames.com/game/kogama-dungeon-run
 https://www.crazygames.com/game/kogama-escape-from-prison
 https://www.crazygames.com/game/kogama-hallow-special-trick-or-treat
 https://www.crazygames.com/game/kogama-haunted-hospital
-https://www.crazygames.com/game/kogama-lego-star-wars
 https://www.crazygames.com/game/kogama-longest-stair
 https://www.crazygames.com/game/kogama-mountain-climber
 https://www.crazygames.com/game/kogama-parkour27
 https://www.crazygames.com/game/kogama-parkourwood
-https://www.crazygames.com/game/kogama-pokemon
 https://www.crazygames.com/game/kogama-poppy-playtime
 https://www.crazygames.com/game/kogama-reach-the-flag
 https://www.crazygames.com/game/kogama-roller-coaster-world
 https://www.crazygames.com/game/kogama-school-is-just-super
 https://www.crazygames.com/game/kogama-sonic-dash-2
-https://www.crazygames.com/game/kogama-super-mario-n64
 https://www.crazygames.com/game/kogama-the-elevator
 https://www.crazygames.com/game/kogama-war-4
 https://www.crazygames.com/game/kogama-windwalk
@@ -4061,6 +4062,7 @@ https://www.crazygames.com/game/wonder-rocket
 https://www.crazygames.com/game/wonderputt
 https://www.crazygames.com/game/wood-block-journey
 https://www.crazygames.com/game/wood-blocks
+https://www.crazygames.com/game/wood-blocks-jam
 https://www.crazygames.com/game/wood-bolts-nuts-screw-pin-puzzle
 https://www.crazygames.com/game/wood-cutter---saw
 https://www.crazygames.com/game/wood-farmer

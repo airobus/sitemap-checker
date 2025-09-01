@@ -17076,6 +17076,7 @@ https://gamedistribution.com/games/mahjong-2/
 https://gamedistribution.com/games/mahjong-3/
 https://gamedistribution.com/games/mahjong-3d-candy/
 https://gamedistribution.com/games/mahjong-3d-connect/
+https://gamedistribution.com/games/mahjong-3d-match/
 https://gamedistribution.com/games/mahjong-3d/
 https://gamedistribution.com/games/mahjong-4/
 https://gamedistribution.com/games/mahjong-adventure%3A-world-quest/
@@ -21232,6 +21233,7 @@ https://gamedistribution.com/games/princess-royal-date/
 https://gamedistribution.com/games/princess-royal-salon/
 https://gamedistribution.com/games/princess-royal-wedding-1/
 https://gamedistribution.com/games/princess-royal-wedding/
+https://gamedistribution.com/games/princess-run-3d/
 https://gamedistribution.com/games/princess-runway-fashion-contest/
 https://gamedistribution.com/games/princess-safari-style/
 https://gamedistribution.com/games/princess-sale-rush/
@@ -26551,6 +26553,7 @@ https://gamedistribution.com/games/tiles-hop-3d/
 https://gamedistribution.com/games/tiles-hop-ball-master/
 https://gamedistribution.com/games/tiles-hop-online/
 https://gamedistribution.com/games/tiles-matching/
+https://gamedistribution.com/games/tiles-of-the-unexpected-2/
 https://gamedistribution.com/games/tiles-puzzle/
 https://gamedistribution.com/games/tiles_clean/
 https://gamedistribution.com/games/timber-guy/
@@ -26843,6 +26846,7 @@ https://gamedistribution.com/games/toy-cars/
 https://gamedistribution.com/games/toy-claw-simulator/
 https://gamedistribution.com/games/toy-match-1/
 https://gamedistribution.com/games/toy-match-2/
+https://gamedistribution.com/games/toy-match-3/
 https://gamedistribution.com/games/toy-match/
 https://gamedistribution.com/games/toy-shooter/
 https://gamedistribution.com/games/toy-shop-jigsaw-puzzle/
@@ -26890,6 +26894,7 @@ https://gamedistribution.com/games/traffic-control-math/
 https://gamedistribution.com/games/traffic-control-time/
 https://gamedistribution.com/games/traffic-control/
 https://gamedistribution.com/games/traffic-controller/
+https://gamedistribution.com/games/traffic-cop-3d/
 https://gamedistribution.com/games/traffic-crash/
 https://gamedistribution.com/games/traffic-drive/
 https://gamedistribution.com/games/traffic-driver/
@@ -27381,6 +27386,7 @@ https://gamedistribution.com/games/unblock-the-ball/
 https://gamedistribution.com/games/unblocked-motocross-racing/
 https://gamedistribution.com/games/unblocked/
 https://gamedistribution.com/games/uncle-bullet-007/
+https://gamedistribution.com/games/uncle-hit%3A-punch-the-dummy/
 https://gamedistribution.com/games/undead-2048/
 https://gamedistribution.com/games/undead-zombie-smash/
 https://gamedistribution.com/games/under-the-rubble/
@@ -28203,6 +28209,7 @@ https://gamedistribution.com/games/wood-block-puzzle-2/
 https://gamedistribution.com/games/wood-block-puzzle-3/
 https://gamedistribution.com/games/wood-block-puzzle/
 https://gamedistribution.com/games/wood-block-tap-away/
+https://gamedistribution.com/games/wood-blocks-jam/
 https://gamedistribution.com/games/wood-cutter-santa-idle/
 https://gamedistribution.com/games/wood-cutters-havoc/
 https://gamedistribution.com/games/wood-dice-merge/
