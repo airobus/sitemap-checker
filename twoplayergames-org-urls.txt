@@ -1912,6 +1912,7 @@ https://www.twoplayergames.org/game/stickman-halloween
 https://www.twoplayergames.org/game/stickman-home-escape
 https://www.twoplayergames.org/game/stickman-kingdom-clash
 https://www.twoplayergames.org/game/stickman-league
+https://www.twoplayergames.org/game/stickman-mega-battles
 https://www.twoplayergames.org/game/stickman-prison-break
 https://www.twoplayergames.org/game/stickman-prison-escape
 https://www.twoplayergames.org/game/stickman-sports-badminton
@@ -2191,6 +2192,7 @@ https://www.twoplayergames.org/game/ultimate-tic-tac-toe
 https://www.twoplayergames.org/game/ultraman
 https://www.twoplayergames.org/game/ultraman-2
 https://www.twoplayergames.org/game/ultraman-vs-alien-zombies
+https://www.twoplayergames.org/game/uncle-hit-punch-the-dummy
 https://www.twoplayergames.org/game/underwater-survival-deep-dive
 https://www.twoplayergames.org/game/unicycle-mayhem
 https://www.twoplayergames.org/game/uno-online

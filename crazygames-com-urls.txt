@@ -1072,6 +1072,7 @@ https://www.crazygames.com/game/dirt-rally-driver
 https://www.crazygames.com/game/disc-us
 https://www.crazygames.com/game/discover-the-city
 https://www.crazygames.com/game/dishwasher
+https://www.crazygames.com/game/disk-strike-carrom-challenge
 https://www.crazygames.com/game/diver-hero
 https://www.crazygames.com/game/diy-makeup-salon-spa-makeover
 https://www.crazygames.com/game/diy-phone-case-shop
@@ -1622,6 +1623,7 @@ https://www.crazygames.com/game/gridpunk---3v3-battle-royale
 https://www.crazygames.com/game/grimdark-survivors
 https://www.crazygames.com/game/grindcraft
 https://www.crazygames.com/game/grocery-kart
+https://www.crazygames.com/game/grow-a-garden---growden-io
 https://www.crazygames.com/game/grow-cube
 https://www.crazygames.com/game/grow-defense
 https://www.crazygames.com/game/grow-home-raq
@@ -2783,6 +2785,7 @@ https://www.crazygames.com/game/pawggle
 https://www.crazygames.com/game/paws-pals-diner
 https://www.crazygames.com/game/peckin-pixels
 https://www.crazygames.com/game/pegball-frvr
+https://www.crazygames.com/game/pegchinko
 https://www.crazygames.com/game/pen-dig
 https://www.crazygames.com/game/penalty-fever
 https://www.crazygames.com/game/penalty-kick-wiz
@@ -2873,6 +2876,7 @@ https://www.crazygames.com/game/platformer-chef
 https://www.crazygames.com/game/playblox-io
 https://www.crazygames.com/game/playground
 https://www.crazygames.com/game/plazma-burst
+https://www.crazygames.com/game/plinko-clicker-hdl
 https://www.crazygames.com/game/plumber
 https://www.crazygames.com/game/pocket-forest
 https://www.crazygames.com/game/pocket-zone
@@ -3553,6 +3557,7 @@ https://www.crazygames.com/game/street-life
 https://www.crazygames.com/game/street-race-fury
 https://www.crazygames.com/game/street-racer-2
 https://www.crazygames.com/game/street-racers-nitro-extreme
+https://www.crazygames.com/game/street-racing-open-world
 https://www.crazygames.com/game/strike-force-heroes
 https://www.crazygames.com/game/strike-force-heroes-2
 https://www.crazygames.com/game/strikeforce-kitty
