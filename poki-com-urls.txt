@@ -415,6 +415,7 @@ https://poki.com/en/g/color-boop
 https://poki.com/en/g/color-car
 https://poki.com/en/g/color-combo
 https://poki.com/en/g/color-crash
+https://poki.com/en/g/color-merge-lines
 https://poki.com/en/g/color-pencil-run
 https://poki.com/en/g/color-sort
 https://poki.com/en/g/color-therapy
@@ -1598,6 +1599,7 @@ https://poki.com/en/g/rubble-trouble
 https://poki.com/en/g/rubble-trouble-tokyo
 https://poki.com/en/g/rugby-rush
 https://poki.com/en/g/rumble-rush
+https://poki.com/en/g/rumblets-go
 https://poki.com/en/g/rummy
 https://poki.com/en/g/run-3
 https://poki.com/en/g/run-and-gun
@@ -1949,6 +1951,7 @@ https://poki.com/en/g/test-subject-complete
 https://poki.com/en/g/test-subject-green-html5
 https://poki.com/en/g/tetra-blocks
 https://poki.com/en/g/texasworm-io
+https://poki.com/en/g/the-baby-in-yellow
 https://poki.com/en/g/the-bucket
 https://poki.com/en/g/the-final-earth-2
 https://poki.com/en/g/the-impossible-quiz

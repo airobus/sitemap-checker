@@ -641,6 +641,7 @@ https://www.crazygames.com/game/cartoon-crowd-clash
 https://www.crazygames.com/game/cartoon-hot-racer
 https://www.crazygames.com/game/cartoon-moto-stunt
 https://www.crazygames.com/game/carving-madness
+https://www.crazygames.com/game/case-heroes-keb
 https://www.crazygames.com/game/case-smile-2
 https://www.crazygames.com/game/case-smile-horror-game-adventure
 https://www.crazygames.com/game/casino-robbery
@@ -659,6 +660,7 @@ https://www.crazygames.com/game/cat-burglar-and-the-magic-museum
 https://www.crazygames.com/game/cat-house
 https://www.crazygames.com/game/cat-life-simulator
 https://www.crazygames.com/game/cat-life-simulator-devil-cat
+https://www.crazygames.com/game/cat-life-simulator-zcn
 https://www.crazygames.com/game/cat-lovescapes
 https://www.crazygames.com/game/cat-mario
 https://www.crazygames.com/game/cat-sorter-puzzle
@@ -3891,6 +3893,8 @@ https://www.crazygames.com/game/treasure-champion---chest-capture
 https://www.crazygames.com/game/treasure-hunt-idle
 https://www.crazygames.com/game/treasure-hunter-utf
 https://www.crazygames.com/game/treasure-of-cutlass-reef
+https://www.crazygames.com/game/treasure-tails-cre
+https://www.crazygames.com/game/treasures-merge-3d-hkc
 https://www.crazygames.com/game/tri-achnid
 https://www.crazygames.com/game/tri-peaks-solitaire
 https://www.crazygames.com/game/tri-peaks-solitaire-classic
@@ -4129,6 +4133,7 @@ https://www.crazygames.com/game/yes-or-no-challenge
 https://www.crazygames.com/game/yet-another-merge-game
 https://www.crazygames.com/game/yohoho-io
 https://www.crazygames.com/game/yokai-party
+https://www.crazygames.com/game/yokai-slayer
 https://www.crazygames.com/game/you-are-being-watched---horror-game
 https://www.crazygames.com/game/you-have-to-burn-the-rope
 https://www.crazygames.com/game/you-vs-100-skibidi-toilets
@@ -4529,6 +4534,7 @@ https://www.crazygames.com/t/mobile/11
 https://www.crazygames.com/t/mobile/12
 https://www.crazygames.com/t/mobile/13
 https://www.crazygames.com/t/mobile/14
+https://www.crazygames.com/t/mobile/15
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
