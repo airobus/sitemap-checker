@@ -204,7 +204,6 @@ https://poki.com/en/g/bonk-beach-ball
 https://poki.com/en/g/boost-buddies
 https://poki.com/en/g/boss-level-shootout
 https://poki.com/en/g/bossy-toss
-https://poki.com/en/g/botanica
 https://poki.com/en/g/bottle-flip
 https://poki.com/en/g/bottle-flip-challenge
 https://poki.com/en/g/bounce-ball
@@ -318,7 +317,6 @@ https://poki.com/en/g/car-parking-school
 https://poki.com/en/g/car-rush
 https://poki.com/en/g/car-simulator-arena
 https://poki.com/en/g/car-stunts-adventure
-https://poki.com/en/g/car-wash-simulator
 https://poki.com/en/g/carball-io
 https://poki.com/en/g/card-hog
 https://poki.com/en/g/cardventures
@@ -1961,6 +1959,7 @@ https://poki.com/en/g/the-last-man
 https://poki.com/en/g/the-left-behind
 https://poki.com/en/g/the-mission-of-camac
 https://poki.com/en/g/the-pillar
+https://poki.com/en/g/the-real-juggle
 https://poki.com/en/g/the-secret-of-tetrapylae
 https://poki.com/en/g/the-sniper-code
 https://poki.com/en/g/the-sorcerer

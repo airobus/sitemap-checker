@@ -372,6 +372,7 @@ https://www.twoplayergames.org/game/challenge-the-runners
 https://www.twoplayergames.org/game/chaos-faction-2
 https://www.twoplayergames.org/game/chaos-in-the-desert
 https://www.twoplayergames.org/game/charge-now
+https://www.twoplayergames.org/game/charger-city-driver
 https://www.twoplayergames.org/game/checkers
 https://www.twoplayergames.org/game/checkers-deluxe-edition
 https://www.twoplayergames.org/game/checkers-draughts-3d
@@ -509,6 +510,7 @@ https://www.twoplayergames.org/game/cyber-city-driver
 https://www.twoplayergames.org/game/cyber-racer-battles
 https://www.twoplayergames.org/game/cyber-truck-drive-simulator
 https://www.twoplayergames.org/game/cybertruck-on-mars
+https://www.twoplayergames.org/game/dan-the-man
 https://www.twoplayergames.org/game/dangerous-speedway-cars
 https://www.twoplayergames.org/game/darkmaster-and-lightmaiden
 https://www.twoplayergames.org/game/dartmaster-9-in-1
@@ -581,6 +583,7 @@ https://www.twoplayergames.org/game/domino-falling-line
 https://www.twoplayergames.org/game/donut-challenge
 https://www.twoplayergames.org/game/donut-vs-donut
 https://www.twoplayergames.org/game/doodlecubeio
+https://www.twoplayergames.org/game/dop-draw-one-part
 https://www.twoplayergames.org/game/dop-stickman-jailbreak
 https://www.twoplayergames.org/game/doras-puppy-adventure
 https://www.twoplayergames.org/game/dot-snap-battle
@@ -918,6 +921,7 @@ https://www.twoplayergames.org/game/grand-prix-hero
 https://www.twoplayergames.org/game/granny
 https://www.twoplayergames.org/game/granny-2
 https://www.twoplayergames.org/game/granny-3
+https://www.twoplayergames.org/game/granny-4
 https://www.twoplayergames.org/game/granny-parkour
 https://www.twoplayergames.org/game/grass-cut-master
 https://www.twoplayergames.org/game/gravity-guy
@@ -1056,6 +1060,7 @@ https://www.twoplayergames.org/game/island-mini-golf
 https://www.twoplayergames.org/game/island-monster-offroad
 https://www.twoplayergames.org/game/island-run
 https://www.twoplayergames.org/game/italian-animals-with-voice-acting
+https://www.twoplayergames.org/game/italian-brainrot-baby-clicker
 https://www.twoplayergames.org/game/italian-brainrot-bike-rush
 https://www.twoplayergames.org/game/italian-brainrot-bot-chase
 https://www.twoplayergames.org/game/italian-brainrot-clicker
@@ -1503,6 +1508,7 @@ https://www.twoplayergames.org/game/potion-flip
 https://www.twoplayergames.org/game/pou
 https://www.twoplayergames.org/game/poxel-io
 https://www.twoplayergames.org/game/prince-and-princess-elope
+https://www.twoplayergames.org/game/princess-run-3d
 https://www.twoplayergames.org/game/prision-break
 https://www.twoplayergames.org/game/protect-my-dog-2
 https://www.twoplayergames.org/game/pull-the-pin
@@ -1639,6 +1645,7 @@ https://www.twoplayergames.org/game/russian-car-driver-hd
 https://www.twoplayergames.org/game/ryona-bowman-2
 https://www.twoplayergames.org/game/sand-draw
 https://www.twoplayergames.org/game/sandwich-runner
+https://www.twoplayergames.org/game/satisdom
 https://www.twoplayergames.org/game/save-baby-capybaras
 https://www.twoplayergames.org/game/save-my-doge-3
 https://www.twoplayergames.org/game/save-my-pet
@@ -2105,6 +2112,7 @@ https://www.twoplayergames.org/game/tower-defense
 https://www.twoplayergames.org/game/tower-vs-tower
 https://www.twoplayergames.org/game/track-racing
 https://www.twoplayergames.org/game/trackmania-blitz
+https://www.twoplayergames.org/game/traffic-cop-3d
 https://www.twoplayergames.org/game/traffic-jam-3d
 https://www.twoplayergames.org/game/traffic-racing-3d
 https://www.twoplayergames.org/game/traffic-run-online
