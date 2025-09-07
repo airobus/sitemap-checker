@@ -5334,6 +5334,7 @@ https://gamedistribution.com/games/block-blast/
 https://gamedistribution.com/games/block-blaster-puzzle/
 https://gamedistribution.com/games/block-blasty-saga/
 https://gamedistribution.com/games/block-breaker-1/
+https://gamedistribution.com/games/block-breaker-2/
 https://gamedistribution.com/games/block-breaker/
 https://gamedistribution.com/games/block-buster/
 https://gamedistribution.com/games/block-champ/
@@ -8149,6 +8150,7 @@ https://gamedistribution.com/games/connect-dots-1/
 https://gamedistribution.com/games/connect-dots-2/
 https://gamedistribution.com/games/connect-dots-3/
 https://gamedistribution.com/games/connect-dots/
+https://gamedistribution.com/games/connect-em-all/
 https://gamedistribution.com/games/connect-hagi-and-kisi/
 https://gamedistribution.com/games/connect-hexas/
 https://gamedistribution.com/games/connect-image/
@@ -13093,6 +13095,7 @@ https://gamedistribution.com/games/ghostly-graveyard-halloween-special/
 https://gamedistribution.com/games/ghostly-jigsaw/
 https://gamedistribution.com/games/giant-attack/
 https://gamedistribution.com/games/giant-creator/
+https://gamedistribution.com/games/giant-crowd-io-house-capture/
 https://gamedistribution.com/games/giant-push/
 https://gamedistribution.com/games/giant-rabbit-run/
 https://gamedistribution.com/games/giant-rock-house-escape/
@@ -15078,6 +15081,7 @@ https://gamedistribution.com/games/idle-pirate-conquest/
 https://gamedistribution.com/games/idle-pizza-business/
 https://gamedistribution.com/games/idle-pizza-empire/
 https://gamedistribution.com/games/idle-planet-extend/
+https://gamedistribution.com/games/idle-pop-merge/
 https://gamedistribution.com/games/idle-restaurant-tycoon/
 https://gamedistribution.com/games/idle-robots/
 https://gamedistribution.com/games/idle-santa-factory/
@@ -15346,6 +15350,7 @@ https://gamedistribution.com/games/italia-jigsaw-puzzle/
 https://gamedistribution.com/games/italian-brainro-quiz/
 https://gamedistribution.com/games/italian-brainrot%3A-neuro-beasts/
 https://gamedistribution.com/games/italian-brainrot-bike-rush/
+https://gamedistribution.com/games/italian-brainrot-bomb-2player/
 https://gamedistribution.com/games/italian-brainrot-challenge/
 https://gamedistribution.com/games/italian-brainrot-clicker/
 https://gamedistribution.com/games/italian-brainrot-find-the-differences/
@@ -17446,6 +17451,7 @@ https://gamedistribution.com/games/matera-casa-grotta-di-vico-solitario-escape/
 https://gamedistribution.com/games/math-and-dice-kids-educational-game/
 https://gamedistribution.com/games/math-attack/
 https://gamedistribution.com/games/math-balls/
+https://gamedistribution.com/games/math-box-balance/
 https://gamedistribution.com/games/math-boxing-comparison/
 https://gamedistribution.com/games/math-bug/
 https://gamedistribution.com/games/math-candies/
@@ -17549,6 +17555,7 @@ https://gamedistribution.com/games/maze-twist/
 https://gamedistribution.com/games/mazes/
 https://gamedistribution.com/games/mazex/
 https://gamedistribution.com/games/means-of-transport/
+https://gamedistribution.com/games/meatrider/
 https://gamedistribution.com/games/mech-battle-simulator/
 https://gamedistribution.com/games/mech-monster-arena/
 https://gamedistribution.com/games/mecha-duel/
@@ -18863,6 +18870,7 @@ https://gamedistribution.com/games/my-halloween-items/
 https://gamedistribution.com/games/my-halloween-park/
 https://gamedistribution.com/games/my-home-design-dreams-1/
 https://gamedistribution.com/games/my-home-design-dreams/
+https://gamedistribution.com/games/my-horse-is-amazing/
 https://gamedistribution.com/games/my-hospital-learn-care/
 https://gamedistribution.com/games/my-ice-cream-maker/
 https://gamedistribution.com/games/my-ice-cream-truck/
@@ -23668,6 +23676,7 @@ https://gamedistribution.com/games/skid-cars/
 https://gamedistribution.com/games/skidibi-hero.io/
 https://gamedistribution.com/games/skincare-crush/
 https://gamedistribution.com/games/skinfluencer-beauty-routine/
+https://gamedistribution.com/games/skip-love/
 https://gamedistribution.com/games/skull-house-crown-escape/
 https://gamedistribution.com/games/skull-hunter/
 https://gamedistribution.com/games/skull-land-escape/
