@@ -890,6 +890,7 @@ https://gamedistribution.com/games/Dangerous-Invention/
 https://gamedistribution.com/games/Dark-Hair-Girl-Makeover/
 https://gamedistribution.com/games/Dark-Princess-Dress-Up/
 https://gamedistribution.com/games/Darts-Of-Love/
+https://gamedistribution.com/games/Dash-Rocket/
 https://gamedistribution.com/games/Dashing-Dave/
 https://gamedistribution.com/games/Date-On-Valentine's/
 https://gamedistribution.com/games/Day-of-the-Cats%3A-Episode-1/
@@ -2066,6 +2067,7 @@ https://gamedistribution.com/games/Pink-Princess-Dress-Up/
 https://gamedistribution.com/games/Pippa-Middleton-Makeover/
 https://gamedistribution.com/games/Pirate-Booty/
 https://gamedistribution.com/games/Pirate-Girl-Make-Up/
+https://gamedistribution.com/games/Pirate-Riddle/
 https://gamedistribution.com/games/Pirates-Kaboom/
 https://gamedistribution.com/games/Pixel-Wizard-Adventure/
 https://gamedistribution.com/games/Pixi-Tower-Defense/
@@ -9114,7 +9116,6 @@ https://gamedistribution.com/games/darts-master%3Acartoon-3d/
 https://gamedistribution.com/games/darts-pro-multiplayer/
 https://gamedistribution.com/games/darts/
 https://gamedistribution.com/games/dash-party/
-https://gamedistribution.com/games/dash-rocket/
 https://gamedistribution.com/games/dash-runner/
 https://gamedistribution.com/games/dashing-birds/
 https://gamedistribution.com/games/dashy-run/
@@ -20301,7 +20302,6 @@ https://gamedistribution.com/games/pirate-jack/
 https://gamedistribution.com/games/pirate-knock/
 https://gamedistribution.com/games/pirate-noob-apocalypse/
 https://gamedistribution.com/games/pirate-paradise/
-https://gamedistribution.com/games/pirate-riddle/
 https://gamedistribution.com/games/pirate-run/
 https://gamedistribution.com/games/pirate-ships-hidden/
 https://gamedistribution.com/games/pirate-travel-coloring/
@@ -23351,6 +23351,7 @@ https://gamedistribution.com/games/shadow-trap/
 https://gamedistribution.com/games/shadowless-man-1/
 https://gamedistribution.com/games/shadoworld-adventure/
 https://gamedistribution.com/games/shadows-game/
+https://gamedistribution.com/games/shanghai-chef/
 https://gamedistribution.com/games/shape-3d/
 https://gamedistribution.com/games/shape-adjust/
 https://gamedistribution.com/games/shape-attack/
@@ -23368,6 +23369,7 @@ https://gamedistribution.com/games/shape-shoot/
 https://gamedistribution.com/games/shape-switch/
 https://gamedistribution.com/games/shape-transform-blob-racing/
 https://gamedistribution.com/games/shape-transform-race/
+https://gamedistribution.com/games/shape-transforming%3A-shifting-run/
 https://gamedistribution.com/games/shape-tunnel/
 https://gamedistribution.com/games/shape/
 https://gamedistribution.com/games/shapes-chain-match/
@@ -28350,6 +28352,7 @@ https://gamedistribution.com/games/wordie/
 https://gamedistribution.com/games/wording/
 https://gamedistribution.com/games/wordle-stack-3d/
 https://gamedistribution.com/games/wordler/
+https://gamedistribution.com/games/wordling%3A-daily-word-challenge/
 https://gamedistribution.com/games/wordling-daily-challenge/
 https://gamedistribution.com/games/wordmeister-hd/
 https://gamedistribution.com/games/wordmeister/

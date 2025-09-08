@@ -492,6 +492,7 @@ https://www.crazygames.com/game/boomerang-chang
 https://www.crazygames.com/game/bore-blasters
 https://www.crazygames.com/game/bot-bumper
 https://www.crazygames.com/game/bot-machines
+https://www.crazygames.com/game/botanica-greenhouse-of-wishes
 https://www.crazygames.com/game/bottle-flip-idle
 https://www.crazygames.com/game/bounce-blocku-golf
 https://www.crazygames.com/game/bounce-heroes
@@ -583,6 +584,7 @@ https://www.crazygames.com/game/burnout-drift-seaport-max
 https://www.crazygames.com/game/burnout-racers
 https://www.crazygames.com/game/bus-and-subway-runner
 https://www.crazygames.com/game/bus-driving-simulator
+https://www.crazygames.com/game/bus-simulator-real
 https://www.crazygames.com/game/bush-ragdoll
 https://www.crazygames.com/game/butterfly-ear-cuff-jewelry
 https://www.crazygames.com/game/butterfly-shimai
@@ -631,6 +633,7 @@ https://www.crazygames.com/game/card-scramble-viola-s-diner
 https://www.crazygames.com/game/card-shuffle-sort
 https://www.crazygames.com/game/cardboard-house
 https://www.crazygames.com/game/cards-keeper
+https://www.crazygames.com/game/cargo-truck-driver-simulator
 https://www.crazygames.com/game/cargo-truck-parking
 https://www.crazygames.com/game/carnage-battle-arena
 https://www.crazygames.com/game/carnival-shooter
@@ -2949,6 +2952,7 @@ https://www.crazygames.com/game/prinxy-house-of-fashion
 https://www.crazygames.com/game/prinxy-winterella
 https://www.crazygames.com/game/prison-break-architect-tycoon
 https://www.crazygames.com/game/prison-escape-lnj
+https://www.crazygames.com/game/prison-life-aur
 https://www.crazygames.com/game/prisoners-io
 https://www.crazygames.com/game/pro-bowling
 https://www.crazygames.com/game/pro-construction-simulator-3d-swm
@@ -3087,7 +3091,6 @@ https://www.crazygames.com/game/riddle-transfer
 https://www.crazygames.com/game/riddle-transfer-2
 https://www.crazygames.com/game/riders-downhill-racing
 https://www.crazygames.com/game/rift-of-hell---demons-war
-https://www.crazygames.com/game/right-jump
 https://www.crazygames.com/game/ringo-starfish
 https://www.crazygames.com/game/rio-rex
 https://www.crazygames.com/game/riot-assassin
@@ -4026,6 +4029,7 @@ https://www.crazygames.com/game/warrior-clash-pzu
 https://www.crazygames.com/game/warzone-armor-gtb
 https://www.crazygames.com/game/water-jam
 https://www.crazygames.com/game/water-pool-heroes-io
+https://www.crazygames.com/game/water-vs-fire
 https://www.crazygames.com/game/watermelon-balls
 https://www.crazygames.com/game/watermelon-puzzle-capy-merge
 https://www.crazygames.com/game/waterworks
@@ -4725,7 +4729,7 @@ https://www.crazygames.com/t/top-down
 https://www.crazygames.com/t/top-down/2
 https://www.crazygames.com/t/top-down/3
 https://www.crazygames.com/t/top-down/4
-https://www.crazygames.com/t/top-mobile-games
+https://www.crazygames.com/t/top-down/5
 https://www.crazygames.com/t/tower-defense
 https://www.crazygames.com/t/tower-defense/2
 https://www.crazygames.com/t/traffic
