@@ -270,6 +270,7 @@ https://poki.com/en/g/buck-bounce
 https://poki.com/en/g/bufo-merge
 https://poki.com/en/g/bug-smash
 https://poki.com/en/g/build-land
+https://poki.com/en/g/build-league
 https://poki.com/en/g/build-my-brainrot
 https://poki.com/en/g/bullet-bros
 https://poki.com/en/g/bullethead
@@ -1284,7 +1285,7 @@ https://poki.com/en/g/music-beat-rider
 https://poki.com/en/g/mutazone
 https://poki.com/en/g/mutiny
 https://poki.com/en/g/my-bobby-virtual-pet
-https://poki.com/en/g/my-city-star-stable
+https://poki.com/en/g/my-city-horse-stable
 https://poki.com/en/g/my-cozy-home
 https://poki.com/en/g/my-flock-friends
 https://poki.com/en/g/my-kitten-home
@@ -1949,7 +1950,6 @@ https://poki.com/en/g/test-subject-complete
 https://poki.com/en/g/test-subject-green-html5
 https://poki.com/en/g/tetra-blocks
 https://poki.com/en/g/texasworm-io
-https://poki.com/en/g/the-baby-in-yellow
 https://poki.com/en/g/the-bucket
 https://poki.com/en/g/the-final-earth-2
 https://poki.com/en/g/the-impossible-quiz

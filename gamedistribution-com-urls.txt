@@ -201,6 +201,7 @@ https://gamedistribution.com/games/2048-x2-legends/
 https://gamedistribution.com/games/2048-x2-merge-blocks/
 https://gamedistribution.com/games/2048skill-edition/
 https://gamedistribution.com/games/21-blitz/
+https://gamedistribution.com/games/21-cards/
 https://gamedistribution.com/games/21-solitaire/
 https://gamedistribution.com/games/2248-block-merge/
 https://gamedistribution.com/games/2248-musical/
@@ -4720,6 +4721,7 @@ https://gamedistribution.com/games/basketball-life-3d/
 https://gamedistribution.com/games/basketball-line/
 https://gamedistribution.com/games/basketball-machine-gun/
 https://gamedistribution.com/games/basketball-master/
+https://gamedistribution.com/games/basketball-rush/
 https://gamedistribution.com/games/basketball-school/
 https://gamedistribution.com/games/basketball-serial-shooter/
 https://gamedistribution.com/games/basketball-shoot/
@@ -10522,6 +10524,7 @@ https://gamedistribution.com/games/eg-zombie-uprising/
 https://gamedistribution.com/games/eg-zombies-city/
 https://gamedistribution.com/games/eg-zombies-war/
 https://gamedistribution.com/games/eg-zuma-blast/
+https://gamedistribution.com/games/egg-adventure%3A-mirror-world/
 https://gamedistribution.com/games/egg-adventure-2/
 https://gamedistribution.com/games/egg-adventure/
 https://gamedistribution.com/games/egg-boy/
@@ -15892,6 +15895,7 @@ https://gamedistribution.com/games/kart-rush/
 https://gamedistribution.com/games/kart-slide/
 https://gamedistribution.com/games/karting/
 https://gamedistribution.com/games/katana-fruit/
+https://gamedistribution.com/games/katana/
 https://gamedistribution.com/games/katies-candy-look/
 https://gamedistribution.com/games/katkoot/
 https://gamedistribution.com/games/kawaii-beauty-dress-up/
@@ -17459,6 +17463,7 @@ https://gamedistribution.com/games/math-candies/
 https://gamedistribution.com/games/math-crossword-puzzle-genius-edition/
 https://gamedistribution.com/games/math-dog-integer-addition/
 https://gamedistribution.com/games/math-drops/
+https://gamedistribution.com/games/math-duck-1/
 https://gamedistribution.com/games/math-duck/
 https://gamedistribution.com/games/math-fever/
 https://gamedistribution.com/games/math-for-kids/
