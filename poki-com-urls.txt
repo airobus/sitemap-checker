@@ -708,6 +708,7 @@ https://poki.com/en/g/fish-drop
 https://poki.com/en/g/fish-eat-fish
 https://poki.com/en/g/fish-squad
 https://poki.com/en/g/fisherman-life
+https://poki.com/en/g/fishermans-diary
 https://poki.com/en/g/fishing-alive
 https://poki.com/en/g/fishing-league
 https://poki.com/en/g/fishing-world
@@ -1169,7 +1170,6 @@ https://poki.com/en/g/master-checkers
 https://poki.com/en/g/master-chess
 https://poki.com/en/g/match-arena
 https://poki.com/en/g/match-bee
-https://poki.com/en/g/matchventures
 https://poki.com/en/g/math-mahjong-relax
 https://poki.com/en/g/math-pixel-puzzle
 https://poki.com/en/g/math-trivia-live

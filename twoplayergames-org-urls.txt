@@ -860,6 +860,7 @@ https://www.twoplayergames.org/game/geometry-challenge
 https://www.twoplayergames.org/game/geometry-dash-1
 https://www.twoplayergames.org/game/geometry-dash-2
 https://www.twoplayergames.org/game/geometry-dash-antecoder
+https://www.twoplayergames.org/game/geometry-dash-lite
 https://www.twoplayergames.org/game/geometry-dash-maze-maps
 https://www.twoplayergames.org/game/geometry-dash-meltdown
 https://www.twoplayergames.org/game/geometry-dash-nemesis
@@ -1096,6 +1097,7 @@ https://www.twoplayergames.org/game/karate-bros
 https://www.twoplayergames.org/game/kart-bros
 https://www.twoplayergames.org/game/kart-fight-io
 https://www.twoplayergames.org/game/kart-racing-3d
+https://www.twoplayergames.org/game/katana
 https://www.twoplayergames.org/game/kawairun
 https://www.twoplayergames.org/game/kawairun-2
 https://www.twoplayergames.org/game/key-to-adventure
@@ -1702,6 +1704,7 @@ https://www.twoplayergames.org/game/slice-it-all
 https://www.twoplayergames.org/game/slide-warriors
 https://www.twoplayergames.org/game/slimecraft
 https://www.twoplayergames.org/game/slingshot
+https://www.twoplayergames.org/game/slippery-descent-by-car
 https://www.twoplayergames.org/game/slither-io
 https://www.twoplayergames.org/game/slope
 https://www.twoplayergames.org/game/slope-2
@@ -2259,6 +2262,7 @@ https://www.twoplayergames.org/game/wheely-5
 https://www.twoplayergames.org/game/wheely-6
 https://www.twoplayergames.org/game/wheely-7
 https://www.twoplayergames.org/game/wheely-8
+https://www.twoplayergames.org/game/who-will-win-create-a-battle
 https://www.twoplayergames.org/game/wolf-simulator-wild-animals-3d
 https://www.twoplayergames.org/game/wood-block-puzzle
 https://www.twoplayergames.org/game/wood-carving

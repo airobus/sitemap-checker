@@ -241,7 +241,6 @@ https://www.crazygames.com/game/asmr-nail-treatment
 https://www.crazygames.com/game/asmr-stye-treatment
 https://www.crazygames.com/game/assassin-hero-infinity-blade
 https://www.crazygames.com/game/asteroid-breaker-ezu
-https://www.crazygames.com/game/astrodud-io
 https://www.crazygames.com/game/atari-breakout
 https://www.crazygames.com/game/atlethic-runners
 https://www.crazygames.com/game/atomic-champions
@@ -1345,6 +1344,7 @@ https://www.crazygames.com/game/feudal-wars
 https://www.crazygames.com/game/feudalism
 https://www.crazygames.com/game/fg-factory-2
 https://www.crazygames.com/game/field-goal-frvr
+https://www.crazygames.com/game/field-master
 https://www.crazygames.com/game/fight-arena-online
 https://www.crazygames.com/game/fighter-aircraft-pilot
 https://www.crazygames.com/game/fighter-legends-duo
@@ -2013,6 +2013,7 @@ https://www.crazygames.com/game/kick-football-herosoccer-game
 https://www.crazygames.com/game/kick-loser
 https://www.crazygames.com/game/kick-the-noobik-3d
 https://www.crazygames.com/game/kids-kitchen
+https://www.crazygames.com/game/kiki-world
 https://www.crazygames.com/game/kill-boi-9000
 https://www.crazygames.com/game/kill-the-ice-age-baby-adventure
 https://www.crazygames.com/game/kill-the-spartan
@@ -2954,7 +2955,6 @@ https://www.crazygames.com/game/prinxy-house-of-fashion
 https://www.crazygames.com/game/prinxy-winterella
 https://www.crazygames.com/game/prison-break-architect-tycoon
 https://www.crazygames.com/game/prison-escape-lnj
-https://www.crazygames.com/game/prison-life-aur
 https://www.crazygames.com/game/prisoners-io
 https://www.crazygames.com/game/pro-bowling
 https://www.crazygames.com/game/pro-construction-simulator-3d-swm
@@ -3076,6 +3076,7 @@ https://www.crazygames.com/game/resident-zombies---horror-shooter
 https://www.crazygames.com/game/resize-mahjong
 https://www.crazygames.com/game/resource-clicker
 https://www.crazygames.com/game/retro-battle
+https://www.crazygames.com/game/retro-garage---car-mechanic
 https://www.crazygames.com/game/return-man-2
 https://www.crazygames.com/game/return-man-2-zombies
 https://www.crazygames.com/game/revenge-of-the-triceratops
@@ -3303,7 +3304,6 @@ https://www.crazygames.com/game/skydom
 https://www.crazygames.com/game/skydom-reforged
 https://www.crazygames.com/game/skywire
 https://www.crazygames.com/game/slap-and-run
-https://www.crazygames.com/game/slap-battle-io
 https://www.crazygames.com/game/slap-castle
 https://www.crazygames.com/game/slash-royal
 https://www.crazygames.com/game/slash-the-rope
@@ -3871,6 +3871,7 @@ https://www.crazygames.com/game/tower-bastion-zombie-defense-ufh
 https://www.crazygames.com/game/tower-crush
 https://www.crazygames.com/game/tower-crush-3d
 https://www.crazygames.com/game/tower-defense
+https://www.crazygames.com/game/tower-defense---alien-invasion-cpb
 https://www.crazygames.com/game/tower-defense-clash
 https://www.crazygames.com/game/tower-defense-io
 https://www.crazygames.com/game/tower-jam-3d
