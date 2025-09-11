@@ -34,6 +34,7 @@ https://www.crazygames.com/c/casual/18
 https://www.crazygames.com/c/casual/19
 https://www.crazygames.com/c/casual/2
 https://www.crazygames.com/c/casual/20
+https://www.crazygames.com/c/casual/21
 https://www.crazygames.com/c/casual/3
 https://www.crazygames.com/c/casual/4
 https://www.crazygames.com/c/casual/5
@@ -331,7 +332,6 @@ https://www.crazygames.com/game/battle-arena-race-to-win
 https://www.crazygames.com/game/battle-button-clicker
 https://www.crazygames.com/game/battle-cars-3d
 https://www.crazygames.com/game/battle-chess
-https://www.crazygames.com/game/battle-disc-cui
 https://www.crazygames.com/game/battle-for-the-galaxy
 https://www.crazygames.com/game/battle-gear-2
 https://www.crazygames.com/game/battle-hamsters
@@ -1023,6 +1023,7 @@ https://www.crazygames.com/game/defuse-the-bomb-3d
 https://www.crazygames.com/game/delven
 https://www.crazygames.com/game/demolition-derby-2
 https://www.crazygames.com/game/demolition-derby-3
+https://www.crazygames.com/game/demon-smasher
 https://www.crazygames.com/game/derby-crash-2
 https://www.crazygames.com/game/derby-crash-3
 https://www.crazygames.com/game/derby-crash-4
@@ -1690,7 +1691,6 @@ https://www.crazygames.com/game/hard-wheels
 https://www.crazygames.com/game/hardware-tycoon
 https://www.crazygames.com/game/harley-learns-to-love
 https://www.crazygames.com/game/haru-pandas-slide
-https://www.crazygames.com/game/harvest-kings
 https://www.crazygames.com/game/haste-clicker
 https://www.crazygames.com/game/haste-miner
 https://www.crazygames.com/game/haste-miner-2
@@ -2330,6 +2330,7 @@ https://www.crazygames.com/game/merge-block-2048
 https://www.crazygames.com/game/merge-blocks-3d
 https://www.crazygames.com/game/merge-cakes
 https://www.crazygames.com/game/merge-cannon-chicken-defense
+https://www.crazygames.com/game/merge-cannon-number-blast
 https://www.crazygames.com/game/merge-construct
 https://www.crazygames.com/game/merge-cooking-game
 https://www.crazygames.com/game/merge-defense
@@ -2378,6 +2379,7 @@ https://www.crazygames.com/game/mike-and-mia-camping-day
 https://www.crazygames.com/game/mike-and-mia-the-firefighter
 https://www.crazygames.com/game/military-capitalist
 https://www.crazygames.com/game/milky-way-idle
+https://www.crazygames.com/game/millionaire-life
 https://www.crazygames.com/game/millionaire-quiz
 https://www.crazygames.com/game/mind-controller
 https://www.crazygames.com/game/mine-blocks
@@ -3755,6 +3757,7 @@ https://www.crazygames.com/game/the-dumb-test
 https://www.crazygames.com/game/the-epic-party
 https://www.crazygames.com/game/the-evolution-of-trust
 https://www.crazygames.com/game/the-farmer
+https://www.crazygames.com/game/the-farmers
 https://www.crazygames.com/game/the-final-earth-2
 https://www.crazygames.com/game/the-final-riddle
 https://www.crazygames.com/game/the-frame-pixel-art
@@ -3944,6 +3947,7 @@ https://www.crazygames.com/game/turbo-crash
 https://www.crazygames.com/game/turbo-dismounting
 https://www.crazygames.com/game/turnfight-com-uap
 https://www.crazygames.com/game/tv-invasion
+https://www.crazygames.com/game/twerk-race-3d----fun-run-game
 https://www.crazygames.com/game/twirl-pja
 https://www.crazygames.com/game/twisted-blocks-ewo
 https://www.crazygames.com/game/twisted-tangle-nmt
