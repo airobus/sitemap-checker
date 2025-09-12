@@ -547,7 +547,6 @@ https://www.crazygames.com/game/bubble-pop-classic
 https://www.crazygames.com/game/bubble-shooter-classic
 https://www.crazygames.com/game/bubble-sorting
 https://www.crazygames.com/game/bubble-spinner
-https://www.crazygames.com/game/bubble-struggle-2
 https://www.crazygames.com/game/bubble-tanks-2
 https://www.crazygames.com/game/bubble-tower-3d
 https://www.crazygames.com/game/bubble-woods
@@ -1691,6 +1690,7 @@ https://www.crazygames.com/game/hard-wheels
 https://www.crazygames.com/game/hardware-tycoon
 https://www.crazygames.com/game/harley-learns-to-love
 https://www.crazygames.com/game/haru-pandas-slide
+https://www.crazygames.com/game/harvest-kings
 https://www.crazygames.com/game/haste-clicker
 https://www.crazygames.com/game/haste-miner
 https://www.crazygames.com/game/haste-miner-2
@@ -1967,6 +1967,7 @@ https://www.crazygames.com/game/jelly-snake
 https://www.crazygames.com/game/jet-boat-racing
 https://www.crazygames.com/game/jet-fighter-airplane-racing
 https://www.crazygames.com/game/jet-rush
+https://www.crazygames.com/game/jetbouncer
 https://www.crazygames.com/game/jetpack-joyride-pcp
 https://www.crazygames.com/game/jetpack-jump
 https://www.crazygames.com/game/jetski-boat-racing-boat-games
@@ -2257,6 +2258,7 @@ https://www.crazygames.com/game/mahjong-unlimited
 https://www.crazygames.com/game/mahjongg
 https://www.crazygames.com/game/mahjongg-solitaire
 https://www.crazygames.com/game/maid-heroes-idle-rpg
+https://www.crazygames.com/game/make-up-hole
 https://www.crazygames.com/game/make-up-queen-r
 https://www.crazygames.com/game/makeover-surgeons
 https://www.crazygames.com/game/makeup-studio---halloween
@@ -2565,6 +2567,7 @@ https://www.crazygames.com/game/my-sweet-world
 https://www.crazygames.com/game/my-town-home-family-playhouse
 https://www.crazygames.com/game/mydream-universe
 https://www.crazygames.com/game/mysolar-build-your-planets
+https://www.crazygames.com/game/mysterious-elevator
 https://www.crazygames.com/game/mystery-digger
 https://www.crazygames.com/game/mystery-forest---match-3
 https://www.crazygames.com/game/mystery-mansion-puzzle-escape
@@ -2628,6 +2631,7 @@ https://www.crazygames.com/game/noob-parkour-3d
 https://www.crazygames.com/game/noob-s-chicken-farm-tycoon
 https://www.crazygames.com/game/noob-s-farm-escape
 https://www.crazygames.com/game/noob-snake-2048
+https://www.crazygames.com/game/noob-space-escape-hni
 https://www.crazygames.com/game/noob-tower-defense
 https://www.crazygames.com/game/noob-trolls-pro
 https://www.crazygames.com/game/noob-vs-cops
@@ -3240,6 +3244,7 @@ https://www.crazygames.com/game/shape-shooter-2
 https://www.crazygames.com/game/shape-shooter-3
 https://www.crazygames.com/game/shark-simulator-beach-killer
 https://www.crazygames.com/game/sharkosaurus-rampage
+https://www.crazygames.com/game/she-is-mad-eie
 https://www.crazygames.com/game/shellshockersio
 https://www.crazygames.com/game/shepherd-farm
 https://www.crazygames.com/game/ship-mania-boat-parking-jam
@@ -4304,6 +4309,7 @@ https://www.crazygames.com/t/3d/18
 https://www.crazygames.com/t/3d/19
 https://www.crazygames.com/t/3d/2
 https://www.crazygames.com/t/3d/20
+https://www.crazygames.com/t/3d/21
 https://www.crazygames.com/t/3d/3
 https://www.crazygames.com/t/3d/4
 https://www.crazygames.com/t/3d/5

@@ -3688,6 +3688,7 @@ https://gamedistribution.com/games/antique-village-escape-episode-2/
 https://gamedistribution.com/games/antistress-relaxation-box/
 https://gamedistribution.com/games/antistress-simulator-of-sequins-diy/
 https://gamedistribution.com/games/ants-empire-evolve-sim/
+https://gamedistribution.com/games/aod-art-of-defense/
 https://gamedistribution.com/games/apache-city-war/
 https://gamedistribution.com/games/ape-sling/
 https://gamedistribution.com/games/apex-football-battle/
@@ -5855,6 +5856,7 @@ https://gamedistribution.com/games/brainrot-a-difference-challenge/
 https://gamedistribution.com/games/brainrot-boing-boing-merge/
 https://gamedistribution.com/games/brainrot-clicker/
 https://gamedistribution.com/games/brainrot-evolution-game/
+https://gamedistribution.com/games/brainrot-evolution/
 https://gamedistribution.com/games/brainrot-hook-swing/
 https://gamedistribution.com/games/brainrot-ice-truck/
 https://gamedistribution.com/games/brainrot-memory/
@@ -7820,6 +7822,7 @@ https://gamedistribution.com/games/cocktails-puzzles/
 https://gamedistribution.com/games/coconut-tree-seashore-escape/
 https://gamedistribution.com/games/code-maze/
 https://gamedistribution.com/games/code-panda/
+https://gamedistribution.com/games/code-runner%3A-binary-confusion/
 https://gamedistribution.com/games/codename-space-babes/
 https://gamedistribution.com/games/coffee-break-memory/
 https://gamedistribution.com/games/coffee-craze-sorting-game/
@@ -11395,6 +11398,7 @@ https://gamedistribution.com/games/farm-animals-matching-puzzles/
 https://gamedistribution.com/games/farm-animals-puzzle-challenge/
 https://gamedistribution.com/games/farm-block-puzzle/
 https://gamedistribution.com/games/farm-block/
+https://gamedistribution.com/games/farm-business-saga/
 https://gamedistribution.com/games/farm-clash-3d/
 https://gamedistribution.com/games/farm-day-ja/
 https://gamedistribution.com/games/farm-day-village-farming-game/
@@ -19732,6 +19736,7 @@ https://gamedistribution.com/games/paint-hit/
 https://gamedistribution.com/games/paint-house/
 https://gamedistribution.com/games/paint-island/
 https://gamedistribution.com/games/paint-it/
+https://gamedistribution.com/games/paint-master-1/
 https://gamedistribution.com/games/paint-master/
 https://gamedistribution.com/games/paint-pop-3d-1/
 https://gamedistribution.com/games/paint-pop-3d-2/
@@ -26456,6 +26461,7 @@ https://gamedistribution.com/games/the-rings/
 https://gamedistribution.com/games/the-ritual-2/
 https://gamedistribution.com/games/the-ritual/
 https://gamedistribution.com/games/the-roach-motel-mystery/
+https://gamedistribution.com/games/the-road-home%3A-granny-escape/
 https://gamedistribution.com/games/the-road-is-mine/
 https://gamedistribution.com/games/the-runaway-cats/
 https://gamedistribution.com/games/the-running-sheep/
