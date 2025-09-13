@@ -274,6 +274,7 @@ https://www.twoplayergames.org/game/brain-teasers
 https://www.twoplayergames.org/game/braindom-2
 https://www.twoplayergames.org/game/brainrot-clicker
 https://www.twoplayergames.org/game/brainrot-evolution
+https://www.twoplayergames.org/game/brainrot-evolution-3d
 https://www.twoplayergames.org/game/brainrot-mini-challenge
 https://www.twoplayergames.org/game/brainrots-io
 https://www.twoplayergames.org/game/brainy-cars
@@ -360,6 +361,7 @@ https://www.twoplayergames.org/game/castle-wars
 https://www.twoplayergames.org/game/castle-wars-2
 https://www.twoplayergames.org/game/cat
 https://www.twoplayergames.org/game/cat-chaos-simulator
+https://www.twoplayergames.org/game/cat-escape
 https://www.twoplayergames.org/game/cat-fight
 https://www.twoplayergames.org/game/cat-life-simulator
 https://www.twoplayergames.org/game/cat-vs--mouse-challenge
@@ -820,6 +822,7 @@ https://www.twoplayergames.org/game/fridaynightfunkin
 https://www.twoplayergames.org/game/friend-shot
 https://www.twoplayergames.org/game/frisbee-forever-2
 https://www.twoplayergames.org/game/froggy-taptap
+https://www.twoplayergames.org/game/from-nerd-to-popular-ballerina-cappuccina
 https://www.twoplayergames.org/game/fruit-break
 https://www.twoplayergames.org/game/fruit-ninja
 https://www.twoplayergames.org/game/fun-basketball
@@ -923,6 +926,7 @@ https://www.twoplayergames.org/game/granny
 https://www.twoplayergames.org/game/granny-2
 https://www.twoplayergames.org/game/granny-3
 https://www.twoplayergames.org/game/granny-4
+https://www.twoplayergames.org/game/granny-escape
 https://www.twoplayergames.org/game/granny-parkour
 https://www.twoplayergames.org/game/grass-cut-master
 https://www.twoplayergames.org/game/gravity-guy
@@ -1239,6 +1243,7 @@ https://www.twoplayergames.org/game/minecraft-classic
 https://www.twoplayergames.org/game/minecraft-pixel-warfare
 https://www.twoplayergames.org/game/minecraft-tower-defense
 https://www.twoplayergames.org/game/minecraft-tower-defense-2
+https://www.twoplayergames.org/game/minecraft-unblocked
 https://www.twoplayergames.org/game/mineenergy
 https://www.twoplayergames.org/game/minefun-io
 https://www.twoplayergames.org/game/miners-adventure
@@ -1690,6 +1695,7 @@ https://www.twoplayergames.org/game/sketchy-tanks-war
 https://www.twoplayergames.org/game/skibidi-battle-toilets-attack
 https://www.twoplayergames.org/game/skibidi-laboratory
 https://www.twoplayergames.org/game/skincraft
+https://www.twoplayergames.org/game/skip-love
 https://www.twoplayergames.org/game/skribbl-io
 https://www.twoplayergames.org/game/sky-balls-3d
 https://www.twoplayergames.org/game/sky-city-riders

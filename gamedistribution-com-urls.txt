@@ -5180,6 +5180,7 @@ https://gamedistribution.com/games/bikosaur/
 https://gamedistribution.com/games/bill-the-bowman/
 https://gamedistribution.com/games/billiard-8-ball/
 https://gamedistribution.com/games/billiard-and-golf/
+https://gamedistribution.com/games/billiard-diamond-challenge/
 https://gamedistribution.com/games/billiard-golf/
 https://gamedistribution.com/games/billiard-neon/
 https://gamedistribution.com/games/billiards-3d%3A-russian-pyramid/
@@ -6921,6 +6922,7 @@ https://gamedistribution.com/games/cartoon-volley-fun/
 https://gamedistribution.com/games/cartoons-championship-golf-2019/
 https://gamedistribution.com/games/cartoons-coloring/
 https://gamedistribution.com/games/cartoons-five-diffs/
+https://gamedistribution.com/games/carvivor-ops/
 https://gamedistribution.com/games/carwarzio/
 https://gamedistribution.com/games/casa-azul-beach-bangalow-escape/
 https://gamedistribution.com/games/cash-back/
@@ -9869,6 +9871,7 @@ https://gamedistribution.com/games/dragon-bomb/
 https://gamedistribution.com/games/dragon-castle%3A-idle-td/
 https://gamedistribution.com/games/dragon-city-destroyer/
 https://gamedistribution.com/games/dragon-city/
+https://gamedistribution.com/games/dragon-egg/
 https://gamedistribution.com/games/dragon-escape/
 https://gamedistribution.com/games/dragon-fighter/
 https://gamedistribution.com/games/dragon-fire-and-fury/
@@ -11925,6 +11928,7 @@ https://gamedistribution.com/games/fish-master-1/
 https://gamedistribution.com/games/fish-master/
 https://gamedistribution.com/games/fish-match-3/
 https://gamedistribution.com/games/fish-match-deluxe/
+https://gamedistribution.com/games/fish-rain-2/
 https://gamedistribution.com/games/fish-rain/
 https://gamedistribution.com/games/fish-rescue-pin-pull/
 https://gamedistribution.com/games/fish-rescue-pull-the-pin/
@@ -12525,6 +12529,7 @@ https://gamedistribution.com/games/froggee/
 https://gamedistribution.com/games/frogger-jump/
 https://gamedistribution.com/games/frogger/
 https://gamedistribution.com/games/froggy-crosses-the-road/
+https://gamedistribution.com/games/froggy-hop/
 https://gamedistribution.com/games/froggy/
 https://gamedistribution.com/games/frogie-cross-the-road/
 https://gamedistribution.com/games/frogs-matching/
@@ -12578,6 +12583,7 @@ https://gamedistribution.com/games/fruit-escape-draw-line/
 https://gamedistribution.com/games/fruit-farm-frenzy/
 https://gamedistribution.com/games/fruit-farm/
 https://gamedistribution.com/games/fruit-hunting/
+https://gamedistribution.com/games/fruit-jam-1/
 https://gamedistribution.com/games/fruit-jam/
 https://gamedistribution.com/games/fruit-juice-maker-1/
 https://gamedistribution.com/games/fruit-juice-maker/
@@ -15371,6 +15377,7 @@ https://gamedistribution.com/games/italian-brainrot-in-geometry-dash/
 https://gamedistribution.com/games/italian-brainrot-jigsaw/
 https://gamedistribution.com/games/italian-brainrot-obby-parkour/
 https://gamedistribution.com/games/italian-brainrot-puzzle/
+https://gamedistribution.com/games/italian-brainrot-survival-arena/
 https://gamedistribution.com/games/italian-brainrot-survive-parkour/
 https://gamedistribution.com/games/italian-brainrot-tung-tung-racing/
 https://gamedistribution.com/games/italian-cars-differences/
@@ -23641,6 +23648,7 @@ https://gamedistribution.com/games/sivi-xmas-snow-village-escape/
 https://gamedistribution.com/games/six-helix/
 https://gamedistribution.com/games/six-little-kittens/
 https://gamedistribution.com/games/sizes-game/
+https://gamedistribution.com/games/skate-hooligans/
 https://gamedistribution.com/games/skate-rush-challenge/
 https://gamedistribution.com/games/skateboard-challenge/
 https://gamedistribution.com/games/skateboard-master/
@@ -25366,6 +25374,7 @@ https://gamedistribution.com/games/sudoku-master-1/
 https://gamedistribution.com/games/sudoku-master/
 https://gamedistribution.com/games/sudoku-relax/
 https://gamedistribution.com/games/sudoku-royal/
+https://gamedistribution.com/games/sudoku-vault/
 https://gamedistribution.com/games/sudoku-village/
 https://gamedistribution.com/games/sudoku/
 https://gamedistribution.com/games/suduku/
@@ -27040,6 +27049,7 @@ https://gamedistribution.com/games/trash-sorting-for-kids/
 https://gamedistribution.com/games/trash-toos-maper-flings/
 https://gamedistribution.com/games/trash-truck-simulator/
 https://gamedistribution.com/games/travel-diaries-city-break/
+https://gamedistribution.com/games/travel-with-me%3A-asmr-edition/
 https://gamedistribution.com/games/traveling-guide-curly/
 https://gamedistribution.com/games/travelling-guide-eliza/
 https://gamedistribution.com/games/travelling-kids-memory/
