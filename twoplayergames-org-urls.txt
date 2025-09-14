@@ -676,6 +676,7 @@ https://www.twoplayergames.org/game/eight-ball-pool
 https://www.twoplayergames.org/game/elastic-man
 https://www.twoplayergames.org/game/electricman-2
 https://www.twoplayergames.org/game/elon-cars-push-and-drop
+https://www.twoplayergames.org/game/elytra-flight
 https://www.twoplayergames.org/game/empire
 https://www.twoplayergames.org/game/end-of-war
 https://www.twoplayergames.org/game/england-soccer-league
@@ -1928,6 +1929,7 @@ https://www.twoplayergames.org/game/stickman-fighter-epic-battles
 https://www.twoplayergames.org/game/stickman-halloween
 https://www.twoplayergames.org/game/stickman-home-escape
 https://www.twoplayergames.org/game/stickman-kingdom-clash
+https://www.twoplayergames.org/game/stickman-kombat-2d
 https://www.twoplayergames.org/game/stickman-league
 https://www.twoplayergames.org/game/stickman-mega-battles
 https://www.twoplayergames.org/game/stickman-prison-break

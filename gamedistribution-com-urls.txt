@@ -12663,6 +12663,7 @@ https://gamedistribution.com/games/fruits-scramble/
 https://gamedistribution.com/games/fruits-shooting-deluxe/
 https://gamedistribution.com/games/fruits-solitaire/
 https://gamedistribution.com/games/fruits-tetriz/
+https://gamedistribution.com/games/fruitsland%3A-escape-from-the-amusement-park/
 https://gamedistribution.com/games/fruitways-matching/
 https://gamedistribution.com/games/fruity-veggie-memory/
 https://gamedistribution.com/games/fuel-rage/
@@ -12712,6 +12713,7 @@ https://gamedistribution.com/games/fun-run-race-3d/
 https://gamedistribution.com/games/fun-sea-race-3d/
 https://gamedistribution.com/games/fun-sisters-night/
 https://gamedistribution.com/games/fun-snake/
+https://gamedistribution.com/games/fun-sorting-through-the-shelves/
 https://gamedistribution.com/games/fun-town-parking/
 https://gamedistribution.com/games/fun-truck-jigsaw/
 https://gamedistribution.com/games/fun-tunnel/
@@ -14367,6 +14369,7 @@ https://gamedistribution.com/games/hexagon-pals/
 https://gamedistribution.com/games/hexagon/
 https://gamedistribution.com/games/hexagone/
 https://gamedistribution.com/games/hexalau/
+https://gamedistribution.com/games/hexamatch-1/
 https://gamedistribution.com/games/hexamatch/
 https://gamedistribution.com/games/hexamerge/
 https://gamedistribution.com/games/hexaquatic-kraken/
@@ -15373,6 +15376,7 @@ https://gamedistribution.com/games/italian-brainrot-bomb-2player/
 https://gamedistribution.com/games/italian-brainrot-challenge/
 https://gamedistribution.com/games/italian-brainrot-clicker/
 https://gamedistribution.com/games/italian-brainrot-find-the-differences/
+https://gamedistribution.com/games/italian-brainrot-find-the-stars/
 https://gamedistribution.com/games/italian-brainrot-in-geometry-dash/
 https://gamedistribution.com/games/italian-brainrot-jigsaw/
 https://gamedistribution.com/games/italian-brainrot-obby-parkour/
@@ -17638,6 +17642,7 @@ https://gamedistribution.com/games/melting-ball/
 https://gamedistribution.com/games/melty-time/
 https://gamedistribution.com/games/meme-challenge.io/
 https://gamedistribution.com/games/meme-miner/
+https://gamedistribution.com/games/meme-wars/
 https://gamedistribution.com/games/memoji-puzzle/
 https://gamedistribution.com/games/memoji/
 https://gamedistribution.com/games/memorable-palace-escape/
@@ -18094,6 +18099,7 @@ https://gamedistribution.com/games/mini-train-io/
 https://gamedistribution.com/games/mini-truck-driver-master/
 https://gamedistribution.com/games/minicars-soccer/
 https://gamedistribution.com/games/minicars/
+https://gamedistribution.com/games/minicraft-chef-cake-wars/
 https://gamedistribution.com/games/minicraft-winterblock/
 https://gamedistribution.com/games/minicraft/
 https://gamedistribution.com/games/minigolf-archipelago/
@@ -21651,6 +21657,7 @@ https://gamedistribution.com/games/pull'em-all/
 https://gamedistribution.com/games/pull-him-out/
 https://gamedistribution.com/games/pull-mermaid-out/
 https://gamedistribution.com/games/pull-rocket/
+https://gamedistribution.com/games/pull-the-pin%3A-fish-rescue!/
 https://gamedistribution.com/games/pull-the-pin-1/
 https://gamedistribution.com/games/pull-the-pin-rescue/
 https://gamedistribution.com/games/pull-the-pin/
@@ -24937,6 +24944,7 @@ https://gamedistribution.com/games/steampunk-merge-to-battle/
 https://gamedistribution.com/games/steampunk-tower-builder/
 https://gamedistribution.com/games/steep/
 https://gamedistribution.com/games/stellar-fusion/
+https://gamedistribution.com/games/stellar-guardian/
 https://gamedistribution.com/games/stellar-shooters/
 https://gamedistribution.com/games/stellar-style-spectacle-fashion/
 https://gamedistribution.com/games/stencil-art-spray-fast/
@@ -25100,6 +25108,7 @@ https://gamedistribution.com/games/stickman-jumping/
 https://gamedistribution.com/games/stickman-jungle-escape/
 https://gamedistribution.com/games/stickman-killer-top-gun-shots/
 https://gamedistribution.com/games/stickman-kingdom-clash/
+https://gamedistribution.com/games/stickman-kombat-2d/
 https://gamedistribution.com/games/stickman-leave-prison/
 https://gamedistribution.com/games/stickman-maverick-bad-boys-killer/
 https://gamedistribution.com/games/stickman-mega-boss%3A-battles!/
@@ -28239,6 +28248,7 @@ https://gamedistribution.com/games/witch-to-princess-beauty-potion-game/
 https://gamedistribution.com/games/witch-to-princess-makeover/
 https://gamedistribution.com/games/witch-wordhalloween-puzzel-game/
 https://gamedistribution.com/games/witchs-house-halloween-puzzles/
+https://gamedistribution.com/games/witchy-and-the-puzzle-adventures/
 https://gamedistribution.com/games/wiz-dog-quiz/
 https://gamedistribution.com/games/wizard-arcadia/
 https://gamedistribution.com/games/wizard-house-escape/
