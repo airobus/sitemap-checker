@@ -234,6 +234,7 @@ https://www.crazygames.com/game/arsenal-online
 https://www.crazygames.com/game/arx-arcana-dungeon-royale
 https://www.crazygames.com/game/ascent
 https://www.crazygames.com/game/ashline-racing-born-to-burn-tmr
+https://www.crazygames.com/game/asmr-beauty-care
 https://www.crazygames.com/game/asmr-beauty-homeless
 https://www.crazygames.com/game/asmr-beauty-japanese-spa
 https://www.crazygames.com/game/asmr-beauty-treatment
@@ -1651,6 +1652,7 @@ https://www.crazygames.com/game/gumball-drop
 https://www.crazygames.com/game/gummy-blocks-battle
 https://www.crazygames.com/game/gun-fu-stickman-2-zzv
 https://www.crazygames.com/game/gun-master
+https://www.crazygames.com/game/gun-match-screw
 https://www.crazygames.com/game/gun-mayhem
 https://www.crazygames.com/game/gun-mayhem-2
 https://www.crazygames.com/game/gun-mayhem-redux
@@ -3721,6 +3723,7 @@ https://www.crazygames.com/game/tap-reveal
 https://www.crazygames.com/game/tap-supermarket
 https://www.crazygames.com/game/tap-tap-goose
 https://www.crazygames.com/game/tap-tap-shots
+https://www.crazygames.com/game/tapdown-dungeon
 https://www.crazygames.com/game/tasty-jewel-joy
 https://www.crazygames.com/game/tasty-match-mahjong-pairs
 https://www.crazygames.com/game/tavern-master
@@ -4709,6 +4712,8 @@ https://www.crazygames.com/t/speed/2
 https://www.crazygames.com/t/speed/3
 https://www.crazygames.com/t/spiderman
 https://www.crazygames.com/t/spot-the-difference
+https://www.crazygames.com/t/spotlight
+https://www.crazygames.com/t/spotlight/2
 https://www.crazygames.com/t/stick
 https://www.crazygames.com/t/stick/2
 https://www.crazygames.com/t/stick/3

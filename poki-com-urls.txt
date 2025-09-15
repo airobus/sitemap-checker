@@ -1157,7 +1157,6 @@ https://poki.com/en/g/mahjong-linker-kyodai-game
 https://poki.com/en/g/mahjong-pyramids
 https://poki.com/en/g/mahjong-sweet-connection
 https://poki.com/en/g/make-a-squad-8d0cfccd
-https://poki.com/en/g/make-it-meme
 https://poki.com/en/g/mall-tycoon
 https://poki.com/en/g/malletmania
 https://poki.com/en/g/man-vs-missiles
@@ -1409,6 +1408,7 @@ https://poki.com/en/g/penalty-shooters
 https://poki.com/en/g/penalty-shooters-2
 https://poki.com/en/g/penalty-shooters-x
 https://poki.com/en/g/penalty-superstar
+https://poki.com/en/g/penguin-beach-club
 https://poki.com/en/g/perfect-dunk
 https://poki.com/en/g/perfect-landing-plane-pilot
 https://poki.com/en/g/perfect-peel
@@ -1741,7 +1741,7 @@ https://poki.com/en/g/spaders
 https://poki.com/en/g/spades
 https://poki.com/en/g/sparkanoid
 https://poki.com/en/g/spectrum
-https://poki.com/en/g/speed-dash-c323c7f4
+https://poki.com/en/g/speed-dash
 https://poki.com/en/g/speed-king
 https://poki.com/en/g/speed-pool-king
 https://poki.com/en/g/speedrun-obby
