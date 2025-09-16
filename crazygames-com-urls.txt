@@ -488,6 +488,7 @@ https://www.crazygames.com/game/boom-land-lite
 https://www.crazygames.com/game/boom-slingers-reboom
 https://www.crazygames.com/game/boom-vid
 https://www.crazygames.com/game/boomcraft
+https://www.crazygames.com/game/boomdozer
 https://www.crazygames.com/game/boomerang-chang
 https://www.crazygames.com/game/bore-blasters
 https://www.crazygames.com/game/bot-bumper
@@ -1684,6 +1685,7 @@ https://www.crazygames.com/game/happy-burger
 https://www.crazygames.com/game/happy-cakes
 https://www.crazygames.com/game/happy-dog
 https://www.crazygames.com/game/happy-farm-the-crop
+https://www.crazygames.com/game/happy-safari
 https://www.crazygames.com/game/happy-town
 https://www.crazygames.com/game/happy-wheels
 https://www.crazygames.com/game/happyville-merge-farm-gtu
@@ -1985,6 +1987,7 @@ https://www.crazygames.com/game/johnny-rocketfingers-2
 https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
+https://www.crazygames.com/game/juicy-trap
 https://www.crazygames.com/game/juicyjong
 https://www.crazygames.com/game/jump-and-hover
 https://www.crazygames.com/game/jump-guys
@@ -2021,6 +2024,7 @@ https://www.crazygames.com/game/kill-boi-9000
 https://www.crazygames.com/game/kill-the-ice-age-baby-adventure
 https://www.crazygames.com/game/kill-the-spartan
 https://www.crazygames.com/game/killer-whale
+https://www.crazygames.com/game/killover-qjn
 https://www.crazygames.com/game/king-io-world-war
 https://www.crazygames.com/game/king-of-street-football-nuo
 https://www.crazygames.com/game/king-of-thieves
@@ -2085,6 +2089,7 @@ https://www.crazygames.com/game/kogarashi
 https://www.crazygames.com/game/kour-io
 https://www.crazygames.com/game/krakax-com
 https://www.crazygames.com/game/krampus
+https://www.crazygames.com/game/krash-karts
 https://www.crazygames.com/game/krazy-kitchen
 https://www.crazygames.com/game/krewio
 https://www.crazygames.com/game/krunker-io
@@ -3147,6 +3152,7 @@ https://www.crazygames.com/game/rooftop-run
 https://www.crazygames.com/game/rooftop-snipers
 https://www.crazygames.com/game/room-clicker
 https://www.crazygames.com/game/room-escape-strange-case
+https://www.crazygames.com/game/roombox-design
 https://www.crazygames.com/game/rooms-home-escape
 https://www.crazygames.com/game/rooney-on-the-rampage
 https://www.crazygames.com/game/root-vegetables-co
@@ -3404,6 +3410,7 @@ https://www.crazygames.com/game/solitaire-frvr
 https://www.crazygames.com/game/solitaire-klondike
 https://www.crazygames.com/game/solitaire-reverse
 https://www.crazygames.com/game/solitaire-the-great-journey
+https://www.crazygames.com/game/solitairetripeaks-island-expeditio
 https://www.crazygames.com/game/solitr-com
 https://www.crazygames.com/game/sonny
 https://www.crazygames.com/game/sonny-2

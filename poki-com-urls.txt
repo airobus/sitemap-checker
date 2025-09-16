@@ -124,6 +124,7 @@ https://poki.com/en/g/battleship
 https://poki.com/en/g/battleship-war
 https://poki.com/en/g/battleships-armada
 https://poki.com/en/g/beach-boxing-simulator
+https://poki.com/en/g/beardie-craft-survival
 https://poki.com/en/g/bearsus
 https://poki.com/en/g/beat-dancer
 https://poki.com/en/g/beauty-salon
@@ -1520,6 +1521,7 @@ https://poki.com/en/g/race-madness
 https://poki.com/en/g/raft-wars
 https://poki.com/en/g/raft-wars-2
 https://poki.com/en/g/raft-wars-multiplayer
+https://poki.com/en/g/rag-flash
 https://poki.com/en/g/ragdoll-fall
 https://poki.com/en/g/ragdoll-hit
 https://poki.com/en/g/ragdoll-soccer
@@ -2162,6 +2164,7 @@ https://poki.com/en/g/wordsmith
 https://poki.com/en/g/wordssearch
 https://poki.com/en/g/wordy-pop
 https://poki.com/en/g/world-conquest
+https://poki.com/en/g/world-of-screw
 https://poki.com/en/g/world-wrestling-23
 https://poki.com/en/g/worlds-hardest-game
 https://poki.com/en/g/worms-stretch
