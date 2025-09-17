@@ -90,6 +90,7 @@ https://www.twoplayergames.org/game/anime-legends-2-5
 https://www.twoplayergames.org/game/anime-street-fighter
 https://www.twoplayergames.org/game/another-life-2
 https://www.twoplayergames.org/game/ants-empire-evolve-sim
+https://www.twoplayergames.org/game/aod-art-of-defense
 https://www.twoplayergames.org/game/appel
 https://www.twoplayergames.org/game/apple-shooter-remastered
 https://www.twoplayergames.org/game/aquapark-ball-party
@@ -479,6 +480,7 @@ https://www.twoplayergames.org/game/crazy-nannoths
 https://www.twoplayergames.org/game/crazy-pizza
 https://www.twoplayergames.org/game/crazy-plane-landing
 https://www.twoplayergames.org/game/crazy-push
+https://www.twoplayergames.org/game/crazy-stunts-3d
 https://www.twoplayergames.org/game/crazy-super-bunnies
 https://www.twoplayergames.org/game/cristiano-ronaldo-kick-n-run
 https://www.twoplayergames.org/game/crossbar-challenge
@@ -688,6 +690,7 @@ https://www.twoplayergames.org/game/epic-clash
 https://www.twoplayergames.org/game/erase-the-extra-element
 https://www.twoplayergames.org/game/escape-from-school-hellish-teacher
 https://www.twoplayergames.org/game/escape-out
+https://www.twoplayergames.org/game/escape-raid
 https://www.twoplayergames.org/game/escape-road
 https://www.twoplayergames.org/game/escape-road-2
 https://www.twoplayergames.org/game/escape-road-city
@@ -1663,6 +1666,7 @@ https://www.twoplayergames.org/game/save-the-ball
 https://www.twoplayergames.org/game/scary-teacher-3d
 https://www.twoplayergames.org/game/school-stories-teacher-simulator
 https://www.twoplayergames.org/game/school-teacher-simulator
+https://www.twoplayergames.org/game/schoolboy-runaway-room-escape
 https://www.twoplayergames.org/game/sci-fighters
 https://www.twoplayergames.org/game/scooter-stunt-simulator
 https://www.twoplayergames.org/game/sd-robo-battle-arena

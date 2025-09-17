@@ -112,6 +112,7 @@ https://www.crazygames.com/game/3d-underground-car-parking
 https://www.crazygames.com/game/4-in-a-row-connected-multiplayer-online
 https://www.crazygames.com/game/4-wheel-madness
 https://www.crazygames.com/game/456-guys
+https://www.crazygames.com/game/4hexa
 https://www.crazygames.com/game/4th-and-goal-2019
 https://www.crazygames.com/game/4x4-chess
 https://www.crazygames.com/game/4x4-offroader
@@ -2214,6 +2215,7 @@ https://www.crazygames.com/game/mad-evolution-idle-merge
 https://www.crazygames.com/game/mad-guns---battle-royale-ndd
 https://www.crazygames.com/game/mad-royale-tactics
 https://www.crazygames.com/game/mad-stick
+https://www.crazygames.com/game/mad-team-battle-royale
 https://www.crazygames.com/game/mad-town-andreas-mafia-storie
 https://www.crazygames.com/game/mad-truck-challenge-special
 https://www.crazygames.com/game/madalin-cars-multiplayer
@@ -2684,6 +2686,7 @@ https://www.crazygames.com/game/obby-tame-the-legendary-dragon
 https://www.crazygames.com/game/obby-the-royal-race
 https://www.crazygames.com/game/obby-with-friends-draw-and-jump
 https://www.crazygames.com/game/obby-world-squid-escape
+https://www.crazygames.com/game/obby-yard-sale
 https://www.crazygames.com/game/obstacle-course-ragdoll
 https://www.crazygames.com/game/obstacle-race-destroying-simulator
 https://www.crazygames.com/game/ocean-blast
