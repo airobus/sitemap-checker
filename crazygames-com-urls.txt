@@ -47,6 +47,7 @@ https://www.crazygames.com/c/clicker/2
 https://www.crazygames.com/c/clicker/3
 https://www.crazygames.com/c/clicker/4
 https://www.crazygames.com/c/clicker/5
+https://www.crazygames.com/c/clicker/6
 https://www.crazygames.com/c/driving
 https://www.crazygames.com/c/driving/2
 https://www.crazygames.com/c/driving/3
@@ -91,7 +92,6 @@ https://www.crazygames.com/game/12-minibattles
 https://www.crazygames.com/game/13-days-in-hell
 https://www.crazygames.com/game/15-seconds
 https://www.crazygames.com/game/1941-frozen-front
-https://www.crazygames.com/game/1v1-lol
 https://www.crazygames.com/game/2-player-tag
 https://www.crazygames.com/game/2-player-tron-1-9
 https://www.crazygames.com/game/2048
@@ -672,10 +672,12 @@ https://www.crazygames.com/game/cat-warrior-parkour
 https://www.crazygames.com/game/catch-a-rock-nbq
 https://www.crazygames.com/game/catch-tiles-piano-game
 https://www.crazygames.com/game/categories
+https://www.crazygames.com/game/caterpillars
 https://www.crazygames.com/game/cats-and-bees
 https://www.crazygames.com/game/catty-s-fishing-day
 https://www.crazygames.com/game/cave-frvr
 https://www.crazygames.com/game/caveman-life
+https://www.crazygames.com/game/cavern-clicker
 https://www.crazygames.com/game/cavern-from-the-fog
 https://www.crazygames.com/game/celestina-chapter-two
 https://www.crazygames.com/game/cell-to-singularity-mesozoic-valley
@@ -1887,6 +1889,7 @@ https://www.crazygames.com/game/idle-noob-lumberjack
 https://www.crazygames.com/game/idle-pet-business
 https://www.crazygames.com/game/idle-pinball-breakout
 https://www.crazygames.com/game/idle-planet-gym-tycoon
+https://www.crazygames.com/game/idle-pop-merge-cqt
 https://www.crazygames.com/game/idle-printers
 https://www.crazygames.com/game/idle-printers-2
 https://www.crazygames.com/game/idle-reincarnator
@@ -1985,7 +1988,6 @@ https://www.crazygames.com/game/jingle-defense
 https://www.crazygames.com/game/johnny-n-tommy---prank-masters
 https://www.crazygames.com/game/johnny-rocketfingers
 https://www.crazygames.com/game/johnny-rocketfingers-2
-https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
 https://www.crazygames.com/game/juicy-trap
@@ -3170,6 +3172,7 @@ https://www.crazygames.com/game/royal-city-clashers-3
 https://www.crazygames.com/game/royal-dress-up---fashion-queen
 https://www.crazygames.com/game/royal-merge
 https://www.crazygames.com/game/royal-pool
+https://www.crazygames.com/game/royal-square
 https://www.crazygames.com/game/rpg-idle-clicker-uzz
 https://www.crazygames.com/game/rsvp
 https://www.crazygames.com/game/rude-races

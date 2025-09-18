@@ -1180,6 +1180,7 @@ https://poki.com/en/g/maze-path-of-light
 https://poki.com/en/g/maze-speedrun
 https://poki.com/en/g/mech-bots-arena
 https://poki.com/en/g/mechabots
+https://poki.com/en/g/mechangelion-robot-fighting
 https://poki.com/en/g/mekabolt
 https://poki.com/en/g/mekorama
 https://poki.com/en/g/meme-madness
@@ -1243,6 +1244,7 @@ https://poki.com/en/g/monster-duo
 https://poki.com/en/g/monster-huntress
 https://poki.com/en/g/monster-mash
 https://poki.com/en/g/monster-match
+https://poki.com/en/g/monster-max-e62bbcd6
 https://poki.com/en/g/monster-merge
 https://poki.com/en/g/monster-tracks
 https://poki.com/en/g/monster-truck-forest-delivery
@@ -1317,6 +1319,7 @@ https://poki.com/en/g/ninja-mouse
 https://poki.com/en/g/ninja-shurican
 https://poki.com/en/g/ninja-vs-evilcorp
 https://poki.com/en/g/nitrome-must-die
+https://poki.com/en/g/no-pain-no-gain
 https://poki.com/en/g/nonogram
 https://poki.com/en/g/noob-archer
 https://poki.com/en/g/noob-drive
