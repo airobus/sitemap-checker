@@ -161,7 +161,6 @@ https://www.crazygames.com/game/aim-master
 https://www.crazygames.com/game/aim-trainer-idle
 https://www.crazygames.com/game/air-battle-royale-sky-blitz
 https://www.crazygames.com/game/air-block
-https://www.crazygames.com/game/air-defence-3
 https://www.crazygames.com/game/air-hockey-cup
 https://www.crazygames.com/game/air-strike
 https://www.crazygames.com/game/airborne-motocross
@@ -369,7 +368,6 @@ https://www.crazygames.com/game/bees-clicker
 https://www.crazygames.com/game/behold-battle
 https://www.crazygames.com/game/bell-madness
 https://www.crazygames.com/game/berzingue
-https://www.crazygames.com/game/betrayal-io
 https://www.crazygames.com/game/bff-math-class
 https://www.crazygames.com/game/bffs-black-friday-shopping
 https://www.crazygames.com/game/bffs-golden-hour
@@ -657,7 +655,6 @@ https://www.crazygames.com/game/castle-defender-saga
 https://www.crazygames.com/game/castle-keeper
 https://www.crazygames.com/game/castle-wars
 https://www.crazygames.com/game/castle-wars-middle-ages
-https://www.crazygames.com/game/castles-cc
 https://www.crazygames.com/game/cat-and-granny-original
 https://www.crazygames.com/game/cat-bakery
 https://www.crazygames.com/game/cat-burglar-and-the-magic-museum
@@ -1275,7 +1272,6 @@ https://www.crazygames.com/game/espn-arcade-baseball
 https://www.crazygames.com/game/eternal-road
 https://www.crazygames.com/game/eternal-siege
 https://www.crazygames.com/game/euro-truck-driving-simulator-2025
-https://www.crazygames.com/game/ev-io
 https://www.crazygames.com/game/evade
 https://www.crazygames.com/game/everytown
 https://www.crazygames.com/game/evil-father
@@ -1865,6 +1861,7 @@ https://www.crazygames.com/game/idle-crushing-block
 https://www.crazygames.com/game/idle-dangers
 https://www.crazygames.com/game/idle-defence
 https://www.crazygames.com/game/idle-dice
+https://www.crazygames.com/game/idle-dig-gold
 https://www.crazygames.com/game/idle-dino-farm-tycoon-3d
 https://www.crazygames.com/game/idle-emoji-factory
 https://www.crazygames.com/game/idle-farming-business
@@ -1946,6 +1943,7 @@ https://www.crazygames.com/game/intrusion
 https://www.crazygames.com/game/iron-bastion-tower-defense
 https://www.crazygames.com/game/iron-crusher
 https://www.crazygames.com/game/iron-friend
+https://www.crazygames.com/game/iron-legion
 https://www.crazygames.com/game/iron-towers-alliance
 https://www.crazygames.com/game/is-today-another-day
 https://www.crazygames.com/game/island-builder
@@ -3017,6 +3015,7 @@ https://www.crazygames.com/game/python-snake-simulator
 https://www.crazygames.com/game/qb-legend
 https://www.crazygames.com/game/quantum-god
 https://www.crazygames.com/game/qube-2048-elf
+https://www.crazygames.com/game/quizmania-trivia-game
 https://www.crazygames.com/game/quizzland-lite
 https://www.crazygames.com/game/quoridor
 https://www.crazygames.com/game/raccoon-adventure-city-simulator-3d
@@ -3042,7 +3041,6 @@ https://www.crazygames.com/game/ragdoll-fight
 https://www.crazygames.com/game/ragdoll-ninja-imposter-hero
 https://www.crazygames.com/game/ragdoll-soccer-2-players
 https://www.crazygames.com/game/ragdoll-throw-challenge
-https://www.crazygames.com/game/rage
 https://www.crazygames.com/game/raid-heroes-dragon-age
 https://www.crazygames.com/game/raid-heroes-total-war-cgb
 https://www.crazygames.com/game/raidfield-2-pjc
@@ -3076,6 +3074,7 @@ https://www.crazygames.com/game/real-drive-3d-parking-games
 https://www.crazygames.com/game/real-fishing-simulator
 https://www.crazygames.com/game/real-minecraft
 https://www.crazygames.com/game/real-simulator-monster-truck
+https://www.crazygames.com/game/real-warships
 https://www.crazygames.com/game/realderby---crash-day
 https://www.crazygames.com/game/realdrive-feel-the-real-drive
 https://www.crazygames.com/game/red
@@ -3120,6 +3119,7 @@ https://www.crazygames.com/game/rise-of-the-blobs-ehk
 https://www.crazygames.com/game/risehero
 https://www.crazygames.com/game/road-battle-gather-the-gang-vvf
 https://www.crazygames.com/game/road-master
+https://www.crazygames.com/game/road-of-fury-4-kdg
 https://www.crazygames.com/game/road-turn
 https://www.crazygames.com/game/robbie-game-challenges
 https://www.crazygames.com/game/robbie-the-robot
@@ -3329,7 +3329,6 @@ https://www.crazygames.com/game/slap-castle
 https://www.crazygames.com/game/slash-royal
 https://www.crazygames.com/game/slash-the-rope
 https://www.crazygames.com/game/slasher
-https://www.crazygames.com/game/sleep-walk
 https://www.crazygames.com/game/slender-clown-be-afraid-of-it
 https://www.crazygames.com/game/slenderina-must-die
 https://www.crazygames.com/game/slenderman-must-die-abandoned-graveyard
@@ -3438,7 +3437,6 @@ https://www.crazygames.com/game/space-hex-war-merge-shooter
 https://www.crazygames.com/game/space-invaders
 https://www.crazygames.com/game/space-io-vft
 https://www.crazygames.com/game/space-museum-escape
-https://www.crazygames.com/game/space-pizza-ydi
 https://www.crazygames.com/game/space-racing-3d-void
 https://www.crazygames.com/game/space-rescue
 https://www.crazygames.com/game/space-survivor
@@ -3488,7 +3486,6 @@ https://www.crazygames.com/game/square-bird
 https://www.crazygames.com/game/square-punki-long-hand
 https://www.crazygames.com/game/squarehead-hero-jeg
 https://www.crazygames.com/game/squarun
-https://www.crazygames.com/game/squeaky-rafts
 https://www.crazygames.com/game/squid-game
 https://www.crazygames.com/game/squid-game-online
 https://www.crazygames.com/game/squirrel-with-a-gun
@@ -3518,7 +3515,6 @@ https://www.crazygames.com/game/stellar-mines-space-miner
 https://www.crazygames.com/game/steve-s-world
 https://www.crazygames.com/game/stick-animator
 https://www.crazygames.com/game/stick-archers-battle
-https://www.crazygames.com/game/stick-beard
 https://www.crazygames.com/game/stick-crush
 https://www.crazygames.com/game/stick-epic-fighter
 https://www.crazygames.com/game/stick-fighter-vs-zombies
@@ -4110,7 +4106,6 @@ https://www.crazygames.com/game/wolf-family-simulator
 https://www.crazygames.com/game/wolf-simulator-wild-animals-3d
 https://www.crazygames.com/game/wolverine-tokyo-fury
 https://www.crazygames.com/game/wonder-rocket
-https://www.crazygames.com/game/wonderputt
 https://www.crazygames.com/game/wood-block-journey
 https://www.crazygames.com/game/wood-blocks
 https://www.crazygames.com/game/wood-blocks-jam
