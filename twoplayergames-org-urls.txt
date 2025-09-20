@@ -503,6 +503,7 @@ https://www.twoplayergames.org/game/cuberealm-io
 https://www.twoplayergames.org/game/cursed-treasure
 https://www.twoplayergames.org/game/cursed-treasure-2
 https://www.twoplayergames.org/game/curve-rush
+https://www.twoplayergames.org/game/curvy-punch-3d
 https://www.twoplayergames.org/game/cut-the-rope
 https://www.twoplayergames.org/game/cut-the-rope-2
 https://www.twoplayergames.org/game/cut-the-rope-experiments
@@ -877,6 +878,7 @@ https://www.twoplayergames.org/game/geometry-dash-wave
 https://www.twoplayergames.org/game/geometry-flap
 https://www.twoplayergames.org/game/geometry-jump
 https://www.twoplayergames.org/game/geometry-jump-sketchy
+https://www.twoplayergames.org/game/geometry-lite-classic
 https://www.twoplayergames.org/game/geometry-open-world
 https://www.twoplayergames.org/game/geometry-platformer
 https://www.twoplayergames.org/game/geometry-vibes

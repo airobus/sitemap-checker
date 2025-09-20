@@ -5378,6 +5378,7 @@ https://gamedistribution.com/games/block-mania/
 https://gamedistribution.com/games/block-match-8x8/
 https://gamedistribution.com/games/block-merge-city/
 https://gamedistribution.com/games/block-mine-fuse-tnt/
+https://gamedistribution.com/games/block-parkour-trials/
 https://gamedistribution.com/games/block-pile/
 https://gamedistribution.com/games/block-pixel-cop/
 https://gamedistribution.com/games/block-pixels/
@@ -9906,6 +9907,7 @@ https://gamedistribution.com/games/dragonsro/
 https://gamedistribution.com/games/drake-jigsaw/
 https://gamedistribution.com/games/draw-2-save-doge/
 https://gamedistribution.com/games/draw-2-save-stickman-rescue/
+https://gamedistribution.com/games/draw-a-path-to-the-finish-line!/
 https://gamedistribution.com/games/draw-a-weapon-2d-puzzle-game/
 https://gamedistribution.com/games/draw-and-destroy/
 https://gamedistribution.com/games/draw-and-escape/
@@ -13400,6 +13402,7 @@ https://gamedistribution.com/games/goods-master-3d/
 https://gamedistribution.com/games/goods-sort-master/
 https://gamedistribution.com/games/goof-runner/
 https://gamedistribution.com/games/google-feud/
+https://gamedistribution.com/games/goon-ball/
 https://gamedistribution.com/games/goose-game-multiplayer/
 https://gamedistribution.com/games/goose-golden-egg-escape/
 https://gamedistribution.com/games/goosegameio/
@@ -24772,6 +24775,7 @@ https://gamedistribution.com/games/square-jump/
 https://gamedistribution.com/games/square-mineblock/
 https://gamedistribution.com/games/square-monsters/
 https://gamedistribution.com/games/square-pixel-slime/
+https://gamedistribution.com/games/square-punki-long-hand/
 https://gamedistribution.com/games/square-puzzle/
 https://gamedistribution.com/games/square-rush/
 https://gamedistribution.com/games/square-world-3d/
@@ -26651,6 +26655,7 @@ https://gamedistribution.com/games/tile-master-deluxe/
 https://gamedistribution.com/games/tile-master-match/
 https://gamedistribution.com/games/tile-master-puzzle/
 https://gamedistribution.com/games/tile-match%3A-the-immersive-puzzle/
+https://gamedistribution.com/games/tile-match-cafe/
 https://gamedistribution.com/games/tile-match-connect-3-tiles/
 https://gamedistribution.com/games/tile-match-farm/
 https://gamedistribution.com/games/tile-match-fun/
@@ -27144,6 +27149,7 @@ https://gamedistribution.com/games/tricky-arrow-2/
 https://gamedistribution.com/games/tricky-arrow/
 https://gamedistribution.com/games/tricky-bike-stuntbike-game-2020/
 https://gamedistribution.com/games/tricky-castle/
+https://gamedistribution.com/games/tricky-challenges%3A-mini-games/
 https://gamedistribution.com/games/tricky-falling-ball/
 https://gamedistribution.com/games/tricky-impossible-tracks-car-stunt-racing/
 https://gamedistribution.com/games/tricky-kick/
