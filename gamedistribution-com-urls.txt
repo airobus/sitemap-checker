@@ -3251,6 +3251,7 @@ https://gamedistribution.com/games/alien-the-way-of-love/
 https://gamedistribution.com/games/alien-town/
 https://gamedistribution.com/games/alien-war/
 https://gamedistribution.com/games/alien-world/
+https://gamedistribution.com/games/alien-wreckage-1/
 https://gamedistribution.com/games/aliens-attack/
 https://gamedistribution.com/games/aliens-bubble-shooter/
 https://gamedistribution.com/games/aliens-in-charge/
@@ -4445,6 +4446,7 @@ https://gamedistribution.com/games/ball-hop/
 https://gamedistribution.com/games/ball-in-the-hole/
 https://gamedistribution.com/games/ball-jump-3d/
 https://gamedistribution.com/games/ball-jump-piano-tile/
+https://gamedistribution.com/games/ball-jump-switch-the-colors/
 https://gamedistribution.com/games/ball-jump/
 https://gamedistribution.com/games/ball-jumper/
 https://gamedistribution.com/games/ball-legs-3d/
@@ -5310,6 +5312,7 @@ https://gamedistribution.com/games/blacksmith-clicker/
 https://gamedistribution.com/games/blade-forge-3d/
 https://gamedistribution.com/games/bladeio/
 https://gamedistribution.com/games/blades-battle/
+https://gamedistribution.com/games/blankets/
 https://gamedistribution.com/games/blasen-schiessen-tier/
 https://gamedistribution.com/games/blast-away-ball-drop/
 https://gamedistribution.com/games/blast-mania/
@@ -6189,6 +6192,7 @@ https://gamedistribution.com/games/bubble-shooter-golden-football/
 https://gamedistribution.com/games/bubble-shooter-halloween-1/
 https://gamedistribution.com/games/bubble-shooter-halloween-special/
 https://gamedistribution.com/games/bubble-shooter-halloween/
+https://gamedistribution.com/games/bubble-shooter-hawaii/
 https://gamedistribution.com/games/bubble-shooter-hd-2/
 https://gamedistribution.com/games/bubble-shooter-hd-3/
 https://gamedistribution.com/games/bubble-shooter-hd-ja/
@@ -12371,6 +12375,7 @@ https://gamedistribution.com/games/forest-cave-escape-/
 https://gamedistribution.com/games/forest-creature/
 https://gamedistribution.com/games/forest-fairy-dressup/
 https://gamedistribution.com/games/forest-game/
+https://gamedistribution.com/games/forest-glade-mysteries/
 https://gamedistribution.com/games/forest-golden-egg-escape/
 https://gamedistribution.com/games/forest-hidden-stars/
 https://gamedistribution.com/games/forest-house-dragon-escape-sivi/
@@ -20177,6 +20182,7 @@ https://gamedistribution.com/games/pga3-survival/
 https://gamedistribution.com/games/phantom-castle-escape/
 https://gamedistribution.com/games/phantom-forest-escape/
 https://gamedistribution.com/games/phantom-golf-driver/
+https://gamedistribution.com/games/phantom-thief-cat-running/
 https://gamedistribution.com/games/pharaoh-house-hidden-object/
 https://gamedistribution.com/games/pharaoh-slots-casino/
 https://gamedistribution.com/games/phase-10/
@@ -20396,6 +20402,7 @@ https://gamedistribution.com/games/pixel-battle-royale/
 https://gamedistribution.com/games/pixel-battlegroundsio/
 https://gamedistribution.com/games/pixel-battles/
 https://gamedistribution.com/games/pixel-bighead-run/
+https://gamedistribution.com/games/pixel-blast/
 https://gamedistribution.com/games/pixel-block-3d/
 https://gamedistribution.com/games/pixel-blocky-land-multiplayer/
 https://gamedistribution.com/games/pixel-bounce/
@@ -25955,6 +25962,7 @@ https://gamedistribution.com/games/sweety-mahjong-1/
 https://gamedistribution.com/games/sweety-mahjong/
 https://gamedistribution.com/games/sweety-memory-1/
 https://gamedistribution.com/games/swift-cats/
+https://gamedistribution.com/games/swim-good/
 https://gamedistribution.com/games/swimming-hero/
 https://gamedistribution.com/games/swimming-pool-romance/
 https://gamedistribution.com/games/swimming-pro/
@@ -26586,6 +26594,7 @@ https://gamedistribution.com/games/three-lines/
 https://gamedistribution.com/games/thrill-roller-coaster/
 https://gamedistribution.com/games/thrilling-snow-motor/
 https://gamedistribution.com/games/throne-vs-balloons/
+https://gamedistribution.com/games/through-the-wall-1/
 https://gamedistribution.com/games/through-the-wall/
 https://gamedistribution.com/games/throw-ball-in-the-hole/
 https://gamedistribution.com/games/throw-ball/
@@ -27066,6 +27075,7 @@ https://gamedistribution.com/games/train-taxi/
 https://gamedistribution.com/games/train/
 https://gamedistribution.com/games/trains-for-kids-coloring/
 https://gamedistribution.com/games/trainsio-3d/
+https://gamedistribution.com/games/traitor-beaver!/
 https://gamedistribution.com/games/tralala-connect/
 https://gamedistribution.com/games/tralala-la-la-la-italiano/
 https://gamedistribution.com/games/tram-driving-frenzy/
@@ -28875,6 +28885,7 @@ https://gamedistribution.com/games/zombie-redemption/
 https://gamedistribution.com/games/zombie-reform/
 https://gamedistribution.com/games/zombie-reunion/
 https://gamedistribution.com/games/zombie-rising-dead-frontier/
+https://gamedistribution.com/games/zombie-road%3A-shooter-with-destruction/
 https://gamedistribution.com/games/zombie-road-1/
 https://gamedistribution.com/games/zombie-road-2/
 https://gamedistribution.com/games/zombie-road-3/
