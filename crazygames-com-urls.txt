@@ -522,6 +522,7 @@ https://www.crazygames.com/game/brainrot-evolution-2048-merge-fight
 https://www.crazygames.com/game/brainrot-idle-clicker
 https://www.crazygames.com/game/brainrot-merge-drop-puzzle-twt
 https://www.crazygames.com/game/brat-girl-summer
+https://www.crazygames.com/game/brave-survivor
 https://www.crazygames.com/game/brawl-frenzy-fight-io
 https://www.crazygames.com/game/brawl-hero
 https://www.crazygames.com/game/break-free
@@ -1160,6 +1161,7 @@ https://www.crazygames.com/game/drift-runner-3d
 https://www.crazygames.com/game/drift-zero
 https://www.crazygames.com/game/drill-quest
 https://www.crazygames.com/game/drive-or-die-zombie-pixel-racing
+https://www.crazygames.com/game/drive-quest---car-game
 https://www.crazygames.com/game/drive-taxi
 https://www.crazygames.com/game/driver-club-highway-racing
 https://www.crazygames.com/game/drivetown
@@ -2475,7 +2477,6 @@ https://www.crazygames.com/game/monster-battle
 https://www.crazygames.com/game/monster-box-bae
 https://www.crazygames.com/game/monster-cars-ultimate-simulator
 https://www.crazygames.com/game/monster-christmas-terror
-https://www.crazygames.com/game/monster-clearer
 https://www.crazygames.com/game/monster-defense-kaf
 https://www.crazygames.com/game/monster-duel
 https://www.crazygames.com/game/monster-girl-dress-up-makeup
@@ -3758,6 +3759,7 @@ https://www.crazygames.com/game/tennis-masters
 https://www.crazygames.com/game/tentrix
 https://www.crazygames.com/game/terraforma
 https://www.crazygames.com/game/territory-war
+https://www.crazygames.com/game/test-jonathan
 https://www.crazygames.com/game/tetris-with-physics
 https://www.crazygames.com/game/tetrix-2
 https://www.crazygames.com/game/thats-my-recipe
@@ -3850,6 +3852,7 @@ https://www.crazygames.com/game/tile-craft-3d
 https://www.crazygames.com/game/tile-dreams---relaxing-puzzle
 https://www.crazygames.com/game/tile-farm-story-matching-game
 https://www.crazygames.com/game/tile-guru
+https://www.crazygames.com/game/tile-jam
 https://www.crazygames.com/game/tile-journey
 https://www.crazygames.com/game/tile-jumper-3d
 https://www.crazygames.com/game/tile-match-3-puzzle-mahjong
