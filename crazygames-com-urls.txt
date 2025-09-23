@@ -398,6 +398,7 @@ https://www.crazygames.com/game/bio-zone
 https://www.crazygames.com/game/biomons-island-3d
 https://www.crazygames.com/game/bird-flight-idle
 https://www.crazygames.com/game/bird-sort-puzzle
+https://www.crazygames.com/game/bit-coin-clicker-yxi
 https://www.crazygames.com/game/bit-gun-io
 https://www.crazygames.com/game/bitcoin-mining-simulator
 https://www.crazygames.com/game/bitcoiner-dth
@@ -1933,6 +1934,7 @@ https://www.crazygames.com/game/infiltrating-the-airship
 https://www.crazygames.com/game/infinite-asteroids
 https://www.crazygames.com/game/infinite-heroes
 https://www.crazygames.com/game/infinite-launch
+https://www.crazygames.com/game/infinity-kingdom
 https://www.crazygames.com/game/infinity-toower
 https://www.crazygames.com/game/injustice-gods-among-us
 https://www.crazygames.com/game/ink-shop-dress-tattoo-games
@@ -2660,6 +2662,7 @@ https://www.crazygames.com/game/nubik-vs-herobrin-s-army
 https://www.crazygames.com/game/nuclear-day
 https://www.crazygames.com/game/nuggetroyale-io
 https://www.crazygames.com/game/nullify
+https://www.crazygames.com/game/number-blast-2048
 https://www.crazygames.com/game/number-digger
 https://www.crazygames.com/game/number-line-match
 https://www.crazygames.com/game/number-masters
@@ -2765,6 +2768,7 @@ https://www.crazygames.com/game/pancake-maker-cooking-game
 https://www.crazygames.com/game/panda-shop-simulator
 https://www.crazygames.com/game/panda-simulator-3d-animal-game
 https://www.crazygames.com/game/pandemic-2
+https://www.crazygames.com/game/pangolick-quest
 https://www.crazygames.com/game/panther-family-simulator-in-jungle
 https://www.crazygames.com/game/papa-cherry-saga
 https://www.crazygames.com/game/papa-louie
@@ -3759,7 +3763,6 @@ https://www.crazygames.com/game/tennis-masters
 https://www.crazygames.com/game/tentrix
 https://www.crazygames.com/game/terraforma
 https://www.crazygames.com/game/territory-war
-https://www.crazygames.com/game/test-jonathan
 https://www.crazygames.com/game/tetris-with-physics
 https://www.crazygames.com/game/tetrix-2
 https://www.crazygames.com/game/thats-my-recipe

@@ -240,7 +240,6 @@ https://poki.com/en/g/brainrot-craft
 https://poki.com/en/g/brainrot-ice-cream
 https://poki.com/en/g/brainrot-merge
 https://poki.com/en/g/brainrot-puzzle
-https://poki.com/en/g/brainrots
 https://poki.com/en/g/break-the-siesta
 https://poki.com/en/g/breaking-the-bank
 https://poki.com/en/g/breakoid
@@ -400,7 +399,7 @@ https://poki.com/en/g/classic-chess
 https://poki.com/en/g/classic-mahjong
 https://poki.com/en/g/classic-minesweeper
 https://poki.com/en/g/classic-solitaire
-https://poki.com/en/g/cleanscape-masters-b0882b41
+https://poki.com/en/g/cleanscape-masters
 https://poki.com/en/g/clicker-merge
 https://poki.com/en/g/climb-fling
 https://poki.com/en/g/climb-up
@@ -1413,7 +1412,6 @@ https://poki.com/en/g/penalty-shooters
 https://poki.com/en/g/penalty-shooters-2
 https://poki.com/en/g/penalty-shooters-x
 https://poki.com/en/g/penalty-superstar
-https://poki.com/en/g/penguin-beach-club
 https://poki.com/en/g/perfect-dunk
 https://poki.com/en/g/perfect-landing-plane-pilot
 https://poki.com/en/g/perfect-peel
@@ -1447,6 +1445,7 @@ https://poki.com/en/g/pixel-volley
 https://poki.com/en/g/pixlinks
 https://poki.com/en/g/pixwars-2
 https://poki.com/en/g/pixwars-3
+https://poki.com/en/g/pizza-day-2e7b32cd
 https://poki.com/en/g/pizza-tower
 https://poki.com/en/g/pizzafall
 https://poki.com/en/g/pizzapunk
@@ -1525,7 +1524,6 @@ https://poki.com/en/g/race-madness
 https://poki.com/en/g/raft-wars
 https://poki.com/en/g/raft-wars-2
 https://poki.com/en/g/raft-wars-multiplayer
-https://poki.com/en/g/rag-flash
 https://poki.com/en/g/ragdoll-drop
 https://poki.com/en/g/ragdoll-fall
 https://poki.com/en/g/ragdoll-hit
@@ -1573,6 +1571,7 @@ https://poki.com/en/g/right-jump
 https://poki.com/en/g/rio-rex
 https://poki.com/en/g/rise-of-pico
 https://poki.com/en/g/roar-rampage
+https://poki.com/en/g/robo-shop-5fddae0d
 https://poki.com/en/g/robot-awake
 https://poki.com/en/g/robots-market
 https://poki.com/en/g/rock-paper-clicker
@@ -1775,6 +1774,7 @@ https://poki.com/en/g/stacktris
 https://poki.com/en/g/star-blogger-left-or-right
 https://poki.com/en/g/star-catchers
 https://poki.com/en/g/steal-a-car
+https://poki.com/en/g/steal-and-run
 https://poki.com/en/g/stealing-the-diamond
 https://poki.com/en/g/step-and-slash
 https://poki.com/en/g/steve-and-the-duck-shooter
