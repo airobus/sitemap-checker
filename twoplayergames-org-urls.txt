@@ -30,6 +30,7 @@ https://www.twoplayergames.org/game/3-pandas
 https://www.twoplayergames.org/game/3-pandas-in-japan
 https://www.twoplayergames.org/game/360-smash
 https://www.twoplayergames.org/game/3d-arena-racing
+https://www.twoplayergames.org/game/3d-block-gladiator
 https://www.twoplayergames.org/game/3d-bowling
 https://www.twoplayergames.org/game/3d-connect-4
 https://www.twoplayergames.org/game/3d-fighting
@@ -38,6 +39,7 @@ https://www.twoplayergames.org/game/3d-neo-racing-multiplayer
 https://www.twoplayergames.org/game/3d-night-city
 https://www.twoplayergames.org/game/3d-pool
 https://www.twoplayergames.org/game/3d-rally-racing
+https://www.twoplayergames.org/game/3dash
 https://www.twoplayergames.org/game/4-colors-online
 https://www.twoplayergames.org/game/4-colors-world-tour-multiplayer
 https://www.twoplayergames.org/game/4-images-1-word
@@ -1382,6 +1384,7 @@ https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
 https://www.twoplayergames.org/game/obby-1-pet-every-seconds
 https://www.twoplayergames.org/game/obby-blox-parkour
 https://www.twoplayergames.org/game/obby-climb-and-slide
+https://www.twoplayergames.org/game/obby-dig-to-the-center-of-the-earth
 https://www.twoplayergames.org/game/obby-disaster-survival
 https://www.twoplayergames.org/game/obby-escape-prison-rat-dance
 https://www.twoplayergames.org/game/obby-gym-simulator-escape
@@ -2148,6 +2151,7 @@ https://www.twoplayergames.org/game/trench-runner
 https://www.twoplayergames.org/game/trial-bike-epic-stunts
 https://www.twoplayergames.org/game/trial-bike-racing-clash
 https://www.twoplayergames.org/game/trickshot-arena
+https://www.twoplayergames.org/game/tricky-challenges-mini-games
 https://www.twoplayergames.org/game/troll-boxing
 https://www.twoplayergames.org/game/troll-face-quest-usa-1
 https://www.twoplayergames.org/game/troll-face-quest-video-memes-and-tv-shows

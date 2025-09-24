@@ -1813,7 +1813,6 @@ https://www.crazygames.com/game/hula-hoop-race
 https://www.crazygames.com/game/human-mech
 https://www.crazygames.com/game/human-resistance
 https://www.crazygames.com/game/hungry-frog-zot
-https://www.crazygames.com/game/hungry-hamster
 https://www.crazygames.com/game/hungry-ocean-eat-feed-and-grow-fish
 https://www.crazygames.com/game/hungry-pet-mania
 https://www.crazygames.com/game/hunter-hitman
@@ -2234,6 +2233,7 @@ https://www.crazygames.com/game/mafia-billiard-tricks
 https://www.crazygames.com/game/mafia-business-empire-stickman-escape-3d
 https://www.crazygames.com/game/mage-and-monsters
 https://www.crazygames.com/game/mage-s-secret
+https://www.crazygames.com/game/mage-tower-idle-defense
 https://www.crazygames.com/game/mage-vs-monsters
 https://www.crazygames.com/game/mageclash-io
 https://www.crazygames.com/game/magic-chop-idle
@@ -2533,6 +2533,7 @@ https://www.crazygames.com/game/move-match-3d
 https://www.crazygames.com/game/mr-dude-king-of-the-hill
 https://www.crazygames.com/game/mr-dude-online-multiverse-challenge
 https://www.crazygames.com/game/mr-mine-escape
+https://www.crazygames.com/game/mr-pako---car-chase-simulator-nrt
 https://www.crazygames.com/game/mr-racer---car-racing
 https://www.crazygames.com/game/mr-racer-stunt-mania
 https://www.crazygames.com/game/mr-stretch-and-the-stolen-fortune
@@ -2808,6 +2809,7 @@ https://www.crazygames.com/game/parking-line
 https://www.crazygames.com/game/parking-panic
 https://www.crazygames.com/game/parking-race-drift-master
 https://www.crazygames.com/game/parking-space
+https://www.crazygames.com/game/parkinglot-rescue
 https://www.crazygames.com/game/parkour-first-person
 https://www.crazygames.com/game/parkour-go-gly
 https://www.crazygames.com/game/parkour-master
@@ -3345,6 +3347,7 @@ https://www.crazygames.com/game/slendrina-must-die-the-forest
 https://www.crazygames.com/game/slendrina-must-die-the-house
 https://www.crazygames.com/game/slendrina-must-die-the-school
 https://www.crazygames.com/game/slice-arena
+https://www.crazygames.com/game/slice-bullet
 https://www.crazygames.com/game/slice-it-all
 https://www.crazygames.com/game/slice-master
 https://www.crazygames.com/game/slicer-cursor-idle

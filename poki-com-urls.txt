@@ -915,7 +915,7 @@ https://poki.com/en/g/heroes-league
 https://poki.com/en/g/hex-frvr
 https://poki.com/en/g/hexa-match-hex-number-game
 https://poki.com/en/g/hexa-turn
-https://poki.com/en/g/hexa-war-idle-battle-1ed10730
+https://poki.com/en/g/hexa-war-idle-battle
 https://poki.com/en/g/hexagon-fall
 https://poki.com/en/g/hexamatch
 https://poki.com/en/g/hexellent
@@ -1571,7 +1571,7 @@ https://poki.com/en/g/right-jump
 https://poki.com/en/g/rio-rex
 https://poki.com/en/g/rise-of-pico
 https://poki.com/en/g/roar-rampage
-https://poki.com/en/g/robo-shop-5fddae0d
+https://poki.com/en/g/robo-shop
 https://poki.com/en/g/robot-awake
 https://poki.com/en/g/robots-market
 https://poki.com/en/g/rock-paper-clicker
