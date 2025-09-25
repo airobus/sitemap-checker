@@ -1200,6 +1200,7 @@ https://www.twoplayergames.org/game/making-car
 https://www.twoplayergames.org/game/mancala
 https://www.twoplayergames.org/game/mancala-3d
 https://www.twoplayergames.org/game/mandala-coloring-book
+https://www.twoplayergames.org/game/marble-run-3d
 https://www.twoplayergames.org/game/march-of-the-cards
 https://www.twoplayergames.org/game/martial-arts-fighter-duel
 https://www.twoplayergames.org/game/masha-and-the-bear-meadows
@@ -1327,6 +1328,7 @@ https://www.twoplayergames.org/game/multiplayer-drift
 https://www.twoplayergames.org/game/multiplayer-tetris
 https://www.twoplayergames.org/game/murder
 https://www.twoplayergames.org/game/murder-mafia
+https://www.twoplayergames.org/game/murderers-vs-sheriffs-duels
 https://www.twoplayergames.org/game/muscle-challenge
 https://www.twoplayergames.org/game/muscle-clicker
 https://www.twoplayergames.org/game/muscle-clicker-2-rpg-gym
@@ -1396,6 +1398,7 @@ https://www.twoplayergames.org/game/obby-survive-parkour
 https://www.twoplayergames.org/game/obby-the-legendary-dragon
 https://www.twoplayergames.org/game/obby-tower-parkour-climb
 https://www.twoplayergames.org/game/obby-training-by-car
+https://www.twoplayergames.org/game/obby-working-as-a-firefighter
 https://www.twoplayergames.org/game/off-road-rain-cargo-simulator
 https://www.twoplayergames.org/game/office-golf
 https://www.twoplayergames.org/game/offroad-life-3d

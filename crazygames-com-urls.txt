@@ -207,6 +207,7 @@ https://www.crazygames.com/game/ants-fruits
 https://www.crazygames.com/game/aod---art-of-defense
 https://www.crazygames.com/game/apes-fighting-gorilla-game
 https://www.crazygames.com/game/apocalypse-reborn-qff
+https://www.crazygames.com/game/apoclone-bmv
 https://www.crazygames.com/game/appel
 https://www.crazygames.com/game/apple-shooter
 https://www.crazygames.com/game/aquapark-balls-party
@@ -552,6 +553,7 @@ https://www.crazygames.com/game/bubble-sorting
 https://www.crazygames.com/game/bubble-spinner
 https://www.crazygames.com/game/bubble-tanks-2
 https://www.crazygames.com/game/bubble-tower-3d
+https://www.crazygames.com/game/bubble-trouble-cpy
 https://www.crazygames.com/game/bubble-woods
 https://www.crazygames.com/game/bubbly-lab
 https://www.crazygames.com/game/bucket-crusher
@@ -3352,6 +3354,7 @@ https://www.crazygames.com/game/slice-it-all
 https://www.crazygames.com/game/slice-master
 https://www.crazygames.com/game/slicer-cursor-idle
 https://www.crazygames.com/game/slightly-annoying-traffic
+https://www.crazygames.com/game/slime-attack-puzzle
 https://www.crazygames.com/game/slime-clicker
 https://www.crazygames.com/game/slime-conquer-epic-battles
 https://www.crazygames.com/game/slime-farm-2-gold-rush
@@ -4086,6 +4089,7 @@ https://www.crazygames.com/game/western-shooter-battle-gun-duel
 https://www.crazygames.com/game/what-a-leg
 https://www.crazygames.com/game/what-id-wear-if-i-were-a
 https://www.crazygames.com/game/what-is-it
+https://www.crazygames.com/game/what-s-in-my-bag
 https://www.crazygames.com/game/what-s-the-difference-online
 https://www.crazygames.com/game/wheel-of-felines-kwm
 https://www.crazygames.com/game/wheelie-up
@@ -4368,7 +4372,6 @@ https://www.crazygames.com/t/avoid/5
 https://www.crazygames.com/t/ball
 https://www.crazygames.com/t/ball/2
 https://www.crazygames.com/t/ball/3
-https://www.crazygames.com/t/barbie
 https://www.crazygames.com/t/baseball
 https://www.crazygames.com/t/basketball
 https://www.crazygames.com/t/battle
@@ -4674,7 +4677,6 @@ https://www.crazygames.com/t/pool
 https://www.crazygames.com/t/premium
 https://www.crazygames.com/t/premium/2
 https://www.crazygames.com/t/premium/3
-https://www.crazygames.com/t/princess
 https://www.crazygames.com/t/quiz
 https://www.crazygames.com/t/racing
 https://www.crazygames.com/t/racing/2
