@@ -184,6 +184,7 @@ https://poki.com/en/g/bloku
 https://poki.com/en/g/blood-drift
 https://poki.com/en/g/bloons-td
 https://poki.com/en/g/blox-shock
+https://poki.com/en/g/bloxd-io
 https://poki.com/en/g/blue
 https://poki.com/en/g/blumgi-ball
 https://poki.com/en/g/blumgi-bloom
@@ -322,6 +323,7 @@ https://poki.com/en/g/car-wash-simulator
 https://poki.com/en/g/carball-io
 https://poki.com/en/g/card-hog
 https://poki.com/en/g/cardventures
+https://poki.com/en/g/carnado-cyber-car
 https://poki.com/en/g/carnado-stunt-car
 https://poki.com/en/g/carrom-rush
 https://poki.com/en/g/carrom-stars
@@ -374,7 +376,6 @@ https://poki.com/en/g/chest-warriors
 https://poki.com/en/g/chick-flick
 https://poki.com/en/g/chicken-merge
 https://poki.com/en/g/chicken-merge-2
-https://poki.com/en/g/chicken-scream-merge
 https://poki.com/en/g/chicken-sword-ninja-master
 https://poki.com/en/g/chicky-farm
 https://poki.com/en/g/chonky-chirpers
@@ -633,6 +634,7 @@ https://poki.com/en/g/eagle-ride
 https://poki.com/en/g/earths-greatest-defender
 https://poki.com/en/g/eat-the-world
 https://poki.com/en/g/eggbot-vs-zombies
+https://poki.com/en/g/eggsplosion
 https://poki.com/en/g/eggy-car
 https://poki.com/en/g/eggys-big-adventure
 https://poki.com/en/g/electric-highway
@@ -1245,7 +1247,7 @@ https://poki.com/en/g/monster-duo
 https://poki.com/en/g/monster-huntress
 https://poki.com/en/g/monster-mash
 https://poki.com/en/g/monster-match
-https://poki.com/en/g/monster-max-e62bbcd6
+https://poki.com/en/g/monster-max
 https://poki.com/en/g/monster-merge
 https://poki.com/en/g/monster-tracks
 https://poki.com/en/g/monster-truck-forest-delivery
@@ -1606,7 +1608,6 @@ https://poki.com/en/g/rubble-trouble
 https://poki.com/en/g/rubble-trouble-tokyo
 https://poki.com/en/g/rugby-rush
 https://poki.com/en/g/rumble-rush
-https://poki.com/en/g/rumblets-go
 https://poki.com/en/g/rummy
 https://poki.com/en/g/run-3
 https://poki.com/en/g/run-and-gun
@@ -1672,6 +1673,7 @@ https://poki.com/en/g/skiddy-taxi
 https://poki.com/en/g/skiing-fred
 https://poki.com/en/g/sky-bridge
 https://poki.com/en/g/sky-mad
+https://poki.com/en/g/sky-race
 https://poki.com/en/g/skywire
 https://poki.com/en/g/skywire-2-html5
 https://poki.com/en/g/skywire-vip
@@ -1902,7 +1904,6 @@ https://poki.com/en/g/swatforce-vs-terrorists
 https://poki.com/en/g/sweet-and-fruity-makeup
 https://poki.com/en/g/sweet-ball-sprint
 https://poki.com/en/g/sweet-run
-https://poki.com/en/g/sweet-slime
 https://poki.com/en/g/sweet-world
 https://poki.com/en/g/sweety-mahjong
 https://poki.com/en/g/swerve-survive

@@ -523,6 +523,7 @@ https://www.crazygames.com/game/braindom-2-who-is-lying
 https://www.crazygames.com/game/brainrot-evolution-2048-merge-fight
 https://www.crazygames.com/game/brainrot-idle-clicker
 https://www.crazygames.com/game/brainrot-merge-drop-puzzle-twt
+https://www.crazygames.com/game/brainrot-merge-fight
 https://www.crazygames.com/game/brat-girl-summer
 https://www.crazygames.com/game/brave-survivor
 https://www.crazygames.com/game/brawl-frenzy-fight-io
@@ -1467,6 +1468,7 @@ https://www.crazygames.com/game/frogger
 https://www.crazygames.com/game/frogiddy
 https://www.crazygames.com/game/frontier
 https://www.crazygames.com/game/frontline-defense
+https://www.crazygames.com/game/frontwars-io
 https://www.crazygames.com/game/frost-land
 https://www.crazygames.com/game/fruit-balls-juicy-fusion
 https://www.crazygames.com/game/fruit-clicker
@@ -1871,6 +1873,7 @@ https://www.crazygames.com/game/idle-emoji-factory
 https://www.crazygames.com/game/idle-farming-business
 https://www.crazygames.com/game/idle-fishing
 https://www.crazygames.com/game/idle-football-manager
+https://www.crazygames.com/game/idle-fries
 https://www.crazygames.com/game/idle-gun-2
 https://www.crazygames.com/game/idle-house-build
 https://www.crazygames.com/game/idle-hurricane
@@ -1943,7 +1946,6 @@ https://www.crazygames.com/game/interactive-buddy
 https://www.crazygames.com/game/interior-designer-unpacking-house
 https://www.crazygames.com/game/international-super-animal-soccer
 https://www.crazygames.com/game/internet-gaming-cafe-simulator
-https://www.crazygames.com/game/interstate-drifter-1999
 https://www.crazygames.com/game/intrusion
 https://www.crazygames.com/game/iron-bastion-tower-defense
 https://www.crazygames.com/game/iron-crusher
@@ -2612,6 +2614,7 @@ https://www.crazygames.com/game/new-york-shark
 https://www.crazygames.com/game/nextdoor
 https://www.crazygames.com/game/night-city-racing
 https://www.crazygames.com/game/night-club-security
+https://www.crazygames.com/game/night-of-the-zombieshrooms-nyl
 https://www.crazygames.com/game/night-rider
 https://www.crazygames.com/game/night-watchman
 https://www.crazygames.com/game/nightfall-drifters
@@ -2869,6 +2872,7 @@ https://www.crazygames.com/game/pipe-puzzle
 https://www.crazygames.com/game/pipes-the-puzzle
 https://www.crazygames.com/game/pirate-island
 https://www.crazygames.com/game/pirates---the-match-3
+https://www.crazygames.com/game/pirates-merge-war-path
 https://www.crazygames.com/game/pirates-of-the-caribbean-tow
 https://www.crazygames.com/game/pit-stop-helper
 https://www.crazygames.com/game/pixel-apocalypse-infection-begin
@@ -4128,7 +4132,6 @@ https://www.crazygames.com/game/wood-farmer
 https://www.crazygames.com/game/wood-screw-bolts-puzzle
 https://www.crazygames.com/game/woods-of-nevia-forest-survival
 https://www.crazygames.com/game/word-chef
-https://www.crazygames.com/game/word-connect-multiplayer
 https://www.crazygames.com/game/word-duel
 https://www.crazygames.com/game/word-fishing
 https://www.crazygames.com/game/word-sauce
