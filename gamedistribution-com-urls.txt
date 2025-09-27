@@ -3903,6 +3903,7 @@ https://gamedistribution.com/games/arrow-fest/
 https://gamedistribution.com/games/arrow-hit/
 https://gamedistribution.com/games/arrow-master/
 https://gamedistribution.com/games/arrow-shot/
+https://gamedistribution.com/games/arrow-survival%3A-15-seconds/
 https://gamedistribution.com/games/arrow-twist/
 https://gamedistribution.com/games/arrow-wave/
 https://gamedistribution.com/games/arrower/
@@ -7257,6 +7258,7 @@ https://gamedistribution.com/games/chill-girl-clicker/
 https://gamedistribution.com/games/chilly-snow-ball/
 https://gamedistribution.com/games/chimpanzee-jigsaw/
 https://gamedistribution.com/games/chinese-dragons-puzzle/
+https://gamedistribution.com/games/chinese-food-chef-dudu/
 https://gamedistribution.com/games/chinese-new-year-mahjong/
 https://gamedistribution.com/games/chinese-water-dragon-jigsaw/
 https://gamedistribution.com/games/chinese-zodiac-dress-up-game/
@@ -7954,6 +7956,7 @@ https://gamedistribution.com/games/color-hexagon/
 https://gamedistribution.com/games/color-hit/
 https://gamedistribution.com/games/color-hockey/
 https://gamedistribution.com/games/color-hole-3d/
+https://gamedistribution.com/games/color-hoop-sort/
 https://gamedistribution.com/games/color-horror/
 https://gamedistribution.com/games/color-it-in-3d/
 https://gamedistribution.com/games/color-jump/
@@ -9934,6 +9937,7 @@ https://gamedistribution.com/games/draw-attack/
 https://gamedistribution.com/games/draw-blocks-3d/
 https://gamedistribution.com/games/draw-bridge%3A-brain-game/
 https://gamedistribution.com/games/draw-bridge-challenge/
+https://gamedistribution.com/games/draw-bridge-puzzle/
 https://gamedistribution.com/games/draw-brige-puzzle/
 https://gamedistribution.com/games/draw-bullet-master/
 https://gamedistribution.com/games/draw-car-fight/
@@ -17902,6 +17906,7 @@ https://gamedistribution.com/games/metal-guns-fury-beat-em-up/
 https://gamedistribution.com/games/metal-robot-puzzle/
 https://gamedistribution.com/games/metal-room-escape/
 https://gamedistribution.com/games/metaverse-dash-run/
+https://gamedistribution.com/games/metaxis/
 https://gamedistribution.com/games/metazoa-jigsaw/
 https://gamedistribution.com/games/meteoheroes/
 https://gamedistribution.com/games/metro-bus-games-real-metro-sim/
@@ -26198,6 +26203,7 @@ https://gamedistribution.com/games/tap-skaters-online/
 https://gamedistribution.com/games/tap-sky-road/
 https://gamedistribution.com/games/tap-tank/
 https://gamedistribution.com/games/tap-tap-ball/
+https://gamedistribution.com/games/tap-tap-builder/
 https://gamedistribution.com/games/tap-tap-car/
 https://gamedistribution.com/games/tap-tap-colors/
 https://gamedistribution.com/games/tap-tap-covid-girl/
