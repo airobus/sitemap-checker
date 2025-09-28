@@ -26,6 +26,7 @@ https://www.twoplayergames.org/game/2112-cooperation-3
 https://www.twoplayergames.org/game/2112-cooperation-4
 https://www.twoplayergames.org/game/2112-cooperation-5
 https://www.twoplayergames.org/game/2d-car-racing
+https://www.twoplayergames.org/game/2v2-io
 https://www.twoplayergames.org/game/3-pandas
 https://www.twoplayergames.org/game/3-pandas-in-japan
 https://www.twoplayergames.org/game/360-smash
@@ -1144,6 +1145,7 @@ https://www.twoplayergames.org/game/knock-off
 https://www.twoplayergames.org/game/kombat-fighter
 https://www.twoplayergames.org/game/konkey-dong
 https://www.twoplayergames.org/game/kour-io
+https://www.twoplayergames.org/game/kour-strike-io
 https://www.twoplayergames.org/game/krunker-io
 https://www.twoplayergames.org/game/kucing-fighter
 https://www.twoplayergames.org/game/kung-fu-fight-beat-em-up
