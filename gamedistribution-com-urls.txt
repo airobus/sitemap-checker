@@ -17612,6 +17612,7 @@ https://gamedistribution.com/games/maze-and-tourist-1/
 https://gamedistribution.com/games/maze-and-tourist/
 https://gamedistribution.com/games/maze-challenge/
 https://gamedistribution.com/games/maze-control/
+https://gamedistribution.com/games/maze-craze/
 https://gamedistribution.com/games/maze-cube-2048/
 https://gamedistribution.com/games/maze-escape-%3A-craft-man/
 https://gamedistribution.com/games/maze-escape-3d/
@@ -26061,6 +26062,7 @@ https://gamedistribution.com/games/tactical-knight/
 https://gamedistribution.com/games/tactical-princess/
 https://gamedistribution.com/games/tactical-weapon-pack-2/
 https://gamedistribution.com/games/tactical-weapon-pack/
+https://gamedistribution.com/games/tag-run/
 https://gamedistribution.com/games/tag-the-flag/
 https://gamedistribution.com/games/tahawus-ghost-town-escape/
 https://gamedistribution.com/games/tail-gun-charlie/
@@ -27262,6 +27264,7 @@ https://gamedistribution.com/games/trollface-vs-zombies/
 https://gamedistribution.com/games/tropical-beauty-secrets/
 https://gamedistribution.com/games/tropical-cubes-2048/
 https://gamedistribution.com/games/tropical-mahjong/
+https://gamedistribution.com/games/tropical-match-2/
 https://gamedistribution.com/games/tropical-match/
 https://gamedistribution.com/games/tropical-merge/
 https://gamedistribution.com/games/tropical-paradise-difference/

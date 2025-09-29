@@ -716,6 +716,7 @@ https://www.crazygames.com/game/chicken-clicker
 https://www.crazygames.com/game/chicken-cs
 https://www.crazygames.com/game/chicken-scream
 https://www.crazygames.com/game/chickenauts-demo
+https://www.crazygames.com/game/chihuahua-clicker-hku
 https://www.crazygames.com/game/chips-sort-puzzle
 https://www.crazygames.com/game/chipuzik-s-evolution
 https://www.crazygames.com/game/chompers-io
@@ -1975,6 +1976,7 @@ https://www.crazygames.com/game/jeff-the-killer-lost-in-the-nightmare
 https://www.crazygames.com/game/jeff-the-killer-vs-slendrina
 https://www.crazygames.com/game/jeffs-revenge
 https://www.crazygames.com/game/jelly-bear-s-farm
+https://www.crazygames.com/game/jelly-dash-uki
 https://www.crazygames.com/game/jelly-restaurant
 https://www.crazygames.com/game/jelly-snake
 https://www.crazygames.com/game/jet-boat-racing
@@ -2688,6 +2690,7 @@ https://www.crazygames.com/game/obby-cards-the-legend-hunt
 https://www.crazygames.com/game/obby-challenge-prison-run
 https://www.crazygames.com/game/obby-dead-river
 https://www.crazygames.com/game/obby-dumb-or-genius-iq-test
+https://www.crazygames.com/game/obby-hide-and-seek-battle-royale
 https://www.crazygames.com/game/obby-parkour-race
 https://www.crazygames.com/game/obby-pull-a-sword
 https://www.crazygames.com/game/obby-ragdoll-boxing
@@ -3286,7 +3289,6 @@ https://www.crazygames.com/game/shoot-your-nightmare-halloween
 https://www.crazygames.com/game/shoot-your-nightmare-space-isolation
 https://www.crazygames.com/game/shoot-your-nightmare-the-beginning
 https://www.crazygames.com/game/shooterz
-https://www.crazygames.com/game/shootup-io
 https://www.crazygames.com/game/shop-cashier-3d
 https://www.crazygames.com/game/shop-master-3d
 https://www.crazygames.com/game/shopaholic-black-friday
