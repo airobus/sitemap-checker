@@ -5896,6 +5896,7 @@ https://gamedistribution.com/games/brawl-hero/
 https://gamedistribution.com/games/brawl-legends/
 https://gamedistribution.com/games/brawl-rush-leon-run/
 https://gamedistribution.com/games/brawl-stars-1/
+https://gamedistribution.com/games/brawl-stars-brave-adventure/
 https://gamedistribution.com/games/brawl-stars-free-gems-spin-wheel/
 https://gamedistribution.com/games/brawl-stars-leon-run/
 https://gamedistribution.com/games/brawl-stars/
@@ -8835,6 +8836,7 @@ https://gamedistribution.com/games/cube-stack/
 https://gamedistribution.com/games/cube-stories%3A-escape/
 https://gamedistribution.com/games/cube-surfer/
 https://gamedistribution.com/games/cube-the-runners/
+https://gamedistribution.com/games/cube-to-hole-puzzle/
 https://gamedistribution.com/games/cube-tower-surfer/
 https://gamedistribution.com/games/cube-wave/
 https://gamedistribution.com/games/cube-xtreme/
@@ -10245,6 +10247,7 @@ https://gamedistribution.com/games/dunk-shot-3/
 https://gamedistribution.com/games/dunk-shot/
 https://gamedistribution.com/games/dunkers-fight-2p/
 https://gamedistribution.com/games/duo/
+https://gamedistribution.com/games/durak/
 https://gamedistribution.com/games/dust-busterio/
 https://gamedistribution.com/games/dusty-maze-hunter/
 https://gamedistribution.com/games/dwarf-runner/
@@ -14462,6 +14465,7 @@ https://gamedistribution.com/games/hidden-objects-pirate-treasure/
 https://gamedistribution.com/games/hidden-objects-superthief/
 https://gamedistribution.com/games/hidden-objects-the-mall/
 https://gamedistribution.com/games/hidden-objects-tropical-slide/
+https://gamedistribution.com/games/hidden-objects/
 https://gamedistribution.com/games/hidden-ocean-pollution/
 https://gamedistribution.com/games/hidden-pairs-mahjong/
 https://gamedistribution.com/games/hidden-sea-treasure/
@@ -16316,6 +16320,7 @@ https://gamedistribution.com/games/knife-up-3/
 https://gamedistribution.com/games/knife-up-3d/
 https://gamedistribution.com/games/knife-up/
 https://gamedistribution.com/games/knife-vs-stack/
+https://gamedistribution.com/games/knife.io/
 https://gamedistribution.com/games/knifebladesio/
 https://gamedistribution.com/games/knifeio/
 https://gamedistribution.com/games/knight's-diamond/
@@ -19014,6 +19019,7 @@ https://gamedistribution.com/games/my-sweet-strawberry-outfits/
 https://gamedistribution.com/games/my-talking-pig-mimy/
 https://gamedistribution.com/games/my-teacher-classroom-fun/
 https://gamedistribution.com/games/my-tiny-land/
+https://gamedistribution.com/games/my-tiny-market/
 https://gamedistribution.com/games/my-trendy-plaid-outfits/
 https://gamedistribution.com/games/my-unique-fashion-story/
 https://gamedistribution.com/games/my-unique-prom-look/
@@ -19082,6 +19088,7 @@ https://gamedistribution.com/games/necklace-stick-rush/
 https://gamedistribution.com/games/nectar-harvest/
 https://gamedistribution.com/games/neglected-place-escape/
 https://gamedistribution.com/games/neighbor-alien/
+https://gamedistribution.com/games/neighborhood-defense/
 https://gamedistribution.com/games/neighbourhood-speedsters/
 https://gamedistribution.com/games/neko's-adventure/
 https://gamedistribution.com/games/neko-pachinko/

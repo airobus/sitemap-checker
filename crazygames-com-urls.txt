@@ -848,6 +848,7 @@ https://www.crazygames.com/game/country-hopper
 https://www.crazygames.com/game/country-life-meadows
 https://www.crazygames.com/game/cow-defender
 https://www.crazygames.com/game/cowz-io
+https://www.crazygames.com/game/cozy-block-blaster
 https://www.crazygames.com/game/craft-3d
 https://www.crazygames.com/game/craft-and-battle
 https://www.crazygames.com/game/craft-brainrot
@@ -3936,6 +3937,7 @@ https://www.crazygames.com/game/train-snake
 https://www.crazygames.com/game/tram-simulator
 https://www.crazygames.com/game/transporter-hot-pursuit
 https://www.crazygames.com/game/trap-craft
+https://www.crazygames.com/game/trap-lords
 https://www.crazygames.com/game/trap-the-cat
 https://www.crazygames.com/game/trap-the-cat-pix
 https://www.crazygames.com/game/trapped
@@ -4028,6 +4030,7 @@ https://www.crazygames.com/game/valentine-s-day-proposal
 https://www.crazygames.com/game/valentine-s-makeup-trends
 https://www.crazygames.com/game/vampire-master-nkk
 https://www.crazygames.com/game/vampire-pixel-survivors
+https://www.crazygames.com/game/vault-room-escape
 https://www.crazygames.com/game/vector-td
 https://www.crazygames.com/game/vegas-clash-3d-yxd
 https://www.crazygames.com/game/vehicle-masters
@@ -4575,6 +4578,7 @@ https://www.crazygames.com/t/meme
 https://www.crazygames.com/t/merge
 https://www.crazygames.com/t/merge/2
 https://www.crazygames.com/t/merge/3
+https://www.crazygames.com/t/merge/4
 https://www.crazygames.com/t/minecraft
 https://www.crazygames.com/t/minecraft/2
 https://www.crazygames.com/t/mini
