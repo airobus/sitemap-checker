@@ -323,6 +323,7 @@ https://poki.com/en/g/carball-io
 https://poki.com/en/g/card-hog
 https://poki.com/en/g/cardventures
 https://poki.com/en/g/carnado-cyber-car
+https://poki.com/en/g/carnado-monster-truck-1ca10abc
 https://poki.com/en/g/carnado-stunt-car
 https://poki.com/en/g/carrom-rush
 https://poki.com/en/g/carrom-stars
@@ -477,7 +478,6 @@ https://poki.com/en/g/crowd-survivor
 https://poki.com/en/g/crown-guard
 https://poki.com/en/g/crush-it
 https://poki.com/en/g/cryzen-io
-https://poki.com/en/g/cube-archer-vs-1000-zobies
 https://poki.com/en/g/cube-builder
 https://poki.com/en/g/cube-mart
 https://poki.com/en/g/cube-miner-escape-from-prison
@@ -1527,7 +1527,6 @@ https://poki.com/en/g/race-madness
 https://poki.com/en/g/raft-wars
 https://poki.com/en/g/raft-wars-2
 https://poki.com/en/g/raft-wars-multiplayer
-https://poki.com/en/g/ragdoll-drop
 https://poki.com/en/g/ragdoll-fall
 https://poki.com/en/g/ragdoll-hit
 https://poki.com/en/g/ragdoll-soccer

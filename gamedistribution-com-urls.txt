@@ -256,6 +256,7 @@ https://gamedistribution.com/games/3d-block-gladiator%3A-sword-draw/
 https://gamedistribution.com/games/3d-bottle-shooter/
 https://gamedistribution.com/games/3d-bowling/
 https://gamedistribution.com/games/3d-car-simulator/
+https://gamedistribution.com/games/3d-chess-master/
 https://gamedistribution.com/games/3d-chess/
 https://gamedistribution.com/games/3d-classic-racing/
 https://gamedistribution.com/games/3d-cold-racer/
@@ -4429,6 +4430,7 @@ https://gamedistribution.com/games/ball-and-target/
 https://gamedistribution.com/games/ball-blast/
 https://gamedistribution.com/games/ball-bounce/
 https://gamedistribution.com/games/ball-bump-3d/
+https://gamedistribution.com/games/ball-bunker%3A-sneaky-stacks/
 https://gamedistribution.com/games/ball-challenge-1/
 https://gamedistribution.com/games/ball-challenge/
 https://gamedistribution.com/games/ball-clash/
@@ -5355,6 +5357,7 @@ https://gamedistribution.com/games/block-blasty-saga/
 https://gamedistribution.com/games/block-breaker-1/
 https://gamedistribution.com/games/block-breaker-2/
 https://gamedistribution.com/games/block-breaker/
+https://gamedistribution.com/games/block-builder-jam/
 https://gamedistribution.com/games/block-buster/
 https://gamedistribution.com/games/block-champ/
 https://gamedistribution.com/games/block-collapse-challenge/
@@ -6259,6 +6262,7 @@ https://gamedistribution.com/games/bubble-shot/
 https://gamedistribution.com/games/bubble-shots/
 https://gamedistribution.com/games/bubble-sort/
 https://gamedistribution.com/games/bubble-sorting-deluxe/
+https://gamedistribution.com/games/bubble-sorting-infinite-remastered/
 https://gamedistribution.com/games/bubble-sorting/
 https://gamedistribution.com/games/bubble-spin/
 https://gamedistribution.com/games/bubble-split/
@@ -13277,6 +13281,7 @@ https://gamedistribution.com/games/glittery-fashion-diva/
 https://gamedistribution.com/games/glittery-genies-realife-sauna/
 https://gamedistribution.com/games/globe-driver/
 https://gamedistribution.com/games/gloomy-moon-forest-escape/
+https://gamedistribution.com/games/gloomy-princess-favorite-toy/
 https://gamedistribution.com/games/gloss-angeles-super-star-wedding-dress/
 https://gamedistribution.com/games/glossy-bubble/
 https://gamedistribution.com/games/gloves-grow-rush/
@@ -18188,6 +18193,7 @@ https://gamedistribution.com/games/minja-dream-bike-escape/
 https://gamedistribution.com/games/minnie-mouse-cupcakes/
 https://gamedistribution.com/games/minnie-mouse-surprise-cake/
 https://gamedistribution.com/games/miracle-hidden-car/
+https://gamedistribution.com/games/miracle-mahjong/
 https://gamedistribution.com/games/miraculous%3A-tales-of-ladybug-and-cat-noir/
 https://gamedistribution.com/games/miraculous-coloring-book/
 https://gamedistribution.com/games/miraculous-dream-catcher-coloring-book/
@@ -25778,6 +25784,7 @@ https://gamedistribution.com/games/super-sushi-cat-a-pult/
 https://gamedistribution.com/games/super-suv-driving/
 https://gamedistribution.com/games/super-sweet-christmas-cake/
 https://gamedistribution.com/games/super-sweets-challenge/
+https://gamedistribution.com/games/super-swing/
 https://gamedistribution.com/games/super-tank-hero/
 https://gamedistribution.com/games/super-tank-war/
 https://gamedistribution.com/games/super-tankers/
@@ -26686,6 +26693,7 @@ https://gamedistribution.com/games/tictoc-urban-outfits/
 https://gamedistribution.com/games/tie-dye-explosion-of-color/
 https://gamedistribution.com/games/tie-dye-master-3d/
 https://gamedistribution.com/games/tie-dye/
+https://gamedistribution.com/games/tied-up/
 https://gamedistribution.com/games/tiger-jigsaw/
 https://gamedistribution.com/games/tiger-simulator-3d/
 https://gamedistribution.com/games/tight-and-bright-party/
@@ -28797,6 +28805,7 @@ https://gamedistribution.com/games/zero-collision/
 https://gamedistribution.com/games/zero-numbers/
 https://gamedistribution.com/games/zero-squares-1/
 https://gamedistribution.com/games/zero-squares/
+https://gamedistribution.com/games/zero-to-millionaire!/
 https://gamedistribution.com/games/zero-twenty-one%3A-21-points/
 https://gamedistribution.com/games/zig-snake/
 https://gamedistribution.com/games/zig-zag-ball/
