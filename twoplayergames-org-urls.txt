@@ -1140,6 +1140,7 @@ https://www.twoplayergames.org/game/kizi-town
 https://www.twoplayergames.org/game/klondike
 https://www.twoplayergames.org/game/knife-hit
 https://www.twoplayergames.org/game/knife-hit-2
+https://www.twoplayergames.org/game/knife-io
 https://www.twoplayergames.org/game/knife-storm
 https://www.twoplayergames.org/game/knock-off
 https://www.twoplayergames.org/game/kombat-fighter
@@ -2211,6 +2212,7 @@ https://www.twoplayergames.org/game/two-player-snake
 https://www.twoplayergames.org/game/two-players-football
 https://www.twoplayergames.org/game/two-punk-racing
 https://www.twoplayergames.org/game/two-punk-racing-2
+https://www.twoplayergames.org/game/two-stunt-racers
 https://www.twoplayergames.org/game/two-stunts
 https://www.twoplayergames.org/game/two-supra-drifer
 https://www.twoplayergames.org/game/two-tubes-3d

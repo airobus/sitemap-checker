@@ -5871,6 +5871,7 @@ https://gamedistribution.com/games/braindom-2/
 https://gamedistribution.com/games/braindom/
 https://gamedistribution.com/games/brainrot-a-difference-challenge/
 https://gamedistribution.com/games/brainrot-boing-boing-merge/
+https://gamedistribution.com/games/brainrot-click-to-hatch/
 https://gamedistribution.com/games/brainrot-clicker/
 https://gamedistribution.com/games/brainrot-evolution-game/
 https://gamedistribution.com/games/brainrot-evolution/
@@ -6144,6 +6145,7 @@ https://gamedistribution.com/games/bubble-merge-2048/
 https://gamedistribution.com/games/bubble-monster/
 https://gamedistribution.com/games/bubble-pet-saga/
 https://gamedistribution.com/games/bubble-pet-shooter/
+https://gamedistribution.com/games/bubble-piggies/
 https://gamedistribution.com/games/bubble-pirates-mania/
 https://gamedistribution.com/games/bubble-planets/
 https://gamedistribution.com/games/bubble-plopper/
@@ -6720,6 +6722,7 @@ https://gamedistribution.com/games/car-dealer-idle/
 https://gamedistribution.com/games/car-defender-1/
 https://gamedistribution.com/games/car-defender/
 https://gamedistribution.com/games/car-destroy-car/
+https://gamedistribution.com/games/car-destruction-king/
 https://gamedistribution.com/games/car-drift-score/
 https://gamedistribution.com/games/car-drifting-xtreme/
 https://gamedistribution.com/games/car-driving-stunt-game-3d/
@@ -15933,6 +15936,7 @@ https://gamedistribution.com/games/just-golf/
 https://gamedistribution.com/games/just-jump-1/
 https://gamedistribution.com/games/just-jump/
 https://gamedistribution.com/games/just-ludo/
+https://gamedistribution.com/games/just-mahjong/
 https://gamedistribution.com/games/just-married-home-deco/
 https://gamedistribution.com/games/just-one/
 https://gamedistribution.com/games/just-s-rush/
@@ -15945,6 +15949,7 @@ https://gamedistribution.com/games/k-game-glass-bridge-survival/
 https://gamedistribution.com/games/k-games-challenge/
 https://gamedistribution.com/games/k-on-dress-up/
 https://gamedistribution.com/games/k-pop-new-years-concert-2/
+https://gamedistribution.com/games/k-pop-puzzle-hunters/
 https://gamedistribution.com/games/kage-ninjas-revenge/
 https://gamedistribution.com/games/kaiten-sushi/
 https://gamedistribution.com/games/kangaroo-mouse-flying-cheese/
@@ -23497,6 +23502,7 @@ https://gamedistribution.com/games/shapik-the-quest/
 https://gamedistribution.com/games/shards-blurgd-1/
 https://gamedistribution.com/games/shark-attack-1/
 https://gamedistribution.com/games/shark-attack/
+https://gamedistribution.com/games/shark-chomp-chase/
 https://gamedistribution.com/games/shark-hunter2/
 https://gamedistribution.com/games/shark-hunting/
 https://gamedistribution.com/games/shark-io/
@@ -24398,6 +24404,7 @@ https://gamedistribution.com/games/sort-puzzle-nuts-and-bolts/
 https://gamedistribution.com/games/sort-resort/
 https://gamedistribution.com/games/sort-them-all/
 https://gamedistribution.com/games/sort-them-bubbles/
+https://gamedistribution.com/games/sort-water-now/
 https://gamedistribution.com/games/sort-works%3A-nuts-and-order/
 https://gamedistribution.com/games/sorting-balls/
 https://gamedistribution.com/games/sorting-candy-factory/
