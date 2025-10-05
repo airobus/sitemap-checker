@@ -12018,6 +12018,7 @@ https://gamedistribution.com/games/fishing-online-1/
 https://gamedistribution.com/games/fishing-party/
 https://gamedistribution.com/games/fishing-puzzles/
 https://gamedistribution.com/games/fishing-tactics/
+https://gamedistribution.com/games/fishing-the-russian-way/
 https://gamedistribution.com/games/fishing-with-friends/
 https://gamedistribution.com/games/fishing-with-pa/
 https://gamedistribution.com/games/fishing-with-touch/
@@ -19045,6 +19046,7 @@ https://gamedistribution.com/games/mysterious-balls/
 https://gamedistribution.com/games/mysterious-candies-1/
 https://gamedistribution.com/games/mysterious-candies/
 https://gamedistribution.com/games/mysterious-dark-forest/
+https://gamedistribution.com/games/mysterious-familiars-enchanted-bestiary/
 https://gamedistribution.com/games/mysterious-forest-escape/
 https://gamedistribution.com/games/mysterious-house-escape/
 https://gamedistribution.com/games/mysterious-jewels/
@@ -19682,6 +19684,7 @@ https://gamedistribution.com/games/omg-word-rainbow/
 https://gamedistribution.com/games/omg-word-sushi/
 https://gamedistribution.com/games/omg-word-swipe/
 https://gamedistribution.com/games/on-air-monster-truck-race/
+https://gamedistribution.com/games/on-fire-basketball-shots/
 https://gamedistribution.com/games/on-the-edge/
 https://gamedistribution.com/games/one-button-speedway/
 https://gamedistribution.com/games/one-card-game/
@@ -19713,6 +19716,7 @@ https://gamedistribution.com/games/onet-fruit-classic/
 https://gamedistribution.com/games/onet-halloween-links/
 https://gamedistribution.com/games/onet-mahjong-connect/
 https://gamedistribution.com/games/onet-mahjong/
+https://gamedistribution.com/games/onet-monster-book/
 https://gamedistribution.com/games/onet-number/
 https://gamedistribution.com/games/onet-winter-christmas-mahjong/
 https://gamedistribution.com/games/onet-zombie-connect-2-puzzles-mania/
@@ -19884,6 +19888,7 @@ https://gamedistribution.com/games/panda-legend/
 https://gamedistribution.com/games/panda-love/
 https://gamedistribution.com/games/panda-love2/
 https://gamedistribution.com/games/panda-lu-treehouse/
+https://gamedistribution.com/games/panda-mahjong-classic/
 https://gamedistribution.com/games/panda-manager/
 https://gamedistribution.com/games/panda-running/
 https://gamedistribution.com/games/panda-shop-simulator/
@@ -19945,6 +19950,7 @@ https://gamedistribution.com/games/parcheesi-deluxe/
 https://gamedistribution.com/games/parents-house/
 https://gamedistribution.com/games/parents-run/
 https://gamedistribution.com/games/paris-hidden-stars/
+https://gamedistribution.com/games/paris-kiss/
 https://gamedistribution.com/games/park-a-lot-3-talpa/
 https://gamedistribution.com/games/park-avenue-escape/
 https://gamedistribution.com/games/park-it-xmas/
@@ -27178,6 +27184,7 @@ https://gamedistribution.com/games/treasure-knights/
 https://gamedistribution.com/games/treasure-miner/
 https://gamedistribution.com/games/treasure-ninja/
 https://gamedistribution.com/games/treasure-rush/
+https://gamedistribution.com/games/treasure-seeker/
 https://gamedistribution.com/games/treasure-tree-house-escape/
 https://gamedistribution.com/games/treasure-trove/
 https://gamedistribution.com/games/treasure-warriors/
@@ -27655,6 +27662,7 @@ https://gamedistribution.com/games/unscrew-them-all/
 https://gamedistribution.com/games/unscrew-wood-puzzle/
 https://gamedistribution.com/games/unsigned-int/
 https://gamedistribution.com/games/unstable-squares/
+https://gamedistribution.com/games/unstack-tower/
 https://gamedistribution.com/games/untamed/
 https://gamedistribution.com/games/untangle-rings-master/
 https://gamedistribution.com/games/untangle/
