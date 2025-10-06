@@ -483,7 +483,6 @@ https://www.crazygames.com/game/bonanza-shooter-bubble-blast
 https://www.crazygames.com/game/boncy-farm
 https://www.crazygames.com/game/bone-breaker-tycoon
 https://www.crazygames.com/game/bone-doctor-shoulder-case
-https://www.crazygames.com/game/bonkio
 https://www.crazygames.com/game/boom-cell
 https://www.crazygames.com/game/boom-karts
 https://www.crazygames.com/game/boom-land-lite
@@ -1666,6 +1665,7 @@ https://www.crazygames.com/game/gumball-drop
 https://www.crazygames.com/game/gummy-blocks-battle
 https://www.crazygames.com/game/gun-fu-stickman-2-zzv
 https://www.crazygames.com/game/gun-master
+https://www.crazygames.com/game/gun-master-3d---fps-shooting-game
 https://www.crazygames.com/game/gun-match-screw
 https://www.crazygames.com/game/gun-mayhem
 https://www.crazygames.com/game/gun-mayhem-2
@@ -1755,6 +1755,7 @@ https://www.crazygames.com/game/hextoland
 https://www.crazygames.com/game/hextris
 https://www.crazygames.com/game/hidden-mars
 https://www.crazygames.com/game/hidden-object-clues-and-mysteries
+https://www.crazygames.com/game/hidden-object-my-hotel
 https://www.crazygames.com/game/hidden-objects
 https://www.crazygames.com/game/hidden-objects-save-the-girl-3d
 https://www.crazygames.com/game/hidden-oxygen
@@ -3342,6 +3343,7 @@ https://www.crazygames.com/game/skribblio
 https://www.crazygames.com/game/sky-balls-3d
 https://www.crazygames.com/game/sky-blocks-falling
 https://www.crazygames.com/game/sky-car-drift
+https://www.crazygames.com/game/sky-racer-extreme
 https://www.crazygames.com/game/sky-riders-buk
 https://www.crazygames.com/game/skyblock-survive-with-noob
 https://www.crazygames.com/game/skydom
@@ -4193,6 +4195,7 @@ https://www.crazygames.com/game/xtreme-moto-mayhem
 https://www.crazygames.com/game/xtreme-rivals-car-racing
 https://www.crazygames.com/game/yahoo-tennis
 https://www.crazygames.com/game/yahtzee-online
+https://www.crazygames.com/game/yarn-fever-unravel-puzzle
 https://www.crazygames.com/game/yatzy
 https://www.crazygames.com/game/year-round-fashionista-elsa
 https://www.crazygames.com/game/yellowstone-ranch
