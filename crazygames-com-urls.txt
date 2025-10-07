@@ -152,6 +152,7 @@ https://www.crazygames.com/game/against-zombies
 https://www.crazygames.com/game/agario
 https://www.crazygames.com/game/age-of-arms
 https://www.crazygames.com/game/age-of-defense-3
+https://www.crazygames.com/game/age-of-steam-tower-defence
 https://www.crazygames.com/game/age-of-tanks-warriors-td-war
 https://www.crazygames.com/game/age-of-war
 https://www.crazygames.com/game/agents-io
@@ -802,6 +803,7 @@ https://www.crazygames.com/game/color-pixel-art-classic
 https://www.crazygames.com/game/color-roll-3d
 https://www.crazygames.com/game/color-screw-unscrew-match
 https://www.crazygames.com/game/color-sort-kitchen-chaos
+https://www.crazygames.com/game/color-squid-puzzle
 https://www.crazygames.com/game/color-tap-coloring-by-numbers
 https://www.crazygames.com/game/color-tunnel
 https://www.crazygames.com/game/color-water-sort-3d
@@ -1882,6 +1884,7 @@ https://www.crazygames.com/game/idle-farming-business
 https://www.crazygames.com/game/idle-fishing
 https://www.crazygames.com/game/idle-football-manager
 https://www.crazygames.com/game/idle-fries
+https://www.crazygames.com/game/idle-game-dev-simulator
 https://www.crazygames.com/game/idle-gun-2
 https://www.crazygames.com/game/idle-house-build
 https://www.crazygames.com/game/idle-hurricane
@@ -1946,7 +1949,6 @@ https://www.crazygames.com/game/infiltrating-the-airship
 https://www.crazygames.com/game/infinite-asteroids
 https://www.crazygames.com/game/infinite-heroes
 https://www.crazygames.com/game/infinite-launch
-https://www.crazygames.com/game/infinity-kingdom
 https://www.crazygames.com/game/infinity-toower
 https://www.crazygames.com/game/injustice-gods-among-us
 https://www.crazygames.com/game/ink-shop-dress-tattoo-games
@@ -2994,6 +2996,7 @@ https://www.crazygames.com/game/prinxy-house-of-fashion
 https://www.crazygames.com/game/prinxy-winterella
 https://www.crazygames.com/game/prison-break-architect-tycoon
 https://www.crazygames.com/game/prison-escape-lnj
+https://www.crazygames.com/game/prison-life-aur
 https://www.crazygames.com/game/prisoners-io
 https://www.crazygames.com/game/pro-bowling
 https://www.crazygames.com/game/pro-construction-simulator-3d-swm
@@ -4261,6 +4264,7 @@ https://www.crazygames.com/game/zoo-boom
 https://www.crazygames.com/game/zoo-island
 https://www.crazygames.com/game/zoocraft
 https://www.crazygames.com/game/zooma-marble-quest-3d
+https://www.crazygames.com/game/zumba-quest
 https://www.crazygames.com/hot
 https://www.crazygames.com/new
 https://www.crazygames.com/new/10
@@ -4579,6 +4583,7 @@ https://www.crazygames.com/t/makeup/2
 https://www.crazygames.com/t/management
 https://www.crazygames.com/t/management/2
 https://www.crazygames.com/t/management/3
+https://www.crazygames.com/t/management/4
 https://www.crazygames.com/t/mario
 https://www.crazygames.com/t/match-3
 https://www.crazygames.com/t/match-3/2

@@ -3258,6 +3258,7 @@ https://gamedistribution.com/games/alien-world/
 https://gamedistribution.com/games/alien-wreckage-1/
 https://gamedistribution.com/games/aliens-attack/
 https://gamedistribution.com/games/aliens-bubble-shooter/
+https://gamedistribution.com/games/aliens-hunter/
 https://gamedistribution.com/games/aliens-in-charge/
 https://gamedistribution.com/games/aliens-in-space-hidden/
 https://gamedistribution.com/games/aliens-memory-game/
@@ -3938,6 +3939,7 @@ https://gamedistribution.com/games/asmr-beauty-treatment/
 https://gamedistribution.com/games/asmr-cleaning/
 https://gamedistribution.com/games/asmr-doctor-crazy-hospital/
 https://gamedistribution.com/games/asmr-nail-treatment/
+https://gamedistribution.com/games/asmr-pet-treatment/
 https://gamedistribution.com/games/asmr-slicing/
 https://gamedistribution.com/games/asmr-stye-treatment/
 https://gamedistribution.com/games/asmr-tattoo-treatment/
@@ -16605,6 +16607,7 @@ https://gamedistribution.com/games/leave-from-lab/
 https://gamedistribution.com/games/leave-me-alone/
 https://gamedistribution.com/games/left-turn-otto-the-otter-side/
 https://gamedistribution.com/games/legend-of-dragon-hunt/
+https://gamedistribution.com/games/legend-of-fireball/
 https://gamedistribution.com/games/legend-of-the-samurai/
 https://gamedistribution.com/games/legend-street-fighter/
 https://gamedistribution.com/games/legendary-sniper/
@@ -23917,6 +23920,7 @@ https://gamedistribution.com/games/slice-food/
 https://gamedistribution.com/games/slice-it-all-1/
 https://gamedistribution.com/games/slice-it-all/
 https://gamedistribution.com/games/slice-it-fair/
+https://gamedistribution.com/games/slice-it-up/
 https://gamedistribution.com/games/slice-of-zen/
 https://gamedistribution.com/games/slice-shapes/
 https://gamedistribution.com/games/slice-the-rope/

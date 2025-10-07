@@ -118,6 +118,7 @@ https://poki.com/en/g/basketball-legends-2020
 https://poki.com/en/g/basketball-line
 https://poki.com/en/g/basketball-stars
 https://poki.com/en/g/basketball-superstars
+https://poki.com/en/g/battle-blast
 https://poki.com/en/g/battle-golf
 https://poki.com/en/g/battle-wheels
 https://poki.com/en/g/battleship
@@ -463,9 +464,9 @@ https://poki.com/en/g/crazy-balls
 https://poki.com/en/g/crazy-bikes
 https://poki.com/en/g/crazy-cars
 https://poki.com/en/g/crazy-descent
-https://poki.com/en/g/crazy-excuse
 https://poki.com/en/g/crazy-freekick
 https://poki.com/en/g/crazy-kaiju-3d
+https://poki.com/en/g/crazy-motorcycle
 https://poki.com/en/g/crazy-party
 https://poki.com/en/g/crazy-pig-simulator
 https://poki.com/en/g/crazy-platez
@@ -537,6 +538,7 @@ https://poki.com/en/g/digging-moles
 https://poki.com/en/g/digman-miner
 https://poki.com/en/g/dino-bros
 https://poki.com/en/g/dino-miner
+https://poki.com/en/g/dino-quake
 https://poki.com/en/g/dino-run
 https://poki.com/en/g/dinosaur-game
 https://poki.com/en/g/dinosaurs-merge-master
@@ -1240,7 +1242,6 @@ https://poki.com/en/g/minimissions
 https://poki.com/en/g/mirror-image
 https://poki.com/en/g/misland
 https://poki.com/en/g/mom-dont-touch-my-stuff
-https://poki.com/en/g/money-maker
 https://poki.com/en/g/monkey-kick
 https://poki.com/en/g/monkey-mart
 https://poki.com/en/g/monkey-mind
