@@ -581,6 +581,7 @@ https://www.twoplayergames.org/game/dirt-bike-racing-duel
 https://www.twoplayergames.org/game/dirty-them-all
 https://www.twoplayergames.org/game/dirty-trucks-4x4
 https://www.twoplayergames.org/game/dodgeball
+https://www.twoplayergames.org/game/dog-escape
 https://www.twoplayergames.org/game/dog-fight
 https://www.twoplayergames.org/game/dog-life-simulator
 https://www.twoplayergames.org/game/dogeminer-2
@@ -1254,6 +1255,7 @@ https://www.twoplayergames.org/game/mind-games-for-2-3-4-player
 https://www.twoplayergames.org/game/mind-games-for-2-player
 https://www.twoplayergames.org/game/mine-clone
 https://www.twoplayergames.org/game/mine-craft-io
+https://www.twoplayergames.org/game/minecraft-battle-party
 https://www.twoplayergames.org/game/minecraft-classic
 https://www.twoplayergames.org/game/minecraft-pixel-warfare
 https://www.twoplayergames.org/game/minecraft-tower-defense

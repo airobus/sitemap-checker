@@ -116,7 +116,7 @@ https://gamedistribution.com/games/2-player-police-racing/
 https://gamedistribution.com/games/2-player-red-blue-pirates/
 https://gamedistribution.com/games/2-square/
 https://gamedistribution.com/games/2-squares/
-https://gamedistribution.com/games/2017-trend-alert-jungle-patterns/
+https://gamedistribution.com/games/2017-Trend-Alert-Jungle-Patterns/
 https://gamedistribution.com/games/2018-college-fun/
 https://gamedistribution.com/games/2018-new-fashion-look/
 https://gamedistribution.com/games/2018-soccer-world-cup-touch/
@@ -455,6 +455,7 @@ https://gamedistribution.com/games/Aqua-Fashion-Style/
 https://gamedistribution.com/games/Aqua-Labyrinth/
 https://gamedistribution.com/games/Arabian-Night-Dress-Up/
 https://gamedistribution.com/games/Ariana-Grande-World-Tour/
+https://gamedistribution.com/games/Ariel's-Fashion-Crush/
 https://gamedistribution.com/games/Ariel-Solarium-Tanning/
 https://gamedistribution.com/games/Ariel-and-Anna-Pregnant-BFFs/
 https://gamedistribution.com/games/Arm-Surgery-2/
@@ -511,11 +512,13 @@ https://gamedistribution.com/games/Barbie-And-Rapunzel-Pregnant-BFFs/
 https://gamedistribution.com/games/Barbie-Coachella/
 https://gamedistribution.com/games/Barbie-Monster-High-Halloween/
 https://gamedistribution.com/games/Barbie-Paper-Bag-Pants/
+https://gamedistribution.com/games/Barbie-Party-Diva/
 https://gamedistribution.com/games/Barbie-Pregnancy-Care/
 https://gamedistribution.com/games/Barbie-Pregnant-Tanning-Solarium/
 https://gamedistribution.com/games/Barbie-Rapunzel-Pregnant-Check-Up/
 https://gamedistribution.com/games/Barbie-Realife-Shopping/
 https://gamedistribution.com/games/Barbie-Spy-Squad/
+https://gamedistribution.com/games/Barbie-Squad-Goals/
 https://gamedistribution.com/games/Barbie-and-Elsa-Pregnant-Sauna/
 https://gamedistribution.com/games/Barbie-and-Friends-Graduation/
 https://gamedistribution.com/games/Barbie-and-Rapunzel-Pregnant-Wardrobe/
@@ -1037,7 +1040,12 @@ https://gamedistribution.com/games/Elementals%3A-The-Magic-Key/
 https://gamedistribution.com/games/Elements-%26-Magic/
 https://gamedistribution.com/games/Elements-Princess-Quiz/
 https://gamedistribution.com/games/Elf-Archer/
+https://gamedistribution.com/games/Ellie's-New-Smart-Phone/
+https://gamedistribution.com/games/Ellie's-Tropical-Wedding/
+https://gamedistribution.com/games/Ellie-Becomes-An-Actress/
+https://gamedistribution.com/games/Ellie-Butterfly-Diva/
 https://gamedistribution.com/games/Ellie-Dish-Washing-Realife/
+https://gamedistribution.com/games/Ellie-Party-Diva/
 https://gamedistribution.com/games/Elsa-Brain-Doctor/
 https://gamedistribution.com/games/Elsa-Dish-Washing-Realife/
 https://gamedistribution.com/games/Elsa-Family-Christmas/
@@ -1130,6 +1138,7 @@ https://gamedistribution.com/games/Fairytale-Dress-Up/
 https://gamedistribution.com/games/Fairytale-Hairstyle/
 https://gamedistribution.com/games/Fairytale-Kiss/
 https://gamedistribution.com/games/Fairytale-Princess-Make-Up/
+https://gamedistribution.com/games/Fairytale-Roomies/
 https://gamedistribution.com/games/Fall-Make-Up/
 https://gamedistribution.com/games/Famous-Date-Dress-Up/
 https://gamedistribution.com/games/Famous-Date-Quiz/
@@ -1305,6 +1314,7 @@ https://gamedistribution.com/games/Glass-Cookies%3A-Sara's-Cooking-Class/
 https://gamedistribution.com/games/Glee-Cast-Dress-Up/
 https://gamedistribution.com/games/Glee-Celebrity-Makeover/
 https://gamedistribution.com/games/Glee-Celebrity-Puzzle/
+https://gamedistribution.com/games/Glittery-Fashion-Diva/
 https://gamedistribution.com/games/Globs%3A-Path-of-the-Guru/
 https://gamedistribution.com/games/Globy/
 https://gamedistribution.com/games/Glossy-Make-Up/
@@ -1758,6 +1768,7 @@ https://gamedistribution.com/games/Mermaid-Juice-Bar/
 https://gamedistribution.com/games/Mermaid-Kiss-2/
 https://gamedistribution.com/games/Mermaid-Make-Up/
 https://gamedistribution.com/games/Mermaid-Pearls/
+https://gamedistribution.com/games/Mermaid-Princess-Fashion-Crush/
 https://gamedistribution.com/games/Mermaid-Princess/
 https://gamedistribution.com/games/Merry-Christmas-Girl/
 https://gamedistribution.com/games/Messy-Car-Service/
@@ -2167,6 +2178,7 @@ https://gamedistribution.com/games/Princess-Leia%3A-Good-or-Evil/
 https://gamedistribution.com/games/Princess-Makeover/
 https://gamedistribution.com/games/Princess-Mannequin-Challenge/
 https://gamedistribution.com/games/Princess-Mermaid-Coronation/
+https://gamedistribution.com/games/Princess-Metallic-Skirts/
 https://gamedistribution.com/games/Princess-New-Year-Ball/
 https://gamedistribution.com/games/Princess-New-Years-Resolutions/
 https://gamedistribution.com/games/Princess-Pet-Studio/
@@ -3818,7 +3830,6 @@ https://gamedistribution.com/games/ariana-grande-real-makeup/
 https://gamedistribution.com/games/ariana-inspired-hairstyles/
 https://gamedistribution.com/games/ariel's-birthday-party/
 https://gamedistribution.com/games/ariel's-closet/
-https://gamedistribution.com/games/ariel's-fashion-crush/
 https://gamedistribution.com/games/ariel's-water-garden/
 https://gamedistribution.com/games/ariel-and-eric-wedding/
 https://gamedistribution.com/games/ariel-and-jasmine-detectives/
@@ -4624,7 +4635,6 @@ https://gamedistribution.com/games/barbie-mask-designer/
 https://gamedistribution.com/games/barbie-miss-sophomore-year/
 https://gamedistribution.com/games/barbie-mothers-day-card/
 https://gamedistribution.com/games/barbie-moving-to-manhattan/
-https://gamedistribution.com/games/barbie-party-diva/
 https://gamedistribution.com/games/barbie-playing-with-baby/
 https://gamedistribution.com/games/barbie-princess-baby-wash/
 https://gamedistribution.com/games/barbie-princess-designs/
@@ -4636,7 +4646,6 @@ https://gamedistribution.com/games/barbie-puppy-potty-training/
 https://gamedistribution.com/games/barbie-racing-to-manhattan/
 https://gamedistribution.com/games/barbie-spa-therapy/
 https://gamedistribution.com/games/barbie-spy-motorcycle/
-https://gamedistribution.com/games/barbie-squad-goals/
 https://gamedistribution.com/games/barbie-style-quiz/
 https://gamedistribution.com/games/barbie-super-star-dancing-dress-/
 https://gamedistribution.com/games/barbie-superhero-and-ken-kissing/
@@ -9595,6 +9604,7 @@ https://gamedistribution.com/games/dodge-or-die/
 https://gamedistribution.com/games/dodge-the-tower/
 https://gamedistribution.com/games/dodgeball-battle/
 https://gamedistribution.com/games/dodgeball/
+https://gamedistribution.com/games/dog-escape-1/
 https://gamedistribution.com/games/dog-escape/
 https://gamedistribution.com/games/dog-life-simulator/
 https://gamedistribution.com/games/dog-puzzle-story-1/
@@ -10659,9 +10669,7 @@ https://gamedistribution.com/games/elizas-style-week/
 https://gamedistribution.com/games/ella-and-anna-spring-break/
 https://gamedistribution.com/games/ella-hip-surgery/
 https://gamedistribution.com/games/ella-makeup-removal/
-https://gamedistribution.com/games/ellie's-new-smart-phone/
 https://gamedistribution.com/games/ellie's-recipe%3A-dubai-chocolate-bar/
-https://gamedistribution.com/games/ellie's-tropical-wedding/
 https://gamedistribution.com/games/ellie-accident-er/
 https://gamedistribution.com/games/ellie-and-annie-black-swan-and-white-swan/
 https://gamedistribution.com/games/ellie-and-annie-doll-house/
@@ -10681,10 +10689,8 @@ https://gamedistribution.com/games/ellie-and-friends-venice-carnival/
 https://gamedistribution.com/games/ellie-and-jack-ice-dancing/
 https://gamedistribution.com/games/ellie-back-treatment/
 https://gamedistribution.com/games/ellie-beach-proposal/
-https://gamedistribution.com/games/ellie-becomes-an-actress/
 https://gamedistribution.com/games/ellie-boyfriend-hazard/
 https://gamedistribution.com/games/ellie-boyfriend-menace/
-https://gamedistribution.com/games/ellie-butterfly-diva/
 https://gamedistribution.com/games/ellie-chinese-new-year-celebration/
 https://gamedistribution.com/games/ellie-christmas-makeup/
 https://gamedistribution.com/games/ellie-cinema-flirting/
@@ -10717,7 +10723,6 @@ https://gamedistribution.com/games/ellie-makeup-magazine/
 https://gamedistribution.com/games/ellie-mermaid-vs-princess/
 https://gamedistribution.com/games/ellie-multiverse/
 https://gamedistribution.com/games/ellie-new-year-room-deco/
-https://gamedistribution.com/games/ellie-party-diva/
 https://gamedistribution.com/games/ellie-princesses-meet-up/
 https://gamedistribution.com/games/ellie-private-beach/
 https://gamedistribution.com/games/ellie-pro-photographer/
@@ -11325,7 +11330,6 @@ https://gamedistribution.com/games/fairy-wingerella/
 https://gamedistribution.com/games/fairyland-merge-and-magic/
 https://gamedistribution.com/games/fairyland-pic-puzzles/
 https://gamedistribution.com/games/fairytale-fairies/
-https://gamedistribution.com/games/fairytale-roomies/
 https://gamedistribution.com/games/fall-ball/
 https://gamedistribution.com/games/fall-bean-2/
 https://gamedistribution.com/games/fall-beans/
@@ -12099,6 +12103,7 @@ https://gamedistribution.com/games/flappy-dragon/
 https://gamedistribution.com/games/flappy-dunk-1/
 https://gamedistribution.com/games/flappy-dunk/
 https://gamedistribution.com/games/flappy-eros/
+https://gamedistribution.com/games/flappy-fish/
 https://gamedistribution.com/games/flappy-flying-fish/
 https://gamedistribution.com/games/flappy-footchinko/
 https://gamedistribution.com/games/flappy-ghost-adventure/
@@ -13284,7 +13289,6 @@ https://gamedistribution.com/games/gliding-car-race/
 https://gamedistribution.com/games/glisserio/
 https://gamedistribution.com/games/glitch/
 https://gamedistribution.com/games/glitter-toys-coloring-book/
-https://gamedistribution.com/games/glittery-fashion-diva/
 https://gamedistribution.com/games/glittery-genies-realife-sauna/
 https://gamedistribution.com/games/globe-driver/
 https://gamedistribution.com/games/gloomy-moon-forest-escape/
@@ -17766,6 +17770,7 @@ https://gamedistribution.com/games/merge-balls-blast/
 https://gamedistribution.com/games/merge-balls-new-years-toys-in-3d!/
 https://gamedistribution.com/games/merge-balls-shooter-2048-connect-fruits/
 https://gamedistribution.com/games/merge-balls/
+https://gamedistribution.com/games/merge-beasts/
 https://gamedistribution.com/games/merge-blast-1/
 https://gamedistribution.com/games/merge-blast/
 https://gamedistribution.com/games/merge-block-2048/
@@ -17885,7 +17890,6 @@ https://gamedistribution.com/games/mermaid-new-year-celebration/
 https://gamedistribution.com/games/mermaid-or-princess/
 https://gamedistribution.com/games/mermaid-princess-adventure/
 https://gamedistribution.com/games/mermaid-princess-avater-castle/
-https://gamedistribution.com/games/mermaid-princess-fashion-crush/
 https://gamedistribution.com/games/mermaid-princess-fashion-day/
 https://gamedistribution.com/games/mermaid-princess-glossy-makeup/
 https://gamedistribution.com/games/mermaid-princess-heal-and-spa/
@@ -18062,6 +18066,7 @@ https://gamedistribution.com/games/minecaves-lost-in-space/
 https://gamedistribution.com/games/minecaves-noob-adventure/
 https://gamedistribution.com/games/minecity-breakers/
 https://gamedistribution.com/games/minecoin-adventure/
+https://gamedistribution.com/games/minecraft-battle-party/
 https://gamedistribution.com/games/minecraft-builder/
 https://gamedistribution.com/games/minecraft-pixel-warfare/
 https://gamedistribution.com/games/minegame/
@@ -21310,7 +21315,6 @@ https://gamedistribution.com/games/princess-mermaid-realife-shopping/
 https://gamedistribution.com/games/princess-mermaid-skin-doctor/
 https://gamedistribution.com/games/princess-mermaid-style-makeup/
 https://gamedistribution.com/games/princess-met-gala-2018/
-https://gamedistribution.com/games/princess-metallic-skirts/
 https://gamedistribution.com/games/princess-military-fashion/
 https://gamedistribution.com/games/princess-models-at-milan-fashion-week/
 https://gamedistribution.com/games/princess-modern-fashionista/
@@ -24416,6 +24420,7 @@ https://gamedistribution.com/games/sort-puzzle-nuts-and-bolts/
 https://gamedistribution.com/games/sort-resort/
 https://gamedistribution.com/games/sort-them-all/
 https://gamedistribution.com/games/sort-them-bubbles/
+https://gamedistribution.com/games/sort-tiles/
 https://gamedistribution.com/games/sort-water-now/
 https://gamedistribution.com/games/sort-works%3A-nuts-and-order/
 https://gamedistribution.com/games/sorting-balls/

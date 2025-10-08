@@ -138,6 +138,7 @@ https://poki.com/en/g/become-an-ear-doctor
 https://poki.com/en/g/bee-sort-by-sam
 https://poki.com/en/g/beecoins-inc
 https://poki.com/en/g/bff-art-class-78ef2575
+https://poki.com/en/g/bff-math-class
 https://poki.com/en/g/biffe-scribble
 https://poki.com/en/g/big-neon-tower-vs-tiny-square
 https://poki.com/en/g/big-shot-boxing
@@ -545,6 +546,7 @@ https://poki.com/en/g/dinosaurs-merge-master
 https://poki.com/en/g/dirk-valentine
 https://poki.com/en/g/disaster-arena
 https://poki.com/en/g/disco-droids
+https://poki.com/en/g/dishwashers-life
 https://poki.com/en/g/distraction-driver
 https://poki.com/en/g/diva-hair-salon
 https://poki.com/en/g/doc-darling-bone-surgery
@@ -565,7 +567,6 @@ https://poki.com/en/g/doner-kebab-sto
 https://poki.com/en/g/dont-spoil-it
 https://poki.com/en/g/dont-touch-the-spikes
 https://poki.com/en/g/donut-crusher
-https://poki.com/en/g/donut-place
 https://poki.com/en/g/doodle-god
 https://poki.com/en/g/doodle-god-fantasy-world-of-magic
 https://poki.com/en/g/doodle-god-good-old-times
@@ -878,9 +879,11 @@ https://poki.com/en/g/grab-the-apple
 https://poki.com/en/g/graffiti-time
 https://poki.com/en/g/grand-mini-slam
 https://poki.com/en/g/grand-prix-hero
+https://poki.com/en/g/grandma-recipe-apple-pie
 https://poki.com/en/g/grandmas-delicious-cakes
 https://poki.com/en/g/grapple-grip
 https://poki.com/en/g/grass-cutter
+https://poki.com/en/g/grass-knight
 https://poki.com/en/g/graveyard-shift
 https://poki.com/en/g/gravity-blast
 https://poki.com/en/g/gravity-soccer
@@ -2145,6 +2148,7 @@ https://poki.com/en/g/where-is-my-cat
 https://poki.com/en/g/wheres-my-pizza
 https://poki.com/en/g/wheres-your-country
 https://poki.com/en/g/which-way-round
+https://poki.com/en/g/whip-flip-ragdoll-chaos
 https://poki.com/en/g/who-is
 https://poki.com/en/g/who-is-2-brain-puzzle-chats
 https://poki.com/en/g/wild-bullets

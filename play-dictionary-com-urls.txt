@@ -4,6 +4,7 @@ https://play.dictionary.com/category/daily
 https://play.dictionary.com/category/puzzles
 https://play.dictionary.com/category/word
 https://play.dictionary.com/games/2048
+https://play.dictionary.com/games/29-card-game
 https://play.dictionary.com/games/4-in-a-row
 https://play.dictionary.com/games/5roll
 https://play.dictionary.com/games/8-ball-billiards
@@ -32,7 +33,6 @@ https://play.dictionary.com/games/coloring-book-for-grown-ups
 https://play.dictionary.com/games/commuter-crossword
 https://play.dictionary.com/games/cooking-live
 https://play.dictionary.com/games/crescent-solitaire
-https://play.dictionary.com/games/cross-stitch-masters
 https://play.dictionary.com/games/crosswordling
 https://play.dictionary.com/games/crucigramas-dificiles
 https://play.dictionary.com/games/crucigramas-faciles
@@ -87,7 +87,6 @@ https://play.dictionary.com/games/house-flip
 https://play.dictionary.com/games/jewel-quest
 https://play.dictionary.com/games/jewel-shuffle
 https://play.dictionary.com/games/jigsaw
-https://play.dictionary.com/games/jigsaw-blast
 https://play.dictionary.com/games/joseph-crossword
 https://play.dictionary.com/games/jungle-legend
 https://play.dictionary.com/games/klondike-solitaire
@@ -139,12 +138,10 @@ https://play.dictionary.com/games/swipe-city
 https://play.dictionary.com/games/ten-x-ten
 https://play.dictionary.com/games/the-chase-uk
 https://play.dictionary.com/games/the-chase-us
-https://play.dictionary.com/games/tile-match-flowers
 https://play.dictionary.com/games/todays-hurdle
 https://play.dictionary.com/games/tri-peaks-solitaire
 https://play.dictionary.com/games/trizzle-halloween
 https://play.dictionary.com/games/true-trivia-game
-https://play.dictionary.com/games/twenty-nine
 https://play.dictionary.com/games/two-minute-mini-crossword
 https://play.dictionary.com/games/wander-words
 https://play.dictionary.com/games/whist
