@@ -1218,6 +1218,7 @@ https://www.crazygames.com/game/el-dorado-lite
 https://www.crazygames.com/game/electric-man
 https://www.crazygames.com/game/elemental-gloves---magic-power
 https://www.crazygames.com/game/elemental-merge
+https://www.crazygames.com/game/elemental-monsters-merge
 https://www.crazygames.com/game/elevator-room-escape
 https://www.crazygames.com/game/eliatopia
 https://www.crazygames.com/game/elite-sniper
@@ -2259,6 +2260,7 @@ https://www.crazygames.com/game/magic-kingdom-hex-match
 https://www.crazygames.com/game/magic-merge-tower-defense-3d
 https://www.crazygames.com/game/magic-of-easter-princess-makeover
 https://www.crazygames.com/game/magic-princess
+https://www.crazygames.com/game/magic-sorting-mna
 https://www.crazygames.com/game/magic-swords-idle-rpg
 https://www.crazygames.com/game/magic-tower-cards-war
 https://www.crazygames.com/game/magic-towers-solitaire
@@ -2700,6 +2702,7 @@ https://www.crazygames.com/game/obby-cards-the-legend-hunt
 https://www.crazygames.com/game/obby-challenge-prison-run
 https://www.crazygames.com/game/obby-dead-river
 https://www.crazygames.com/game/obby-dumb-or-genius-iq-test
+https://www.crazygames.com/game/obby-gym-simulator-escape
 https://www.crazygames.com/game/obby-hide-and-seek-battle-royale
 https://www.crazygames.com/game/obby-parkour-race
 https://www.crazygames.com/game/obby-pull-a-sword
@@ -3493,6 +3496,7 @@ https://www.crazygames.com/game/spider-evolution-runner-game
 https://www.crazygames.com/game/spider-frvr
 https://www.crazygames.com/game/spider-hero-street-fight
 https://www.crazygames.com/game/spider-solitaire-2-suits
+https://www.crazygames.com/game/spider-solitaire-fuw
 https://www.crazygames.com/game/spiderdoll
 https://www.crazygames.com/game/spinhunter
 https://www.crazygames.com/game/spirit-guardians
@@ -4239,6 +4243,7 @@ https://www.crazygames.com/game/zombie-clash-3d---halloween
 https://www.crazygames.com/game/zombie-coming-roguelike-siege
 https://www.crazygames.com/game/zombie-crusher-ooz
 https://www.crazygames.com/game/zombie-defense
+https://www.crazygames.com/game/zombie-derby-gyb
 https://www.crazygames.com/game/zombie-drive-survivor
 https://www.crazygames.com/game/zombie-horde-build-survive
 https://www.crazygames.com/game/zombie-hunter

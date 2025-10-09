@@ -45,6 +45,7 @@ https://poki.com/en/g/a-small-world-cup
 https://poki.com/en/g/absorbus
 https://poki.com/en/g/adventure-cube
 https://poki.com/en/g/adventure-drivers
+https://poki.com/en/g/adventure-miner
 https://poki.com/en/g/afterlife-the-game
 https://poki.com/en/g/age-of-war
 https://poki.com/en/g/air-hockey-championship-deluxe
@@ -264,6 +265,7 @@ https://poki.com/en/g/bubble-shooter-lak
 https://poki.com/en/g/bubble-shooter-rf
 https://poki.com/en/g/bubble-shots
 https://poki.com/en/g/bubble-sorting
+https://poki.com/en/g/bubble-storm
 https://poki.com/en/g/bubble-trouble
 https://poki.com/en/g/bubble-trouble-2
 https://poki.com/en/g/bubble-trouble-3
@@ -1221,6 +1223,7 @@ https://poki.com/en/g/merge-tycoon
 https://poki.com/en/g/merge-zoo
 https://poki.com/en/g/mergy
 https://poki.com/en/g/mermaid-dress-up
+https://poki.com/en/g/messy-kingdom-35605720
 https://poki.com/en/g/meteor-strike
 https://poki.com/en/g/microwars
 https://poki.com/en/g/microwars-2
@@ -2134,7 +2137,6 @@ https://poki.com/en/g/water-gun-shooter
 https://poki.com/en/g/water-polo-ragdoll
 https://poki.com/en/g/watercraft-rush
 https://poki.com/en/g/watermelon-drop
-https://poki.com/en/g/watermelon-slide
 https://poki.com/en/g/wave-rider
 https://poki.com/en/g/we-become-what-we-behold
 https://poki.com/en/g/we-skate
