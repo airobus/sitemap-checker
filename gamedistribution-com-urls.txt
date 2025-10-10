@@ -3375,6 +3375,7 @@ https://gamedistribution.com/games/amigo-pancho-2/
 https://gamedistribution.com/games/amigo-pancho-talpa/
 https://gamedistribution.com/games/amigo-pancho/
 https://gamedistribution.com/games/ammo-box/
+https://gamedistribution.com/games/ammo-rush-master/
 https://gamedistribution.com/games/amnesia-true-subway-horror/
 https://gamedistribution.com/games/amoebas-life/
 https://gamedistribution.com/games/amogus.io/
@@ -4881,6 +4882,7 @@ https://gamedistribution.com/games/beat-corona-memory-game/
 https://gamedistribution.com/games/beat-dropper/
 https://gamedistribution.com/games/beat-em-up-street-fight-2d/
 https://gamedistribution.com/games/beat-line/
+https://gamedistribution.com/games/beat-music-battle/
 https://gamedistribution.com/games/beat-ninja-smash-game-2d/
 https://gamedistribution.com/games/beat-racer-online/
 https://gamedistribution.com/games/beat-the-plush/
@@ -6713,6 +6715,7 @@ https://gamedistribution.com/games/captain-snowball/
 https://gamedistribution.com/games/capture-the-chickens/
 https://gamedistribution.com/games/capybara-block-drop/
 https://gamedistribution.com/games/capybara-block-shot/
+https://gamedistribution.com/games/capybara-coin-master/
 https://gamedistribution.com/games/capybara-go!/
 https://gamedistribution.com/games/capybara-screw-jam/
 https://gamedistribution.com/games/capybara-suika/
@@ -7034,6 +7037,7 @@ https://gamedistribution.com/games/cat-girl-valentine-story-deep-water/
 https://gamedistribution.com/games/cat-gunner-vs-zombies/
 https://gamedistribution.com/games/cat-hair-salon/
 https://gamedistribution.com/games/cat-life-merge-money/
+https://gamedistribution.com/games/cat-life-simulator%3A-devil-cat/
 https://gamedistribution.com/games/cat-life-simulator/
 https://gamedistribution.com/games/cat-lovescapes/
 https://gamedistribution.com/games/cat-match-3/
@@ -12830,6 +12834,7 @@ https://gamedistribution.com/games/funny-hair-salon/
 https://gamedistribution.com/games/funny-haircut/
 https://gamedistribution.com/games/funny-helicopter-memory/
 https://gamedistribution.com/games/funny-heroes-emergency/
+https://gamedistribution.com/games/funny-kittens-2/
 https://gamedistribution.com/games/funny-kitty-care/
 https://gamedistribution.com/games/funny-kitty-dressup/
 https://gamedistribution.com/games/funny-kitty-haircut/
@@ -17416,6 +17421,7 @@ https://gamedistribution.com/games/marble-balls-3d/
 https://gamedistribution.com/games/marble-balls/
 https://gamedistribution.com/games/marble-blast-1/
 https://gamedistribution.com/games/marble-blast/
+https://gamedistribution.com/games/marble-bubble-legend/
 https://gamedistribution.com/games/marble-dash/
 https://gamedistribution.com/games/marble-duel/
 https://gamedistribution.com/games/marble-maze/
@@ -24143,6 +24149,7 @@ https://gamedistribution.com/games/snakes-and-ladders-1/
 https://gamedistribution.com/games/snakes-and-ladders-2/
 https://gamedistribution.com/games/snakes-and-ladders-the-game/
 https://gamedistribution.com/games/snakes-and-ladders/
+https://gamedistribution.com/games/snakes/
 https://gamedistribution.com/games/snakeskin-pattern-fashion/
 https://gamedistribution.com/games/snakevsnumbers/
 https://gamedistribution.com/games/snakez/
@@ -28190,6 +28197,7 @@ https://gamedistribution.com/games/whack-the-phone/
 https://gamedistribution.com/games/whack-the-tablet/
 https://gamedistribution.com/games/whack-them-all/
 https://gamedistribution.com/games/wham-o-slip-n-slide/
+https://gamedistribution.com/games/what's-in-my-bag/
 https://gamedistribution.com/games/what-a-leg/
 https://gamedistribution.com/games/what-comes-next/
 https://gamedistribution.com/games/what-do-animals-eat/

@@ -1770,6 +1770,7 @@ https://poki.com/en/g/spider-solitaire
 https://poki.com/en/g/spider-solitaire-ctl
 https://poki.com/en/g/spin-escape
 https://poki.com/en/g/splatmans
+https://poki.com/en/g/spooky-island
 https://poki.com/en/g/spooky-squashers
 https://poki.com/en/g/sports-car-challenge
 https://poki.com/en/g/spot-the-difference
@@ -1805,6 +1806,7 @@ https://poki.com/en/g/stickman-archers-waves
 https://poki.com/en/g/stickman-army-team-battle
 https://poki.com/en/g/stickman-army-the-defenders
 https://poki.com/en/g/stickman-army-the-resistance
+https://poki.com/en/g/stickman-battle-ecb23f7f
 https://poki.com/en/g/stickman-bike
 https://poki.com/en/g/stickman-bike-pr
 https://poki.com/en/g/stickman-boxing-ko-champion

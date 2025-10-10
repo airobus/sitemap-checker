@@ -124,6 +124,7 @@ https://www.crazygames.com/game/9-blocks-mzz
 https://www.crazygames.com/game/911-cannibal
 https://www.crazygames.com/game/911-prey
 https://www.crazygames.com/game/99-balls
+https://www.crazygames.com/game/99-nights-online
 https://www.crazygames.com/game/a-castle-for-trolls
 https://www.crazygames.com/game/a-dark-room
 https://www.crazygames.com/game/a-grim-chase
@@ -1065,6 +1066,7 @@ https://www.crazygames.com/game/die-in-style
 https://www.crazygames.com/game/die-in-the-dungeon
 https://www.crazygames.com/game/diepio
 https://www.crazygames.com/game/dig-craft
+https://www.crazygames.com/game/dig-or-die-prison-escape-simulator
 https://www.crazygames.com/game/dig-tycoon---idle-game-3d
 https://www.crazygames.com/game/digdig-io
 https://www.crazygames.com/game/digital-circus-obby
@@ -2561,9 +2563,7 @@ https://www.crazygames.com/game/multi-level-restaurant
 https://www.crazygames.com/game/multiplayer-quick-tag
 https://www.crazygames.com/game/multitask
 https://www.crazygames.com/game/multiverse-elsa
-https://www.crazygames.com/game/murder
 https://www.crazygames.com/game/murder-mafia
-https://www.crazygames.com/game/murder-the-homicidal-liu-into-damnation
 https://www.crazygames.com/game/murderer
 https://www.crazygames.com/game/murloc-rpg
 https://www.crazygames.com/game/muscle-gun-io
@@ -2987,6 +2987,7 @@ https://www.crazygames.com/game/powerlineio
 https://www.crazygames.com/game/poxel-io
 https://www.crazygames.com/game/practice-on-me
 https://www.crazygames.com/game/prankster-3d
+https://www.crazygames.com/game/pregnant-mother-simulator
 https://www.crazygames.com/game/prehistoric-shark
 https://www.crazygames.com/game/president-simulator
 https://www.crazygames.com/game/press-a-to-party
@@ -3397,6 +3398,7 @@ https://www.crazygames.com/game/slushy-maker
 https://www.crazygames.com/game/smartfriends-hoj
 https://www.crazygames.com/game/smarty-bubbles
 https://www.crazygames.com/game/smash-block-arena
+https://www.crazygames.com/game/smash-defense
 https://www.crazygames.com/game/smash-karts
 https://www.crazygames.com/game/smash-quest
 https://www.crazygames.com/game/smile-slime
@@ -3502,6 +3504,7 @@ https://www.crazygames.com/game/spinhunter
 https://www.crazygames.com/game/spirit-guardians
 https://www.crazygames.com/game/splatmans
 https://www.crazygames.com/game/sploop-io
+https://www.crazygames.com/game/splotch
 https://www.crazygames.com/game/spooky-island
 https://www.crazygames.com/game/spooky-park
 https://www.crazygames.com/game/spooky-tripeaks
@@ -3959,7 +3962,6 @@ https://www.crazygames.com/game/trap-lords
 https://www.crazygames.com/game/trap-the-cat
 https://www.crazygames.com/game/trap-the-cat-pix
 https://www.crazygames.com/game/trapped
-https://www.crazygames.com/game/trapped-in-hell-murder-house
 https://www.crazygames.com/game/trappersquares-io
 https://www.crazygames.com/game/trash-cafe
 https://www.crazygames.com/game/trash-factory
@@ -4569,9 +4571,6 @@ https://www.crazygames.com/t/jump-scare
 https://www.crazygames.com/t/jumping
 https://www.crazygames.com/t/jumping/2
 https://www.crazygames.com/t/jumping/3
-https://www.crazygames.com/t/killing
-https://www.crazygames.com/t/killing/2
-https://www.crazygames.com/t/killing/3
 https://www.crazygames.com/t/kogama
 https://www.crazygames.com/t/logic
 https://www.crazygames.com/t/logic/2
@@ -4619,6 +4618,7 @@ https://www.crazygames.com/t/mobile/12
 https://www.crazygames.com/t/mobile/13
 https://www.crazygames.com/t/mobile/14
 https://www.crazygames.com/t/mobile/15
+https://www.crazygames.com/t/mobile/16
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4

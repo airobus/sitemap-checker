@@ -279,6 +279,7 @@ https://www.twoplayergames.org/game/braindom-2
 https://www.twoplayergames.org/game/brainrot-clicker
 https://www.twoplayergames.org/game/brainrot-evolution
 https://www.twoplayergames.org/game/brainrot-evolution-3d
+https://www.twoplayergames.org/game/brainrot-mega-parkour
 https://www.twoplayergames.org/game/brainrot-mini-challenge
 https://www.twoplayergames.org/game/brainrots-io
 https://www.twoplayergames.org/game/brainy-cars
@@ -1584,6 +1585,7 @@ https://www.twoplayergames.org/game/ragdoll-parkour-simulator
 https://www.twoplayergames.org/game/ragdoll-playground
 https://www.twoplayergames.org/game/ragdoll-soccer
 https://www.twoplayergames.org/game/rail-slide
+https://www.twoplayergames.org/game/rainbow-survivor
 https://www.twoplayergames.org/game/rally-point
 https://www.twoplayergames.org/game/rally-point-2
 https://www.twoplayergames.org/game/rally-point-3
