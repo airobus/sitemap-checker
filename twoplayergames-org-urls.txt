@@ -370,6 +370,7 @@ https://www.twoplayergames.org/game/cat-chaos-simulator
 https://www.twoplayergames.org/game/cat-escape
 https://www.twoplayergames.org/game/cat-fight
 https://www.twoplayergames.org/game/cat-life-simulator
+https://www.twoplayergames.org/game/cat-life-simulator-devil-cat
 https://www.twoplayergames.org/game/cat-vs--mouse-challenge
 https://www.twoplayergames.org/game/catacio
 https://www.twoplayergames.org/game/catapult-of-janissary
@@ -882,6 +883,7 @@ https://www.twoplayergames.org/game/geometry-dash-nemesis
 https://www.twoplayergames.org/game/geometry-dash-scratch
 https://www.twoplayergames.org/game/geometry-dash-subzero
 https://www.twoplayergames.org/game/geometry-dash-wave
+https://www.twoplayergames.org/game/geometry-dash-wave-spam
 https://www.twoplayergames.org/game/geometry-flap
 https://www.twoplayergames.org/game/geometry-jump
 https://www.twoplayergames.org/game/geometry-jump-sketchy
@@ -1271,6 +1273,7 @@ https://www.twoplayergames.org/game/mini-duels-battle
 https://www.twoplayergames.org/game/mini-fighters-quest-and-battle
 https://www.twoplayergames.org/game/mini-fighters-strike
 https://www.twoplayergames.org/game/mini-golf
+https://www.twoplayergames.org/game/mini-golf-battle
 https://www.twoplayergames.org/game/mini-golf-saga
 https://www.twoplayergames.org/game/mini-heads-party
 https://www.twoplayergames.org/game/mini-putt

@@ -5992,6 +5992,7 @@ https://gamedistribution.com/games/bricked/
 https://gamedistribution.com/games/bricks-1/
 https://gamedistribution.com/games/bricks-2/
 https://gamedistribution.com/games/bricks-and-balls-pinball/
+https://gamedistribution.com/games/bricks-balls-breaker/
 https://gamedistribution.com/games/bricks-blocks/
 https://gamedistribution.com/games/bricks-breaker.-gravity-balls/
 https://gamedistribution.com/games/bricks-breaker/
@@ -7262,6 +7263,7 @@ https://gamedistribution.com/games/chicken-farm-escape/
 https://gamedistribution.com/games/chicken-invaders/
 https://gamedistribution.com/games/chicken-jump/
 https://gamedistribution.com/games/chicken-love/
+https://gamedistribution.com/games/chicken-math/
 https://gamedistribution.com/games/chicken-road/
 https://gamedistribution.com/games/chicken-scream-race/
 https://gamedistribution.com/games/chicken-shooter-io/
@@ -7592,6 +7594,7 @@ https://gamedistribution.com/games/circlix-physics-puzzle/
 https://gamedistribution.com/games/circuit-car-racing/
 https://gamedistribution.com/games/circuit-challenge/
 https://gamedistribution.com/games/circuit-drag/
+https://gamedistribution.com/games/circuit-master/
 https://gamedistribution.com/games/circular-racer/
 https://gamedistribution.com/games/circular-reflection/
 https://gamedistribution.com/games/circular-spiral-jump/
@@ -9385,6 +9388,7 @@ https://gamedistribution.com/games/destroy-the-virus/
 https://gamedistribution.com/games/destroy-the-wraith/
 https://gamedistribution.com/games/destroyed-city-drive/
 https://gamedistribution.com/games/destruction-of-stickman-zombie/
+https://gamedistribution.com/games/destruction-simulator/
 https://gamedistribution.com/games/detect-the-precious-statue/
 https://gamedistribution.com/games/detective-logic-puzzles/
 https://gamedistribution.com/games/detective-loupe-puzzle/
@@ -23100,6 +23104,7 @@ https://gamedistribution.com/games/sand-balls-1/
 https://gamedistribution.com/games/sand-balls-2/
 https://gamedistribution.com/games/sand-balls/
 https://gamedistribution.com/games/sand-blast-block-game/
+https://gamedistribution.com/games/sand-block-blast/
 https://gamedistribution.com/games/sand-draw-beach/
 https://gamedistribution.com/games/sand-drawing-1/
 https://gamedistribution.com/games/sand-drawing/
@@ -26294,6 +26299,7 @@ https://gamedistribution.com/games/tape-it-up-online/
 https://gamedistribution.com/games/tapping-dash/
 https://gamedistribution.com/games/tappus_freekickchallenge/
 https://gamedistribution.com/games/tappy-ball/
+https://gamedistribution.com/games/tappy-bird-avoid-the-spikes/
 https://gamedistribution.com/games/tappy-driver/
 https://gamedistribution.com/games/tappy-dumont-1/
 https://gamedistribution.com/games/tappy-dumont/
@@ -28388,6 +28394,7 @@ https://gamedistribution.com/games/witch-and-fairy-bff/
 https://gamedistribution.com/games/witch-apprentice-creator/
 https://gamedistribution.com/games/witch-beauty-salon/
 https://gamedistribution.com/games/witch-cave-treasure/
+https://gamedistribution.com/games/witch-craft-potion-sort/
 https://gamedistribution.com/games/witch-crossword/
 https://gamedistribution.com/games/witch-house-escape/
 https://gamedistribution.com/games/witch-killer/
