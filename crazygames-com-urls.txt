@@ -1374,6 +1374,7 @@ https://www.crazygames.com/game/find-cat
 https://www.crazygames.com/game/find-cat-2
 https://www.crazygames.com/game/find-differences-spot-em-all
 https://www.crazygames.com/game/find-it---find-the-differences
+https://www.crazygames.com/game/find-it-hidden-object-puzzle
 https://www.crazygames.com/game/find-joe-unsolved-mystery-pno
 https://www.crazygames.com/game/find-me-lost-objects
 https://www.crazygames.com/game/find-the-alien
@@ -1923,6 +1924,7 @@ https://www.crazygames.com/game/idle-streamer
 https://www.crazygames.com/game/idle-supermarket-tycoon
 https://www.crazygames.com/game/idle-superpowers
 https://www.crazygames.com/game/idle-train-empire-tycoon
+https://www.crazygames.com/game/idle-train-factory
 https://www.crazygames.com/game/idle-transport-tycoon-eqf
 https://www.crazygames.com/game/idle-treadmill
 https://www.crazygames.com/game/idle-world
@@ -2134,6 +2136,7 @@ https://www.crazygames.com/game/laqueus-escape-chapter-iv
 https://www.crazygames.com/game/laqueus-escape-chapter-vi
 https://www.crazygames.com/game/larry-world-xrl
 https://www.crazygames.com/game/laser-lizard
+https://www.crazygames.com/game/laser-survivor
 https://www.crazygames.com/game/laser-tanks-zwi
 https://www.crazygames.com/game/last-archer
 https://www.crazygames.com/game/last-debt
@@ -2151,6 +2154,7 @@ https://www.crazygames.com/game/league-bowling
 https://www.crazygames.com/game/leap-and-avoid-2
 https://www.crazygames.com/game/learn-to-fly
 https://www.crazygames.com/game/leek-factory-tycoon
+https://www.crazygames.com/game/legend-of-fireball-mpp
 https://www.crazygames.com/game/lemonade-stand
 https://www.crazygames.com/game/let-me-eat-2-feeding-madness
 https://www.crazygames.com/game/let-me-eat-big-fish-eat-smaller
@@ -4324,6 +4328,7 @@ https://www.crazygames.com/sitemap/games/4
 https://www.crazygames.com/sitemap/games/40
 https://www.crazygames.com/sitemap/games/41
 https://www.crazygames.com/sitemap/games/42
+https://www.crazygames.com/sitemap/games/43
 https://www.crazygames.com/sitemap/games/5
 https://www.crazygames.com/sitemap/games/6
 https://www.crazygames.com/sitemap/games/7

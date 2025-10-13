@@ -6269,6 +6269,7 @@ https://gamedistribution.com/games/bubble-shooter-vanilla/
 https://gamedistribution.com/games/bubble-shooter-vegetables/
 https://gamedistribution.com/games/bubble-shooter-wheel/
 https://gamedistribution.com/games/bubble-shooter-winter-pack/
+https://gamedistribution.com/games/bubble-shooter-witch-tower-2/
 https://gamedistribution.com/games/bubble-shooter-witch-tower/
 https://gamedistribution.com/games/bubble-shooter-world-cup-1/
 https://gamedistribution.com/games/bubble-shooter-world-cup-ja/
@@ -8287,6 +8288,7 @@ https://gamedistribution.com/games/cookie-crush-ja/
 https://gamedistribution.com/games/cookie-crush-mania/
 https://gamedistribution.com/games/cookie-crush/
 https://gamedistribution.com/games/cookie-jam/
+https://gamedistribution.com/games/cookie-land/
 https://gamedistribution.com/games/cookie-pig/
 https://gamedistribution.com/games/cookie-run/
 https://gamedistribution.com/games/cookie-tap/
@@ -8315,6 +8317,7 @@ https://gamedistribution.com/games/cooking-live-be-a-chef-and-cook/
 https://gamedistribution.com/games/cooking-madness-game/
 https://gamedistribution.com/games/cooking-mania-express/
 https://gamedistribution.com/games/cooking-mania/
+https://gamedistribution.com/games/cooking-restaurant-kitchen/
 https://gamedistribution.com/games/cooking-scene/
 https://gamedistribution.com/games/cooking-steak-dinner/
 https://gamedistribution.com/games/cooking-stories%3A-fun-cafe-game/
@@ -15864,6 +15867,7 @@ https://gamedistribution.com/games/jumper-jam-titans/
 https://gamedistribution.com/games/jumper-man-3d/
 https://gamedistribution.com/games/jumper-rabbit/
 https://gamedistribution.com/games/jumper-starman/
+https://gamedistribution.com/games/jumper/
 https://gamedistribution.com/games/jumpero/
 https://gamedistribution.com/games/jumpers-3d/
 https://gamedistribution.com/games/jumpers-isometric-html5/
@@ -19545,6 +19549,7 @@ https://gamedistribution.com/games/obby-rescue-mission/
 https://gamedistribution.com/games/obby-survive-parkour/
 https://gamedistribution.com/games/obby-the-legendary-dragon/
 https://gamedistribution.com/games/obby-tower-parkour-climb/
+https://gamedistribution.com/games/obby-tower/
 https://gamedistribution.com/games/object-hunt/
 https://gamedistribution.com/games/observer-crossword/
 https://gamedistribution.com/games/obstacle-cross-drive-simulator/
@@ -27879,6 +27884,7 @@ https://gamedistribution.com/games/vex-5/
 https://gamedistribution.com/games/vex-6/
 https://gamedistribution.com/games/vex-7/
 https://gamedistribution.com/games/vex-8/
+https://gamedistribution.com/games/vex-9/
 https://gamedistribution.com/games/vex-challenges/
 https://gamedistribution.com/games/vex-hyper-dash/
 https://gamedistribution.com/games/vex-x3m-2/
