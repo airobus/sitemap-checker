@@ -151,6 +151,7 @@ https://www.crazygames.com/game/afk-dungeon-zaq
 https://www.crazygames.com/game/afk-heroes
 https://www.crazygames.com/game/against-zombies
 https://www.crazygames.com/game/agario
+https://www.crazygames.com/game/age-evolution-run-fqg
 https://www.crazygames.com/game/age-of-arms
 https://www.crazygames.com/game/age-of-defense-3
 https://www.crazygames.com/game/age-of-steam-tower-defence
@@ -502,6 +503,7 @@ https://www.crazygames.com/game/bounce-blocku-golf
 https://www.crazygames.com/game/bounce-heroes
 https://www.crazygames.com/game/bounce-out
 https://www.crazygames.com/game/bounce-return-on-the-old-phone
+https://www.crazygames.com/game/bouncy-arrow-dpe
 https://www.crazygames.com/game/bouncy-buddies-physics-puzzle
 https://www.crazygames.com/game/bouncy-dunk
 https://www.crazygames.com/game/bouncy-egg
@@ -777,6 +779,7 @@ https://www.crazygames.com/game/clickermon
 https://www.crazygames.com/game/climbing-block---let-s-up-llam
 https://www.crazygames.com/game/clock-clicker
 https://www.crazygames.com/game/clone2048
+https://www.crazygames.com/game/cloudy-with-a-chance-of-kittens
 https://www.crazygames.com/game/club-tycoon-idle-clicker
 https://www.crazygames.com/game/coffee-idle
 https://www.crazygames.com/game/coffee-match-block-puzzle
@@ -1726,8 +1729,6 @@ https://www.crazygames.com/game/hazmob-fps-online-shooter
 https://www.crazygames.com/game/head2head-racing
 https://www.crazygames.com/game/healing-driver
 https://www.crazygames.com/game/heart-box
-https://www.crazygames.com/game/heartreasure
-https://www.crazygames.com/game/heartreasure-2
 https://www.crazygames.com/game/hearts-classic
 https://www.crazygames.com/game/heat-incremental
 https://www.crazygames.com/game/heavy-duty-vehicle-zone
@@ -2621,6 +2622,7 @@ https://www.crazygames.com/game/nebula-tarot-cat-uee
 https://www.crazygames.com/game/necro-sludge
 https://www.crazygames.com/game/neil-the-nail
 https://www.crazygames.com/game/neko-sliding-cat-puzzle
+https://www.crazygames.com/game/neon-planet-idle-clicker
 https://www.crazygames.com/game/neon-rider-vwz
 https://www.crazygames.com/game/neon-stars
 https://www.crazygames.com/game/neon-swing
@@ -3799,7 +3801,6 @@ https://www.crazygames.com/game/tenkyu-ball
 https://www.crazygames.com/game/tennis-game
 https://www.crazygames.com/game/tennis-masters
 https://www.crazygames.com/game/tentrix
-https://www.crazygames.com/game/terraforma
 https://www.crazygames.com/game/territory-war
 https://www.crazygames.com/game/tetris-with-physics
 https://www.crazygames.com/game/tetrix-2
