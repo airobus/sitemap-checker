@@ -879,7 +879,6 @@ https://www.crazygames.com/game/crazy-flasher-3
 https://www.crazygames.com/game/crazy-flips-3d
 https://www.crazygames.com/game/crazy-for-speed
 https://www.crazygames.com/game/crazy-grand-prix
-https://www.crazygames.com/game/crazy-guys
 https://www.crazygames.com/game/crazy-jump-jump-multiplayer
 https://www.crazygames.com/game/crazy-kitchen-multiplayer
 https://www.crazygames.com/game/crazy-mechs
@@ -1616,7 +1615,6 @@ https://www.crazygames.com/game/golden-spider-solitaire
 https://www.crazygames.com/game/golf-adventures-2
 https://www.crazygames.com/game/golf-mania
 https://www.crazygames.com/game/golf-orbit
-https://www.crazygames.com/game/golf-quest
 https://www.crazygames.com/game/golf-solitaire
 https://www.crazygames.com/game/goober-dash
 https://www.crazygames.com/game/goober-royale
@@ -2495,7 +2493,6 @@ https://www.crazygames.com/game/money-maker-idle
 https://www.crazygames.com/game/money-ping-pong-stj
 https://www.crazygames.com/game/money-printer
 https://www.crazygames.com/game/money-tree-2-cash-grow-game
-https://www.crazygames.com/game/monkey-go-happy
 https://www.crazygames.com/game/mono-move
 https://www.crazygames.com/game/monochrome-looks
 https://www.crazygames.com/game/monster-adventure
@@ -2505,6 +2502,7 @@ https://www.crazygames.com/game/monster-box-bae
 https://www.crazygames.com/game/monster-cars-ultimate-simulator
 https://www.crazygames.com/game/monster-christmas-terror
 https://www.crazygames.com/game/monster-defense-kaf
+https://www.crazygames.com/game/monster-doll-and-me
 https://www.crazygames.com/game/monster-duel
 https://www.crazygames.com/game/monster-girl-dress-up-makeup
 https://www.crazygames.com/game/monster-hospital
@@ -3157,6 +3155,7 @@ https://www.crazygames.com/game/riot-escape
 https://www.crazygames.com/game/rise-of-the-blobs-ehk
 https://www.crazygames.com/game/risehero
 https://www.crazygames.com/game/road-battle-gather-the-gang-vvf
+https://www.crazygames.com/game/road-madness
 https://www.crazygames.com/game/road-master
 https://www.crazygames.com/game/road-of-fury-4-kdg
 https://www.crazygames.com/game/road-turn
@@ -3393,6 +3392,7 @@ https://www.crazygames.com/game/slime-farm-3
 https://www.crazygames.com/game/slime-farm-remake
 https://www.crazygames.com/game/slime-jumper-cjb
 https://www.crazygames.com/game/slime-knight
+https://www.crazygames.com/game/slime-tower-merge
 https://www.crazygames.com/game/slimecraft
 https://www.crazygames.com/game/slingshot-crash
 https://www.crazygames.com/game/slingshot-fortress
@@ -4146,6 +4146,7 @@ https://www.crazygames.com/game/wingsio
 https://www.crazygames.com/game/winter-clash-3d
 https://www.crazygames.com/game/winter-falling-price-of-life
 https://www.crazygames.com/game/winterbells
+https://www.crazygames.com/game/wintercraft-survival-in-the-forest
 https://www.crazygames.com/game/wire-beat
 https://www.crazygames.com/game/witch-pong
 https://www.crazygames.com/game/witchy-sacrifices
@@ -4245,6 +4246,7 @@ https://www.crazygames.com/game/zeppelin-assault
 https://www.crazygames.com/game/zingrush-lwv
 https://www.crazygames.com/game/zom-strike-vvq
 https://www.crazygames.com/game/zombie-arena
+https://www.crazygames.com/game/zombie-cafe
 https://www.crazygames.com/game/zombie-car-racing
 https://www.crazygames.com/game/zombie-clash-3d---halloween
 https://www.crazygames.com/game/zombie-coming-roguelike-siege
@@ -4461,6 +4463,7 @@ https://www.crazygames.com/t/chess
 https://www.crazygames.com/t/christmas
 https://www.crazygames.com/t/classic
 https://www.crazygames.com/t/classic/2
+https://www.crazygames.com/t/climb-the-ranks
 https://www.crazygames.com/t/co-op
 https://www.crazygames.com/t/collect
 https://www.crazygames.com/t/collect/2
@@ -4543,6 +4546,7 @@ https://www.crazygames.com/t/gun
 https://www.crazygames.com/t/gun/2
 https://www.crazygames.com/t/gun/3
 https://www.crazygames.com/t/gun/4
+https://www.crazygames.com/t/gun/5
 https://www.crazygames.com/t/hair
 https://www.crazygames.com/t/halloween
 https://www.crazygames.com/t/helicopter

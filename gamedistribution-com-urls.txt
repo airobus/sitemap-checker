@@ -9048,6 +9048,7 @@ https://gamedistribution.com/games/cutezee-cooking-academy-gingerbread/
 https://gamedistribution.com/games/cutezee-cooking-academy-macarons/
 https://gamedistribution.com/games/cutezee-crafts-academy-knitting/
 https://gamedistribution.com/games/cutie-girl-dress-up/
+https://gamedistribution.com/games/cyber-arrow/
 https://gamedistribution.com/games/cyber-basket/
 https://gamedistribution.com/games/cyber-cars-punk-racing/
 https://gamedistribution.com/games/cyber-city/
@@ -10848,6 +10849,7 @@ https://gamedistribution.com/games/emoji---my-moji-maker/
 https://gamedistribution.com/games/emoji-challenge/
 https://gamedistribution.com/games/emoji-circle-run/
 https://gamedistribution.com/games/emoji-color-sort-puzzle/
+https://gamedistribution.com/games/emoji-drop-themes/
 https://gamedistribution.com/games/emoji-dunk-clicker/
 https://gamedistribution.com/games/emoji-flow/
 https://gamedistribution.com/games/emoji-game/
@@ -17191,6 +17193,7 @@ https://gamedistribution.com/games/magic-stones-2/
 https://gamedistribution.com/games/magic-stones-collection/
 https://gamedistribution.com/games/magic-stones/
 https://gamedistribution.com/games/magic-surfer-girl/
+https://gamedistribution.com/games/magic-tiles-3/
 https://gamedistribution.com/games/magic-tri-peaks-solitaire/
 https://gamedistribution.com/games/magic-wood-lumberjack/
 https://gamedistribution.com/games/magic-world/
@@ -17625,6 +17628,7 @@ https://gamedistribution.com/games/math-tracks/
 https://gamedistribution.com/games/math-train-addition/
 https://gamedistribution.com/games/math-trivia-live/
 https://gamedistribution.com/games/math-vs-bat/
+https://gamedistribution.com/games/math-wall-simulator/
 https://gamedistribution.com/games/math-whizz-2/
 https://gamedistribution.com/games/math-whizz/
 https://gamedistribution.com/games/math-word-search/
