@@ -224,6 +224,7 @@ https://www.crazygames.com/game/archer-ragdoll-masters
 https://www.crazygames.com/game/archer-shooter-3d-bpu
 https://www.crazygames.com/game/archers-arena
 https://www.crazygames.com/game/archers-battle
+https://www.crazygames.com/game/archers-random
 https://www.crazygames.com/game/archery-master
 https://www.crazygames.com/game/archery-world-tour
 https://www.crazygames.com/game/arena
@@ -1934,6 +1935,7 @@ https://www.crazygames.com/game/idle-zoo-pcr
 https://www.crazygames.com/game/idlegun
 https://www.crazygames.com/game/idol-livestream-fashion-game
 https://www.crazygames.com/game/image-crossword-far
+https://www.crazygames.com/game/imagine-island
 https://www.crazygames.com/game/immortal-dark-slayer
 https://www.crazygames.com/game/immortals-revenge
 https://www.crazygames.com/game/impossibe-date
@@ -1953,6 +1955,7 @@ https://www.crazygames.com/game/infiltrating-the-airship
 https://www.crazygames.com/game/infinite-asteroids
 https://www.crazygames.com/game/infinite-heroes
 https://www.crazygames.com/game/infinite-launch
+https://www.crazygames.com/game/infinity-kingdom
 https://www.crazygames.com/game/infinity-toower
 https://www.crazygames.com/game/injustice-gods-among-us
 https://www.crazygames.com/game/ink-shop-dress-tattoo-games
@@ -2293,6 +2296,7 @@ https://www.crazygames.com/game/mahjong-unlimited
 https://www.crazygames.com/game/mahjongg
 https://www.crazygames.com/game/mahjongg-solitaire
 https://www.crazygames.com/game/maid-heroes-idle-rpg
+https://www.crazygames.com/game/maiolike-block-puzzle
 https://www.crazygames.com/game/make-up-hole
 https://www.crazygames.com/game/make-up-queen-r
 https://www.crazygames.com/game/makeover-surgeons
@@ -2774,6 +2778,7 @@ https://www.crazygames.com/game/orbit
 https://www.crazygames.com/game/our-bingo
 https://www.crazygames.com/game/outlets-rush
 https://www.crazygames.com/game/outpost-zombie-apocalypse
+https://www.crazygames.com/game/overrun-xhd
 https://www.crazygames.com/game/overtide-io
 https://www.crazygames.com/game/overtitans-destroyers-of-worlds
 https://www.crazygames.com/game/ovo
@@ -3078,6 +3083,7 @@ https://www.crazygames.com/game/ragdoll-fight
 https://www.crazygames.com/game/ragdoll-ninja-imposter-hero
 https://www.crazygames.com/game/ragdoll-soccer-2-players
 https://www.crazygames.com/game/ragdoll-throw-challenge
+https://www.crazygames.com/game/raid-heroes-dark-side
 https://www.crazygames.com/game/raid-heroes-dragon-age
 https://www.crazygames.com/game/raid-heroes-total-war-cgb
 https://www.crazygames.com/game/raidfield-2-pjc
@@ -4825,7 +4831,6 @@ https://www.crazygames.com/t/war/3
 https://www.crazygames.com/t/water
 https://www.crazygames.com/t/with-friends
 https://www.crazygames.com/t/with-friends/2
-https://www.crazygames.com/t/with-friends/3
 https://www.crazygames.com/t/word
 https://www.crazygames.com/t/world-cup
 https://www.crazygames.com/t/wtf

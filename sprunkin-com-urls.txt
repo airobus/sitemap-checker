@@ -46,7 +46,6 @@ https://sprunkin.com/game/gingerdandys-sprunki/
 https://sprunkin.com/game/goonzy-but-sprunki/
 https://sprunkin.com/game/htsprunkis-retake/
 https://sprunkin.com/game/incredibox-cataclysm/
-https://sprunkin.com/game/incredibox-mustard/
 https://sprunkin.com/game/interactive-simon/
 https://sprunkin.com/game/just-another-sprunki-reskin/
 https://sprunkin.com/game/just-sprunkin-around/
@@ -407,6 +406,7 @@ https://sprunkin.com/game/sprunki-distorded-4u/
 https://sprunkin.com/game/sprunki-donki/
 https://sprunkin.com/game/sprunki-donkstard/
 https://sprunkin.com/game/sprunki-dont-hug-me/
+https://sprunkin.com/game/sprunki-doodoo-fard/
 https://sprunkin.com/game/sprunki-doors/
 https://sprunkin.com/game/sprunki-dumpling/
 https://sprunkin.com/game/sprunki-durple-treatment/
@@ -659,6 +659,7 @@ https://sprunkin.com/game/sprunki-phase-3-remastered-but-everyone-is-vineria/
 https://sprunkin.com/game/sprunki-phase-3-remastered/
 https://sprunkin.com/game/sprunki-phase-3-reverse/
 https://sprunkin.com/game/sprunki-phase-3-rm-but-all-alive/
+https://sprunkin.com/game/sprunki-phase-3-rotten-and-forgotten/
 https://sprunkin.com/game/sprunki-phase-3/
 https://sprunkin.com/game/sprunki-phase-30-death/
 https://sprunkin.com/game/sprunki-phase-30/
@@ -1036,6 +1037,7 @@ https://sprunkin.com/game/sprunki-swap-but-parasprunki/
 https://sprunkin.com/game/sprunki-swap-cancel/
 https://sprunkin.com/game/sprunki-swap-repost/
 https://sprunkin.com/game/sprunki-swap-retextured/
+https://sprunkin.com/game/sprunki-swap-v2-americium/
 https://sprunkin.com/game/sprunki-swapped-broken/
 https://sprunkin.com/game/sprunki-swapped-nuclear-version/
 https://sprunkin.com/game/sprunki-swapped-phase-7/

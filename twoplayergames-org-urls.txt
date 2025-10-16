@@ -837,6 +837,7 @@ https://www.twoplayergames.org/game/friend-shot
 https://www.twoplayergames.org/game/frisbee-forever-2
 https://www.twoplayergames.org/game/froggy-taptap
 https://www.twoplayergames.org/game/from-nerd-to-popular-ballerina-cappuccina
+https://www.twoplayergames.org/game/frontwars-io
 https://www.twoplayergames.org/game/fruit-break
 https://www.twoplayergames.org/game/fruit-ninja
 https://www.twoplayergames.org/game/fun-basketball
@@ -1205,6 +1206,7 @@ https://www.twoplayergames.org/game/madness-sheriffs-compound
 https://www.twoplayergames.org/game/mafia-wars
 https://www.twoplayergames.org/game/magic-dash
 https://www.twoplayergames.org/game/magic-nail-spa-salon
+https://www.twoplayergames.org/game/magic-tiles-3
 https://www.twoplayergames.org/game/mahjong-connect
 https://www.twoplayergames.org/game/mahjong-deluxe
 https://www.twoplayergames.org/game/make-your-own-car

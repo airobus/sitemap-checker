@@ -45,6 +45,7 @@ https://poki.com/en/g/a-small-world-cup
 https://poki.com/en/g/absorbus
 https://poki.com/en/g/adventure-cube
 https://poki.com/en/g/adventure-drivers
+https://poki.com/en/g/adventure-jumper
 https://poki.com/en/g/adventure-miner
 https://poki.com/en/g/afterlife-the-game
 https://poki.com/en/g/age-of-war
@@ -360,6 +361,7 @@ https://poki.com/en/g/cats-love-cake
 https://poki.com/en/g/cats-love-cake-2
 https://poki.com/en/g/cats-party
 https://poki.com/en/g/cats-vs-zombies
+https://poki.com/en/g/cats-world-merge-stickers
 https://poki.com/en/g/cave-blast
 https://poki.com/en/g/cave-chaos
 https://poki.com/en/g/cave-chaos-2
@@ -552,6 +554,7 @@ https://poki.com/en/g/dishwashers-life
 https://poki.com/en/g/distraction-driver
 https://poki.com/en/g/diva-hair-salon
 https://poki.com/en/g/doc-darling-bone-surgery
+https://poki.com/en/g/doc-darling-santa-surgery
 https://poki.com/en/g/doc-honeyberry-kitty-surgery
 https://poki.com/en/g/doctor-acorn-2
 https://poki.com/en/g/doctor-acorn-3
@@ -882,6 +885,7 @@ https://poki.com/en/g/graffiti-time
 https://poki.com/en/g/grand-mini-slam
 https://poki.com/en/g/grand-prix-hero
 https://poki.com/en/g/grandma-recipe-apple-pie
+https://poki.com/en/g/grandma-recipe-nigiri-sushi
 https://poki.com/en/g/grandma-recipe-ramen
 https://poki.com/en/g/grandmas-delicious-cakes
 https://poki.com/en/g/grapple-grip
@@ -1661,6 +1665,7 @@ https://poki.com/en/g/sharkio
 https://poki.com/en/g/sharkosaurus-rampage
 https://poki.com/en/g/sheep-party
 https://poki.com/en/g/shenzhen-mahjong
+https://poki.com/en/g/shepherd-farm
 https://poki.com/en/g/shift-to-drift
 https://poki.com/en/g/shipo-io
 https://poki.com/en/g/shoot-n-shout-turbo
@@ -2232,6 +2237,7 @@ https://poki.com/en/g/zombie-dying-survival-days
 https://poki.com/en/g/zombie-head
 https://poki.com/en/g/zombie-killer
 https://poki.com/en/g/zombie-match
+https://poki.com/en/g/zombie-merge
 https://poki.com/en/g/zombie-outbreak-arena
 https://poki.com/en/g/zombie-plague
 https://poki.com/en/g/zombie-rush

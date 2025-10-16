@@ -9529,6 +9529,7 @@ https://gamedistribution.com/games/dinosaur-hunting-dino-attack-3d/
 https://gamedistribution.com/games/dinosaur-memory-challenge-1/
 https://gamedistribution.com/games/dinosaur-memory-challenge/
 https://gamedistribution.com/games/dinosaur-run/
+https://gamedistribution.com/games/dinosaur-shifting-run/
 https://gamedistribution.com/games/dinosaur-spot-the-difference/
 https://gamedistribution.com/games/dinosaur-warrior-coloring/
 https://gamedistribution.com/games/dinosaurs-and-aliens/
@@ -16909,6 +16910,7 @@ https://gamedistribution.com/games/lord-of-the-knights/
 https://gamedistribution.com/games/lordz-io/
 https://gamedistribution.com/games/lordz2io/
 https://gamedistribution.com/games/lorenzo-the-runner/
+https://gamedistribution.com/games/lost-adventure/
 https://gamedistribution.com/games/lost-escape-abandoned-manor/
 https://gamedistribution.com/games/lost-escape-abandoned-mansion/
 https://gamedistribution.com/games/lost-escape-bikers-refuge/
@@ -19388,6 +19390,7 @@ https://gamedistribution.com/games/nonogram/
 https://gamedistribution.com/games/nonograms-valentines-day/
 https://gamedistribution.com/games/nonosparks-genesis/
 https://gamedistribution.com/games/nonstop-cars/
+https://gamedistribution.com/games/noob%3A-parkour-tricks/
 https://gamedistribution.com/games/noob%3A-saving-friends/
 https://gamedistribution.com/games/noob%3A-zombie-prison-escape/
 https://gamedistribution.com/games/noob-adventure/
@@ -22699,6 +22702,7 @@ https://gamedistribution.com/games/roboy-memory/
 https://gamedistribution.com/games/robuxs-spin-wheel-earn-rbx/
 https://gamedistribution.com/games/robybox-space-station-warehouse/
 https://gamedistribution.com/games/rock--paper--scissors/
+https://gamedistribution.com/games/rock-crawling/
 https://gamedistribution.com/games/rock-hero/
 https://gamedistribution.com/games/rock-house-treasure/
 https://gamedistribution.com/games/rock-music/
@@ -26186,6 +26190,7 @@ https://gamedistribution.com/games/tangram-1/
 https://gamedistribution.com/games/tangram-grid/
 https://gamedistribution.com/games/tangram-king/
 https://gamedistribution.com/games/tangram-match-masters/
+https://gamedistribution.com/games/tangram-puzzle-1/
 https://gamedistribution.com/games/tangram-puzzle/
 https://gamedistribution.com/games/tangram/
 https://gamedistribution.com/games/tangramz!/
