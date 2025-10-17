@@ -556,6 +556,7 @@ https://poki.com/en/g/diva-hair-salon
 https://poki.com/en/g/doc-darling-bone-surgery
 https://poki.com/en/g/doc-darling-santa-surgery
 https://poki.com/en/g/doc-honeyberry-kitty-surgery
+https://poki.com/en/g/doc-honeyberry-puppy-surgery
 https://poki.com/en/g/doctor-acorn-2
 https://poki.com/en/g/doctor-acorn-3
 https://poki.com/en/g/doctor-hero
@@ -646,6 +647,7 @@ https://poki.com/en/g/eggy-car
 https://poki.com/en/g/eggys-big-adventure
 https://poki.com/en/g/electric-highway
 https://poki.com/en/g/elemental-master
+https://poki.com/en/g/elf-backpack
 https://poki.com/en/g/elixpur-idle
 https://poki.com/en/g/eliza-mall-mania
 https://poki.com/en/g/ellie-and-ben-date-night
@@ -1069,7 +1071,6 @@ https://poki.com/en/g/kates-cooking-party-2
 https://poki.com/en/g/kawai-drop
 https://poki.com/en/g/kawaii-dressup
 https://poki.com/en/g/kawaii-fruits-3d
-https://poki.com/en/g/kick-it
 https://poki.com/en/g/kickflip-santa
 https://poki.com/en/g/kigurumi-dress-up
 https://poki.com/en/g/killer-snake
@@ -1380,7 +1381,6 @@ https://poki.com/en/g/ovo-dimensions
 https://poki.com/en/g/pack-a-bag
 https://poki.com/en/g/paint-and-run
 https://poki.com/en/g/paint-strike
-https://poki.com/en/g/paintball-shooting
 https://poki.com/en/g/panda-bubble-shooter
 https://poki.com/en/g/panda-simulator-3d
 https://poki.com/en/g/panenka
@@ -1545,6 +1545,7 @@ https://poki.com/en/g/raft-wars-multiplayer
 https://poki.com/en/g/ragdoll-fall
 https://poki.com/en/g/ragdoll-hit
 https://poki.com/en/g/ragdoll-soccer
+https://poki.com/en/g/rail-in-the-air
 https://poki.com/en/g/rainbogeddon
 https://poki.com/en/g/rainbow-obby
 https://poki.com/en/g/rainbow-star-pinball
@@ -1637,6 +1638,7 @@ https://poki.com/en/g/sandtris
 https://poki.com/en/g/satisbox
 https://poki.com/en/g/sausage-flip
 https://poki.com/en/g/save-dogogo
+https://poki.com/en/g/save-little-red-hood-8d6c34ed
 https://poki.com/en/g/save-the-mermaid
 https://poki.com/en/g/scary-hill
 https://poki.com/en/g/scary-little-prankster
@@ -1817,6 +1819,7 @@ https://poki.com/en/g/stickman-bike
 https://poki.com/en/g/stickman-bike-pr
 https://poki.com/en/g/stickman-boxing-ko-champion
 https://poki.com/en/g/stickman-bridge-constructor
+https://poki.com/en/g/stickman-clash
 https://poki.com/en/g/stickman-climb
 https://poki.com/en/g/stickman-climb-2
 https://poki.com/en/g/stickman-crazy-box

@@ -289,6 +289,7 @@ https://www.crazygames.com/game/balanced-running
 https://www.crazygames.com/game/ball-blast
 https://www.crazygames.com/game/ball-blaster
 https://www.crazygames.com/game/ball-block-maze
+https://www.crazygames.com/game/ball-dash
 https://www.crazygames.com/game/ball-guys
 https://www.crazygames.com/game/ball-hero-adventure-red-bounce-ball
 https://www.crazygames.com/game/ball-ring-destruction
@@ -1636,6 +1637,7 @@ https://www.crazygames.com/game/grandfather-road-chase-realistic-shooter
 https://www.crazygames.com/game/grandma-recipe-apple-pie
 https://www.crazygames.com/game/grandma-recipe-nigiri-sushi
 https://www.crazygames.com/game/grandma-recipe-ramen
+https://www.crazygames.com/game/grass-defense-ugy
 https://www.crazygames.com/game/grass-land-cei
 https://www.crazygames.com/game/gravity-arena-shooter
 https://www.crazygames.com/game/gravity-crowd
@@ -2175,6 +2177,7 @@ https://www.crazygames.com/game/lime-playground-sandbox
 https://www.crazygames.com/game/limited-defense
 https://www.crazygames.com/game/limited-kaboom
 https://www.crazygames.com/game/limitless
+https://www.crazygames.com/game/line-game-eeg
 https://www.crazygames.com/game/line-rider
 https://www.crazygames.com/game/line-rider-2
 https://www.crazygames.com/game/lines-tpx
@@ -2880,6 +2883,7 @@ https://www.crazygames.com/game/pet-clicker
 https://www.crazygames.com/game/pet-healer---vet-hospital
 https://www.crazygames.com/game/pet-salon-simulator
 https://www.crazygames.com/game/pet-trainer-duel
+https://www.crazygames.com/game/pew-pew-dose
 https://www.crazygames.com/game/phoenix-contract-zky
 https://www.crazygames.com/game/physics-miner
 https://www.crazygames.com/game/piece-of-cake-merge-and-bake
@@ -3796,7 +3800,6 @@ https://www.crazygames.com/game/taz-mechanic-simulator
 https://www.crazygames.com/game/tcg-shop-cards-toys-and-comics-nbm
 https://www.crazygames.com/game/tdp4-team-battle
 https://www.crazygames.com/game/teacher-simulator
-https://www.crazygames.com/game/team-fluffy-online
 https://www.crazygames.com/game/team-order-racing-manager
 https://www.crazygames.com/game/teenage-celebrity-rivalry
 https://www.crazygames.com/game/teeth-runner
@@ -4082,6 +4085,7 @@ https://www.crazygames.com/game/volley-random
 https://www.crazygames.com/game/vortex-9-ubs
 https://www.crazygames.com/game/vortex-io
 https://www.crazygames.com/game/voxiom-io
+https://www.crazygames.com/game/voxmaxa-com
 https://www.crazygames.com/game/vulpin-adventures
 https://www.crazygames.com/game/wacky-dungeon
 https://www.crazygames.com/game/waffle-words
@@ -4233,6 +4237,7 @@ https://www.crazygames.com/game/you-have-to-burn-the-rope
 https://www.crazygames.com/game/you-vs-100-skibidi-toilets
 https://www.crazygames.com/game/your-chronicle
 https://www.crazygames.com/game/your-majesty---build-conquer
+https://www.crazygames.com/game/yukon-family-adventure
 https://www.crazygames.com/game/yummy-candy-factory
 https://www.crazygames.com/game/yummy-chocolate-factory
 https://www.crazygames.com/game/yummy-churros-ice-cream
@@ -4472,6 +4477,7 @@ https://www.crazygames.com/t/classic/2
 https://www.crazygames.com/t/climb-the-ranks
 https://www.crazygames.com/t/co-op
 https://www.crazygames.com/t/collect
+https://www.crazygames.com/t/collect/10
 https://www.crazygames.com/t/collect/2
 https://www.crazygames.com/t/collect/3
 https://www.crazygames.com/t/collect/4
@@ -4806,6 +4812,7 @@ https://www.crazygames.com/t/survive/3
 https://www.crazygames.com/t/survive/4
 https://www.crazygames.com/t/survive/5
 https://www.crazygames.com/t/survive/6
+https://www.crazygames.com/t/survive/7
 https://www.crazygames.com/t/sword
 https://www.crazygames.com/t/tank
 https://www.crazygames.com/t/tetris
