@@ -6289,6 +6289,7 @@ https://gamedistribution.com/games/bubble-tanks-3/
 https://gamedistribution.com/games/bubble-tea/
 https://gamedistribution.com/games/bubble-tower-3d/
 https://gamedistribution.com/games/bubble-trouble-1/
+https://gamedistribution.com/games/bubble-trouble/
 https://gamedistribution.com/games/bubble-up!/
 https://gamedistribution.com/games/bubble-up-master/
 https://gamedistribution.com/games/bubble-up/
@@ -6720,6 +6721,7 @@ https://gamedistribution.com/games/capybara-block-shot/
 https://gamedistribution.com/games/capybara-coin-master/
 https://gamedistribution.com/games/capybara-go!/
 https://gamedistribution.com/games/capybara-screw-jam/
+https://gamedistribution.com/games/capybara-skewer-match/
 https://gamedistribution.com/games/capybara-suika/
 https://gamedistribution.com/games/car-arena-fight/
 https://gamedistribution.com/games/car-backwheel/
@@ -10409,6 +10411,7 @@ https://gamedistribution.com/games/eatventure/
 https://gamedistribution.com/games/eboy-fashion/
 https://gamedistribution.com/games/eccentric-house-escape/
 https://gamedistribution.com/games/echo-simon/
+https://gamedistribution.com/games/echolocation-shooter-1/
 https://gamedistribution.com/games/eco-block-puzzle/
 https://gamedistribution.com/games/eco-inc.-save-the-earth-planet/
 https://gamedistribution.com/games/eco-recycler/
@@ -11416,6 +11419,7 @@ https://gamedistribution.com/games/family-pool-time/
 https://gamedistribution.com/games/family-relics/
 https://gamedistribution.com/games/family-road-trip/
 https://gamedistribution.com/games/family-shopping-mall/
+https://gamedistribution.com/games/family-squid-challenge/
 https://gamedistribution.com/games/family-travel-jigsaw/
 https://gamedistribution.com/games/family-tree-emoji/
 https://gamedistribution.com/games/family-tree-puzzle/
@@ -11548,6 +11552,7 @@ https://gamedistribution.com/games/fashion-gaga/
 https://gamedistribution.com/games/fashion-girl-career-outfits/
 https://gamedistribution.com/games/fashion-girl-new-dress/
 https://gamedistribution.com/games/fashion-girls-nail-salon/
+https://gamedistribution.com/games/fashion-heroes-academy/
 https://gamedistribution.com/games/fashion-holic/
 https://gamedistribution.com/games/fashion-magazine-2017/
 https://gamedistribution.com/games/fashion-magazine-perfect-make-up/
@@ -20008,6 +20013,7 @@ https://gamedistribution.com/games/park-a-lot-3-talpa/
 https://gamedistribution.com/games/park-avenue-escape/
 https://gamedistribution.com/games/park-it-xmas/
 https://gamedistribution.com/games/park-it/
+https://gamedistribution.com/games/park-master%3A-multi-level-challenge/
 https://gamedistribution.com/games/park-master-2/
 https://gamedistribution.com/games/park-master/
 https://gamedistribution.com/games/park-me/
@@ -22009,6 +22015,7 @@ https://gamedistribution.com/games/quizzing-measurement/
 https://gamedistribution.com/games/quizzland-trivia-game-lite-version/
 https://gamedistribution.com/games/rabbids-volcano-panic/
 https://gamedistribution.com/games/rabbids-wild-race/
+https://gamedistribution.com/games/rabbit-and-carrot/
 https://gamedistribution.com/games/rabbit-ben/
 https://gamedistribution.com/games/rabbit-bubble-shooter/
 https://gamedistribution.com/games/rabbit-escape-%3A-escape-games-46/
@@ -28554,6 +28561,7 @@ https://gamedistribution.com/games/word-scramble-animals/
 https://gamedistribution.com/games/word-scramble-family-tales/
 https://gamedistribution.com/games/word-search-1/
 https://gamedistribution.com/games/word-search-2/
+https://gamedistribution.com/games/word-search-3/
 https://gamedistribution.com/games/word-search-animals/
 https://gamedistribution.com/games/word-search-birds/
 https://gamedistribution.com/games/word-search-challenge/
