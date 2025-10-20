@@ -214,7 +214,6 @@ https://www.crazygames.com/game/apocalypse-reborn-qff
 https://www.crazygames.com/game/apoclone-bmv
 https://www.crazygames.com/game/appel
 https://www.crazygames.com/game/apple-shooter
-https://www.crazygames.com/game/aquapark-balls-party
 https://www.crazygames.com/game/arcade-empire
 https://www.crazygames.com/game/arcade-rope
 https://www.crazygames.com/game/archer-clash-ftj
@@ -857,6 +856,7 @@ https://www.crazygames.com/game/country-life-meadows
 https://www.crazygames.com/game/cow-defender
 https://www.crazygames.com/game/cowz-io
 https://www.crazygames.com/game/cozy-block-blaster
+https://www.crazygames.com/game/cozy-golf
 https://www.crazygames.com/game/craft-3d
 https://www.crazygames.com/game/craft-and-battle
 https://www.crazygames.com/game/craft-brainrot
@@ -2360,6 +2360,7 @@ https://www.crazygames.com/game/megamodgames
 https://www.crazygames.com/game/meme-survivors-backrooms-xus
 https://www.crazygames.com/game/memebattle-what-s-that-meme
 https://www.crazygames.com/game/memoji-puzzle
+https://www.crazygames.com/game/memory-cards-sni
 https://www.crazygames.com/game/men-vs-gorillas-nbu
 https://www.crazygames.com/game/meow-market-krz
 https://www.crazygames.com/game/merge-academy
@@ -3674,6 +3675,7 @@ https://www.crazygames.com/game/summer-aesthetics
 https://www.crazygames.com/game/summer-fashion-makeover
 https://www.crazygames.com/game/summoner-master
 https://www.crazygames.com/game/sunset-bike-racing
+https://www.crazygames.com/game/super-ball-fall-lon
 https://www.crazygames.com/game/super-bandit-rip
 https://www.crazygames.com/game/super-bike-the-champion
 https://www.crazygames.com/game/super-billy-boy
@@ -3709,6 +3711,7 @@ https://www.crazygames.com/game/superhero-race
 https://www.crazygames.com/game/supermarket-empire
 https://www.crazygames.com/game/supermarket-simulator-cashier-game
 https://www.crazygames.com/game/supermarket-sort-grocery-game
+https://www.crazygames.com/game/supermarket-together
 https://www.crazygames.com/game/superstar-college-girls-makeover
 https://www.crazygames.com/game/superstar-family-dress-up-game
 https://www.crazygames.com/game/supply-chain-idle
@@ -4054,6 +4057,7 @@ https://www.crazygames.com/game/uno-online
 https://www.crazygames.com/game/unpuzzle-tap-away-puzzle-game
 https://www.crazygames.com/game/unscrew-it-puzzle-game
 https://www.crazygames.com/game/unscrew-jam-3d
+https://www.crazygames.com/game/upgrade-the-supercar-3d
 https://www.crazygames.com/game/uprunner
 https://www.crazygames.com/game/used-car-dealer-tycoon
 https://www.crazygames.com/game/uvsu
@@ -4161,6 +4165,7 @@ https://www.crazygames.com/game/wire-beat
 https://www.crazygames.com/game/witch-pong
 https://www.crazygames.com/game/witchy-sacrifices
 https://www.crazygames.com/game/wizard-io
+https://www.crazygames.com/game/wizardos
 https://www.crazygames.com/game/wksp-rumble
 https://www.crazygames.com/game/wodr
 https://www.crazygames.com/game/wolf-family-simulator
@@ -4674,6 +4679,7 @@ https://www.crazygames.com/t/mouse/24
 https://www.crazygames.com/t/mouse/25
 https://www.crazygames.com/t/mouse/26
 https://www.crazygames.com/t/mouse/27
+https://www.crazygames.com/t/mouse/28
 https://www.crazygames.com/t/mouse/3
 https://www.crazygames.com/t/mouse/4
 https://www.crazygames.com/t/mouse/5

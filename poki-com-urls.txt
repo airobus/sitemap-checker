@@ -1224,6 +1224,7 @@ https://poki.com/en/g/merge-solitaire
 https://poki.com/en/g/merge-summer
 https://poki.com/en/g/merge-the-numbers
 https://poki.com/en/g/merge-to-million
+https://poki.com/en/g/merge-tower-defence
 https://poki.com/en/g/merge-tycoon
 https://poki.com/en/g/merge-zoo
 https://poki.com/en/g/mergy
@@ -1952,6 +1953,7 @@ https://poki.com/en/g/tank-fight-io
 https://poki.com/en/g/tank-trouble
 https://poki.com/en/g/tank-trouble-2
 https://poki.com/en/g/tank-vs-zombies
+https://poki.com/en/g/tankcraft-2
 https://poki.com/en/g/tanked-up
 https://poki.com/en/g/tanko-io
 https://poki.com/en/g/tanx
@@ -2210,6 +2212,7 @@ https://poki.com/en/g/yeah-bunny-2
 https://poki.com/en/g/yohoho-io
 https://poki.com/en/g/yokai-dungeon
 https://poki.com/en/g/yolk-knight-tower-defense
+https://poki.com/en/g/you-monster
 https://poki.com/en/g/you-only-livez-twice
 https://poki.com/en/g/your-love-calculator
 https://poki.com/en/g/yummy-chocolate-factory
