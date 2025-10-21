@@ -878,6 +878,7 @@ https://www.twoplayergames.org/game/geometry-arrow-2
 https://www.twoplayergames.org/game/geometry-challenge
 https://www.twoplayergames.org/game/geometry-dash-1
 https://www.twoplayergames.org/game/geometry-dash-2
+https://www.twoplayergames.org/game/geometry-dash-3d
 https://www.twoplayergames.org/game/geometry-dash-antecoder
 https://www.twoplayergames.org/game/geometry-dash-lite
 https://www.twoplayergames.org/game/geometry-dash-maze-maps
@@ -998,6 +999,7 @@ https://www.twoplayergames.org/game/hard-labirant
 https://www.twoplayergames.org/game/hardest-game
 https://www.twoplayergames.org/game/hazmob-fps
 https://www.twoplayergames.org/game/head-basketball
+https://www.twoplayergames.org/game/head-runner-dash
 https://www.twoplayergames.org/game/head-soccer-2-player
 https://www.twoplayergames.org/game/head-soccer-2024
 https://www.twoplayergames.org/game/head-sports-basketball
@@ -1403,6 +1405,7 @@ https://www.twoplayergames.org/game/number-master-run-and-merge
 https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
 https://www.twoplayergames.org/game/obby-1-pet-every-seconds
 https://www.twoplayergames.org/game/obby-blox-parkour
+https://www.twoplayergames.org/game/obby-climb-and-jump
 https://www.twoplayergames.org/game/obby-climb-and-slide
 https://www.twoplayergames.org/game/obby-dig-to-the-center-of-the-earth
 https://www.twoplayergames.org/game/obby-disaster-survival
@@ -2279,6 +2282,7 @@ https://www.twoplayergames.org/game/vex-challenges
 https://www.twoplayergames.org/game/vex-hyper-dash
 https://www.twoplayergames.org/game/vex-x3m
 https://www.twoplayergames.org/game/vex-x3m-2
+https://www.twoplayergames.org/game/vice-city-driver
 https://www.twoplayergames.org/game/video-game-tycoon
 https://www.twoplayergames.org/game/viking-wars
 https://www.twoplayergames.org/game/viking-wars-2-treasure

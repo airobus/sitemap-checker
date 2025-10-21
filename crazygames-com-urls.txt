@@ -291,6 +291,7 @@ https://www.crazygames.com/game/ball-block-maze
 https://www.crazygames.com/game/ball-dash
 https://www.crazygames.com/game/ball-guys
 https://www.crazygames.com/game/ball-hero-adventure-red-bounce-ball
+https://www.crazygames.com/game/ball-merger-nys
 https://www.crazygames.com/game/ball-ring-destruction
 https://www.crazygames.com/game/balloon-clash
 https://www.crazygames.com/game/balloonsio
@@ -1339,6 +1340,7 @@ https://www.crazygames.com/game/farm-merge
 https://www.crazygames.com/game/farm-merge-valley
 https://www.crazygames.com/game/farmer-challenge-party
 https://www.crazygames.com/game/farming-life
+https://www.crazygames.com/game/farming-tycoon-3d-diu
 https://www.crazygames.com/game/fashion-battle
 https://www.crazygames.com/game/fashion-box-christmas-diva
 https://www.crazygames.com/game/fashion-box-glam-diva
@@ -2188,7 +2190,6 @@ https://www.crazygames.com/game/liquid-puzzle
 https://www.crazygames.com/game/little-alchemy
 https://www.crazygames.com/game/little-alchemy-2
 https://www.crazygames.com/game/little-big-fighters
-https://www.crazygames.com/game/little-big-snake-io
 https://www.crazygames.com/game/little-blacksmith-clicker
 https://www.crazygames.com/game/little-cabin-in-the-woods-a-forgotten-hill-tale
 https://www.crazygames.com/game/little-fox-bubble-spinner-pop
@@ -3911,6 +3912,7 @@ https://www.crazygames.com/game/tile-jam
 https://www.crazygames.com/game/tile-journey
 https://www.crazygames.com/game/tile-jumper-3d
 https://www.crazygames.com/game/tile-match-3-puzzle-mahjong
+https://www.crazygames.com/game/tile-mine
 https://www.crazygames.com/game/tileman-io
 https://www.crazygames.com/game/tiles-of-the-simpsons
 https://www.crazygames.com/game/tilo
@@ -3936,6 +3938,7 @@ https://www.crazygames.com/game/tongits
 https://www.crazygames.com/game/toodee-and-topdee-demo
 https://www.crazygames.com/game/toolbox-screw-jam-puzzle-you
 https://www.crazygames.com/game/toonle
+https://www.crazygames.com/game/top-balls
 https://www.crazygames.com/game/top-outpost
 https://www.crazygames.com/game/top-pizza
 https://www.crazygames.com/game/tornado-madness
@@ -4369,6 +4372,7 @@ https://www.crazygames.com/t/2d/13
 https://www.crazygames.com/t/2d/14
 https://www.crazygames.com/t/2d/15
 https://www.crazygames.com/t/2d/16
+https://www.crazygames.com/t/2d/17
 https://www.crazygames.com/t/2d/2
 https://www.crazygames.com/t/2d/3
 https://www.crazygames.com/t/2d/4
