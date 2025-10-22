@@ -83,7 +83,6 @@ https://www.crazygames.com/game/100-doors
 https://www.crazygames.com/game/100-doors-around-the-world
 https://www.crazygames.com/game/100-doors-challenge
 https://www.crazygames.com/game/100-doors-puzzle-box
-https://www.crazygames.com/game/100-love-tester
 https://www.crazygames.com/game/100-meters-race
 https://www.crazygames.com/game/100turns-to-graduate-magic-academy
 https://www.crazygames.com/game/10x10
@@ -120,6 +119,7 @@ https://www.crazygames.com/game/4x4-offroader
 https://www.crazygames.com/game/5-differences
 https://www.crazygames.com/game/8-ball-billiards-classic
 https://www.crazygames.com/game/8-ball-pool-billiards-multiplayer
+https://www.crazygames.com/game/8-ball-pool-wyr
 https://www.crazygames.com/game/9-blocks-mzz
 https://www.crazygames.com/game/911-cannibal
 https://www.crazygames.com/game/911-prey
@@ -278,6 +278,7 @@ https://www.crazygames.com/game/backpack-idle
 https://www.crazygames.com/game/backwoods
 https://www.crazygames.com/game/bacteria-nrz
 https://www.crazygames.com/game/bad-cat---granny-s-return
+https://www.crazygames.com/game/bad-cat-angry-granny-prankster
 https://www.crazygames.com/game/bad-dolls
 https://www.crazygames.com/game/bad-egg
 https://www.crazygames.com/game/bad-soccer-manager
@@ -993,7 +994,6 @@ https://www.crazygames.com/game/daddy-rabbit
 https://www.crazygames.com/game/daily-a-maze-balls
 https://www.crazygames.com/game/daily-emoji-hunt
 https://www.crazygames.com/game/daily-kitchen-escape
-https://www.crazygames.com/game/daily-mahjong
 https://www.crazygames.com/game/daily-puzzle
 https://www.crazygames.com/game/daily-room-escape
 https://www.crazygames.com/game/dalgona-candy-honeycomb-cookie-kam
@@ -1568,6 +1568,7 @@ https://www.crazygames.com/game/geometry-dash-online
 https://www.crazygames.com/game/geometry-dash-open-world
 https://www.crazygames.com/game/geometry-neon-dash-subzero
 https://www.crazygames.com/game/geoquizle-ser
+https://www.crazygames.com/game/geosplash-wdd
 https://www.crazygames.com/game/get-1000
 https://www.crazygames.com/game/get-a-screw-3d-puzzle
 https://www.crazygames.com/game/get-ready-with-me-concert-day
@@ -2360,6 +2361,7 @@ https://www.crazygames.com/game/megalodon
 https://www.crazygames.com/game/megamodgames
 https://www.crazygames.com/game/meme-survivors-backrooms-xus
 https://www.crazygames.com/game/memebattle-what-s-that-meme
+https://www.crazygames.com/game/memerot-sort-puzzle
 https://www.crazygames.com/game/memoji-puzzle
 https://www.crazygames.com/game/memory-cards-sni
 https://www.crazygames.com/game/men-vs-gorillas-nbu
@@ -2632,7 +2634,6 @@ https://www.crazygames.com/game/neko-sliding-cat-puzzle
 https://www.crazygames.com/game/neon-planet-idle-clicker
 https://www.crazygames.com/game/neon-rider-vwz
 https://www.crazygames.com/game/neon-stars
-https://www.crazygames.com/game/neon-swing
 https://www.crazygames.com/game/netquel-com
 https://www.crazygames.com/game/new-year-makeup-trends
 https://www.crazygames.com/game/new-year-s-eve-makeup
@@ -2724,6 +2725,7 @@ https://www.crazygames.com/game/obby-sprunki-pet-world
 https://www.crazygames.com/game/obby-tame-the-legendary-dragon
 https://www.crazygames.com/game/obby-the-royal-race
 https://www.crazygames.com/game/obby-with-friends-draw-and-jump
+https://www.crazygames.com/game/obby-with-friends-online
 https://www.crazygames.com/game/obby-world-squid-escape
 https://www.crazygames.com/game/obby-yard-sale
 https://www.crazygames.com/game/obstacle-course-ragdoll
@@ -3463,11 +3465,9 @@ https://www.crazygames.com/game/social-solitaire
 https://www.crazygames.com/game/soft-girls-winter-aesthetics
 https://www.crazygames.com/game/sokoban
 https://www.crazygames.com/game/solar-smash
-https://www.crazygames.com/game/solar-system-scope
 https://www.crazygames.com/game/solitaire-crime-stories
 https://www.crazygames.com/game/solitaire-definitive-edition
 https://www.crazygames.com/game/solitaire-frvr
-https://www.crazygames.com/game/solitaire-klondike
 https://www.crazygames.com/game/solitaire-reverse
 https://www.crazygames.com/game/solitaire-the-great-journey
 https://www.crazygames.com/game/solitairetripeaks-island-expeditio
@@ -3995,7 +3995,6 @@ https://www.crazygames.com/game/treasure-tails-cre
 https://www.crazygames.com/game/treasures-merge-3d-hkc
 https://www.crazygames.com/game/tri-achnid
 https://www.crazygames.com/game/tri-peaks-solitaire
-https://www.crazygames.com/game/tri-peaks-solitaire-classic
 https://www.crazygames.com/game/trial-bike-epic-stunts
 https://www.crazygames.com/game/trial-mania
 https://www.crazygames.com/game/trials-ride
@@ -4183,6 +4182,7 @@ https://www.crazygames.com/game/wood-cutter---saw
 https://www.crazygames.com/game/wood-farmer
 https://www.crazygames.com/game/wood-screw-bolts-puzzle
 https://www.crazygames.com/game/woods-of-nevia-forest-survival
+https://www.crazygames.com/game/wool-mania---sort-puzzle-3d
 https://www.crazygames.com/game/word-chef
 https://www.crazygames.com/game/word-duel
 https://www.crazygames.com/game/word-fishing
@@ -4214,7 +4214,6 @@ https://www.crazygames.com/game/worlds-hardest-game-2
 https://www.crazygames.com/game/worldz
 https://www.crazygames.com/game/worm
 https://www.crazygames.com/game/worm-hunt
-https://www.crazygames.com/game/wormateio
 https://www.crazygames.com/game/worms-io
 https://www.crazygames.com/game/worms-zone
 https://www.crazygames.com/game/wrecking-wheels
@@ -4372,7 +4371,6 @@ https://www.crazygames.com/t/2d/13
 https://www.crazygames.com/t/2d/14
 https://www.crazygames.com/t/2d/15
 https://www.crazygames.com/t/2d/16
-https://www.crazygames.com/t/2d/17
 https://www.crazygames.com/t/2d/2
 https://www.crazygames.com/t/2d/3
 https://www.crazygames.com/t/2d/4
