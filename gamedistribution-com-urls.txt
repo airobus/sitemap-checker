@@ -6471,6 +6471,7 @@ https://gamedistribution.com/games/butterfly-kyodai-ru/
 https://gamedistribution.com/games/butterfly-puzzle-challenge/
 https://gamedistribution.com/games/butterfly-shimai/
 https://gamedistribution.com/games/butterfly-slide/
+https://gamedistribution.com/games/butterfly-triple/
 https://gamedistribution.com/games/butterfly/
 https://gamedistribution.com/games/c-class-sedan-puzzle/
 https://gamedistribution.com/games/c-couple-cars-puzzle/
@@ -7977,6 +7978,7 @@ https://gamedistribution.com/games/color-dash/
 https://gamedistribution.com/games/color-destroyer/
 https://gamedistribution.com/games/color-dodge-1/
 https://gamedistribution.com/games/color-dodge/
+https://gamedistribution.com/games/color-dots-challenge/
 https://gamedistribution.com/games/color-dots/
 https://gamedistribution.com/games/color-drop/
 https://gamedistribution.com/games/color-eggs/
@@ -8255,6 +8257,7 @@ https://gamedistribution.com/games/constellation-energy-lines/
 https://gamedistribution.com/games/construct-a-bridge/
 https://gamedistribution.com/games/construct-house-3d/
 https://gamedistribution.com/games/construction-ramp-jumping/
+https://gamedistribution.com/games/construction-set-3d-builder/
 https://gamedistribution.com/games/construction-set/
 https://gamedistribution.com/games/construction-simulator/
 https://gamedistribution.com/games/construction-truck%3A-building-games-for-kids/
@@ -19529,6 +19532,7 @@ https://gamedistribution.com/games/number-maze-1/
 https://gamedistribution.com/games/number-maze/
 https://gamedistribution.com/games/number-merge-10/
 https://gamedistribution.com/games/number-merge/
+https://gamedistribution.com/games/number-rush/
 https://gamedistribution.com/games/number-sequences/
 https://gamedistribution.com/games/number-shapes/
 https://gamedistribution.com/games/number-sweeper-3d/
@@ -25228,6 +25232,7 @@ https://gamedistribution.com/games/stickman-archer-adventure/
 https://gamedistribution.com/games/stickman-archer-castle/
 https://gamedistribution.com/games/stickman-archer-warrior/
 https://gamedistribution.com/games/stickman-archer/
+https://gamedistribution.com/games/stickman-archero-fight%3A-stick-shadow-fight-war/
 https://gamedistribution.com/games/stickman-archero-fight/
 https://gamedistribution.com/games/stickman-archery/
 https://gamedistribution.com/games/stickman-armed-assassin-3d/
@@ -25989,6 +25994,7 @@ https://gamedistribution.com/games/surprise-eggs-princess-star/
 https://gamedistribution.com/games/surto/
 https://gamedistribution.com/games/survev.io-battle-royale/
 https://gamedistribution.com/games/survival-456-but-it-impostor/
+https://gamedistribution.com/games/survival-in-area-51/
 https://gamedistribution.com/games/survival-island%3A-evo/
 https://gamedistribution.com/games/survival-island-1/
 https://gamedistribution.com/games/survival-master%3A-456-challenge/

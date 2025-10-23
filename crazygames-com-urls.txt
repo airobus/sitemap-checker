@@ -232,6 +232,7 @@ https://www.crazygames.com/game/arkadium-s-bubble-shooter
 https://www.crazygames.com/game/armed-with-wings
 https://www.crazygames.com/game/armed-with-wings-2
 https://www.crazygames.com/game/armed-with-wings-3
+https://www.crazygames.com/game/army-general-battle-tank-strategy
 https://www.crazygames.com/game/army-of-silverite
 https://www.crazygames.com/game/army-warfare
 https://www.crazygames.com/game/armyclash-io
@@ -1070,6 +1071,7 @@ https://www.crazygames.com/game/dicetris
 https://www.crazygames.com/game/die-in-style
 https://www.crazygames.com/game/die-in-the-dungeon
 https://www.crazygames.com/game/diepio
+https://www.crazygames.com/game/dig-a-hole-in-russia
 https://www.crazygames.com/game/dig-craft
 https://www.crazygames.com/game/dig-or-die-prison-escape-simulator
 https://www.crazygames.com/game/dig-tycoon---idle-game-3d
@@ -2463,6 +2465,7 @@ https://www.crazygames.com/game/mini-caps-soccer
 https://www.crazygames.com/game/mini-car-ball
 https://www.crazygames.com/game/mini-crushers
 https://www.crazygames.com/game/mini-flips
+https://www.crazygames.com/game/mini-games-quiz
 https://www.crazygames.com/game/mini-golf-18
 https://www.crazygames.com/game/mini-golf-club
 https://www.crazygames.com/game/mini-jumps
@@ -2954,6 +2957,7 @@ https://www.crazygames.com/game/playblox-io
 https://www.crazygames.com/game/playground
 https://www.crazygames.com/game/plazma-burst
 https://www.crazygames.com/game/plinko-clicker-hdl
+https://www.crazygames.com/game/plug-me-recharged
 https://www.crazygames.com/game/plumber
 https://www.crazygames.com/game/pocket-forest
 https://www.crazygames.com/game/pocket-zone
@@ -4371,6 +4375,7 @@ https://www.crazygames.com/t/2d/13
 https://www.crazygames.com/t/2d/14
 https://www.crazygames.com/t/2d/15
 https://www.crazygames.com/t/2d/16
+https://www.crazygames.com/t/2d/17
 https://www.crazygames.com/t/2d/2
 https://www.crazygames.com/t/2d/3
 https://www.crazygames.com/t/2d/4
