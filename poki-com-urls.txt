@@ -45,7 +45,6 @@ https://poki.com/en/g/a-small-world-cup
 https://poki.com/en/g/absorbus
 https://poki.com/en/g/adventure-cube
 https://poki.com/en/g/adventure-drivers
-https://poki.com/en/g/adventure-jumper
 https://poki.com/en/g/adventure-miner
 https://poki.com/en/g/afterlife-the-game
 https://poki.com/en/g/age-of-war
@@ -138,7 +137,6 @@ https://poki.com/en/g/become-a-puppy-groomer
 https://poki.com/en/g/become-an-ear-doctor
 https://poki.com/en/g/bee-sort-by-sam
 https://poki.com/en/g/beecoins-inc
-https://poki.com/en/g/bff-art-class-78ef2575
 https://poki.com/en/g/bff-math-class
 https://poki.com/en/g/biffe-scribble
 https://poki.com/en/g/big-neon-tower-vs-tiny-square
@@ -449,6 +447,7 @@ https://poki.com/en/g/cooking-korean-lesson
 https://poki.com/en/g/cosmic-cannon
 https://poki.com/en/g/cosmos-lines
 https://poki.com/en/g/cougar-simulator-big-cats
+https://poki.com/en/g/count-control-legends-b548f9a6
 https://poki.com/en/g/court-kings-3d
 https://poki.com/en/g/cover-orange
 https://poki.com/en/g/cover-orange-gangsters
@@ -555,7 +554,6 @@ https://poki.com/en/g/dishwashers-life
 https://poki.com/en/g/distraction-driver
 https://poki.com/en/g/diva-hair-salon
 https://poki.com/en/g/doc-darling-bone-surgery
-https://poki.com/en/g/doc-darling-santa-surgery
 https://poki.com/en/g/doc-honeyberry-kitty-surgery
 https://poki.com/en/g/doc-honeyberry-puppy-surgery
 https://poki.com/en/g/doctor-acorn-2
@@ -697,6 +695,7 @@ https://poki.com/en/g/fantasy-sandbox
 https://poki.com/en/g/farm-and-mine
 https://poki.com/en/g/farm-battles
 https://poki.com/en/g/farm-clash-3d
+https://poki.com/en/g/farm-merge-011084a5
 https://poki.com/en/g/farmerij-merge
 https://poki.com/en/g/fashion-odyssey-country2country
 https://poki.com/en/g/fast-food-dumpster-adventure
@@ -887,8 +886,6 @@ https://poki.com/en/g/grab-the-apple
 https://poki.com/en/g/graffiti-time
 https://poki.com/en/g/grand-mini-slam
 https://poki.com/en/g/grand-prix-hero
-https://poki.com/en/g/grandma-recipe-apple-pie
-https://poki.com/en/g/grandma-recipe-nigiri-sushi
 https://poki.com/en/g/grandma-recipe-ramen
 https://poki.com/en/g/grandmas-delicious-cakes
 https://poki.com/en/g/grapple-grip
@@ -1029,6 +1026,7 @@ https://poki.com/en/g/javelin-fighting
 https://poki.com/en/g/jelly-bounce-3d
 https://poki.com/en/g/jelly-cat
 https://poki.com/en/g/jelly-drop
+https://poki.com/en/g/jelly-jam-by-sam
 https://poki.com/en/g/jelly-merge-party
 https://poki.com/en/g/jelly-party
 https://poki.com/en/g/jelly-sokoban
@@ -1182,6 +1180,7 @@ https://poki.com/en/g/marble-run
 https://poki.com/en/g/marble-run-2d
 https://poki.com/en/g/marble-run-3d
 https://poki.com/en/g/marble-run-simulator
+https://poki.com/en/g/market-boss-c71c5092
 https://poki.com/en/g/market-sort
 https://poki.com/en/g/master-assassin
 https://poki.com/en/g/master-checkers
@@ -1298,6 +1297,7 @@ https://poki.com/en/g/mph-online
 https://poki.com/en/g/mr-boomi
 https://poki.com/en/g/mr-bullet
 https://poki.com/en/g/mr-racer-car-racing
+https://poki.com/en/g/mr-squarely-d03a335f
 https://poki.com/en/g/mtb-hero
 https://poki.com/en/g/mummys-path-deluxe
 https://poki.com/en/g/murder
@@ -1524,6 +1524,7 @@ https://poki.com/en/g/pull-my-tongue
 https://poki.com/en/g/pull-the-string
 https://poki.com/en/g/punch-legend-simulator
 https://poki.com/en/g/punchers
+https://poki.com/en/g/punchy-guy
 https://poki.com/en/g/puppet-master
 https://poki.com/en/g/puppet-soccer-challenge
 https://poki.com/en/g/puppetman-ragdoll-puzzle
@@ -1813,6 +1814,7 @@ https://poki.com/en/g/stick-rush
 https://poki.com/en/g/stick-veterans
 https://poki.com/en/g/sticker-album
 https://poki.com/en/g/sticker-book-puzzle
+https://poki.com/en/g/sticker-doll-dress-up
 https://poki.com/en/g/stickjet-challenge
 https://poki.com/en/g/stickman-archero-fight
 https://poki.com/en/g/stickman-archers-waves
@@ -1824,9 +1826,9 @@ https://poki.com/en/g/stickman-bike
 https://poki.com/en/g/stickman-bike-pr
 https://poki.com/en/g/stickman-boxing-ko-champion
 https://poki.com/en/g/stickman-bridge-constructor
-https://poki.com/en/g/stickman-clash
 https://poki.com/en/g/stickman-climb
 https://poki.com/en/g/stickman-climb-2
+https://poki.com/en/g/stickman-climb-3d
 https://poki.com/en/g/stickman-crazy-box
 https://poki.com/en/g/stickman-dragon-fight
 https://poki.com/en/g/stickman-escape
