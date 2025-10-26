@@ -7951,6 +7951,7 @@ https://gamedistribution.com/games/color-blast/
 https://gamedistribution.com/games/color-block-jam-1/
 https://gamedistribution.com/games/color-block-jam-2/
 https://gamedistribution.com/games/color-block-jam/
+https://gamedistribution.com/games/color-block-sort/
 https://gamedistribution.com/games/color-blocks-1/
 https://gamedistribution.com/games/color-blocks-relax-puzzle/
 https://gamedistribution.com/games/color-blocks/
@@ -10045,6 +10046,7 @@ https://gamedistribution.com/games/draw-the-weapon/
 https://gamedistribution.com/games/draw-this/
 https://gamedistribution.com/games/draw-to-crush-%3A-monster-game/
 https://gamedistribution.com/games/draw-to-fish-fight/
+https://gamedistribution.com/games/draw-to-fly/
 https://gamedistribution.com/games/draw-to-home/
 https://gamedistribution.com/games/draw-to-kill/
 https://gamedistribution.com/games/draw-to-smash!/
@@ -13905,6 +13907,7 @@ https://gamedistribution.com/games/halloween-mask-coloring-book/
 https://gamedistribution.com/games/halloween-match-3-1/
 https://gamedistribution.com/games/halloween-match-3-deluxe/
 https://gamedistribution.com/games/halloween-match-3/
+https://gamedistribution.com/games/halloween-match-trio/
 https://gamedistribution.com/games/halloween-matching-puzzles/
 https://gamedistribution.com/games/halloween-matching/
 https://gamedistribution.com/games/halloween-mazes/
@@ -14450,6 +14453,7 @@ https://gamedistribution.com/games/hexa-fever-ja/
 https://gamedistribution.com/games/hexa-fever-summer-ja/
 https://gamedistribution.com/games/hexa-fever-summer/
 https://gamedistribution.com/games/hexa-fever/
+https://gamedistribution.com/games/hexa-go!/
 https://gamedistribution.com/games/hexa-loop-3d/
 https://gamedistribution.com/games/hexa-merge-1/
 https://gamedistribution.com/games/hexa-merge/
@@ -22471,6 +22475,7 @@ https://gamedistribution.com/games/red-roses-puzzle/
 https://gamedistribution.com/games/red-soul-memory/
 https://gamedistribution.com/games/red-square-adventure/
 https://gamedistribution.com/games/red-stickman%3A-fighting-stick/
+https://gamedistribution.com/games/red-stickman-vs-craftmans-2/
 https://gamedistribution.com/games/red-stickman-vs-craftmans/
 https://gamedistribution.com/games/red-stickman-vs-monster-school/
 https://gamedistribution.com/games/red-strawberry/
@@ -29031,6 +29036,7 @@ https://gamedistribution.com/games/zombie-gunpocalypse/
 https://gamedistribution.com/games/zombie-head/
 https://gamedistribution.com/games/zombie-heroes/
 https://gamedistribution.com/games/zombie-highway-rampage/
+https://gamedistribution.com/games/zombie-horde%3A-build-and-survive/
 https://gamedistribution.com/games/zombie-hunt/
 https://gamedistribution.com/games/zombie-hunter-lemmy/
 https://gamedistribution.com/games/zombie-hunter-survival/
