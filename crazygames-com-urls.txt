@@ -640,6 +640,7 @@ https://www.crazygames.com/game/car-simulator-crash-city
 https://www.crazygames.com/game/car-sky-survival
 https://www.crazygames.com/game/car-speed-racing-tycoon
 https://www.crazygames.com/game/car-tuning-simulator
+https://www.crazygames.com/game/caravels-online-miv
 https://www.crazygames.com/game/carball-io
 https://www.crazygames.com/game/card-cafe
 https://www.crazygames.com/game/card-scramble-viola-s-diner
@@ -1725,6 +1726,7 @@ https://www.crazygames.com/game/hardware-tycoon
 https://www.crazygames.com/game/harley-learns-to-love
 https://www.crazygames.com/game/haru-pandas-slide
 https://www.crazygames.com/game/harvest-kings
+https://www.crazygames.com/game/harvesting-season
 https://www.crazygames.com/game/haste-clicker
 https://www.crazygames.com/game/haste-miner
 https://www.crazygames.com/game/haste-miner-2
@@ -3861,6 +3863,7 @@ https://www.crazygames.com/game/the-milk-quest
 https://www.crazygames.com/game/the-most-addicting-sheep-game
 https://www.crazygames.com/game/the-owner-is-dead
 https://www.crazygames.com/game/the-pillar
+https://www.crazygames.com/game/the-queen-s-jewels
 https://www.crazygames.com/game/the-quest-hcv
 https://www.crazygames.com/game/the-range-3d
 https://www.crazygames.com/game/the-rooms-escape-challenge
@@ -4278,6 +4281,7 @@ https://www.crazygames.com/game/zombie-clash-3d---halloween
 https://www.crazygames.com/game/zombie-coming-roguelike-siege
 https://www.crazygames.com/game/zombie-crusher-ooz
 https://www.crazygames.com/game/zombie-defense
+https://www.crazygames.com/game/zombie-derby-2-kya
 https://www.crazygames.com/game/zombie-derby-gyb
 https://www.crazygames.com/game/zombie-drive-survivor
 https://www.crazygames.com/game/zombie-horde-build-survive
