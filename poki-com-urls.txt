@@ -128,6 +128,7 @@ https://poki.com/en/g/battleships-armada
 https://poki.com/en/g/beach-boxing-simulator
 https://poki.com/en/g/beardie-craft-survival
 https://poki.com/en/g/bearsus
+https://poki.com/en/g/beast-barber
 https://poki.com/en/g/beat-dancer
 https://poki.com/en/g/beauty-salon
 https://poki.com/en/g/become-a-dentist
@@ -190,6 +191,7 @@ https://poki.com/en/g/blox-shock
 https://poki.com/en/g/blue
 https://poki.com/en/g/blumgi-ball
 https://poki.com/en/g/blumgi-bloom
+https://poki.com/en/g/blumgi-bounce
 https://poki.com/en/g/blumgi-castle
 https://poki.com/en/g/blumgi-dragon
 https://poki.com/en/g/blumgi-merge
@@ -367,6 +369,7 @@ https://poki.com/en/g/cave-chaos-2
 https://poki.com/en/g/celebrity-bffs-festival-fun
 https://poki.com/en/g/cell-to-singularity-mesozoic-valley
 https://poki.com/en/g/cerkio
+https://poki.com/en/g/chair-force-buzz
 https://poki.com/en/g/changetype
 https://poki.com/en/g/chaotic-war-3
 https://poki.com/en/g/checkers
@@ -2246,8 +2249,6 @@ https://poki.com/en/g/zombie-bounce
 https://poki.com/en/g/zombie-cows
 https://poki.com/en/g/zombie-derby
 https://poki.com/en/g/zombie-derby-2
-https://poki.com/en/g/zombie-derby-blocky-roads
-https://poki.com/en/g/zombie-derby-pixel-survival
 https://poki.com/en/g/zombie-dying-survival-days
 https://poki.com/en/g/zombie-head
 https://poki.com/en/g/zombie-killer
