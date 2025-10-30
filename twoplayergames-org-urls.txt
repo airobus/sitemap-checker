@@ -1411,6 +1411,7 @@ https://www.twoplayergames.org/game/obby-dig-to-the-center-of-the-earth
 https://www.twoplayergames.org/game/obby-disaster-survival
 https://www.twoplayergames.org/game/obby-escape-prison-rat-dance
 https://www.twoplayergames.org/game/obby-fly-the-farthest-in-an-airplane
+https://www.twoplayergames.org/game/obby-grow-with-every-step
 https://www.twoplayergames.org/game/obby-gym-simulator-escape
 https://www.twoplayergames.org/game/obby-on-a-bike
 https://www.twoplayergames.org/game/obby-parkour-ultimate
@@ -1930,6 +1931,7 @@ https://www.twoplayergames.org/game/stabfishio
 https://www.twoplayergames.org/game/stack-breaker
 https://www.twoplayergames.org/game/starblast-io
 https://www.twoplayergames.org/game/stateio
+https://www.twoplayergames.org/game/steal-brainrot-duel
 https://www.twoplayergames.org/game/stealing-the-diamond
 https://www.twoplayergames.org/game/stick-archers-battle
 https://www.twoplayergames.org/game/stick-badminton

@@ -117,6 +117,7 @@ https://www.crazygames.com/game/4th-and-goal-2019
 https://www.crazygames.com/game/4x4-chess
 https://www.crazygames.com/game/4x4-offroader
 https://www.crazygames.com/game/5-differences
+https://www.crazygames.com/game/67-steal-brainrot-game
 https://www.crazygames.com/game/8-ball-billiards-classic
 https://www.crazygames.com/game/8-ball-pool-billiards-multiplayer
 https://www.crazygames.com/game/8-ball-pool-wyr
@@ -1863,6 +1864,7 @@ https://www.crazygames.com/game/hypersomnia
 https://www.crazygames.com/game/hyperspace---quantum-fracture-fez
 https://www.crazygames.com/game/hyperspace-racers-3
 https://www.crazygames.com/game/hypper-sandbox
+https://www.crazygames.com/game/i-am-not-infected
 https://www.crazygames.com/game/i-best-dancer
 https://www.crazygames.com/game/i-dont-even-know
 https://www.crazygames.com/game/i-love-traffic
@@ -2069,6 +2071,7 @@ https://www.crazygames.com/game/kill-the-ice-age-baby-adventure
 https://www.crazygames.com/game/kill-the-spartan
 https://www.crazygames.com/game/killer-whale
 https://www.crazygames.com/game/killover-qjn
+https://www.crazygames.com/game/killstreak-3d-shooter
 https://www.crazygames.com/game/king-io-world-war
 https://www.crazygames.com/game/king-of-street-football-nuo
 https://www.crazygames.com/game/king-of-thieves
@@ -2397,6 +2400,7 @@ https://www.crazygames.com/game/merge-construct
 https://www.crazygames.com/game/merge-cooking-game
 https://www.crazygames.com/game/merge-defense
 https://www.crazygames.com/game/merge-dig
+https://www.crazygames.com/game/merge-duel
 https://www.crazygames.com/game/merge-fruits
 https://www.crazygames.com/game/merge-galaxy
 https://www.crazygames.com/game/merge-happy-planets
@@ -3551,6 +3555,7 @@ https://www.crazygames.com/game/sport-minibattles
 https://www.crazygames.com/game/sportcars-crash
 https://www.crazygames.com/game/sports-heads-soccer
 https://www.crazygames.com/game/sports-hero
+https://www.crazygames.com/game/sports-store-idle-business-tycoon
 https://www.crazygames.com/game/spotti-find-the-differences
 https://www.crazygames.com/game/spring-tiles-matching
 https://www.crazygames.com/game/sprinter
@@ -3801,7 +3806,6 @@ https://www.crazygames.com/game/tanks-arena-io-craft-combat
 https://www.crazygames.com/game/tanks-battlefield-desert
 https://www.crazygames.com/game/tanks-merge
 https://www.crazygames.com/game/tanks-of-the-galaxy
-https://www.crazygames.com/game/tanks-pvp-showdown
 https://www.crazygames.com/game/tanks-vs-zombies-tank-battle
 https://www.crazygames.com/game/tanuki-sunset
 https://www.crazygames.com/game/tap-3d-wood-block-away
@@ -4121,7 +4125,6 @@ https://www.crazygames.com/game/war-brokers-io
 https://www.crazygames.com/game/war-groups
 https://www.crazygames.com/game/war-lands
 https://www.crazygames.com/game/war-mahjong
-https://www.crazygames.com/game/war-nations-io
 https://www.crazygames.com/game/war-of-mine
 https://www.crazygames.com/game/war-of-tanks
 https://www.crazygames.com/game/war-sea

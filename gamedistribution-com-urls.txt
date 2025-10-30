@@ -3620,6 +3620,7 @@ https://gamedistribution.com/games/anime-couple-picture-creator/
 https://gamedistribution.com/games/anime-couples-dress-up-1/
 https://gamedistribution.com/games/anime-couples-dress-up/
 https://gamedistribution.com/games/anime-doll-diy-cosplay-girl/
+https://gamedistribution.com/games/anime-dress-up-doll-dress-up/
 https://gamedistribution.com/games/anime-dress-up/
 https://gamedistribution.com/games/anime-elf-creator/
 https://gamedistribution.com/games/anime-fairy-creator/
@@ -14443,6 +14444,7 @@ https://gamedistribution.com/games/hex-flight-racer/
 https://gamedistribution.com/games/hex-get-10/
 https://gamedistribution.com/games/hex-planet-idle/
 https://gamedistribution.com/games/hex-puzzleguys/
+https://gamedistribution.com/games/hex-sense/
 https://gamedistribution.com/games/hex-takeover/
 https://gamedistribution.com/games/hex-triple-match/
 https://gamedistribution.com/games/hex-zen/
@@ -18974,6 +18976,7 @@ https://gamedistribution.com/games/murder-mansion-2/
 https://gamedistribution.com/games/murder-mansion-3/
 https://gamedistribution.com/games/murder-mansion-4/
 https://gamedistribution.com/games/murder-mansion-5/
+https://gamedistribution.com/games/murder-mystery/
 https://gamedistribution.com/games/murderers-vs-sheriffs-duels/
 https://gamedistribution.com/games/murderio/
 https://gamedistribution.com/games/muscle-challenge/
@@ -23594,6 +23597,7 @@ https://gamedistribution.com/games/shadowless-man-1/
 https://gamedistribution.com/games/shadoworld-adventure/
 https://gamedistribution.com/games/shadows-game/
 https://gamedistribution.com/games/shanghai-chef/
+https://gamedistribution.com/games/shanghai-town/
 https://gamedistribution.com/games/shape-3d/
 https://gamedistribution.com/games/shape-adjust/
 https://gamedistribution.com/games/shape-attack/
@@ -23687,6 +23691,7 @@ https://gamedistribution.com/games/shoe-designer-fashion-week/
 https://gamedistribution.com/games/shoe-designer-maries-girl-games/
 https://gamedistribution.com/games/shoe-designer/
 https://gamedistribution.com/games/shoe-race/
+https://gamedistribution.com/games/shoot-2048-hexa/
 https://gamedistribution.com/games/shoot-and-bounce/
 https://gamedistribution.com/games/shoot-and-drive/
 https://gamedistribution.com/games/shoot-and-merge-the-numbers/
@@ -26864,6 +26869,7 @@ https://gamedistribution.com/games/tile-guru-match-fun/
 https://gamedistribution.com/games/tile-hex-world%3A-red-vs-blue/
 https://gamedistribution.com/games/tile-hop/
 https://gamedistribution.com/games/tile-journey/
+https://gamedistribution.com/games/tile-living/
 https://gamedistribution.com/games/tile-mahjong/
 https://gamedistribution.com/games/tile-master-deluxe/
 https://gamedistribution.com/games/tile-master-match/
