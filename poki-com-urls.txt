@@ -809,7 +809,7 @@ https://poki.com/en/g/fruity-cubes
 https://poki.com/en/g/fruity-party
 https://poki.com/en/g/full-metal-football
 https://poki.com/en/g/fun-water-sorting
-https://poki.com/en/g/funny-angela-haircut
+https://poki.com/en/g/funny-angie-haircut-e379e78b
 https://poki.com/en/g/funny-bone-surgery
 https://poki.com/en/g/funny-camping-day
 https://poki.com/en/g/funny-cooking-camp
@@ -1177,6 +1177,7 @@ https://poki.com/en/g/mahjong-linker-kyodai-game
 https://poki.com/en/g/mahjong-pyramids
 https://poki.com/en/g/mahjong-sweet-connection
 https://poki.com/en/g/make-a-squad-8d0cfccd
+https://poki.com/en/g/makeup-kit-beauty-salon
 https://poki.com/en/g/mall-tycoon
 https://poki.com/en/g/malletmania
 https://poki.com/en/g/man-vs-missiles
@@ -2255,6 +2256,7 @@ https://poki.com/en/g/zombie-killer
 https://poki.com/en/g/zombie-match
 https://poki.com/en/g/zombie-merge
 https://poki.com/en/g/zombie-outbreak-arena
+https://poki.com/en/g/zombie-outpost
 https://poki.com/en/g/zombie-plague
 https://poki.com/en/g/zombie-rush
 https://poki.com/en/g/zombie-siege-outbreak
