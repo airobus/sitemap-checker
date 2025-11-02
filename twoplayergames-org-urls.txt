@@ -1496,6 +1496,7 @@ https://www.twoplayergames.org/game/penguen-diner
 https://www.twoplayergames.org/game/penguen-diner-2
 https://www.twoplayergames.org/game/penguin-battle
 https://www.twoplayergames.org/game/penguin-wars
+https://www.twoplayergames.org/game/people-playground-ragdoll-arena
 https://www.twoplayergames.org/game/perfect-tongue
 https://www.twoplayergames.org/game/pet-party
 https://www.twoplayergames.org/game/pet-sledding
@@ -1673,6 +1674,7 @@ https://www.twoplayergames.org/game/rolling-ball-3d
 https://www.twoplayergames.org/game/rolling-balls-sea-race
 https://www.twoplayergames.org/game/rolling-sky
 https://www.twoplayergames.org/game/rooftop-battles
+https://www.twoplayergames.org/game/rooftop-run
 https://www.twoplayergames.org/game/rooftop-shooters
 https://www.twoplayergames.org/game/rooftop-snipers
 https://www.twoplayergames.org/game/rope-jumpers
