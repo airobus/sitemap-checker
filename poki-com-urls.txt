@@ -32,6 +32,7 @@ https://poki.com/en/g/4th-and-goal-2020
 https://poki.com/en/g/4th-and-goal-2022
 https://poki.com/en/g/4th-and-goal-2023
 https://poki.com/en/g/4th-and-goal-2024
+https://poki.com/en/g/67-doi-doi
 https://poki.com/en/g/8bit-fiesta
 https://poki.com/en/g/9-ball-pool
 https://poki.com/en/g/99-balls
@@ -362,7 +363,6 @@ https://poki.com/en/g/cats-love-cake
 https://poki.com/en/g/cats-love-cake-2
 https://poki.com/en/g/cats-party
 https://poki.com/en/g/cats-vs-zombies
-https://poki.com/en/g/cats-world-merge-stickers
 https://poki.com/en/g/cave-blast
 https://poki.com/en/g/cave-chaos
 https://poki.com/en/g/cave-chaos-2
@@ -398,6 +398,7 @@ https://poki.com/en/g/circuit-master-2
 https://poki.com/en/g/circulett
 https://poki.com/en/g/circuroid
 https://poki.com/en/g/circus-contest
+https://poki.com/en/g/city-cab-rush
 https://poki.com/en/g/city-car-driving-stunt-master
 https://poki.com/en/g/city-rider
 https://poki.com/en/g/claires-cruisin-café
@@ -950,6 +951,7 @@ https://poki.com/en/g/hit-the-fan
 https://poki.com/en/g/hockey-taka
 https://poki.com/en/g/hockeystars
 https://poki.com/en/g/hole-n-fun
+https://poki.com/en/g/hook-drive-45cd6072
 https://poki.com/en/g/hop-chop
 https://poki.com/en/g/hop-pop-it
 https://poki.com/en/g/hop-warp
@@ -1127,6 +1129,7 @@ https://poki.com/en/g/line-up-dots
 https://poki.com/en/g/linebacker-alley-2
 https://poki.com/en/g/lines
 https://poki.com/en/g/lines-to-fill
+https://poki.com/en/g/link-game
 https://poki.com/en/g/lips-diy-master
 https://poki.com/en/g/little-alchemy-2
 https://poki.com/en/g/little-cabin-in-the-woods
@@ -1221,6 +1224,7 @@ https://poki.com/en/g/merge-monster-battles
 https://poki.com/en/g/merge-mosaics
 https://poki.com/en/g/merge-party
 https://poki.com/en/g/merge-penguins
+https://poki.com/en/g/merge-rise
 https://poki.com/en/g/merge-rot
 https://poki.com/en/g/merge-round-racers
 https://poki.com/en/g/merge-shapes
@@ -1789,6 +1793,7 @@ https://poki.com/en/g/spent-shells
 https://poki.com/en/g/spider-solitaire
 https://poki.com/en/g/spider-solitaire-ctl
 https://poki.com/en/g/spin-escape
+https://poki.com/en/g/spinshot-3d
 https://poki.com/en/g/splatmans
 https://poki.com/en/g/spooky-island
 https://poki.com/en/g/spooky-squashers
@@ -1810,6 +1815,7 @@ https://poki.com/en/g/star-catchers
 https://poki.com/en/g/steal-a-car
 https://poki.com/en/g/steal-and-run
 https://poki.com/en/g/stealing-the-diamond
+https://poki.com/en/g/steampunk-idle-spinner
 https://poki.com/en/g/step-and-slash
 https://poki.com/en/g/steve-and-the-duck-shooter
 https://poki.com/en/g/stick-defenders
