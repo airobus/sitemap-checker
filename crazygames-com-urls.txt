@@ -234,6 +234,7 @@ https://www.crazygames.com/game/arkadium-s-bubble-shooter
 https://www.crazygames.com/game/armed-with-wings
 https://www.crazygames.com/game/armed-with-wings-2
 https://www.crazygames.com/game/armed-with-wings-3
+https://www.crazygames.com/game/armor-path-ctb
 https://www.crazygames.com/game/army-general-battle-tank-strategy
 https://www.crazygames.com/game/army-of-silverite
 https://www.crazygames.com/game/army-warfare
@@ -922,6 +923,7 @@ https://www.crazygames.com/game/creative-kill-chamber
 https://www.crazygames.com/game/creeper-army-defense
 https://www.crazygames.com/game/creepy-granny-scream-scary-freddy
 https://www.crazygames.com/game/cribbage-jd
+https://www.crazygames.com/game/cricket-clash
 https://www.crazygames.com/game/cricket-frvr
 https://www.crazygames.com/game/cricket-superstar-league
 https://www.crazygames.com/game/cricket-world-cup
@@ -1393,6 +1395,7 @@ https://www.crazygames.com/game/find-cat-2
 https://www.crazygames.com/game/find-differences-spot-em-all
 https://www.crazygames.com/game/find-it---find-the-differences
 https://www.crazygames.com/game/find-it-hidden-object-puzzle
+https://www.crazygames.com/game/find-joe-unsolved-mystery-pno
 https://www.crazygames.com/game/find-me-lost-objects
 https://www.crazygames.com/game/find-the-alien
 https://www.crazygames.com/game/find-the-difference
@@ -1731,7 +1734,6 @@ https://www.crazygames.com/game/hard-wheels
 https://www.crazygames.com/game/hardware-tycoon
 https://www.crazygames.com/game/harley-learns-to-love
 https://www.crazygames.com/game/haru-pandas-slide
-https://www.crazygames.com/game/harvest-kings
 https://www.crazygames.com/game/harvesting-season
 https://www.crazygames.com/game/haste-clicker
 https://www.crazygames.com/game/haste-miner
@@ -3490,6 +3492,7 @@ https://www.crazygames.com/game/social-solitaire
 https://www.crazygames.com/game/soft-girls-winter-aesthetics
 https://www.crazygames.com/game/sokoban
 https://www.crazygames.com/game/solar-smash
+https://www.crazygames.com/game/solar-system-scope
 https://www.crazygames.com/game/solitaire-crime-stories
 https://www.crazygames.com/game/solitaire-definitive-edition
 https://www.crazygames.com/game/solitaire-frvr
@@ -3760,6 +3763,7 @@ https://www.crazygames.com/game/sushi-drop
 https://www.crazygames.com/game/sushi-factory
 https://www.crazygames.com/game/sushi-go
 https://www.crazygames.com/game/sushi-go-round
+https://www.crazygames.com/game/sushi-puzzle
 https://www.crazygames.com/game/sweet-and-fruity-makeup
 https://www.crazygames.com/game/sweet-shop-3d
 https://www.crazygames.com/game/sweety-ludo
@@ -3832,6 +3836,7 @@ https://www.crazygames.com/game/tcg-shop-cards-toys-and-comics-nbm
 https://www.crazygames.com/game/tdp4-team-battle
 https://www.crazygames.com/game/teacher-simulator
 https://www.crazygames.com/game/team-order-racing-manager
+https://www.crazygames.com/game/tech-mart-simulator
 https://www.crazygames.com/game/teenage-celebrity-rivalry
 https://www.crazygames.com/game/teeth-runner
 https://www.crazygames.com/game/telekinesis-race-3d
@@ -4679,6 +4684,7 @@ https://www.crazygames.com/t/mobile/13
 https://www.crazygames.com/t/mobile/14
 https://www.crazygames.com/t/mobile/15
 https://www.crazygames.com/t/mobile/16
+https://www.crazygames.com/t/mobile/17
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
