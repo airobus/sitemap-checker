@@ -3798,6 +3798,7 @@ https://gamedistribution.com/games/archer-warrior/
 https://gamedistribution.com/games/archero/
 https://gamedistribution.com/games/archerro/
 https://gamedistribution.com/games/archerry/
+https://gamedistribution.com/games/archers-random/
 https://gamedistribution.com/games/archers.io/
 https://gamedistribution.com/games/archery-1/
 https://gamedistribution.com/games/archery-2/
@@ -8107,6 +8108,7 @@ https://gamedistribution.com/games/color-water-trucks/
 https://gamedistribution.com/games/color-wavee/
 https://gamedistribution.com/games/color-wheel-1/
 https://gamedistribution.com/games/color-wheel/
+https://gamedistribution.com/games/color-yarn-sort/
 https://gamedistribution.com/games/color-zap/
 https://gamedistribution.com/games/color-zig-zag/
 https://gamedistribution.com/games/colorbox-puzzle/
@@ -14550,6 +14552,7 @@ https://gamedistribution.com/games/hidden-objects-hello-winter/
 https://gamedistribution.com/games/hidden-objects-insects/
 https://gamedistribution.com/games/hidden-objects-my-brothers-fortune/
 https://gamedistribution.com/games/hidden-objects-pirate-treasure/
+https://gamedistribution.com/games/hidden-objects-story/
 https://gamedistribution.com/games/hidden-objects-superthief/
 https://gamedistribution.com/games/hidden-objects-the-mall/
 https://gamedistribution.com/games/hidden-objects-tropical-slide/
@@ -19619,6 +19622,7 @@ https://gamedistribution.com/games/obby%3A-gym-simulator-escape/
 https://gamedistribution.com/games/obby%3A-pogo-parkour!/
 https://gamedistribution.com/games/obby-%2B1-pet-every-seconds/
 https://gamedistribution.com/games/obby-3d-sprunki-parkour/
+https://gamedistribution.com/games/obby-blox-hook/
 https://gamedistribution.com/games/obby-blox-parkour/
 https://gamedistribution.com/games/obby-climb-racing/
 https://gamedistribution.com/games/obby-draw-to-escape/
@@ -23370,6 +23374,7 @@ https://gamedistribution.com/games/save-the-ball-3d/
 https://gamedistribution.com/games/save-the-ball/
 https://gamedistribution.com/games/save-the-bear/
 https://gamedistribution.com/games/save-the-beauty/
+https://gamedistribution.com/games/save-the-bees/
 https://gamedistribution.com/games/save-the-cats-bubble-shooter/
 https://gamedistribution.com/games/save-the-chickens/
 https://gamedistribution.com/games/save-the-christmas/
@@ -24353,6 +24358,7 @@ https://gamedistribution.com/games/snow-plow-parking/
 https://gamedistribution.com/games/snow-plow-truck/
 https://gamedistribution.com/games/snow-plow-trucks-jigsaw/
 https://gamedistribution.com/games/snow-race-3d-fun-racing/
+https://gamedistribution.com/games/snow-rider-3d-nostalgia/
 https://gamedistribution.com/games/snow-rider-3d-samsung/
 https://gamedistribution.com/games/snow-rider-3d/
 https://gamedistribution.com/games/snow-road-puzzle/
