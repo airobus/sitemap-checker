@@ -437,6 +437,7 @@ https://www.twoplayergames.org/game/color-tunnel
 https://www.twoplayergames.org/game/color-tunnel-2
 https://www.twoplayergames.org/game/color-warriors
 https://www.twoplayergames.org/game/color-wave
+https://www.twoplayergames.org/game/color-yarn-sort
 https://www.twoplayergames.org/game/colorbox-mustard
 https://www.twoplayergames.org/game/combat-strike-multiplayer
 https://www.twoplayergames.org/game/combat-tournament-legends
@@ -1796,6 +1797,7 @@ https://www.twoplayergames.org/game/sniper-team-3
 https://www.twoplayergames.org/game/snow-bros
 https://www.twoplayergames.org/game/snow-monsters
 https://www.twoplayergames.org/game/snow-rider-3d
+https://www.twoplayergames.org/game/snow-rider-3d-nostalgia
 https://www.twoplayergames.org/game/snow-rush-3d
 https://www.twoplayergames.org/game/snowball-io
 https://www.twoplayergames.org/game/snowball-racing

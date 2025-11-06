@@ -12987,6 +12987,7 @@ https://gamedistribution.com/games/fz-water-crisis/
 https://gamedistribution.com/games/fz-zig-zag/
 https://gamedistribution.com/games/g-wagon-city-driver/
 https://gamedistribution.com/games/gak-iso-turu/
+https://gamedistribution.com/games/gal-sliding-puzzle/
 https://gamedistribution.com/games/galactic-attack/
 https://gamedistribution.com/games/galactic-cop/
 https://gamedistribution.com/games/galactic-force/
@@ -17849,6 +17850,7 @@ https://gamedistribution.com/games/meowfia-evolution-endless/
 https://gamedistribution.com/games/mercedes-benz-e63-amg-estate-slide/
 https://gamedistribution.com/games/mercedes-benz-glc63-puzzle/
 https://gamedistribution.com/games/merge-13/
+https://gamedistribution.com/games/merge-2048-cake/
 https://gamedistribution.com/games/merge-2048-gun-rush/
 https://gamedistribution.com/games/merge-2048/
 https://gamedistribution.com/games/merge-3d-match-3-balloons/
@@ -18499,6 +18501,7 @@ https://gamedistribution.com/games/money-rush-3d/
 https://gamedistribution.com/games/money-rush/
 https://gamedistribution.com/games/monkey-and-banana/
 https://gamedistribution.com/games/monkey-bridge/
+https://gamedistribution.com/games/monkey-bubble-defense/
 https://gamedistribution.com/games/monkey-bubble-shooter/
 https://gamedistribution.com/games/monkey-escape/
 https://gamedistribution.com/games/monkey-jumper/
@@ -19772,6 +19775,7 @@ https://gamedistribution.com/games/oil-wrestling/
 https://gamedistribution.com/games/oink-run/
 https://gamedistribution.com/games/ojek-pickup/
 https://gamedistribution.com/games/ok-parking/
+https://gamedistribution.com/games/okay/
 https://gamedistribution.com/games/olaf's-real-twigs/
 https://gamedistribution.com/games/olaf-jumper/
 https://gamedistribution.com/games/olaf-swimming-pool/
@@ -26814,6 +26818,7 @@ https://gamedistribution.com/games/thief-house/
 https://gamedistribution.com/games/thief-puzzle-online/
 https://gamedistribution.com/games/thief-puzzle/
 https://gamedistribution.com/games/thief-quest/
+https://gamedistribution.com/games/thief-stick-puzzle-man-escape/
 https://gamedistribution.com/games/thief-vs-cops/
 https://gamedistribution.com/games/thiefro/
 https://gamedistribution.com/games/third-game-for-test/

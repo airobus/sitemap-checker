@@ -354,6 +354,7 @@ https://www.crazygames.com/game/battle-hamsters
 https://www.crazygames.com/game/battle-island
 https://www.crazygames.com/game/battle-masters
 https://www.crazygames.com/game/battle-of-knights-robby-and-dragons
+https://www.crazygames.com/game/battle-of-the-soldiers-red-vs-blue
 https://www.crazygames.com/game/battle-royale-survival
 https://www.crazygames.com/game/battle-simulator-counter-stickman
 https://www.crazygames.com/game/battle-simulator-prison-and-police
@@ -527,12 +528,12 @@ https://www.crazygames.com/game/bowling-champion
 https://www.crazygames.com/game/bowman
 https://www.crazygames.com/game/bowman-2
 https://www.crazygames.com/game/bowmaster-prelude
+https://www.crazygames.com/game/box-builder
 https://www.crazygames.com/game/box-it-up
 https://www.crazygames.com/game/boxing
 https://www.crazygames.com/game/boxing-3d
 https://www.crazygames.com/game/boxing-random
 https://www.crazygames.com/game/boxing-stars
-https://www.crazygames.com/game/braains-io
 https://www.crazygames.com/game/brain-teaser
 https://www.crazygames.com/game/braindom-2-who-is-lying
 https://www.crazygames.com/game/brainrot-evolution-2048-merge-fight
@@ -1088,7 +1089,6 @@ https://www.crazygames.com/game/dig-a-hole-in-russia
 https://www.crazygames.com/game/dig-craft
 https://www.crazygames.com/game/dig-or-die-prison-escape-simulator
 https://www.crazygames.com/game/dig-tycoon---idle-game-3d
-https://www.crazygames.com/game/digdig-io
 https://www.crazygames.com/game/digital-circus-obby
 https://www.crazygames.com/game/digital-circus-parkour-game
 https://www.crazygames.com/game/digworm-io
@@ -1458,7 +1458,6 @@ https://www.crazygames.com/game/flywheel-incremental
 https://www.crazygames.com/game/fnaf-shooter
 https://www.crazygames.com/game/food-truck-chef
 https://www.crazygames.com/game/food-tycoon-frvr
-https://www.crazygames.com/game/foodstars-io
 https://www.crazygames.com/game/foono-online-multiplayer-card-game
 https://www.crazygames.com/game/foosball-3d
 https://www.crazygames.com/game/foot-battle-ball
@@ -1522,6 +1521,7 @@ https://www.crazygames.com/game/funny-battle-simulator-2
 https://www.crazygames.com/game/funny-blade-magic
 https://www.crazygames.com/game/funny-bone-surgery
 https://www.crazygames.com/game/funny-camping-day
+https://www.crazygames.com/game/funny-city-gopniks
 https://www.crazygames.com/game/funny-cooking-camp
 https://www.crazygames.com/game/funny-daycare
 https://www.crazygames.com/game/funny-dentist-surgery
@@ -2064,7 +2064,6 @@ https://www.crazygames.com/game/k-sniper-challenge-3d
 https://www.crazygames.com/game/kakato-otoshi
 https://www.crazygames.com/game/kaleidoscope
 https://www.crazygames.com/game/kamaz-truck-driver
-https://www.crazygames.com/game/katan-io
 https://www.crazygames.com/game/kawaii-friends-tiles-matcher
 https://www.crazygames.com/game/keep-it-straight
 https://www.crazygames.com/game/keeper-of-the-grove-2
@@ -2238,7 +2237,6 @@ https://www.crazygames.com/game/loot-challange
 https://www.crazygames.com/game/loot-hero-wjo
 https://www.crazygames.com/game/loot-island---treasure-digger
 https://www.crazygames.com/game/loot-party
-https://www.crazygames.com/game/lordzio
 https://www.crazygames.com/game/lost-adventure
 https://www.crazygames.com/game/lost-kingdom-supply-wars
 https://www.crazygames.com/game/love-archer
@@ -2418,6 +2416,7 @@ https://www.crazygames.com/game/merge-magnat---ideal-store
 https://www.crazygames.com/game/merge-master-tanks-tank-wars
 https://www.crazygames.com/game/merge-mine-idle-clicker
 https://www.crazygames.com/game/merge-mine-mobs-attack
+https://www.crazygames.com/game/merge-miners-tycoon-oxa
 https://www.crazygames.com/game/merge-monsters-halloween
 https://www.crazygames.com/game/merge-pickaxe
 https://www.crazygames.com/game/merge-pickaxe-2
@@ -2719,6 +2718,7 @@ https://www.crazygames.com/game/noob-zombie-shooting
 https://www.crazygames.com/game/noobwars
 https://www.crazygames.com/game/north-kingdom---siege-castle
 https://www.crazygames.com/game/north-war
+https://www.crazygames.com/game/northern-lights
 https://www.crazygames.com/game/nova-snake-3d
 https://www.crazygames.com/game/nubik-vs-herobrin-s-army
 https://www.crazygames.com/game/nuclear-day
@@ -3029,7 +3029,6 @@ https://www.crazygames.com/game/power-badminton
 https://www.crazygames.com/game/power-blocks
 https://www.crazygames.com/game/power-players-defenders
 https://www.crazygames.com/game/powerline-guardians
-https://www.crazygames.com/game/powerlineio
 https://www.crazygames.com/game/poxel-io
 https://www.crazygames.com/game/practice-on-me
 https://www.crazygames.com/game/prankster-3d
@@ -3534,7 +3533,6 @@ https://www.crazygames.com/game/spacecraft-noob-return-to-earth
 https://www.crazygames.com/game/spacewars
 https://www.crazygames.com/game/spades
 https://www.crazygames.com/game/spank-the-monkey
-https://www.crazygames.com/game/sparkchess
 https://www.crazygames.com/game/spearfishing
 https://www.crazygames.com/game/speed
 https://www.crazygames.com/game/speed-brazil
@@ -4069,7 +4067,6 @@ https://www.crazygames.com/game/twisted-tangle-nmt
 https://www.crazygames.com/game/two-sides-of-hell-portable-edition-unn
 https://www.crazygames.com/game/two-timin-towers
 https://www.crazygames.com/game/tyran-io
-https://www.crazygames.com/game/tzared
 https://www.crazygames.com/game/ultimate-flying-car
 https://www.crazygames.com/game/ultimate-flying-car-2
 https://www.crazygames.com/game/ultimate-night-racing
@@ -4143,6 +4140,7 @@ https://www.crazygames.com/game/war-of-mine
 https://www.crazygames.com/game/war-of-tanks
 https://www.crazygames.com/game/war-sea
 https://www.crazygames.com/game/war-state-io---conquer-battles-znz
+https://www.crazygames.com/game/war-the-knights
 https://www.crazygames.com/game/war-v-survivor
 https://www.crazygames.com/game/warcall-io
 https://www.crazygames.com/game/warfare-1917
@@ -4196,7 +4194,6 @@ https://www.crazygames.com/game/wild-castle-td-grow-empire
 https://www.crazygames.com/game/wild-hunter-3d
 https://www.crazygames.com/game/wild-ranch-business-simulator
 https://www.crazygames.com/game/wildlife-haven---sandbox-safari
-https://www.crazygames.com/game/wingsio
 https://www.crazygames.com/game/winter-clash-3d
 https://www.crazygames.com/game/winter-falling-price-of-life
 https://www.crazygames.com/game/winterbells
@@ -4784,6 +4781,7 @@ https://www.crazygames.com/t/pool
 https://www.crazygames.com/t/premium
 https://www.crazygames.com/t/premium/2
 https://www.crazygames.com/t/premium/3
+https://www.crazygames.com/t/premium/4
 https://www.crazygames.com/t/quiz
 https://www.crazygames.com/t/racing
 https://www.crazygames.com/t/racing/2
