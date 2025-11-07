@@ -1184,7 +1184,6 @@ https://poki.com/en/g/mahjong-linker-kyodai-game
 https://poki.com/en/g/mahjong-pyramids
 https://poki.com/en/g/mahjong-sweet-connection
 https://poki.com/en/g/make-a-squad-8d0cfccd
-https://poki.com/en/g/makeup-kit-beauty-salon
 https://poki.com/en/g/mall-tycoon
 https://poki.com/en/g/malletmania
 https://poki.com/en/g/man-vs-missiles
@@ -1365,6 +1364,7 @@ https://poki.com/en/g/numbers
 https://poki.com/en/g/numbskull
 https://poki.com/en/g/nuts-and-bolts-screwing-puzzle
 https://poki.com/en/g/o-mandala
+https://poki.com/en/g/obby-roads
 https://poki.com/en/g/obby-tag
 https://poki.com/en/g/ocean
 https://poki.com/en/g/odd-bot-out
@@ -1840,7 +1840,7 @@ https://poki.com/en/g/stickman-archers-waves
 https://poki.com/en/g/stickman-army-team-battle
 https://poki.com/en/g/stickman-army-the-defenders
 https://poki.com/en/g/stickman-army-the-resistance
-https://poki.com/en/g/stickman-battle-ecb23f7f
+https://poki.com/en/g/stickman-battle
 https://poki.com/en/g/stickman-bike
 https://poki.com/en/g/stickman-bike-pr
 https://poki.com/en/g/stickman-boxing-ko-champion
@@ -1980,7 +1980,6 @@ https://poki.com/en/g/tank-stars-785b74a4
 https://poki.com/en/g/tank-trouble
 https://poki.com/en/g/tank-trouble-2
 https://poki.com/en/g/tank-vs-zombies
-https://poki.com/en/g/tankcraft-2
 https://poki.com/en/g/tanked-up
 https://poki.com/en/g/tanko-io
 https://poki.com/en/g/tanx

@@ -6297,6 +6297,7 @@ https://gamedistribution.com/games/bubble-sorting/
 https://gamedistribution.com/games/bubble-spin/
 https://gamedistribution.com/games/bubble-split/
 https://gamedistribution.com/games/bubble-tanks-3/
+https://gamedistribution.com/games/bubble-tea-1/
 https://gamedistribution.com/games/bubble-tea/
 https://gamedistribution.com/games/bubble-tower-3d/
 https://gamedistribution.com/games/bubble-trouble-1/
@@ -14535,6 +14536,7 @@ https://gamedistribution.com/games/hidden-mushrooms/
 https://gamedistribution.com/games/hidden-object%3A-clues-and-mysteries/
 https://gamedistribution.com/games/hidden-object%3A-my-hotel/
 https://gamedistribution.com/games/hidden-object-easter/
+https://gamedistribution.com/games/hidden-object-farm-adventure/
 https://gamedistribution.com/games/hidden-object-game/
 https://gamedistribution.com/games/hidden-object-great-journey/
 https://gamedistribution.com/games/hidden-object-mysterious-artifact/
@@ -16040,6 +16042,7 @@ https://gamedistribution.com/games/k-challenge-456/
 https://gamedistribution.com/games/k-game-glass-bridge-survival/
 https://gamedistribution.com/games/k-games-challenge/
 https://gamedistribution.com/games/k-on-dress-up/
+https://gamedistribution.com/games/k-pop-hunter-fashion/
 https://gamedistribution.com/games/k-pop-hunter-halloween-fashion/
 https://gamedistribution.com/games/k-pop-new-years-concert-2/
 https://gamedistribution.com/games/k-pop-puzzle-hunters/
@@ -17905,6 +17908,7 @@ https://gamedistribution.com/games/merge-flow/
 https://gamedistribution.com/games/merge-flowers/
 https://gamedistribution.com/games/merge-food-puzzle/
 https://gamedistribution.com/games/merge-fruit-1/
+https://gamedistribution.com/games/merge-fruit-2/
 https://gamedistribution.com/games/merge-fruit-time/
 https://gamedistribution.com/games/merge-fruit/
 https://gamedistribution.com/games/merge-fusion/
@@ -22013,6 +22017,7 @@ https://gamedistribution.com/games/puzzle-lab/
 https://gamedistribution.com/games/puzzle-lines-and-knots-1/
 https://gamedistribution.com/games/puzzle-love/
 https://gamedistribution.com/games/puzzle-mania/
+https://gamedistribution.com/games/puzzle-masters-travelers/
 https://gamedistribution.com/games/puzzle-math/
 https://gamedistribution.com/games/puzzle-painter/
 https://gamedistribution.com/games/puzzle-parking-3d/
@@ -26029,6 +26034,7 @@ https://gamedistribution.com/games/supermarket-manager/
 https://gamedistribution.com/games/supermarket-mania/
 https://gamedistribution.com/games/supermarket-paws/
 https://gamedistribution.com/games/supermarket-shopping-for-kids/
+https://gamedistribution.com/games/supermarket-simulator%3A-dream-store/
 https://gamedistribution.com/games/supermarket-sort%3A-grocery-game/
 https://gamedistribution.com/games/supermarket-sort-n-match/
 https://gamedistribution.com/games/supermarket-supplier/
