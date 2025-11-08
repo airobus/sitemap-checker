@@ -1400,6 +1400,7 @@ https://www.twoplayergames.org/game/noob-vs-pro-2-jailbreak
 https://www.twoplayergames.org/game/noob-vs-pro-3
 https://www.twoplayergames.org/game/noob-vs-pro-4-lucky-block
 https://www.twoplayergames.org/game/noob-vs-pro-challenge
+https://www.twoplayergames.org/game/noob-vs-zombie-apocalypse-shooting-pro
 https://www.twoplayergames.org/game/nose-hospital
 https://www.twoplayergames.org/game/nsr-street-car-racing
 https://www.twoplayergames.org/game/nuke-zone
@@ -1419,6 +1420,7 @@ https://www.twoplayergames.org/game/obby-on-a-bike
 https://www.twoplayergames.org/game/obby-parkour-ultimate
 https://www.twoplayergames.org/game/obby-pogo-parkour
 https://www.twoplayergames.org/game/obby-prison-escape
+https://www.twoplayergames.org/game/obby-prison-escape-speed
 https://www.twoplayergames.org/game/obby-survive-parkour
 https://www.twoplayergames.org/game/obby-the-legendary-dragon
 https://www.twoplayergames.org/game/obby-tower-parkour-climb
@@ -2058,6 +2060,7 @@ https://www.twoplayergames.org/game/superhero-io
 https://www.twoplayergames.org/game/superheroio-2-chaos-giant
 https://www.twoplayergames.org/game/superhex-io
 https://www.twoplayergames.org/game/supermarket-expert-idle
+https://www.twoplayergames.org/game/supermarket-simulator-dream-store
 https://www.twoplayergames.org/game/supra-drift-and-stunt
 https://www.twoplayergames.org/game/survev-io
 https://www.twoplayergames.org/game/survival-456-but-it-impostor

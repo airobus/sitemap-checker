@@ -3504,6 +3504,7 @@ https://gamedistribution.com/games/angrymoji/
 https://gamedistribution.com/games/anigirls-wonderful-clicker/
 https://gamedistribution.com/games/animal-auto-repair-shop/
 https://gamedistribution.com/games/animal-babies/
+https://gamedistribution.com/games/animal-basketball/
 https://gamedistribution.com/games/animal-block-pop-puzzle/
 https://gamedistribution.com/games/animal-bubble/
 https://gamedistribution.com/games/animal-buggy-racing/
@@ -4403,6 +4404,7 @@ https://gamedistribution.com/games/backflip-parkour/
 https://gamedistribution.com/games/backgammon-1/
 https://gamedistribution.com/games/backgammon-2/
 https://gamedistribution.com/games/backgammon-deluxe-edition/
+https://gamedistribution.com/games/backgammon-duel/
 https://gamedistribution.com/games/backgammon-multi-player/
 https://gamedistribution.com/games/backgammon-multiplayer/
 https://gamedistribution.com/games/backgammonia--free-online-backgammon-game/
@@ -8036,6 +8038,7 @@ https://gamedistribution.com/games/color-maze/
 https://gamedistribution.com/games/color-me/
 https://gamedistribution.com/games/color-mill/
 https://gamedistribution.com/games/color-mix-jelly-merge/
+https://gamedistribution.com/games/color-nonogram-puzzle-2/
 https://gamedistribution.com/games/color-nonogram-puzzle/
 https://gamedistribution.com/games/color-numbers/
 https://gamedistribution.com/games/color-nuts-and-bolts-puzzle/
@@ -9331,6 +9334,7 @@ https://gamedistribution.com/games/deliver-it-master/
 https://gamedistribution.com/games/deliver-pro/
 https://gamedistribution.com/games/delivery-by-tractor/
 https://gamedistribution.com/games/delivery-chaos/
+https://gamedistribution.com/games/delivery-now/
 https://gamedistribution.com/games/delivery-racer/
 https://gamedistribution.com/games/delora-scary-escape-mysteries-adventure/
 https://gamedistribution.com/games/delta-force-airborne/
@@ -22741,6 +22745,7 @@ https://gamedistribution.com/games/roam-maze/
 https://gamedistribution.com/games/roasted-duck-1/
 https://gamedistribution.com/games/rob-runner/
 https://gamedistribution.com/games/robber-vs-police%3A-fighting/
+https://gamedistribution.com/games/robberies-3d/
 https://gamedistribution.com/games/robbers-in-the-house/
 https://gamedistribution.com/games/robbers-in-town/
 https://gamedistribution.com/games/robbie%3A-become-a-beast/
@@ -24115,6 +24120,7 @@ https://gamedistribution.com/games/sliding-slide/
 https://gamedistribution.com/games/slime-arrows/
 https://gamedistribution.com/games/slime-attack%3A-puzzle!/
 https://gamedistribution.com/games/slime-ball/
+https://gamedistribution.com/games/slime-farm!/
 https://gamedistribution.com/games/slime-farm/
 https://gamedistribution.com/games/slime-farmer-advanced/
 https://gamedistribution.com/games/slime-hunter/
