@@ -17,6 +17,7 @@ https://poki.com/en/g/2048-balls-number-puzzle
 https://poki.com/en/g/2048-hexa
 https://poki.com/en/g/248-number-connect
 https://poki.com/en/g/3-Mice
+https://poki.com/en/g/300-heroes-25f668b4
 https://poki.com/en/g/3d-arena-racing
 https://poki.com/en/g/3d-car-simulator
 https://poki.com/en/g/3d-chibi-dressup
@@ -51,6 +52,7 @@ https://poki.com/en/g/afterlife-the-game
 https://poki.com/en/g/age-of-war
 https://poki.com/en/g/air-hockey-championship-deluxe
 https://poki.com/en/g/air-traffic-control-atc-game
+https://poki.com/en/g/airplane-manager-b3d7f928
 https://poki.com/en/g/airport-clash-3d
 https://poki.com/en/g/alchemix-match-3
 https://poki.com/en/g/alien-abduction
@@ -411,6 +413,7 @@ https://poki.com/en/g/classic-chess
 https://poki.com/en/g/classic-mahjong
 https://poki.com/en/g/classic-minesweeper
 https://poki.com/en/g/classic-solitaire
+https://poki.com/en/g/clean-house-26ce2ce1
 https://poki.com/en/g/cleanscape-masters
 https://poki.com/en/g/clicker-merge
 https://poki.com/en/g/climb-fling
@@ -1241,6 +1244,7 @@ https://poki.com/en/g/merge-zoo
 https://poki.com/en/g/mergy
 https://poki.com/en/g/mermaid-dress-up
 https://poki.com/en/g/messy-kingdom-35605720
+https://poki.com/en/g/metamon-37505728
 https://poki.com/en/g/meteor-strike
 https://poki.com/en/g/microwars
 https://poki.com/en/g/microwars-2
@@ -1312,6 +1316,7 @@ https://poki.com/en/g/mr-racer-car-racing
 https://poki.com/en/g/mr-squarely-d03a335f
 https://poki.com/en/g/mtb-hero
 https://poki.com/en/g/mummys-path-deluxe
+https://poki.com/en/g/munch-market-1c70a968
 https://poki.com/en/g/murder
 https://poki.com/en/g/muscle-shift
 https://poki.com/en/g/museum-of-dots
@@ -1770,6 +1775,7 @@ https://poki.com/en/g/soccer-league
 https://poki.com/en/g/soccer-skills-champions-league
 https://poki.com/en/g/soccer-skills-euro-cup
 https://poki.com/en/g/soccer-skills-world-cup
+https://poki.com/en/g/sockscape-missing-mate-7f7bfa37
 https://poki.com/en/g/soldier-legend
 https://poki.com/en/g/solitaire
 https://poki.com/en/g/solitaire-deluxe
@@ -1942,6 +1948,7 @@ https://poki.com/en/g/survival-builder
 https://poki.com/en/g/survival-express
 https://poki.com/en/g/survival-island
 https://poki.com/en/g/survival-race
+https://poki.com/en/g/survive-the-brainrot-ec9edb81
 https://poki.com/en/g/survivor-z
 https://poki.com/en/g/sushi-chef
 https://poki.com/en/g/sushi-matching
