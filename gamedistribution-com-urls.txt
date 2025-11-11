@@ -4412,6 +4412,7 @@ https://gamedistribution.com/games/background-color-tape/
 https://gamedistribution.com/games/backrooms-among-impostor-and-rolling-giant/
 https://gamedistribution.com/games/backrooms-escape-1/
 https://gamedistribution.com/games/backrooms-skibidi-terrors/
+https://gamedistribution.com/games/backrooms/
 https://gamedistribution.com/games/backwater-fishing/
 https://gamedistribution.com/games/backyard-escape/
 https://gamedistribution.com/games/backyard-heroes/
@@ -9522,6 +9523,7 @@ https://gamedistribution.com/games/dino-egg-shooter/
 https://gamedistribution.com/games/dino-evolution-3d/
 https://gamedistribution.com/games/dino-fossil/
 https://gamedistribution.com/games/dino-fun-adventure/
+https://gamedistribution.com/games/dino-game/
 https://gamedistribution.com/games/dino-grass-island/
 https://gamedistribution.com/games/dino-hide-n-shoot/
 https://gamedistribution.com/games/dino-hunter-killing-strand/
@@ -20774,6 +20776,7 @@ https://gamedistribution.com/games/plant-girl-defense-zombie/
 https://gamedistribution.com/games/plant-love/
 https://gamedistribution.com/games/planting-and-making-of-food/
 https://gamedistribution.com/games/plants-vs-zombies-war/
+https://gamedistribution.com/games/plants-warfare/
 https://gamedistribution.com/games/plasticine-bubbles/
 https://gamedistribution.com/games/platfoban/
 https://gamedistribution.com/games/platform-jumper/

@@ -87,7 +87,6 @@ https://poki.com/en/g/army-warfare
 https://poki.com/en/g/arrow-escape-4ea6e79b
 https://poki.com/en/g/arrow-pathway
 https://poki.com/en/g/arrower
-https://poki.com/en/g/art-of-alchemy
 https://poki.com/en/g/art-pixel-workshop
 https://poki.com/en/g/art-pixel-workshop-2
 https://poki.com/en/g/athletics-hero
@@ -744,6 +743,7 @@ https://poki.com/en/g/flags
 https://poki.com/en/g/flags-maniac
 https://poki.com/en/g/flags-quiz
 https://poki.com/en/g/flappy-chicken
+https://poki.com/en/g/flat-baseball-f8f24add
 https://poki.com/en/g/fleeing-the-complex
 https://poki.com/en/g/flick-goal
 https://poki.com/en/g/flicking-soccer
@@ -918,6 +918,7 @@ https://poki.com/en/g/gun-fu-stickman-2
 https://poki.com/en/g/gun-master-2
 https://poki.com/en/g/gunbrick
 https://poki.com/en/g/gunslugs
+https://poki.com/en/g/gym-heroes-fighting-game-2ed1be40
 https://poki.com/en/g/gym-masters
 https://poki.com/en/g/hammer-2-reloaded
 https://poki.com/en/g/handy-harrys-haunted-house-services
