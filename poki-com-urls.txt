@@ -109,6 +109,7 @@ https://poki.com/en/g/ball-guys
 https://poki.com/en/g/ball-of-everything
 https://poki.com/en/g/banana-king-simulator
 https://poki.com/en/g/bandido-rush
+https://poki.com/en/g/barber-shop-3734c4c6
 https://poki.com/en/g/barbershop-inc
 https://poki.com/en/g/base-defense
 https://poki.com/en/g/base-defense-2
@@ -421,6 +422,7 @@ https://poki.com/en/g/cloud-bashers-dx
 https://poki.com/en/g/coil
 https://poki.com/en/g/coin-factory
 https://poki.com/en/g/coin-machine
+https://poki.com/en/g/cold-cases-fea7294c
 https://poki.com/en/g/cold-storage
 https://poki.com/en/g/collect-em-all
 https://poki.com/en/g/collect-n-evolve-383e5ab4
@@ -1487,6 +1489,7 @@ https://poki.com/en/g/pixlinks
 https://poki.com/en/g/pixwars-2
 https://poki.com/en/g/pixwars-3
 https://poki.com/en/g/pizza-day-2e7b32cd
+https://poki.com/en/g/pizza-planet-9bb8eb94
 https://poki.com/en/g/pizza-tower
 https://poki.com/en/g/pizzafall
 https://poki.com/en/g/pizzapunk
@@ -1716,6 +1719,7 @@ https://poki.com/en/g/skateboard-hero
 https://poki.com/en/g/skibidi-shooter
 https://poki.com/en/g/skiddy-taxi
 https://poki.com/en/g/skiing-fred
+https://poki.com/en/g/skill-knight
 https://poki.com/en/g/sky-bridge
 https://poki.com/en/g/sky-mad
 https://poki.com/en/g/sky-race
@@ -1904,6 +1908,8 @@ https://poki.com/en/g/stupidella-horror-2
 https://poki.com/en/g/submolok
 https://poki.com/en/g/subway-clash-3d
 https://poki.com/en/g/subway-surfers
+https://poki.com/en/g/subway-surfers-blast
+https://poki.com/en/g/subway-surfers-match
 https://poki.com/en/g/sudoblocks
 https://poki.com/en/g/sudoku
 https://poki.com/en/g/sudoku-calendar
