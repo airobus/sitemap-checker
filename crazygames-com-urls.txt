@@ -3152,7 +3152,6 @@ https://www.crazygames.com/game/seadragons-io
 https://www.crazygames.com/game/search-hidden-objects-find-them
 https://www.crazygames.com/game/secrets-of-charmland
 https://www.crazygames.com/game/seeing-things
-https://www.crazygames.com/game/seek-and-destroy
 https://www.crazygames.com/game/seek-find-hidden-object-game
 https://www.crazygames.com/game/senya-and-oscar-2
 https://www.crazygames.com/game/senya-and-oscar-vs-zombies
@@ -3747,6 +3746,7 @@ https://www.crazygames.com/game/timewarriors
 https://www.crazygames.com/game/tiny-auto-knight
 https://www.crazygames.com/game/tiny-fishing
 https://www.crazygames.com/game/tiny-sails
+https://www.crazygames.com/game/tiny-town-defense
 https://www.crazygames.com/game/titan-soul-action-rpg-offline
 https://www.crazygames.com/game/tntcraft
 https://www.crazygames.com/game/toilet-rush---draw-puzzle

@@ -57,6 +57,7 @@ https://poki.com/en/g/airport-clash-3d
 https://poki.com/en/g/alchemix-match-3
 https://poki.com/en/g/alien-abduction
 https://poki.com/en/g/aliens-nest
+https://poki.com/en/g/alphabet-brainrot
 https://poki.com/en/g/amazon-spider-solitaire
 https://poki.com/en/g/american-football-challenge
 https://poki.com/en/g/american-football-real
@@ -272,6 +273,7 @@ https://poki.com/en/g/bubble-shooter-rf
 https://poki.com/en/g/bubble-shots
 https://poki.com/en/g/bubble-sorting
 https://poki.com/en/g/bubble-storm
+https://poki.com/en/g/bubble-tower
 https://poki.com/en/g/bubble-trouble
 https://poki.com/en/g/bubble-trouble-2
 https://poki.com/en/g/bubble-trouble-3
@@ -1172,6 +1174,7 @@ https://poki.com/en/g/mad-day-2
 https://poki.com/en/g/mad-scientist-clicker-idle-crazy-inc
 https://poki.com/en/g/mad-skills-motocross-2
 https://poki.com/en/g/mad-truck-challenge-special
+https://poki.com/en/g/madness-car-destroy
 https://poki.com/en/g/madzoong
 https://poki.com/en/g/mafia-billiard-tricks
 https://poki.com/en/g/mafia-merge
@@ -1280,6 +1283,7 @@ https://poki.com/en/g/monkey-mind
 https://poki.com/en/g/monochromos-dx
 https://poki.com/en/g/monster-duo
 https://poki.com/en/g/monster-huntress
+https://poki.com/en/g/monster-kitchen-merge
 https://poki.com/en/g/monster-mash
 https://poki.com/en/g/monster-match
 https://poki.com/en/g/monster-max
@@ -1620,7 +1624,6 @@ https://poki.com/en/g/right-jump
 https://poki.com/en/g/rio-rex
 https://poki.com/en/g/rise-of-pico
 https://poki.com/en/g/roar-rampage
-https://poki.com/en/g/robo-shop
 https://poki.com/en/g/robot-awake
 https://poki.com/en/g/robots-market
 https://poki.com/en/g/rock-paper-clicker
