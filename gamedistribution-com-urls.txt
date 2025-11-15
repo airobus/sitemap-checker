@@ -4742,6 +4742,7 @@ https://gamedistribution.com/games/basketball-court-parking/
 https://gamedistribution.com/games/basketball-damage/
 https://gamedistribution.com/games/basketball-dare-level-pack/
 https://gamedistribution.com/games/basketball-fever-1/
+https://gamedistribution.com/games/basketball-fever-2/
 https://gamedistribution.com/games/basketball-fever/
 https://gamedistribution.com/games/basketball-flip/
 https://gamedistribution.com/games/basketball-hero-jigsaw/
@@ -4845,6 +4846,7 @@ https://gamedistribution.com/games/bb-ja/
 https://gamedistribution.com/games/bb-tin/
 https://gamedistribution.com/games/bb/
 https://gamedistribution.com/games/bbq-skewers/
+https://gamedistribution.com/games/bbq-sort-puzzle/
 https://gamedistribution.com/games/bbq-stack-run/
 https://gamedistribution.com/games/be-happy/
 https://gamedistribution.com/games/be-the-judge/
@@ -5435,6 +5437,7 @@ https://gamedistribution.com/games/block-puzzle-classic/
 https://gamedistribution.com/games/block-puzzle-frozen-jewel/
 https://gamedistribution.com/games/block-puzzle-jewel-forest/
 https://gamedistribution.com/games/block-puzzle-jewel/
+https://gamedistribution.com/games/block-puzzle-king/
 https://gamedistribution.com/games/block-puzzle-master/
 https://gamedistribution.com/games/block-puzzle-ocean/
 https://gamedistribution.com/games/block-puzzle-plus/
@@ -7825,6 +7828,7 @@ https://gamedistribution.com/games/classical-hippo-hunting/
 https://gamedistribution.com/games/classical-rabbit-sniper-hunting-2019/
 https://gamedistribution.com/games/classics-car-stunts-2020/
 https://gamedistribution.com/games/classicsnakeio/
+https://gamedistribution.com/games/claw-and-merge%3A-labubu-drop/
 https://gamedistribution.com/games/claw-crane/
 https://gamedistribution.com/games/clawdeen-wolf-flirting-dressup/
 https://gamedistribution.com/games/clay-craft-3d-pottery/
@@ -8457,6 +8461,7 @@ https://gamedistribution.com/games/counter-battle-strike-swat-multiplayer-1/
 https://gamedistribution.com/games/counter-city-strike-commando-action-2020/
 https://gamedistribution.com/games/counter-combat-multiplayer/
 https://gamedistribution.com/games/counter-craft-2-zombies/
+https://gamedistribution.com/games/counter-craft-sniper/
 https://gamedistribution.com/games/counter-craft/
 https://gamedistribution.com/games/counter-stickman-battle-simulator/
 https://gamedistribution.com/games/counter-terrorist-shooting-strike/
@@ -10925,6 +10930,7 @@ https://gamedistribution.com/games/emoji-puzzle/
 https://gamedistribution.com/games/emoji-sliding-down/
 https://gamedistribution.com/games/emoji-smasher-smiley-game/
 https://gamedistribution.com/games/emoji-snakes/
+https://gamedistribution.com/games/emoji-sort-fun-puzzle-game/
 https://gamedistribution.com/games/emoji-stack/
 https://gamedistribution.com/games/emoji-word-puzzle/
 https://gamedistribution.com/games/emoticons/
@@ -14725,6 +14731,7 @@ https://gamedistribution.com/games/hitcity-car-parking/
 https://gamedistribution.com/games/hitman-rush/
 https://gamedistribution.com/games/hitman-sniper/
 https://gamedistribution.com/games/hitty-axe/
+https://gamedistribution.com/games/hoard-master-online/
 https://gamedistribution.com/games/hoard-master/
 https://gamedistribution.com/games/hobin-rood/
 https://gamedistribution.com/games/hobo-speedster/
@@ -17740,6 +17747,7 @@ https://gamedistribution.com/games/maths-challenge-1/
 https://gamedistribution.com/games/maths-challenge/
 https://gamedistribution.com/games/maths-fun/
 https://gamedistribution.com/games/maths-solving-problems/
+https://gamedistribution.com/games/matrix-typer/
 https://gamedistribution.com/games/matryoshka-maker/
 https://gamedistribution.com/games/matryoshka-rush/
 https://gamedistribution.com/games/matt-vs-math/
@@ -25545,6 +25553,7 @@ https://gamedistribution.com/games/strawberry-angel-dessert/
 https://gamedistribution.com/games/strawberry-boardgames/
 https://gamedistribution.com/games/strawberry-delicious-boutique!/
 https://gamedistribution.com/games/strawberry-gingerbread-magic-land/
+https://gamedistribution.com/games/strawberry-hero/
 https://gamedistribution.com/games/strawberry-shaped-pops/
 https://gamedistribution.com/games/strawberry-shortcake-shopping-day/
 https://gamedistribution.com/games/strawberry-shortcake-spa/
