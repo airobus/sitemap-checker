@@ -176,6 +176,7 @@ https://www.twoplayergames.org/game/batman-ice-age
 https://www.twoplayergames.org/game/battle-city
 https://www.twoplayergames.org/game/battle-paint
 https://www.twoplayergames.org/game/battle-tank-2
+https://www.twoplayergames.org/game/battle-zone-2d
 https://www.twoplayergames.org/game/battleship-war
 https://www.twoplayergames.org/game/beach-figt
 https://www.twoplayergames.org/game/beach-volleyball
@@ -203,6 +204,7 @@ https://www.twoplayergames.org/game/bleach-vs-naruto
 https://www.twoplayergames.org/game/blindspot
 https://www.twoplayergames.org/game/blob-bridge-run
 https://www.twoplayergames.org/game/blob-opera
+https://www.twoplayergames.org/game/blob-runner-3d
 https://www.twoplayergames.org/game/blob-tank-wars
 https://www.twoplayergames.org/game/blob-wars
 https://www.twoplayergames.org/game/blob-wars-2
@@ -813,6 +815,7 @@ https://www.twoplayergames.org/game/food-empire-inc
 https://www.twoplayergames.org/game/foosball
 https://www.twoplayergames.org/game/foot-doctor
 https://www.twoplayergames.org/game/foot-hospital
+https://www.twoplayergames.org/game/football-bros
 https://www.twoplayergames.org/game/football-fizzix
 https://www.twoplayergames.org/game/football-head-stars
 https://www.twoplayergames.org/game/football-heads-2014-world-cup

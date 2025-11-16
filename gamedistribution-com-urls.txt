@@ -4502,6 +4502,7 @@ https://gamedistribution.com/games/ball-runner-puzzle-game/
 https://gamedistribution.com/games/ball-runner/
 https://gamedistribution.com/games/ball-rush/
 https://gamedistribution.com/games/ball-shooter/
+https://gamedistribution.com/games/ball-sort%3A-color-puzzle/
 https://gamedistribution.com/games/ball-sort-halloween/
 https://gamedistribution.com/games/ball-sort-paper-note/
 https://gamedistribution.com/games/ball-sort-puzzle-new/
@@ -6424,6 +6425,7 @@ https://gamedistribution.com/games/burger-challenge/
 https://gamedistribution.com/games/burger-chef-restaurant/
 https://gamedistribution.com/games/burger-chef/
 https://gamedistribution.com/games/burger-clicker/
+https://gamedistribution.com/games/burger-day/
 https://gamedistribution.com/games/burger-exam/
 https://gamedistribution.com/games/burger-express/
 https://gamedistribution.com/games/burger-fall/
@@ -6759,6 +6761,7 @@ https://gamedistribution.com/games/car-charging-station/
 https://gamedistribution.com/games/car-chase-1/
 https://gamedistribution.com/games/car-chase/
 https://gamedistribution.com/games/car-chaser/
+https://gamedistribution.com/games/car-collision-master/
 https://gamedistribution.com/games/car-crash-simulator/
 https://gamedistribution.com/games/car-crash-star/
 https://gamedistribution.com/games/car-crash/
@@ -14562,6 +14565,7 @@ https://gamedistribution.com/games/hidden-object%3A-my-hotel/
 https://gamedistribution.com/games/hidden-object-easter/
 https://gamedistribution.com/games/hidden-object-farm-adventure/
 https://gamedistribution.com/games/hidden-object-game/
+https://gamedistribution.com/games/hidden-object-girl-and-cat/
 https://gamedistribution.com/games/hidden-object-great-journey/
 https://gamedistribution.com/games/hidden-object-mysterious-artifact/
 https://gamedistribution.com/games/hidden-object-rooms-exploration/
@@ -20351,6 +20355,7 @@ https://gamedistribution.com/games/perfect-wax-3d/
 https://gamedistribution.com/games/perfect-wedding-cake/
 https://gamedistribution.com/games/persia-prince-dash/
 https://gamedistribution.com/games/personal-computer/
+https://gamedistribution.com/games/pesky-moles/
 https://gamedistribution.com/games/pest-hunter-2/
 https://gamedistribution.com/games/pest-hunter/
 https://gamedistribution.com/games/pet-5-diffs/
@@ -26011,6 +26016,7 @@ https://gamedistribution.com/games/super-sweets-challenge/
 https://gamedistribution.com/games/super-swing/
 https://gamedistribution.com/games/super-tank-hero/
 https://gamedistribution.com/games/super-tank-war/
+https://gamedistribution.com/games/super-tank-wrestle/
 https://gamedistribution.com/games/super-tankers/
 https://gamedistribution.com/games/super-tetris/
 https://gamedistribution.com/games/super-thrower/
@@ -27460,6 +27466,7 @@ https://gamedistribution.com/games/tricky-challenges%3A-mini-games/
 https://gamedistribution.com/games/tricky-falling-ball/
 https://gamedistribution.com/games/tricky-impossible-tracks-car-stunt-racing/
 https://gamedistribution.com/games/tricky-kick/
+https://gamedistribution.com/games/tricky-life/
 https://gamedistribution.com/games/tricky-puzzle/
 https://gamedistribution.com/games/tricky-shapes/
 https://gamedistribution.com/games/tricky-shots/
