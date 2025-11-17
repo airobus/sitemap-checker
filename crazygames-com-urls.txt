@@ -526,7 +526,6 @@ https://www.crazygames.com/game/breaking-the-silent-lies
 https://www.crazygames.com/game/breakshoot-idle
 https://www.crazygames.com/game/brick-bash-saga
 https://www.crazygames.com/game/bricks-breaker
-https://www.crazygames.com/game/bricks-sort-construction-3d
 https://www.crazygames.com/game/bridezilla-barbie
 https://www.crazygames.com/game/bridge-builder-eoi
 https://www.crazygames.com/game/bridge-race
@@ -543,6 +542,7 @@ https://www.crazygames.com/game/bubble-shooter-classic
 https://www.crazygames.com/game/bubble-sorting
 https://www.crazygames.com/game/bubble-spinner
 https://www.crazygames.com/game/bubble-tower-3d
+https://www.crazygames.com/game/bubble-trouble-2-rebubbled
 https://www.crazygames.com/game/bubble-trouble-cpy
 https://www.crazygames.com/game/bubble-woods
 https://www.crazygames.com/game/bubbly-lab
@@ -1412,7 +1412,6 @@ https://www.crazygames.com/game/four-mini-kingdoms-war
 https://www.crazygames.com/game/fox-simulator-3d
 https://www.crazygames.com/game/fps-commando-gun-shooting-game
 https://www.crazygames.com/game/fpv-war-kamikaze-drone
-https://www.crazygames.com/game/fr-pripyat
 https://www.crazygames.com/game/fragen
 https://www.crazygames.com/game/fray-fight
 https://www.crazygames.com/game/freak-taxi-simulator
@@ -1700,7 +1699,6 @@ https://www.crazygames.com/game/hexa-block-2048-idle
 https://www.crazygames.com/game/hexa-sort
 https://www.crazygames.com/game/hexanaut-io
 https://www.crazygames.com/game/hextoland
-https://www.crazygames.com/game/hextris
 https://www.crazygames.com/game/hidden-mars
 https://www.crazygames.com/game/hidden-object-clues-and-mysteries
 https://www.crazygames.com/game/hidden-object-my-hotel
