@@ -1117,7 +1117,6 @@ https://www.crazygames.com/game/draw-climber
 https://www.crazygames.com/game/draw-crash-race
 https://www.crazygames.com/game/draw-defense
 https://www.crazygames.com/game/draw-line
-https://www.crazygames.com/game/draw-my-way
 https://www.crazygames.com/game/draw-quiz
 https://www.crazygames.com/game/draw-tattoo
 https://www.crazygames.com/game/draw-to-smash
@@ -1254,6 +1253,7 @@ https://www.crazygames.com/game/evil-father
 https://www.crazygames.com/game/evil-neighbor-2
 https://www.crazygames.com/game/evil-neighbor-3
 https://www.crazygames.com/game/evo-fish
+https://www.crazygames.com/game/evo-gears
 https://www.crazygames.com/game/evohero---idle-gladiators
 https://www.crazygames.com/game/evolution-factor-1
 https://www.crazygames.com/game/evolve
@@ -1544,6 +1544,7 @@ https://www.crazygames.com/game/go-kart-racing-3d
 https://www.crazygames.com/game/goalkeeper-wiz
 https://www.crazygames.com/game/gobattleio
 https://www.crazygames.com/game/goblin-punk-tower-defense
+https://www.crazygames.com/game/god-for-a-day-prequel
 https://www.crazygames.com/game/god-of-light
 https://www.crazygames.com/game/goddess-connect
 https://www.crazygames.com/game/gods-of-defense
@@ -2236,6 +2237,7 @@ https://www.crazygames.com/game/masked-forces
 https://www.crazygames.com/game/masked-forces-zombie-survival
 https://www.crazygames.com/game/master-chess
 https://www.crazygames.com/game/master-hit-boss-hunter-btt
+https://www.crazygames.com/game/master-of-numbers-qmz
 https://www.crazygames.com/game/masters-of-context
 https://www.crazygames.com/game/match-arena
 https://www.crazygames.com/game/match-masters-jiy
@@ -4243,6 +4245,7 @@ https://www.crazygames.com/t/battle/8
 https://www.crazygames.com/t/battleship
 https://www.crazygames.com/t/bike
 https://www.crazygames.com/t/bike/2
+https://www.crazygames.com/t/black-friday
 https://www.crazygames.com/t/block
 https://www.crazygames.com/t/block/2
 https://www.crazygames.com/t/bloody

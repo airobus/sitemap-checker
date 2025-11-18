@@ -1334,6 +1334,7 @@ https://www.twoplayergames.org/game/mortal-kombat
 https://www.twoplayergames.org/game/moto-racing
 https://www.twoplayergames.org/game/moto-road-rash-3d
 https://www.twoplayergames.org/game/moto-road-rash-3d-2
+https://www.twoplayergames.org/game/moto-traffic-rider
 https://www.twoplayergames.org/game/moto-trial-racing-2
 https://www.twoplayergames.org/game/moto-trials-junkyard-2
 https://www.twoplayergames.org/game/moto-x3m
@@ -1810,6 +1811,7 @@ https://www.twoplayergames.org/game/snow-rider-3d-nostalgia
 https://www.twoplayergames.org/game/snow-rush-3d
 https://www.twoplayergames.org/game/snowball-io
 https://www.twoplayergames.org/game/snowball-racing
+https://www.twoplayergames.org/game/snowball-racing-multiplayer
 https://www.twoplayergames.org/game/snowheroes-io
 https://www.twoplayergames.org/game/soccer-bros
 https://www.twoplayergames.org/game/soccer-cars

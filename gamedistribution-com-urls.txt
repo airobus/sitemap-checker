@@ -3001,6 +3001,7 @@ https://gamedistribution.com/games/abcs-of-halloween-3/
 https://gamedistribution.com/games/abcs-of-halloween/
 https://gamedistribution.com/games/abondoned-castle-escape/
 https://gamedistribution.com/games/aborigenese/
+https://gamedistribution.com/games/about-a-frog/
 https://gamedistribution.com/games/aboveandbeyond/
 https://gamedistribution.com/games/abstract-golf/
 https://gamedistribution.com/games/abstract-painting-house-escape/
@@ -18826,6 +18827,7 @@ https://gamedistribution.com/games/moto-rush/
 https://gamedistribution.com/games/moto-speed-gp/
 https://gamedistribution.com/games/moto-stunt-biker/
 https://gamedistribution.com/games/moto-stunts-driving-and-racing/
+https://gamedistribution.com/games/moto-traffic-rider/
 https://gamedistribution.com/games/moto-traffic/
 https://gamedistribution.com/games/moto-trials-rush/
 https://gamedistribution.com/games/moto-x3m-4-winter/
@@ -25327,6 +25329,7 @@ https://gamedistribution.com/games/stick-war%3A-infinity-duel/
 https://gamedistribution.com/games/stick-war%3A-new-age/
 https://gamedistribution.com/games/stick-war-adventure/
 https://gamedistribution.com/games/stick-war-ninja-duel/
+https://gamedistribution.com/games/stick-war-saga/
 https://gamedistribution.com/games/stick-warrior-action-game-1/
 https://gamedistribution.com/games/stick-warrior-action-game/
 https://gamedistribution.com/games/stick-warrior-hero-battle/
@@ -27010,6 +27013,7 @@ https://gamedistribution.com/games/tiny-alien/
 https://gamedistribution.com/games/tiny-archer-1/
 https://gamedistribution.com/games/tiny-archer/
 https://gamedistribution.com/games/tiny-baker-ocean-jelly-cake/
+https://gamedistribution.com/games/tiny-baker-rainbow-buttercream-cake/
 https://gamedistribution.com/games/tiny-battle/
 https://gamedistribution.com/games/tiny-blocks/
 https://gamedistribution.com/games/tiny-blues-vs-mini-reds/
@@ -28900,6 +28904,7 @@ https://gamedistribution.com/games/xmas-draw/
 https://gamedistribution.com/games/xmas-explorer/
 https://gamedistribution.com/games/xmas-float-connect-2023/
 https://gamedistribution.com/games/xmas-gifts-chain/
+https://gamedistribution.com/games/xmas-hexa-sort/
 https://gamedistribution.com/games/xmas-hidden-objects/
 https://gamedistribution.com/games/xmas-illustration-puzzle/
 https://gamedistribution.com/games/xmas-jigsaw-deluxe/
