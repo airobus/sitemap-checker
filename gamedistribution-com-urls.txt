@@ -9154,6 +9154,7 @@ https://gamedistribution.com/games/daily-solitaire-1/
 https://gamedistribution.com/games/daily-solitaire-2/
 https://gamedistribution.com/games/daily-solitaire-2020/
 https://gamedistribution.com/games/daily-solitaire-blue/
+https://gamedistribution.com/games/daily-solitaire-mahjong-classic/
 https://gamedistribution.com/games/daily-solitaire/
 https://gamedistribution.com/games/daily-star-classic-crossword/
 https://gamedistribution.com/games/daily-star-cryptic-crossword/
@@ -12437,6 +12438,7 @@ https://gamedistribution.com/games/football-brawl/
 https://gamedistribution.com/games/football-champs/
 https://gamedistribution.com/games/football-coloring-book/
 https://gamedistribution.com/games/football-coloring-time/
+https://gamedistribution.com/games/football-duel/
 https://gamedistribution.com/games/football-flap-flap/
 https://gamedistribution.com/games/football-flick/
 https://gamedistribution.com/games/football-fun/
@@ -13206,6 +13208,7 @@ https://gamedistribution.com/games/geometry-quiz/
 https://gamedistribution.com/games/geometry-rash-challenge/
 https://gamedistribution.com/games/geometry-road/
 https://gamedistribution.com/games/geometry-rush-4d/
+https://gamedistribution.com/games/geometry-rush/
 https://gamedistribution.com/games/geometry-stars/
 https://gamedistribution.com/games/geometry-subzero/
 https://gamedistribution.com/games/geometry-tile-rush/
@@ -19514,6 +19517,7 @@ https://gamedistribution.com/games/noob%3A-zombie-prison-escape/
 https://gamedistribution.com/games/noob-adventure/
 https://gamedistribution.com/games/noob-and-pro-skateboarding/
 https://gamedistribution.com/games/noob-archer-monster-attack/
+https://gamedistribution.com/games/noob-archer-vs-stickman-zombie%3A-zombie-shooter/
 https://gamedistribution.com/games/noob-bridge-challenge/
 https://gamedistribution.com/games/noob-button-1/
 https://gamedistribution.com/games/noob-button-2/
@@ -25190,6 +25194,7 @@ https://gamedistribution.com/games/stack-tower-ja/
 https://gamedistribution.com/games/stack-tower/
 https://gamedistribution.com/games/stack-twist-2/
 https://gamedistribution.com/games/stack-twist/
+https://gamedistribution.com/games/stack-up/
 https://gamedistribution.com/games/stack/
 https://gamedistribution.com/games/stackballio/
 https://gamedistribution.com/games/stacker-tower/
@@ -25898,6 +25903,7 @@ https://gamedistribution.com/games/super-hero-driving-school/
 https://gamedistribution.com/games/super-hero-family-jigsaw/
 https://gamedistribution.com/games/super-hero-league-online/
 https://gamedistribution.com/games/super-hero-make-up-salon!/
+https://gamedistribution.com/games/super-hero-tycoon/
 https://gamedistribution.com/games/super-heroes-ball/
 https://gamedistribution.com/games/super-hexbee-merger/
 https://gamedistribution.com/games/super-hitmasters-online/
