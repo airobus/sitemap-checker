@@ -443,7 +443,6 @@ https://www.crazygames.com/game/blocky-highway-racer
 https://www.crazygames.com/game/blocky-parkour-only-up-adventure
 https://www.crazygames.com/game/blocky-tank-3d
 https://www.crazygames.com/game/blocky-trials
-https://www.crazygames.com/game/blocops
 https://www.crazygames.com/game/blogger-clicker
 https://www.crazygames.com/game/bloom-sort
 https://www.crazygames.com/game/blooming-garden
@@ -1329,6 +1328,7 @@ https://www.crazygames.com/game/find-cat-2
 https://www.crazygames.com/game/find-differences-spot-em-all
 https://www.crazygames.com/game/find-it---find-the-differences
 https://www.crazygames.com/game/find-it-hidden-object-puzzle
+https://www.crazygames.com/game/find-joe-secret-of-the-stones
 https://www.crazygames.com/game/find-joe-unsolved-mystery-pno
 https://www.crazygames.com/game/find-me-lost-objects
 https://www.crazygames.com/game/find-the-alien
@@ -2247,6 +2247,7 @@ https://www.crazygames.com/game/match-the-color
 https://www.crazygames.com/game/matchventures
 https://www.crazygames.com/game/math-duck
 https://www.crazygames.com/game/math-expressions
+https://www.crazygames.com/game/math-gardens
 https://www.crazygames.com/game/math-push
 https://www.crazygames.com/game/max-mixed-cocktails
 https://www.crazygames.com/game/max-mixed-cuisine
@@ -2912,6 +2913,7 @@ https://www.crazygames.com/game/pro-construction-simulator-3d-swm
 https://www.crazygames.com/game/professor-strange
 https://www.crazygames.com/game/progress-knight
 https://www.crazygames.com/game/project-prismatic
+https://www.crazygames.com/game/project-proxy---cyber-girls-warfare
 https://www.crazygames.com/game/project-restoration-axt
 https://www.crazygames.com/game/prom-night-dress-up
 https://www.crazygames.com/game/prune-milo

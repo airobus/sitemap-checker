@@ -904,6 +904,7 @@ https://www.twoplayergames.org/game/geometry-platformer
 https://www.twoplayergames.org/game/geometry-vibes
 https://www.twoplayergames.org/game/geometry-vibes-3d
 https://www.twoplayergames.org/game/geometry-vibes-monster
+https://www.twoplayergames.org/game/geometry-vibes-x-arrow
 https://www.twoplayergames.org/game/geometry-vibes-x-ball
 https://www.twoplayergames.org/game/get-a-cool-gun
 https://www.twoplayergames.org/game/get-on-top
@@ -1540,6 +1541,7 @@ https://www.twoplayergames.org/game/pizza-challenge
 https://www.twoplayergames.org/game/pizza-maker
 https://www.twoplayergames.org/game/planet-clicker
 https://www.twoplayergames.org/game/plazma-burst
+https://www.twoplayergames.org/game/please-dont-feed-me
 https://www.twoplayergames.org/game/plumber-soda
 https://www.twoplayergames.org/game/pocket-league-3d
 https://www.twoplayergames.org/game/pokemon-monsters-adventure
@@ -1574,6 +1576,7 @@ https://www.twoplayergames.org/game/princess-run-3d
 https://www.twoplayergames.org/game/prision-break
 https://www.twoplayergames.org/game/protect-my-dog-2
 https://www.twoplayergames.org/game/pull-the-pin
+https://www.twoplayergames.org/game/puppet-climb
 https://www.twoplayergames.org/game/puppet-football-fighters
 https://www.twoplayergames.org/game/puppet-football-league-spain
 https://www.twoplayergames.org/game/puppet-ice-hockey
