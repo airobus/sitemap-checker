@@ -5877,6 +5877,7 @@ https://gamedistribution.com/games/brain-and-math/
 https://gamedistribution.com/games/brain-buster/
 https://gamedistribution.com/games/brain-challenge/
 https://gamedistribution.com/games/brain-control/
+https://gamedistribution.com/games/brain-draw-line/
 https://gamedistribution.com/games/brain-dunk/
 https://gamedistribution.com/games/brain-explosion/
 https://gamedistribution.com/games/brain-find-can-you-find-it/
@@ -21073,6 +21074,7 @@ https://gamedistribution.com/games/pop-pop-kitties/
 https://gamedistribution.com/games/pop-pop-rush/
 https://gamedistribution.com/games/pop-puzzle/
 https://gamedistribution.com/games/pop-rush/
+https://gamedistribution.com/games/pop-star-1/
 https://gamedistribution.com/games/pop-star-dentist/
 https://gamedistribution.com/games/pop-star-princess-dresses-2/
 https://gamedistribution.com/games/pop-star-princess-dresses/
@@ -23562,6 +23564,7 @@ https://gamedistribution.com/games/screamals/
 https://gamedistribution.com/games/screw-it!-matching-colored-screws/
 https://gamedistribution.com/games/screw-jam!/
 https://gamedistribution.com/games/screw-jam-fun-puzzle-game/
+https://gamedistribution.com/games/screw-match/
 https://gamedistribution.com/games/screw-nuts-and-bolts%3A-wood-solve/
 https://gamedistribution.com/games/screw-pin/
 https://gamedistribution.com/games/screw-puzzle-1/
@@ -28103,6 +28106,7 @@ https://gamedistribution.com/games/vex-hyper-dash/
 https://gamedistribution.com/games/vex-x3m-2/
 https://gamedistribution.com/games/vex-x3m/
 https://gamedistribution.com/games/vi-and-va-sweet-16/
+https://gamedistribution.com/games/vibe-colouring/
 https://gamedistribution.com/games/vibrant-hearts-glamour-vs-punk/
 https://gamedistribution.com/games/vice-city-driver/
 https://gamedistribution.com/games/victoria's-halloween-scarecrow-costume/

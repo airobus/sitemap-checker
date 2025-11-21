@@ -443,6 +443,7 @@ https://www.crazygames.com/game/blocky-highway-racer
 https://www.crazygames.com/game/blocky-parkour-only-up-adventure
 https://www.crazygames.com/game/blocky-tank-3d
 https://www.crazygames.com/game/blocky-trials
+https://www.crazygames.com/game/blocops
 https://www.crazygames.com/game/blogger-clicker
 https://www.crazygames.com/game/bloom-sort
 https://www.crazygames.com/game/blooming-garden
@@ -476,7 +477,6 @@ https://www.crazygames.com/game/boncy-farm
 https://www.crazygames.com/game/bone-breaker-tycoon
 https://www.crazygames.com/game/bone-doctor-shoulder-case
 https://www.crazygames.com/game/boom-cell
-https://www.crazygames.com/game/boom-karts
 https://www.crazygames.com/game/boom-land-lite
 https://www.crazygames.com/game/boom-slingers-reboom
 https://www.crazygames.com/game/boom-vid
@@ -1237,6 +1237,7 @@ https://www.crazygames.com/game/escape-or-die-2
 https://www.crazygames.com/game/escape-or-die-3
 https://www.crazygames.com/game/escape-or-die-4
 https://www.crazygames.com/game/escape-puzzle-game---moon-trip
+https://www.crazygames.com/game/escape-road-2
 https://www.crazygames.com/game/escape-road-asm
 https://www.crazygames.com/game/escape-room-strange-case-2
 https://www.crazygames.com/game/escape-series
@@ -1412,6 +1413,7 @@ https://www.crazygames.com/game/four-mini-kingdoms-war
 https://www.crazygames.com/game/fox-simulator-3d
 https://www.crazygames.com/game/fps-commando-gun-shooting-game
 https://www.crazygames.com/game/fpv-war-kamikaze-drone
+https://www.crazygames.com/game/fr-pripyat
 https://www.crazygames.com/game/fragen
 https://www.crazygames.com/game/fray-fight
 https://www.crazygames.com/game/freak-taxi-simulator
@@ -1560,6 +1562,7 @@ https://www.crazygames.com/game/golf-adventures-2
 https://www.crazygames.com/game/golf-mania
 https://www.crazygames.com/game/golf-orbit
 https://www.crazygames.com/game/golf-solitaire
+https://www.crazygames.com/game/gomu-goman
 https://www.crazygames.com/game/goober-dash
 https://www.crazygames.com/game/goober-royale
 https://www.crazygames.com/game/goober-shot
@@ -1655,6 +1658,7 @@ https://www.crazygames.com/game/hard-wheels
 https://www.crazygames.com/game/hardware-tycoon
 https://www.crazygames.com/game/harley-learns-to-love
 https://www.crazygames.com/game/haru-pandas-slide
+https://www.crazygames.com/game/harvest-glam
 https://www.crazygames.com/game/harvest-kings
 https://www.crazygames.com/game/harvesting-season
 https://www.crazygames.com/game/haste-clicker
@@ -2410,6 +2414,7 @@ https://www.crazygames.com/game/mole-heist
 https://www.crazygames.com/game/mom-s-diary---2
 https://www.crazygames.com/game/mom-s-diary-cooking-games
 https://www.crazygames.com/game/momlife-simulator
+https://www.crazygames.com/game/money-cannon
 https://www.crazygames.com/game/money-factory-aqs
 https://www.crazygames.com/game/money-factory-tycoon-idle-game
 https://www.crazygames.com/game/money-gun-clicker
@@ -2924,6 +2929,7 @@ https://www.crazygames.com/game/pull-the-pin
 https://www.crazygames.com/game/punch-hero
 https://www.crazygames.com/game/punch-max
 https://www.crazygames.com/game/punchers
+https://www.crazygames.com/game/punchy-race
 https://www.crazygames.com/game/puppet-fighter-2-player
 https://www.crazygames.com/game/puppetman-ragdoll-puzzle
 https://www.crazygames.com/game/puppetman-ragdoll-shooter
@@ -3648,6 +3654,7 @@ https://www.crazygames.com/game/tentrix
 https://www.crazygames.com/game/tetris-with-physics
 https://www.crazygames.com/game/thats-my-recipe
 https://www.crazygames.com/game/the-army
+https://www.crazygames.com/game/the-battleground
 https://www.crazygames.com/game/the-best-russian-billiards
 https://www.crazygames.com/game/the-binding-of-isaac-demo
 https://www.crazygames.com/game/the-bottle-boy
