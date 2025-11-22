@@ -2358,6 +2358,7 @@ https://www.crazygames.com/game/mine-loop
 https://www.crazygames.com/game/mine-merge-mania
 https://www.crazygames.com/game/mine-runner
 https://www.crazygames.com/game/mine-shooter---save-your-world
+https://www.crazygames.com/game/mine-shooter-2-noob-vs-mobs
 https://www.crazygames.com/game/mine-slingshot
 https://www.crazygames.com/game/mine-to-the-last
 https://www.crazygames.com/game/mine-trap-craft-3
@@ -3911,7 +3912,6 @@ https://www.crazygames.com/game/void-scrappers
 https://www.crazygames.com/game/void-siege-jze
 https://www.crazygames.com/game/volcano-island
 https://www.crazygames.com/game/volley-random
-https://www.crazygames.com/game/vortex-9-ubs
 https://www.crazygames.com/game/vortex-io
 https://www.crazygames.com/game/voxel-playground-ragdoll-noob
 https://www.crazygames.com/game/voxiom-io

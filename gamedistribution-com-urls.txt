@@ -3018,6 +3018,7 @@ https://gamedistribution.com/games/aces-and-kings-solitaire/
 https://gamedistribution.com/games/aces-up-solitaire/
 https://gamedistribution.com/games/acid-sink/
 https://gamedistribution.com/games/acorns-park/
+https://gamedistribution.com/games/acox-runner/
 https://gamedistribution.com/games/acrobat-house-ecsape/
 https://gamedistribution.com/games/acropolis-escape/
 https://gamedistribution.com/games/acropolis-escape2/
@@ -9737,6 +9738,7 @@ https://gamedistribution.com/games/dolly-wedding-runway/
 https://gamedistribution.com/games/dollys-restaurant-organizing/
 https://gamedistribution.com/games/dolphin-coloring-book/
 https://gamedistribution.com/games/dolphin-couple-underwater-dress-up/
+https://gamedistribution.com/games/dolphin-dash/
 https://gamedistribution.com/games/dolphin-dice-race/
 https://gamedistribution.com/games/domestic-animal-memory-challenge/
 https://gamedistribution.com/games/domestic-animals-memory/
@@ -17832,6 +17834,7 @@ https://gamedistribution.com/games/mega-city-stunts/
 https://gamedistribution.com/games/mega-escape-car-parking-puzzle/
 https://gamedistribution.com/games/mega-fall-ragdoll-simulator/
 https://gamedistribution.com/games/mega-fantasy-avatar-creator/
+https://gamedistribution.com/games/mega-jump/
 https://gamedistribution.com/games/mega-lamba-ramp/
 https://gamedistribution.com/games/mega-levels-car-stunt-impossible-track-game/
 https://gamedistribution.com/games/mega-makeup-seasons-best/
@@ -22134,6 +22137,7 @@ https://gamedistribution.com/games/quick-num/
 https://gamedistribution.com/games/quicket/
 https://gamedistribution.com/games/quickmath/
 https://gamedistribution.com/games/quiet-boy-escape/
+https://gamedistribution.com/games/quiz-10-seconds-math/
 https://gamedistribution.com/games/quiz-guess-the-flag/
 https://gamedistribution.com/games/quiz-kingdoms/
 https://gamedistribution.com/games/quiz-mater/
@@ -26971,6 +26975,7 @@ https://gamedistribution.com/games/tile-farm-story-matching-game/
 https://gamedistribution.com/games/tile-fruits/
 https://gamedistribution.com/games/tile-guru-match-fun/
 https://gamedistribution.com/games/tile-hex-world%3A-red-vs-blue/
+https://gamedistribution.com/games/tile-hexa-sort/
 https://gamedistribution.com/games/tile-hop/
 https://gamedistribution.com/games/tile-journey/
 https://gamedistribution.com/games/tile-living/
