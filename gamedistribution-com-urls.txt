@@ -3997,6 +3997,7 @@ https://gamedistribution.com/games/atari-breakout/
 https://gamedistribution.com/games/atari-centipede/
 https://gamedistribution.com/games/atari-missile-command/
 https://gamedistribution.com/games/atari-pong/
+https://gamedistribution.com/games/athena-match-2/
 https://gamedistribution.com/games/athena-match/
 https://gamedistribution.com/games/atlantic-city-skyscrapers-racing/
 https://gamedistribution.com/games/atlantic-sky-hunter-xtreme/
@@ -7391,6 +7392,7 @@ https://gamedistribution.com/games/christmas-balls/
 https://gamedistribution.com/games/christmas-baubles-match-3/
 https://gamedistribution.com/games/christmas-block-challenge/
 https://gamedistribution.com/games/christmas-blocks-collapse/
+https://gamedistribution.com/games/christmas-blocks-sort/
 https://gamedistribution.com/games/christmas-blocks/
 https://gamedistribution.com/games/christmas-breaker-game/
 https://gamedistribution.com/games/christmas-bridge-runner/
@@ -14414,6 +14416,7 @@ https://gamedistribution.com/games/hellokids-coloring-time-talpa/
 https://gamedistribution.com/games/hellokids-coloring-time/
 https://gamedistribution.com/games/help-imposter-escape/
 https://gamedistribution.com/games/help-me%3A-time-travel-adventure/
+https://gamedistribution.com/games/help-me%3A-tricky-brain-puzzles/
 https://gamedistribution.com/games/help-stickman-burn/
 https://gamedistribution.com/games/help-the-artist/
 https://gamedistribution.com/games/help-the-couple/
