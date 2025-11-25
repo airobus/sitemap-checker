@@ -240,6 +240,7 @@ https://www.crazygames.com/game/asmr-stye-treatment
 https://www.crazygames.com/game/assassin-hero-infinity-blade
 https://www.crazygames.com/game/associations---word-connect
 https://www.crazygames.com/game/asteroid-breaker-ezu
+https://www.crazygames.com/game/astro-burn
 https://www.crazygames.com/game/atari-breakout
 https://www.crazygames.com/game/atlethic-runners
 https://www.crazygames.com/game/atomic-champions
@@ -508,6 +509,7 @@ https://www.crazygames.com/game/boxing-3d
 https://www.crazygames.com/game/boxing-random
 https://www.crazygames.com/game/boxing-stars
 https://www.crazygames.com/game/brain-teaser
+https://www.crazygames.com/game/brain-train-mfu
 https://www.crazygames.com/game/braindom-2-who-is-lying
 https://www.crazygames.com/game/brainrot-evolution-2048-merge-fight
 https://www.crazygames.com/game/brainrot-idle-clicker
@@ -1266,6 +1268,7 @@ https://www.crazygames.com/game/extreme-offroad-cars-2
 https://www.crazygames.com/game/extreme-pamplona
 https://www.crazygames.com/game/fabby-golf
 https://www.crazygames.com/game/factory-balls-forever
+https://www.crazygames.com/game/factory-industrial
 https://www.crazygames.com/game/fairy-puzzle
 https://www.crazygames.com/game/fairy-s-magical-makeover
 https://www.crazygames.com/game/fairyland-merge-and-magic
@@ -1701,6 +1704,7 @@ https://www.crazygames.com/game/hex-empire
 https://www.crazygames.com/game/hex-frvr
 https://www.crazygames.com/game/hexa-blast-game
 https://www.crazygames.com/game/hexa-block-2048-idle
+https://www.crazygames.com/game/hexa-go
 https://www.crazygames.com/game/hexa-sort
 https://www.crazygames.com/game/hexanaut-io
 https://www.crazygames.com/game/hextoland
@@ -1726,6 +1730,7 @@ https://www.crazygames.com/game/hill-masters
 https://www.crazygames.com/game/hill-racing
 https://www.crazygames.com/game/hire-rush-kgw
 https://www.crazygames.com/game/hobo
+https://www.crazygames.com/game/hole-digger-ekz
 https://www.crazygames.com/game/holey-io-battle-royale
 https://www.crazygames.com/game/holographic-trends
 https://www.crazygames.com/game/home-builder-3d
@@ -3912,6 +3917,8 @@ https://www.crazygames.com/game/void-scrappers
 https://www.crazygames.com/game/void-siege-jze
 https://www.crazygames.com/game/volcano-island
 https://www.crazygames.com/game/volley-random
+https://www.crazygames.com/game/vortex-9-ubs
+https://www.crazygames.com/game/vortex-fruit-drop
 https://www.crazygames.com/game/vortex-io
 https://www.crazygames.com/game/voxel-playground-ragdoll-noob
 https://www.crazygames.com/game/voxiom-io
@@ -4073,7 +4080,6 @@ https://www.crazygames.com/game/yummy-waffle-ice-cream
 https://www.crazygames.com/game/zarcane-a-zombie-apocalypse
 https://www.crazygames.com/game/zena-trial-of-gods
 https://www.crazygames.com/game/zeppelin-assault
-https://www.crazygames.com/game/zingrush-lwv
 https://www.crazygames.com/game/zom-strike-vvq
 https://www.crazygames.com/game/zombie-arena
 https://www.crazygames.com/game/zombie-cafe
