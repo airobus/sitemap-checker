@@ -5561,6 +5561,7 @@ https://gamedistribution.com/games/blossom/
 https://gamedistribution.com/games/blow-up-jellies/
 https://gamedistribution.com/games/blowup-atm/
 https://gamedistribution.com/games/blox-escape/
+https://gamedistribution.com/games/blox-fruits/
 https://gamedistribution.com/games/blox-shock-/
 https://gamedistribution.com/games/bloxcape/
 https://gamedistribution.com/games/bloxorz-roll-the-block/
@@ -6769,6 +6770,7 @@ https://gamedistribution.com/games/car-chaser/
 https://gamedistribution.com/games/car-collision-master/
 https://gamedistribution.com/games/car-crash-simulator/
 https://gamedistribution.com/games/car-crash-star/
+https://gamedistribution.com/games/car-crash-test%3A-abandoned-city/
 https://gamedistribution.com/games/car-crash/
 https://gamedistribution.com/games/car-crush/
 https://gamedistribution.com/games/car-crusher-master/
@@ -13534,6 +13536,7 @@ https://gamedistribution.com/games/golf-solitaire-a-funny-card-game/
 https://gamedistribution.com/games/golf-solitaire/
 https://gamedistribution.com/games/golf/
 https://gamedistribution.com/games/golfing-island/
+https://gamedistribution.com/games/gomu-goman/
 https://gamedistribution.com/games/gone-fishing/
 https://gamedistribution.com/games/gonna-fly/
 https://gamedistribution.com/games/good-and-evil-dressup/
@@ -19051,6 +19054,7 @@ https://gamedistribution.com/games/murder-mansion-3/
 https://gamedistribution.com/games/murder-mansion-4/
 https://gamedistribution.com/games/murder-mansion-5/
 https://gamedistribution.com/games/murder-mystery/
+https://gamedistribution.com/games/murder-stone-age/
 https://gamedistribution.com/games/murderers-vs-sheriffs-duels/
 https://gamedistribution.com/games/murderio/
 https://gamedistribution.com/games/muscle-challenge/
@@ -19522,6 +19526,7 @@ https://gamedistribution.com/games/nonstop-cars/
 https://gamedistribution.com/games/noob%3A-jailbreak-2/
 https://gamedistribution.com/games/noob%3A-parkour-tricks/
 https://gamedistribution.com/games/noob%3A-saving-friends/
+https://gamedistribution.com/games/noob%3A-skyblock-survival/
 https://gamedistribution.com/games/noob%3A-zombie-prison-escape/
 https://gamedistribution.com/games/noob-adventure/
 https://gamedistribution.com/games/noob-and-pro-skateboarding/
@@ -25267,6 +25272,7 @@ https://gamedistribution.com/games/stay-on-the-road/
 https://gamedistribution.com/games/stayhome-princess-makeup-lessons/
 https://gamedistribution.com/games/steal-arowana-fish/
 https://gamedistribution.com/games/steal-brainrot-duel/
+https://gamedistribution.com/games/steal-car-duel/
 https://gamedistribution.com/games/steal-items-io/
 https://gamedistribution.com/games/steal-the-meal/
 https://gamedistribution.com/games/stealing-busted/

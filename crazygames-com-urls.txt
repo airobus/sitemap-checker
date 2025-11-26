@@ -467,7 +467,6 @@ https://www.crazygames.com/game/bobr-turbo-craft-cars-oxs
 https://www.crazygames.com/game/bodycamera-shooter
 https://www.crazygames.com/game/boe-wings
 https://www.crazygames.com/game/bolts-and-nuts
-https://www.crazygames.com/game/bomb-balls-3d
 https://www.crazygames.com/game/bomb-head-hot-potato
 https://www.crazygames.com/game/bomb-roll
 https://www.crazygames.com/game/bomber-friends
@@ -666,6 +665,7 @@ https://www.crazygames.com/game/caterpillars
 https://www.crazygames.com/game/cats-and-bees
 https://www.crazygames.com/game/catty-s-fishing-day
 https://www.crazygames.com/game/cave-frvr
+https://www.crazygames.com/game/cave-gems
 https://www.crazygames.com/game/caveman-life
 https://www.crazygames.com/game/cavern-clicker
 https://www.crazygames.com/game/cavern-from-the-fog
@@ -1431,7 +1431,6 @@ https://www.crazygames.com/game/friday-night-funkin
 https://www.crazygames.com/game/frogger
 https://www.crazygames.com/game/frogiddy
 https://www.crazygames.com/game/frontline-defense
-https://www.crazygames.com/game/frontwars-io
 https://www.crazygames.com/game/frost-land
 https://www.crazygames.com/game/fruit-balls-juicy-fusion
 https://www.crazygames.com/game/fruit-clicker
@@ -3839,6 +3838,7 @@ https://www.crazygames.com/game/tropical-merge
 https://www.crazygames.com/game/truck-driver-crazy-road-3
 https://www.crazygames.com/game/truck-driving-simulator-game
 https://www.crazygames.com/game/truck-hit-hero-isekai-arena
+https://www.crazygames.com/game/truck-simulator-real-qio
 https://www.crazygames.com/game/truck-simulator-russia
 https://www.crazygames.com/game/truck-space
 https://www.crazygames.com/game/trucks-race
@@ -4493,6 +4493,7 @@ https://www.crazygames.com/t/mouse/24
 https://www.crazygames.com/t/mouse/25
 https://www.crazygames.com/t/mouse/26
 https://www.crazygames.com/t/mouse/27
+https://www.crazygames.com/t/mouse/28
 https://www.crazygames.com/t/mouse/3
 https://www.crazygames.com/t/mouse/4
 https://www.crazygames.com/t/mouse/5
