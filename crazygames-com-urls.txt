@@ -138,6 +138,7 @@ https://www.crazygames.com/game/advent-mahjong
 https://www.crazygames.com/game/adventneon
 https://www.crazygames.com/game/adventure-boy-jailbreak
 https://www.crazygames.com/game/adventure-island-vok
+https://www.crazygames.com/game/adventure-jumper
 https://www.crazygames.com/game/adventure-miner
 https://www.crazygames.com/game/adversator
 https://www.crazygames.com/game/afk-dungeon-zaq
@@ -2631,6 +2632,7 @@ https://www.crazygames.com/game/obby-dead-river
 https://www.crazygames.com/game/obby-dumb-or-genius-iq-test
 https://www.crazygames.com/game/obby-gym-simulator-escape
 https://www.crazygames.com/game/obby-hide-and-seek-battle-royale
+https://www.crazygames.com/game/obby-mini-games
 https://www.crazygames.com/game/obby-parkour-race
 https://www.crazygames.com/game/obby-pull-a-sword
 https://www.crazygames.com/game/obby-ragdoll-boxing
@@ -3420,7 +3422,6 @@ https://www.crazygames.com/game/starbase-gunship
 https://www.crazygames.com/game/starblastio
 https://www.crazygames.com/game/startup-fever
 https://www.crazygames.com/game/state-wars-conquer-them-all
-https://www.crazygames.com/game/steal-brainrot-online
 https://www.crazygames.com/game/stealing-the-diamond
 https://www.crazygames.com/game/stealth-optional
 https://www.crazygames.com/game/steam-city

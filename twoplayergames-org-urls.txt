@@ -338,6 +338,7 @@ https://www.twoplayergames.org/game/capybara-evolution-clicker
 https://www.twoplayergames.org/game/car-chase
 https://www.twoplayergames.org/game/car-crash-simulator
 https://www.twoplayergames.org/game/car-crash-test
+https://www.twoplayergames.org/game/car-crash-test-abandoned-city
 https://www.twoplayergames.org/game/car-destruction-king
 https://www.twoplayergames.org/game/car-eats-car-2
 https://www.twoplayergames.org/game/car-eats-car-dungeon-adventure
@@ -1084,7 +1085,6 @@ https://www.twoplayergames.org/game/inca-adventure
 https://www.twoplayergames.org/game/incredibox-abgerny
 https://www.twoplayergames.org/game/incredibox-cool-as-ice
 https://www.twoplayergames.org/game/incredibox-sprunki
-https://www.twoplayergames.org/game/incredibox-sprunkosc
 https://www.twoplayergames.org/game/infiltrating-the-airship
 https://www.twoplayergames.org/game/inkwars-io
 https://www.twoplayergames.org/game/interplanetary
@@ -1712,6 +1712,7 @@ https://www.twoplayergames.org/game/rush
 https://www.twoplayergames.org/game/russian-car-driver-hd
 https://www.twoplayergames.org/game/ryona-bowman-2
 https://www.twoplayergames.org/game/sand-draw
+https://www.twoplayergames.org/game/sandstrike-io
 https://www.twoplayergames.org/game/sandwich-runner
 https://www.twoplayergames.org/game/satisdom
 https://www.twoplayergames.org/game/save-baby-capybaras
@@ -1940,6 +1941,7 @@ https://www.twoplayergames.org/game/sprunki-with-oc
 https://www.twoplayergames.org/game/sprunkilairity-remake
 https://www.twoplayergames.org/game/sprunkin
 https://www.twoplayergames.org/game/sprunkis-world
+https://www.twoplayergames.org/game/sprunkosc
 https://www.twoplayergames.org/game/sprunky
 https://www.twoplayergames.org/game/spy-car
 https://www.twoplayergames.org/game/square-bird
