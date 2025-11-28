@@ -203,6 +203,7 @@ https://gamedistribution.com/games/2048skill-edition/
 https://gamedistribution.com/games/21-blitz/
 https://gamedistribution.com/games/21-cards/
 https://gamedistribution.com/games/21-solitaire/
+https://gamedistribution.com/games/2248-blast/
 https://gamedistribution.com/games/2248-block-merge/
 https://gamedistribution.com/games/2248-musical/
 https://gamedistribution.com/games/25-december/
@@ -6432,6 +6433,7 @@ https://gamedistribution.com/games/burger-chef-restaurant/
 https://gamedistribution.com/games/burger-chef/
 https://gamedistribution.com/games/burger-clicker/
 https://gamedistribution.com/games/burger-day/
+https://gamedistribution.com/games/burger-empire/
 https://gamedistribution.com/games/burger-exam/
 https://gamedistribution.com/games/burger-express/
 https://gamedistribution.com/games/burger-fall/
@@ -7180,6 +7182,7 @@ https://gamedistribution.com/games/celebrity-stardom-fashion/
 https://gamedistribution.com/games/celebrity-sundance-film-festival/
 https://gamedistribution.com/games/celebrity-tailor-shop/
 https://gamedistribution.com/games/celebrity-tailor-shops/
+https://gamedistribution.com/games/celebrity-thanksgiving-prep/
 https://gamedistribution.com/games/celebrity-wednesday-addams-style/
 https://gamedistribution.com/games/celebritys-chinese-new-year-look/
 https://gamedistribution.com/games/celestial-fall/
@@ -8883,6 +8886,7 @@ https://gamedistribution.com/games/crystal-miner-alpha/
 https://gamedistribution.com/games/crystical/
 https://gamedistribution.com/games/cs%3A-chaos-squad/
 https://gamedistribution.com/games/cs%3A-command-snipers/
+https://gamedistribution.com/games/cs%3A-upgrade-gun/
 https://gamedistribution.com/games/cs-clone/
 https://gamedistribution.com/games/cs-online/
 https://gamedistribution.com/games/cs-war-gun-king-fps/
@@ -14587,6 +14591,7 @@ https://gamedistribution.com/games/hidden-object-great-journey/
 https://gamedistribution.com/games/hidden-object-mysterious-artifact/
 https://gamedistribution.com/games/hidden-object-rooms-exploration/
 https://gamedistribution.com/games/hidden-objects%3A-brain-teaser/
+https://gamedistribution.com/games/hidden-objects%3A-lost-island-2/
 https://gamedistribution.com/games/hidden-objects%3A-vacation-in-brazil/
 https://gamedistribution.com/games/hidden-objects-bakery/
 https://gamedistribution.com/games/hidden-objects-crime-scene/
@@ -18546,6 +18551,7 @@ https://gamedistribution.com/games/money-grabber/
 https://gamedistribution.com/games/money-gun-rush/
 https://gamedistribution.com/games/money-honey/
 https://gamedistribution.com/games/money-land/
+https://gamedistribution.com/games/money-maker/
 https://gamedistribution.com/games/money-man-3d/
 https://gamedistribution.com/games/money-match-3/
 https://gamedistribution.com/games/money-movers-1-ru/
