@@ -1026,6 +1026,7 @@ https://www.twoplayergames.org/game/helix-jump
 https://www.twoplayergames.org/game/hello-kitty-and-friends-jumper
 https://www.twoplayergames.org/game/hello-kitty-pinball
 https://www.twoplayergames.org/game/hello-kitty-roller-race
+https://www.twoplayergames.org/game/help-me-tricky-brain-puzzles
 https://www.twoplayergames.org/game/hero-2-super-kick
 https://www.twoplayergames.org/game/hero-3-flying-robot
 https://www.twoplayergames.org/game/hero-fighter
@@ -1980,6 +1981,7 @@ https://www.twoplayergames.org/game/stick-war
 https://www.twoplayergames.org/game/stick-war-2
 https://www.twoplayergames.org/game/stick-war-infinity-duel
 https://www.twoplayergames.org/game/stick-war-new-age
+https://www.twoplayergames.org/game/stick-war-saga
 https://www.twoplayergames.org/game/stick-warrior-hero-battle
 https://www.twoplayergames.org/game/stick-wars
 https://www.twoplayergames.org/game/stickman-archer
@@ -2298,6 +2300,7 @@ https://www.twoplayergames.org/game/uphill-rush-9
 https://www.twoplayergames.org/game/valentines-meet
 https://www.twoplayergames.org/game/vegetable-ninjas
 https://www.twoplayergames.org/game/veggie-slicer
+https://www.twoplayergames.org/game/venge-io
 https://www.twoplayergames.org/game/venom-run-3d
 https://www.twoplayergames.org/game/vertical-drop-heroes
 https://www.twoplayergames.org/game/vex-3
