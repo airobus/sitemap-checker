@@ -6321,6 +6321,7 @@ https://gamedistribution.com/games/bubble-tea-1/
 https://gamedistribution.com/games/bubble-tea/
 https://gamedistribution.com/games/bubble-tower-3d/
 https://gamedistribution.com/games/bubble-trouble-1/
+https://gamedistribution.com/games/bubble-trouble-2%3A-rebubbled/
 https://gamedistribution.com/games/bubble-trouble/
 https://gamedistribution.com/games/bubble-up!/
 https://gamedistribution.com/games/bubble-up-master/
@@ -7930,6 +7931,7 @@ https://gamedistribution.com/games/code-panda/
 https://gamedistribution.com/games/code-runner%3A-binary-confusion/
 https://gamedistribution.com/games/codename-space-babes/
 https://gamedistribution.com/games/coe-rabbit/
+https://gamedistribution.com/games/coe-snake/
 https://gamedistribution.com/games/coffee-break-memory/
 https://gamedistribution.com/games/coffee-craze-sorting-game/
 https://gamedistribution.com/games/coffee-master-idle/
@@ -10357,6 +10359,7 @@ https://gamedistribution.com/games/dunk-shot-2/
 https://gamedistribution.com/games/dunk-shot-3/
 https://gamedistribution.com/games/dunk-shot/
 https://gamedistribution.com/games/dunkers-fight-2p/
+https://gamedistribution.com/games/duo-family-santa/
 https://gamedistribution.com/games/duo/
 https://gamedistribution.com/games/durak/
 https://gamedistribution.com/games/dust-busterio/
@@ -13298,6 +13301,7 @@ https://gamedistribution.com/games/gibbet-archery-2019/
 https://gamedistribution.com/games/gibbets-master/
 https://gamedistribution.com/games/gibbets/
 https://gamedistribution.com/games/gift-craft/
+https://gamedistribution.com/games/gift-merge-santa-world-tour/
 https://gamedistribution.com/games/gift-of-alchemy/
 https://gamedistribution.com/games/gimme-pipe/
 https://gamedistribution.com/games/gin-rummy/
@@ -20577,6 +20581,7 @@ https://gamedistribution.com/games/pinballvs/
 https://gamedistribution.com/games/pineapple-pen-master/
 https://gamedistribution.com/games/pineapple-style/
 https://gamedistribution.com/games/pineapplepen-deluxe/
+https://gamedistribution.com/games/ping-pong-air/
 https://gamedistribution.com/games/ping-pong-ball/
 https://gamedistribution.com/games/ping-pong-battle-table-tennis/
 https://gamedistribution.com/games/ping-pong-challenge/
