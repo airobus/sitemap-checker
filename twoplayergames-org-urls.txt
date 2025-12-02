@@ -171,6 +171,7 @@ https://www.twoplayergames.org/game/basketball-master
 https://www.twoplayergames.org/game/basketball-master-2
 https://www.twoplayergames.org/game/basketball-slam-dunk
 https://www.twoplayergames.org/game/basketball-stars
+https://www.twoplayergames.org/game/basketball-stars-2026
 https://www.twoplayergames.org/game/basketbros-io
 https://www.twoplayergames.org/game/batman-ice-age
 https://www.twoplayergames.org/game/battle-city
@@ -1432,11 +1433,13 @@ https://www.twoplayergames.org/game/obby-parkour-ultimate
 https://www.twoplayergames.org/game/obby-pogo-parkour
 https://www.twoplayergames.org/game/obby-prison-escape
 https://www.twoplayergames.org/game/obby-prison-escape-speed
+https://www.twoplayergames.org/game/obby-rainbow-tower
 https://www.twoplayergames.org/game/obby-survive-parkour
 https://www.twoplayergames.org/game/obby-the-legendary-dragon
 https://www.twoplayergames.org/game/obby-tower-parkour-climb
 https://www.twoplayergames.org/game/obby-training-by-car
 https://www.twoplayergames.org/game/obby-training-on-the-train
+https://www.twoplayergames.org/game/obby-universe-mini-games
 https://www.twoplayergames.org/game/obby-working-as-a-firefighter
 https://www.twoplayergames.org/game/off-road-rain-cargo-simulator
 https://www.twoplayergames.org/game/office-golf

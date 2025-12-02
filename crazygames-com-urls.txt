@@ -378,6 +378,7 @@ https://www.crazygames.com/game/big-battle-mini
 https://www.crazygames.com/game/big-euro-truck-driving
 https://www.crazygames.com/game/big-flappy-tower-vs-tiny-square
 https://www.crazygames.com/game/big-giant-games
+https://www.crazygames.com/game/big-hit-football
 https://www.crazygames.com/game/big-ice-tower-tiny-square
 https://www.crazygames.com/game/big-neon-tower-vs-tiny-square
 https://www.crazygames.com/game/big-shark
@@ -855,7 +856,6 @@ https://www.crazygames.com/game/crazy-flasher-3
 https://www.crazygames.com/game/crazy-flips-3d
 https://www.crazygames.com/game/crazy-for-speed
 https://www.crazygames.com/game/crazy-grand-prix
-https://www.crazygames.com/game/crazy-guys
 https://www.crazygames.com/game/crazy-jump-jump-multiplayer
 https://www.crazygames.com/game/crazy-kitchen-multiplayer
 https://www.crazygames.com/game/crazy-mechs
@@ -2629,6 +2629,7 @@ https://www.crazygames.com/game/nuts-puzzle-sort-by-color
 https://www.crazygames.com/game/o-void
 https://www.crazygames.com/game/obby-1-to-spaceflight-altitude
 https://www.crazygames.com/game/obby-boxer
+https://www.crazygames.com/game/obby-car-challenge-drive
 https://www.crazygames.com/game/obby-cards-the-legend-hunt
 https://www.crazygames.com/game/obby-challenge-prison-run
 https://www.crazygames.com/game/obby-dead-river

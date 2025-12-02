@@ -468,6 +468,7 @@ https://poki.com/en/g/disco-droids
 https://poki.com/en/g/distraction-driver
 https://poki.com/en/g/diva-hair-salon
 https://poki.com/en/g/doc-darling-bone-surgery
+https://poki.com/en/g/doc-honeyberry-kitty-surgery
 https://poki.com/en/g/doctor-acorn-2
 https://poki.com/en/g/doctor-acorn-3
 https://poki.com/en/g/doctor-hero
@@ -542,6 +543,7 @@ https://poki.com/en/g/eagle-ride
 https://poki.com/en/g/earths-greatest-defender
 https://poki.com/en/g/eat-the-world
 https://poki.com/en/g/eggbot-vs-zombies
+https://poki.com/en/g/eggsplosion
 https://poki.com/en/g/eggy-car
 https://poki.com/en/g/eggys-big-adventure
 https://poki.com/en/g/electric-highway
@@ -1916,6 +1918,7 @@ https://poki.com/en/g/yummy-churros-ice-cream
 https://poki.com/en/g/yummy-cupcake
 https://poki.com/en/g/yummy-donut-factory
 https://poki.com/en/g/yummy-hotdog
+https://poki.com/en/g/yummy-ice-cream-factory
 https://poki.com/en/g/yummy-super-burger
 https://poki.com/en/g/yummy-super-pizza
 https://poki.com/en/g/yummy-taco
