@@ -6895,6 +6895,7 @@ https://gamedistribution.com/games/car-wash/
 https://gamedistribution.com/games/card-battle/
 https://gamedistribution.com/games/card-master/
 https://gamedistribution.com/games/card-match-10/
+https://gamedistribution.com/games/card-quest%3A-10-minute-adventure/
 https://gamedistribution.com/games/card-shuffle-sort/
 https://gamedistribution.com/games/cardbox-race/
 https://gamedistribution.com/games/cards%3A-klondike-solitaire/
@@ -11039,6 +11040,7 @@ https://gamedistribution.com/games/epic-roll-1/
 https://gamedistribution.com/games/epic-roll/
 https://gamedistribution.com/games/epic-run-ja/
 https://gamedistribution.com/games/epic-run/
+https://gamedistribution.com/games/epic-stunts-pvp-3d/
 https://gamedistribution.com/games/equal-alphabets/
 https://gamedistribution.com/games/equations-right-or-wrong-1/
 https://gamedistribution.com/games/equations-right-or-wrong/
@@ -14546,7 +14548,9 @@ https://gamedistribution.com/games/hexa-sort-3d/
 https://gamedistribution.com/games/hexa-sort-master/
 https://gamedistribution.com/games/hexa-sort-trick-or-treat/
 https://gamedistribution.com/games/hexa-sort/
+https://gamedistribution.com/games/hexa-stack-christmas/
 https://gamedistribution.com/games/hexa-stapler/
+https://gamedistribution.com/games/hexa-tap-away/
 https://gamedistribution.com/games/hexa-tile-master/
 https://gamedistribution.com/games/hexa-tile-trio/
 https://gamedistribution.com/games/hexa-time/
@@ -20418,6 +20422,7 @@ https://gamedistribution.com/games/pet-jump/
 https://gamedistribution.com/games/pet-lovers-jigsaw/
 https://gamedistribution.com/games/pet-match/
 https://gamedistribution.com/games/pet-matching-games/
+https://gamedistribution.com/games/pet-me-maze/
 https://gamedistribution.com/games/pet-merge/
 https://gamedistribution.com/games/pet-party/
 https://gamedistribution.com/games/pet-run-adventure-puppy-run/
@@ -26382,6 +26387,7 @@ https://gamedistribution.com/games/tag-the-flag/
 https://gamedistribution.com/games/tahawus-ghost-town-escape/
 https://gamedistribution.com/games/tail-gun-charlie/
 https://gamedistribution.com/games/tailed-monsters-puzzle/
+https://gamedistribution.com/games/tailor-stylist%3A-fashion-diary/
 https://gamedistribution.com/games/take-apart/
 https://gamedistribution.com/games/take-flight-2/
 https://gamedistribution.com/games/take-off-the-rocket-and-collect-the-coins/
