@@ -628,6 +628,7 @@ https://www.crazygames.com/game/carball-io
 https://www.crazygames.com/game/card-cafe
 https://www.crazygames.com/game/card-scramble-viola-s-diner
 https://www.crazygames.com/game/card-shuffle-sort
+https://www.crazygames.com/game/card-solitaire-word-game
 https://www.crazygames.com/game/cardboard-house
 https://www.crazygames.com/game/cards-keeper
 https://www.crazygames.com/game/cargo-truck-driver-simulator
@@ -976,7 +977,6 @@ https://www.crazygames.com/game/dalgona-game
 https://www.crazygames.com/game/damn-it-ttl
 https://www.crazygames.com/game/dancing-dreamer
 https://www.crazygames.com/game/dandan-slime-anj
-https://www.crazygames.com/game/dark-lands
 https://www.crazygames.com/game/dark-odyssey-lzc
 https://www.crazygames.com/game/dark-stones-card-battle-rpg
 https://www.crazygames.com/game/darts-club
@@ -4469,6 +4469,7 @@ https://www.crazygames.com/t/mobile/14
 https://www.crazygames.com/t/mobile/15
 https://www.crazygames.com/t/mobile/16
 https://www.crazygames.com/t/mobile/17
+https://www.crazygames.com/t/mobile/18
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
@@ -4519,6 +4520,7 @@ https://www.crazygames.com/t/multiplayer/6
 https://www.crazygames.com/t/music
 https://www.crazygames.com/t/mystery
 https://www.crazygames.com/t/ninja
+https://www.crazygames.com/t/obby
 https://www.crazygames.com/t/obstacle
 https://www.crazygames.com/t/obstacle/2
 https://www.crazygames.com/t/obstacle/3

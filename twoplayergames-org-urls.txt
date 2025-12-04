@@ -703,6 +703,7 @@ https://www.twoplayergames.org/game/epic-basketball
 https://www.twoplayergames.org/game/epic-battle-puzzle
 https://www.twoplayergames.org/game/epic-car-stunt-race-obby
 https://www.twoplayergames.org/game/epic-clash
+https://www.twoplayergames.org/game/epic-stunts-3d
 https://www.twoplayergames.org/game/erase-the-extra-element
 https://www.twoplayergames.org/game/escape-from-school-hellish-teacher
 https://www.twoplayergames.org/game/escape-out
@@ -1960,6 +1961,7 @@ https://www.twoplayergames.org/game/stabfishio
 https://www.twoplayergames.org/game/stack-breaker
 https://www.twoplayergames.org/game/starblast-io
 https://www.twoplayergames.org/game/stateio
+https://www.twoplayergames.org/game/steal-brainrot-arena
 https://www.twoplayergames.org/game/steal-brainrot-duel
 https://www.twoplayergames.org/game/steal-car-duel
 https://www.twoplayergames.org/game/stealing-the-diamond
