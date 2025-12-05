@@ -110,6 +110,7 @@ https://poki.com/en/g/battleships-armada
 https://poki.com/en/g/beach-boxing-simulator
 https://poki.com/en/g/beardie-craft-survival
 https://poki.com/en/g/bearsus
+https://poki.com/en/g/beast-barber
 https://poki.com/en/g/beauty-salon
 https://poki.com/en/g/become-a-dentist
 https://poki.com/en/g/become-a-fashion-designer
@@ -277,7 +278,6 @@ https://poki.com/en/g/car-eats-car-winter-adventure
 https://poki.com/en/g/car-machines
 https://poki.com/en/g/car-parking-jam
 https://poki.com/en/g/car-parking-school
-https://poki.com/en/g/car-rush
 https://poki.com/en/g/car-simulator-arena
 https://poki.com/en/g/car-stunts-adventure
 https://poki.com/en/g/card-hog
@@ -432,7 +432,6 @@ https://poki.com/en/g/dana-relics-for-sale
 https://poki.com/en/g/dangle
 https://poki.com/en/g/dark-light-swap
 https://poki.com/en/g/dark-runner
-https://poki.com/en/g/darts-pro
 https://poki.com/en/g/dasi-hospital-manager
 https://poki.com/en/g/dasi-library-manager
 https://poki.com/en/g/dasi-office-manager
@@ -720,7 +719,6 @@ https://poki.com/en/g/g-switch-4
 https://poki.com/en/g/galactic-empire
 https://poki.com/en/g/game-of-farmers
 https://poki.com/en/g/gangster-contract-mafia-wars
-https://poki.com/en/g/gear-madness
 https://poki.com/en/g/gem-11
 https://poki.com/en/g/gem-smash
 https://poki.com/en/g/genie-quest
@@ -736,7 +734,6 @@ https://poki.com/en/g/glitch-dash
 https://poki.com/en/g/go-go-ufo
 https://poki.com/en/g/go-kart-go-ultra
 https://poki.com/en/g/goal-training
-https://poki.com/en/g/goalkeeper-challenge
 https://poki.com/en/g/goat-vs-zombies
 https://poki.com/en/g/gobattle
 https://poki.com/en/g/gobattle2
@@ -1357,7 +1354,6 @@ https://poki.com/en/g/retro-bowl-college
 https://poki.com/en/g/retro-highway
 https://poki.com/en/g/retro-rex
 https://poki.com/en/g/return-portal
-https://poki.com/en/g/reversi
 https://poki.com/en/g/rhino-rush-stampede
 https://poki.com/en/g/rhomb
 https://poki.com/en/g/ribbit
@@ -1481,7 +1477,6 @@ https://poki.com/en/g/sling-drift
 https://poki.com/en/g/sling-kong
 https://poki.com/en/g/sling-world-cup
 https://poki.com/en/g/slopey
-https://poki.com/en/g/slot-car-racing
 https://poki.com/en/g/smash-car-idle
 https://poki.com/en/g/smash-car-idle-2
 https://poki.com/en/g/smash-it
@@ -1490,7 +1485,6 @@ https://poki.com/en/g/smashy-duo
 https://poki.com/en/g/smoots-pinball-zombie
 https://poki.com/en/g/smoots-tennis-first-serve
 https://poki.com/en/g/snackio
-https://poki.com/en/g/snake-attack
 https://poki.com/en/g/snake-cool
 https://poki.com/en/g/snake-is-mlg-edition
 https://poki.com/en/g/snake-solver
@@ -1816,7 +1810,6 @@ https://poki.com/en/g/twirl
 https://poki.com/en/g/two-button-bounce
 https://poki.com/en/g/typing-fighter
 https://poki.com/en/g/udder
-https://poki.com/en/g/ultimate-boxing
 https://poki.com/en/g/ultimate-sudoku
 https://poki.com/en/g/ultimate-swish
 https://poki.com/en/g/ultimate-tic-tac-toe

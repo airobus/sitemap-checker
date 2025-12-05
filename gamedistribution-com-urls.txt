@@ -5359,6 +5359,7 @@ https://gamedistribution.com/games/blades-battle/
 https://gamedistribution.com/games/blankets/
 https://gamedistribution.com/games/blasen-schiessen-tier/
 https://gamedistribution.com/games/blast-away-ball-drop/
+https://gamedistribution.com/games/blast-cubes/
 https://gamedistribution.com/games/blast-mania/
 https://gamedistribution.com/games/blast-red/
 https://gamedistribution.com/games/blast-the-ball/
@@ -5557,6 +5558,7 @@ https://gamedistribution.com/games/bloo-kid/
 https://gamedistribution.com/games/bloody-millionaire/
 https://gamedistribution.com/games/bloom-sort-2%3A-bee-puzzle/
 https://gamedistribution.com/games/bloom/
+https://gamedistribution.com/games/bloon-pop-1/
 https://gamedistribution.com/games/bloon-pop/
 https://gamedistribution.com/games/bloons-archer/
 https://gamedistribution.com/games/blossom-garden-crush/
@@ -13000,6 +13002,7 @@ https://gamedistribution.com/games/furious-road-game-low-poly-car-racing/
 https://gamedistribution.com/games/furious-road-surfer/
 https://gamedistribution.com/games/furious-road/
 https://gamedistribution.com/games/furry-kung-fu-and-babushka/
+https://gamedistribution.com/games/furry-wedding-proposal/
 https://gamedistribution.com/games/furtive-dao/
 https://gamedistribution.com/games/fury-bike-rider/
 https://gamedistribution.com/games/fury-dash/
@@ -17580,6 +17583,7 @@ https://gamedistribution.com/games/marathon-race-io/
 https://gamedistribution.com/games/marble-balls-3d/
 https://gamedistribution.com/games/marble-balls/
 https://gamedistribution.com/games/marble-blast-1/
+https://gamedistribution.com/games/marble-blast-2/
 https://gamedistribution.com/games/marble-blast/
 https://gamedistribution.com/games/marble-bubble-legend/
 https://gamedistribution.com/games/marble-dash/
@@ -22961,6 +22965,7 @@ https://gamedistribution.com/games/roller-ball-5/
 https://gamedistribution.com/games/roller-ball-6-%3A-bounce-ball-6/
 https://gamedistribution.com/games/roller-ball-adventure/
 https://gamedistribution.com/games/roller-ball-x-%3A-bounce-ball/
+https://gamedistribution.com/games/roller-coaster-3d/
 https://gamedistribution.com/games/roller-coaster-cave/
 https://gamedistribution.com/games/roller-coaster-crazy-drive-game/
 https://gamedistribution.com/games/roller-coaster-fun-hidden/
@@ -25575,6 +25580,7 @@ https://gamedistribution.com/games/stickman-warrior-fatality/
 https://gamedistribution.com/games/stickman-warrior-way/
 https://gamedistribution.com/games/stickman-warriors-1/
 https://gamedistribution.com/games/stickman-warriors/
+https://gamedistribution.com/games/stickman-weapon-master/
 https://gamedistribution.com/games/stickman-zombie-escape/
 https://gamedistribution.com/games/stickmen-crowd-fight/
 https://gamedistribution.com/games/stickmen-vs-zombies/

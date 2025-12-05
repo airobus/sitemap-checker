@@ -209,6 +209,7 @@ https://www.crazygames.com/game/appel
 https://www.crazygames.com/game/apple-shooter
 https://www.crazygames.com/game/aqua-miner-underwater-drilling-game
 https://www.crazygames.com/game/aquapark-balls-party
+https://www.crazygames.com/game/aquapark-io-yky
 https://www.crazygames.com/game/arcade-empire
 https://www.crazygames.com/game/arcade-rope
 https://www.crazygames.com/game/archer-clash-ftj
@@ -222,7 +223,6 @@ https://www.crazygames.com/game/archers-random
 https://www.crazygames.com/game/archery-master
 https://www.crazygames.com/game/archery-world-tour
 https://www.crazygames.com/game/arena
-https://www.crazygames.com/game/aritmazetic
 https://www.crazygames.com/game/arkadium-s-bubble-shooter
 https://www.crazygames.com/game/armor-path-ctb
 https://www.crazygames.com/game/army-general-battle-tank-strategy
@@ -395,7 +395,6 @@ https://www.crazygames.com/game/biker-street
 https://www.crazygames.com/game/billiards
 https://www.crazygames.com/game/billiards-pool-8
 https://www.crazygames.com/game/billionaire-wife-dress-up-game
-https://www.crazygames.com/game/bio-zone
 https://www.crazygames.com/game/biomons-island-3d
 https://www.crazygames.com/game/bird-flight-idle
 https://www.crazygames.com/game/bird-sort-puzzle
@@ -424,7 +423,6 @@ https://www.crazygames.com/game/block-climber
 https://www.crazygames.com/game/block-contra-clutch-strike
 https://www.crazygames.com/game/block-destroyer
 https://www.crazygames.com/game/block-fuser
-https://www.crazygames.com/game/block-legends
 https://www.crazygames.com/game/block-magic-puzzle
 https://www.crazygames.com/game/block-pixel-gun-apocalypse-3
 https://www.crazygames.com/game/block-puzzle
@@ -488,7 +486,6 @@ https://www.crazygames.com/game/boom-vid
 https://www.crazygames.com/game/boomcraft
 https://www.crazygames.com/game/boomdozer
 https://www.crazygames.com/game/boomerang-chang
-https://www.crazygames.com/game/bore-blasters
 https://www.crazygames.com/game/bot-bumper
 https://www.crazygames.com/game/bot-machines
 https://www.crazygames.com/game/botanica-greenhouse-of-wishes
@@ -711,6 +708,7 @@ https://www.crazygames.com/game/chipuzik-s-evolution
 https://www.crazygames.com/game/chompers-io
 https://www.crazygames.com/game/chopforge
 https://www.crazygames.com/game/christmas-mansion
+https://www.crazygames.com/game/christmas-sorting-syk
 https://www.crazygames.com/game/chrome-dino
 https://www.crazygames.com/game/cinderella-dress-up-girl-games
 https://www.crazygames.com/game/cinema-panic-2
@@ -729,6 +727,7 @@ https://www.crazygames.com/game/city-car-driving-simulator-ultimate
 https://www.crazygames.com/game/city-car-driving-simulator-ultimate-2
 https://www.crazygames.com/game/city-car-racer
 https://www.crazygames.com/game/city-classic-car-driving-131
+https://www.crazygames.com/game/city-defense
 https://www.crazygames.com/game/city-of-psychos
 https://www.crazygames.com/game/city-takeover
 https://www.crazygames.com/game/cityidle
@@ -854,7 +853,6 @@ https://www.crazygames.com/game/crazy-combat
 https://www.crazygames.com/game/crazy-crypt-escape
 https://www.crazygames.com/game/crazy-drift
 https://www.crazygames.com/game/crazy-dummy-swing-multiplayer
-https://www.crazygames.com/game/crazy-farming
 https://www.crazygames.com/game/crazy-flasher-3
 https://www.crazygames.com/game/crazy-flips-3d
 https://www.crazygames.com/game/crazy-for-speed
@@ -1087,7 +1085,6 @@ https://www.crazygames.com/game/dogs-vs-aliens
 https://www.crazygames.com/game/dolphin-olympics
 https://www.crazygames.com/game/domino-battle
 https://www.crazygames.com/game/domino-duel-uit
-https://www.crazygames.com/game/don-t-get-eaten
 https://www.crazygames.com/game/donkey-kong-returns
 https://www.crazygames.com/game/dont-get-the-job
 https://www.crazygames.com/game/dont-tax-me-bro
@@ -1116,7 +1113,6 @@ https://www.crazygames.com/game/dragon-simulator-3d
 https://www.crazygames.com/game/dragon-vice-city
 https://www.crazygames.com/game/dragons-merge-battle-games
 https://www.crazygames.com/game/drama
-https://www.crazygames.com/game/draw-and-break
 https://www.crazygames.com/game/draw-bridge-brain-game
 https://www.crazygames.com/game/draw-bridge-puzzle
 https://www.crazygames.com/game/draw-bridges
@@ -1367,14 +1363,12 @@ https://www.crazygames.com/game/fisherman-life
 https://www.crazygames.com/game/fishing-clicker-3d
 https://www.crazygames.com/game/fishing-io
 https://www.crazygames.com/game/fishland
-https://www.crazygames.com/game/fisquarium
 https://www.crazygames.com/game/fitness-club-3d
 https://www.crazygames.com/game/five-o
 https://www.crazygames.com/game/fiveheads-soccer
 https://www.crazygames.com/game/fix-the-hoof-hkv
 https://www.crazygames.com/game/fl-tron
 https://www.crazygames.com/game/flag-arena---capture-dominate
-https://www.crazygames.com/game/flag-defender
 https://www.crazygames.com/game/flakmeister
 https://www.crazygames.com/game/flames-fortune
 https://www.crazygames.com/game/flappy-dunk
@@ -1594,7 +1588,6 @@ https://www.crazygames.com/game/grass-defense-ugy
 https://www.crazygames.com/game/grass-land-cei
 https://www.crazygames.com/game/gravity-arena-shooter
 https://www.crazygames.com/game/gravity-crowd
-https://www.crazygames.com/game/great-white-simulator-3d
 https://www.crazygames.com/game/greedy-bunnies
 https://www.crazygames.com/game/greedy-dwarves
 https://www.crazygames.com/game/green
@@ -1694,7 +1687,6 @@ https://www.crazygames.com/game/hero-3-flying-robot
 https://www.crazygames.com/game/hero-battle---fantasy-arena
 https://www.crazygames.com/game/hero-castle-war-tower-attack
 https://www.crazygames.com/game/hero-squad-survival
-https://www.crazygames.com/game/hero-survivors
 https://www.crazygames.com/game/herobrine-vs-monster-school
 https://www.crazygames.com/game/herochero-enemy-slayer
 https://www.crazygames.com/game/heroes-assemble
@@ -1810,7 +1802,6 @@ https://www.crazygames.com/game/idle-airline-tycoon
 https://www.crazygames.com/game/idle-airport-tycoon
 https://www.crazygames.com/game/idle-animal-anatomy
 https://www.crazygames.com/game/idle-ants
-https://www.crazygames.com/game/idle-bee-swarm-simulator
 https://www.crazygames.com/game/idle-blogger-simulator
 https://www.crazygames.com/game/idle-bouncy-ball
 https://www.crazygames.com/game/idle-breakout
@@ -1823,7 +1814,6 @@ https://www.crazygames.com/game/idle-combine
 https://www.crazygames.com/game/idle-construction-3d
 https://www.crazygames.com/game/idle-craft-drill
 https://www.crazygames.com/game/idle-crafting-empire-tycoon
-https://www.crazygames.com/game/idle-crushing-block
 https://www.crazygames.com/game/idle-dangers
 https://www.crazygames.com/game/idle-defence
 https://www.crazygames.com/game/idle-dice
@@ -1898,7 +1888,6 @@ https://www.crazygames.com/game/infection-z
 https://www.crazygames.com/game/infernal-throne
 https://www.crazygames.com/game/inferno-drift
 https://www.crazygames.com/game/infiltrating-the-airship
-https://www.crazygames.com/game/infinite-asteroids
 https://www.crazygames.com/game/infinite-heroes
 https://www.crazygames.com/game/infinite-launch
 https://www.crazygames.com/game/infinity-kingdom
@@ -2120,7 +2109,6 @@ https://www.crazygames.com/game/line-game-eeg
 https://www.crazygames.com/game/line-rider
 https://www.crazygames.com/game/lines-tpx
 https://www.crazygames.com/game/link
-https://www.crazygames.com/game/link-town
 https://www.crazygames.com/game/linquest
 https://www.crazygames.com/game/liquid-puzzle
 https://www.crazygames.com/game/little-alchemy
@@ -2152,7 +2140,6 @@ https://www.crazygames.com/game/loot-party
 https://www.crazygames.com/game/lost-adventure
 https://www.crazygames.com/game/lost-kingdom-supply-wars
 https://www.crazygames.com/game/love-archer
-https://www.crazygames.com/game/love-clicker-valentine-s-day
 https://www.crazygames.com/game/love-colors
 https://www.crazygames.com/game/love-in-style
 https://www.crazygames.com/game/love-tester-3
@@ -2257,7 +2244,6 @@ https://www.crazygames.com/game/masters-of-context
 https://www.crazygames.com/game/match-arena
 https://www.crazygames.com/game/match-masters-jiy
 https://www.crazygames.com/game/match-moji--emoji-puzzle-game
-https://www.crazygames.com/game/match-the-color
 https://www.crazygames.com/game/matchventures
 https://www.crazygames.com/game/math-duck
 https://www.crazygames.com/game/math-expressions
@@ -2277,6 +2263,7 @@ https://www.crazygames.com/game/mechs-rumble-blitz
 https://www.crazygames.com/game/medieval-arena
 https://www.crazygames.com/game/medieval-battle-2p
 https://www.crazygames.com/game/medieval-escape
+https://www.crazygames.com/game/meeland-io
 https://www.crazygames.com/game/mega-dressup-seasons-best
 https://www.crazygames.com/game/mega-factory
 https://www.crazygames.com/game/mega-fall-ragdoll-simulator
@@ -2286,7 +2273,6 @@ https://www.crazygames.com/game/mega-ragdoll-sandbox-simulator
 https://www.crazygames.com/game/mega-ramp-car-game-car-stunts
 https://www.crazygames.com/game/mega-ramp-car-stunt
 https://www.crazygames.com/game/megabattle
-https://www.crazygames.com/game/megalodon
 https://www.crazygames.com/game/megamodgames
 https://www.crazygames.com/game/meme-survivors-backrooms-xus
 https://www.crazygames.com/game/memebattle-what-s-that-meme
@@ -2487,7 +2473,6 @@ https://www.crazygames.com/game/moto-x3m
 https://www.crazygames.com/game/moto-x3m-4
 https://www.crazygames.com/game/moto-x3m-pool-party
 https://www.crazygames.com/game/moto-x3m-spooky-land
-https://www.crazygames.com/game/motocross-arena
 https://www.crazygames.com/game/motocross-dirt-bike-race-games
 https://www.crazygames.com/game/motocross-riders
 https://www.crazygames.com/game/motogp-motocross-race
@@ -2544,7 +2529,6 @@ https://www.crazygames.com/game/mystery-forest---match-3
 https://www.crazygames.com/game/mystery-mansion-puzzle-escape
 https://www.crazygames.com/game/mystic-escape
 https://www.crazygames.com/game/mystic-soccer
-https://www.crazygames.com/game/mystic-square-mystery-trail
 https://www.crazygames.com/game/mystical-blade
 https://www.crazygames.com/game/nail-art-salon-for-girls
 https://www.crazygames.com/game/nail-doctor
@@ -2816,7 +2800,6 @@ https://www.crazygames.com/game/pinturillo
 https://www.crazygames.com/game/pipe-puzzle
 https://www.crazygames.com/game/pipes-the-puzzle
 https://www.crazygames.com/game/pirate-island
-https://www.crazygames.com/game/pirates---the-match-3
 https://www.crazygames.com/game/pirates-merge-war-path
 https://www.crazygames.com/game/pirates-of-the-caribbean-tow
 https://www.crazygames.com/game/pit-stop-helper
@@ -2883,7 +2866,6 @@ https://www.crazygames.com/game/polybusiness
 https://www.crazygames.com/game/polytrack
 https://www.crazygames.com/game/pongoal
 https://www.crazygames.com/game/poobo-survival
-https://www.crazygames.com/game/pool-8
 https://www.crazygames.com/game/pool-bubbles
 https://www.crazygames.com/game/pool-club
 https://www.crazygames.com/game/pool-hustlers
@@ -2946,7 +2928,6 @@ https://www.crazygames.com/game/punchers
 https://www.crazygames.com/game/punchy-race
 https://www.crazygames.com/game/puppet-fighter-2-player
 https://www.crazygames.com/game/puppetman-ragdoll-puzzle
-https://www.crazygames.com/game/puppetman-ragdoll-shooter
 https://www.crazygames.com/game/puppy-merge
 https://www.crazygames.com/game/pure-farm-fresh-food
 https://www.crazygames.com/game/purr-fect-scoops
@@ -2962,7 +2943,6 @@ https://www.crazygames.com/game/puzzle-balls
 https://www.crazygames.com/game/puzzle-bobble
 https://www.crazygames.com/game/puzzle-play
 https://www.crazygames.com/game/puzzle-room-escape
-https://www.crazygames.com/game/puzzle-survivor
 https://www.crazygames.com/game/puzzle-what-a-twist
 https://www.crazygames.com/game/puzzle-wood-block
 https://www.crazygames.com/game/pyramid-solitaire-ancient-egypt
@@ -3075,7 +3055,6 @@ https://www.crazygames.com/game/robot-police-iron-panther
 https://www.crazygames.com/game/robot-unicorn-attack
 https://www.crazygames.com/game/robotik
 https://www.crazygames.com/game/robots-backpack-mech-ops
-https://www.crazygames.com/game/robowars
 https://www.crazygames.com/game/robox
 https://www.crazygames.com/game/rock-buster-3d
 https://www.crazygames.com/game/rock-climbing
@@ -3133,7 +3112,6 @@ https://www.crazygames.com/game/russian-kamaz-truck-driver
 https://www.crazygames.com/game/russian-kamaz-truck-driver-2
 https://www.crazygames.com/game/russian-uaz-4x4-driving-simulator
 https://www.crazygames.com/game/ruya
-https://www.crazygames.com/game/sail-adventure
 https://www.crazygames.com/game/same-game
 https://www.crazygames.com/game/same-game-collapse
 https://www.crazygames.com/game/samurai-legacy
@@ -3167,7 +3145,6 @@ https://www.crazygames.com/game/school-panic
 https://www.crazygames.com/game/schoolboy-escape-runaway
 https://www.crazygames.com/game/scoring-champion
 https://www.crazygames.com/game/screamals
-https://www.crazygames.com/game/screw-ball
 https://www.crazygames.com/game/screw-match-three
 https://www.crazygames.com/game/screw-out-bolts-and-nuts
 https://www.crazygames.com/game/sculpture-collector
@@ -3277,7 +3254,6 @@ https://www.crazygames.com/game/slime-conquer-epic-battles
 https://www.crazygames.com/game/slime-farm-3
 https://www.crazygames.com/game/slime-farm-remake
 https://www.crazygames.com/game/slime-jumper-cjb
-https://www.crazygames.com/game/slime-knight
 https://www.crazygames.com/game/slime-tower-merge
 https://www.crazygames.com/game/slimecraft
 https://www.crazygames.com/game/slingshot-crash
@@ -3293,6 +3269,7 @@ https://www.crazygames.com/game/smash-block-arena
 https://www.crazygames.com/game/smash-defense
 https://www.crazygames.com/game/smash-karts
 https://www.crazygames.com/game/smash-quest
+https://www.crazygames.com/game/smash-the-car-to-pieces-lug
 https://www.crazygames.com/game/smile-slime
 https://www.crazygames.com/game/smileys-family-tree-emoji
 https://www.crazygames.com/game/smurfs-bubble-shooter-story
@@ -3376,7 +3353,6 @@ https://www.crazygames.com/game/speed-per-click-obby
 https://www.crazygames.com/game/speed-racing-pro-2
 https://www.crazygames.com/game/speedy-golf
 https://www.crazygames.com/game/spellsword-the-last-crusade
-https://www.crazygames.com/game/spellwheel
 https://www.crazygames.com/game/spider-boy-run
 https://www.crazygames.com/game/spider-evolution-runner-game
 https://www.crazygames.com/game/spider-frvr
@@ -3560,8 +3536,6 @@ https://www.crazygames.com/game/super-sucker-3d
 https://www.crazygames.com/game/super-thief-auto
 https://www.crazygames.com/game/super-thrower
 https://www.crazygames.com/game/super-tic-tac-toe
-https://www.crazygames.com/game/super-utilizer
-https://www.crazygames.com/game/superball-neg
 https://www.crazygames.com/game/superhero-bmx-space-rider
 https://www.crazygames.com/game/superhero-race
 https://www.crazygames.com/game/supermarket-empire
@@ -3618,7 +3592,6 @@ https://www.crazygames.com/game/talking-and-nobody-explosion
 https://www.crazygames.com/game/tall-io
 https://www.crazygames.com/game/taming-io
 https://www.crazygames.com/game/tangle-master
-https://www.crazygames.com/game/tangled-ropes
 https://www.crazygames.com/game/tank-battle-war-commander
 https://www.crazygames.com/game/tank-masters---idle-tanks
 https://www.crazygames.com/game/tank-merge-royal
@@ -3722,7 +3695,6 @@ https://www.crazygames.com/game/thelast-io
 https://www.crazygames.com/game/there-is-no-game
 https://www.crazygames.com/game/thief-puzzle
 https://www.crazygames.com/game/think-to-escape
-https://www.crazygames.com/game/think-to-escape---school
 https://www.crazygames.com/game/think-to-escape-2
 https://www.crazygames.com/game/think-to-escape-3
 https://www.crazygames.com/game/this-is-the-only-level
@@ -3801,7 +3773,6 @@ https://www.crazygames.com/game/tower-merge
 https://www.crazygames.com/game/tower-swap
 https://www.crazygames.com/game/tower-vs-goblins
 https://www.crazygames.com/game/towering-trials-div
-https://www.crazygames.com/game/towerwatch---pvp-battle
 https://www.crazygames.com/game/toy-car-simulator
 https://www.crazygames.com/game/toy-rider
 https://www.crazygames.com/game/trace
@@ -3869,7 +3840,6 @@ https://www.crazygames.com/game/twirl-pja
 https://www.crazygames.com/game/twisted-blocks-ewo
 https://www.crazygames.com/game/twisted-tangle-nmt
 https://www.crazygames.com/game/two-sides-of-hell-portable-edition-unn
-https://www.crazygames.com/game/two-timin-towers
 https://www.crazygames.com/game/tyran-io
 https://www.crazygames.com/game/ultimate-flying-car
 https://www.crazygames.com/game/ultimate-flying-car-2
@@ -4086,7 +4056,6 @@ https://www.crazygames.com/game/yummy-super-pizza
 https://www.crazygames.com/game/yummy-taco
 https://www.crazygames.com/game/yummy-toast
 https://www.crazygames.com/game/yummy-waffle-ice-cream
-https://www.crazygames.com/game/zarcane-a-zombie-apocalypse
 https://www.crazygames.com/game/zena-trial-of-gods
 https://www.crazygames.com/game/zeppelin-assault
 https://www.crazygames.com/game/zom-strike-vvq
@@ -4196,7 +4165,6 @@ https://www.crazygames.com/t/2d/13
 https://www.crazygames.com/t/2d/14
 https://www.crazygames.com/t/2d/15
 https://www.crazygames.com/t/2d/16
-https://www.crazygames.com/t/2d/17
 https://www.crazygames.com/t/2d/2
 https://www.crazygames.com/t/2d/3
 https://www.crazygames.com/t/2d/4
@@ -4469,7 +4437,6 @@ https://www.crazygames.com/t/mobile/14
 https://www.crazygames.com/t/mobile/15
 https://www.crazygames.com/t/mobile/16
 https://www.crazygames.com/t/mobile/17
-https://www.crazygames.com/t/mobile/18
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
@@ -4503,7 +4470,6 @@ https://www.crazygames.com/t/mouse/24
 https://www.crazygames.com/t/mouse/25
 https://www.crazygames.com/t/mouse/26
 https://www.crazygames.com/t/mouse/27
-https://www.crazygames.com/t/mouse/28
 https://www.crazygames.com/t/mouse/3
 https://www.crazygames.com/t/mouse/4
 https://www.crazygames.com/t/mouse/5
@@ -4576,7 +4542,6 @@ https://www.crazygames.com/t/relaxing/3
 https://www.crazygames.com/t/restaurant
 https://www.crazygames.com/t/restaurant/2
 https://www.crazygames.com/t/retro-1
-https://www.crazygames.com/t/roblox
 https://www.crazygames.com/t/robot
 https://www.crazygames.com/t/roguelike
 https://www.crazygames.com/t/rpg
@@ -4651,7 +4616,6 @@ https://www.crazygames.com/t/top-down
 https://www.crazygames.com/t/top-down/2
 https://www.crazygames.com/t/top-down/3
 https://www.crazygames.com/t/top-down/4
-https://www.crazygames.com/t/top-down/5
 https://www.crazygames.com/t/tower-defense
 https://www.crazygames.com/t/tower-defense/2
 https://www.crazygames.com/t/traffic
