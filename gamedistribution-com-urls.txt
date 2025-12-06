@@ -8926,6 +8926,7 @@ https://gamedistribution.com/games/cube-in-cube/
 https://gamedistribution.com/games/cube-jump-1/
 https://gamedistribution.com/games/cube-jump-online/
 https://gamedistribution.com/games/cube-jump/
+https://gamedistribution.com/games/cube-king/
 https://gamedistribution.com/games/cube-mania/
 https://gamedistribution.com/games/cube-ninja/
 https://gamedistribution.com/games/cube-paint-2019/
@@ -9254,6 +9255,7 @@ https://gamedistribution.com/games/dart-tournament-multi-player/
 https://gamedistribution.com/games/dart-wheel-1/
 https://gamedistribution.com/games/dart-wheel/
 https://gamedistribution.com/games/darts-club/
+https://gamedistribution.com/games/darts-jam/
 https://gamedistribution.com/games/darts-king/
 https://gamedistribution.com/games/darts-master%3Acartoon-3d/
 https://gamedistribution.com/games/darts-pro-multiplayer/
@@ -17327,6 +17329,7 @@ https://gamedistribution.com/games/magic-show-memory/
 https://gamedistribution.com/games/magic-soccer/
 https://gamedistribution.com/games/magic-solitaire%3A-world/
 https://gamedistribution.com/games/magic-solitaire/
+https://gamedistribution.com/games/magic-sort/
 https://gamedistribution.com/games/magic-sorting/
 https://gamedistribution.com/games/magic-stone-jewels-match-3/
 https://gamedistribution.com/games/magic-stone-match-3-deluxe/
