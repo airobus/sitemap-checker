@@ -231,6 +231,7 @@ https://www.crazygames.com/game/army-warfare
 https://www.crazygames.com/game/arsenal-online
 https://www.crazygames.com/game/art-of-alchemy-merge-elements
 https://www.crazygames.com/game/arx-arcana-dungeon-royale
+https://www.crazygames.com/game/ascendant-hero
 https://www.crazygames.com/game/ascent
 https://www.crazygames.com/game/ashline-racing-born-to-burn-tmr
 https://www.crazygames.com/game/asmr-beauty-care
@@ -1337,6 +1338,7 @@ https://www.crazygames.com/game/find-it-hidden-object-puzzle
 https://www.crazygames.com/game/find-joe-secret-of-the-stones
 https://www.crazygames.com/game/find-joe-unsolved-mystery-pno
 https://www.crazygames.com/game/find-me-lost-objects
+https://www.crazygames.com/game/find-sort-match---puzzle
 https://www.crazygames.com/game/find-the-alien
 https://www.crazygames.com/game/find-the-difference
 https://www.crazygames.com/game/find-the-pets-cph
@@ -1484,7 +1486,6 @@ https://www.crazygames.com/game/furcifer-s-fungeon
 https://www.crazygames.com/game/furry-dress-up-anime-creator
 https://www.crazygames.com/game/furry-road-veb
 https://www.crazygames.com/game/fury-bike-rider
-https://www.crazygames.com/game/fury-wars---online-shooter
 https://www.crazygames.com/game/gadget-universe
 https://www.crazygames.com/game/galactic-crusade-clicker
 https://www.crazygames.com/game/galactic-grind
@@ -1725,6 +1726,7 @@ https://www.crazygames.com/game/highway-racer-2
 https://www.crazygames.com/game/hill-climb-on-moto-bike
 https://www.crazygames.com/game/hill-masters
 https://www.crazygames.com/game/hill-racing
+https://www.crazygames.com/game/hill-travel-3d
 https://www.crazygames.com/game/hire-rush-kgw
 https://www.crazygames.com/game/hobo
 https://www.crazygames.com/game/hole-digger-ekz
@@ -2362,7 +2364,6 @@ https://www.crazygames.com/game/mineblox---guess-the-recipe
 https://www.crazygames.com/game/mineclicker
 https://www.crazygames.com/game/mineclicker-2
 https://www.crazygames.com/game/minecube
-https://www.crazygames.com/game/mineenergy2
 https://www.crazygames.com/game/minemerge
 https://www.crazygames.com/game/miner-cat-4
 https://www.crazygames.com/game/miner-s-fury
@@ -4240,7 +4241,6 @@ https://www.crazygames.com/t/battle/8
 https://www.crazygames.com/t/battleship
 https://www.crazygames.com/t/bike
 https://www.crazygames.com/t/bike/2
-https://www.crazygames.com/t/black-friday
 https://www.crazygames.com/t/block
 https://www.crazygames.com/t/block/2
 https://www.crazygames.com/t/bloody
@@ -4437,6 +4437,7 @@ https://www.crazygames.com/t/mobile/14
 https://www.crazygames.com/t/mobile/15
 https://www.crazygames.com/t/mobile/16
 https://www.crazygames.com/t/mobile/17
+https://www.crazygames.com/t/mobile/18
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
