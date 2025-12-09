@@ -2247,6 +2247,7 @@ https://www.crazygames.com/game/match-arena
 https://www.crazygames.com/game/match-masters-jiy
 https://www.crazygames.com/game/match-moji--emoji-puzzle-game
 https://www.crazygames.com/game/matchventures
+https://www.crazygames.com/game/matchy-way-tales-ixw
 https://www.crazygames.com/game/math-duck
 https://www.crazygames.com/game/math-expressions
 https://www.crazygames.com/game/math-gardens
@@ -3545,6 +3546,7 @@ https://www.crazygames.com/game/supermarket-sort-grocery-game
 https://www.crazygames.com/game/supermarket-together
 https://www.crazygames.com/game/superstar-college-girls-makeover
 https://www.crazygames.com/game/superstar-family-dress-up-game
+https://www.crazygames.com/game/superweird
 https://www.crazygames.com/game/supply-chain-idle
 https://www.crazygames.com/game/supreme-bomb-tag
 https://www.crazygames.com/game/sure-shot
@@ -3586,6 +3588,7 @@ https://www.crazygames.com/game/table-tower-online
 https://www.crazygames.com/game/tabletop-idle
 https://www.crazygames.com/game/taiga-car-driver
 https://www.crazygames.com/game/tailed-demon-slayer
+https://www.crazygames.com/game/tailor-stylist-fashion-diary
 https://www.crazygames.com/game/take-actions
 https://www.crazygames.com/game/take-photo
 https://www.crazygames.com/game/takeover
@@ -4088,6 +4091,7 @@ https://www.crazygames.com/game/zombiecraftio
 https://www.crazygames.com/game/zombies-attack-idle
 https://www.crazygames.com/game/zombies-shooter-part-1
 https://www.crazygames.com/game/zombies-shooter-part-2
+https://www.crazygames.com/game/zombiesiege
 https://www.crazygames.com/game/zomblox-mzc
 https://www.crazygames.com/game/zombo-buster-advance
 https://www.crazygames.com/game/zombo-buster-rising
@@ -4166,6 +4170,7 @@ https://www.crazygames.com/t/2d/13
 https://www.crazygames.com/t/2d/14
 https://www.crazygames.com/t/2d/15
 https://www.crazygames.com/t/2d/16
+https://www.crazygames.com/t/2d/17
 https://www.crazygames.com/t/2d/2
 https://www.crazygames.com/t/2d/3
 https://www.crazygames.com/t/2d/4
@@ -4617,6 +4622,7 @@ https://www.crazygames.com/t/top-down
 https://www.crazygames.com/t/top-down/2
 https://www.crazygames.com/t/top-down/3
 https://www.crazygames.com/t/top-down/4
+https://www.crazygames.com/t/top-down/5
 https://www.crazygames.com/t/tower-defense
 https://www.crazygames.com/t/tower-defense/2
 https://www.crazygames.com/t/traffic
