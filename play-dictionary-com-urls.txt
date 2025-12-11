@@ -33,6 +33,7 @@ https://play.dictionary.com/games/coloring-book-for-grown-ups
 https://play.dictionary.com/games/commuter-crossword
 https://play.dictionary.com/games/cooking-live
 https://play.dictionary.com/games/crescent-solitaire
+https://play.dictionary.com/games/cross-stitch-masters
 https://play.dictionary.com/games/crosswordling
 https://play.dictionary.com/games/crucigramas-dificiles
 https://play.dictionary.com/games/crucigramas-faciles
@@ -75,7 +76,6 @@ https://play.dictionary.com/games/fremantle-national-game-show-day-jigsaw
 https://play.dictionary.com/games/fruit-merge
 https://play.dictionary.com/games/game-day-block-champ
 https://play.dictionary.com/games/garden-bloom
-https://play.dictionary.com/games/geoguessr
 https://play.dictionary.com/games/get-10-ultimate
 https://play.dictionary.com/games/gin-rummy
 https://play.dictionary.com/games/go-fish

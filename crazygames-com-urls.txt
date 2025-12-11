@@ -354,6 +354,7 @@ https://www.crazygames.com/game/battleship
 https://www.crazygames.com/game/battleships-pirates-wnz
 https://www.crazygames.com/game/battletabs
 https://www.crazygames.com/game/beach-ball
+https://www.crazygames.com/game/beach-business-jla
 https://www.crazygames.com/game/beach-club
 https://www.crazygames.com/game/beam
 https://www.crazygames.com/game/bear-haven
@@ -401,7 +402,6 @@ https://www.crazygames.com/game/bird-flight-idle
 https://www.crazygames.com/game/bird-sort-puzzle
 https://www.crazygames.com/game/bit-coin-clicker-yxi
 https://www.crazygames.com/game/bit-gun-io
-https://www.crazygames.com/game/bitcoin-mining-simulator
 https://www.crazygames.com/game/bitcoiner-dth
 https://www.crazygames.com/game/black
 https://www.crazygames.com/game/black-friday-dress-up-selfie
@@ -514,6 +514,7 @@ https://www.crazygames.com/game/brain-teaser
 https://www.crazygames.com/game/brain-train-mfu
 https://www.crazygames.com/game/braindom-2-who-is-lying
 https://www.crazygames.com/game/brainrot-evolution-2048-merge-fight
+https://www.crazygames.com/game/brainrot-evolution-twi
 https://www.crazygames.com/game/brainrot-idle-clicker
 https://www.crazygames.com/game/brainrot-merge-drop-puzzle-twt
 https://www.crazygames.com/game/brainrot-merge-fight
@@ -754,6 +755,7 @@ https://www.crazygames.com/game/clean-it-up-demo
 https://www.crazygames.com/game/cleanup-io
 https://www.crazygames.com/game/click-click-clicker
 https://www.crazygames.com/game/click-n-heroes
+https://www.crazygames.com/game/click-the-tree
 https://www.crazygames.com/game/click-to-grill
 https://www.crazygames.com/game/clicker-heroes
 https://www.crazygames.com/game/clicker-heroes-escape
@@ -2565,6 +2567,7 @@ https://www.crazygames.com/game/ninja-hands-2
 https://www.crazygames.com/game/ninja-parkour-multiplayer
 https://www.crazygames.com/game/ninja-rian
 https://www.crazygames.com/game/ninja-spell-match
+https://www.crazygames.com/game/ninja-swipe-strike
 https://www.crazygames.com/game/nitro-burnout
 https://www.crazygames.com/game/no-crossroads
 https://www.crazygames.com/game/no-limits-drag-racing
@@ -2619,6 +2622,7 @@ https://www.crazygames.com/game/nuts-puzzle-sort-by-color
 https://www.crazygames.com/game/o-void
 https://www.crazygames.com/game/obby-1-to-spaceflight-altitude
 https://www.crazygames.com/game/obby-boxer
+https://www.crazygames.com/game/obby-brainrot-merge
 https://www.crazygames.com/game/obby-car-challenge-drive
 https://www.crazygames.com/game/obby-cards-the-legend-hunt
 https://www.crazygames.com/game/obby-challenge-prison-run
@@ -3092,6 +3096,7 @@ https://www.crazygames.com/game/rovercraft
 https://www.crazygames.com/game/royal-city-clashers-2
 https://www.crazygames.com/game/royal-city-clashers-3
 https://www.crazygames.com/game/royal-dress-up---fashion-queen
+https://www.crazygames.com/game/royal-farm-mnl
 https://www.crazygames.com/game/royal-pool
 https://www.crazygames.com/game/royal-square
 https://www.crazygames.com/game/rpg-idle-clicker-uzz
@@ -3559,6 +3564,7 @@ https://www.crazygames.com/game/survival-land
 https://www.crazygames.com/game/survival-runners
 https://www.crazygames.com/game/survival-rush
 https://www.crazygames.com/game/survive-in-the-forest
+https://www.crazygames.com/game/survive-the-disasters-obby
 https://www.crazygames.com/game/survivor-idle-run
 https://www.crazygames.com/game/survivor-space-battle
 https://www.crazygames.com/game/sushi-break-dash
@@ -4033,6 +4039,7 @@ https://www.crazygames.com/game/xtreme-demolition-arena-derby
 https://www.crazygames.com/game/xtreme-drift-racing
 https://www.crazygames.com/game/xtreme-moto-mayhem
 https://www.crazygames.com/game/xtreme-rivals-car-racing
+https://www.crazygames.com/game/yacht
 https://www.crazygames.com/game/yahtzee-online
 https://www.crazygames.com/game/yarn-fever-unravel-puzzle
 https://www.crazygames.com/game/yatzy

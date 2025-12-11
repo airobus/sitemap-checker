@@ -1422,6 +1422,7 @@ https://www.twoplayergames.org/game/nuke-zone
 https://www.twoplayergames.org/game/number-master-run-and-merge
 https://www.twoplayergames.org/game/nunchuck-charlie-a-love-story
 https://www.twoplayergames.org/game/obby-1-pet-every-seconds
+https://www.twoplayergames.org/game/obby-99-nights-escape-1-speed
 https://www.twoplayergames.org/game/obby-blox-parkour
 https://www.twoplayergames.org/game/obby-climb-and-jump
 https://www.twoplayergames.org/game/obby-climb-and-slide
@@ -1712,6 +1713,7 @@ https://www.twoplayergames.org/game/royal-city-clashers-3
 https://www.twoplayergames.org/game/royal-offense
 https://www.twoplayergames.org/game/rugby-world-cup-2015
 https://www.twoplayergames.org/game/rumblah-flash-fighting
+https://www.twoplayergames.org/game/rumble-rush
 https://www.twoplayergames.org/game/run-3d
 https://www.twoplayergames.org/game/run-guys-knockout-royale
 https://www.twoplayergames.org/game/run-rich-3d

@@ -103,6 +103,7 @@ https://gamedistribution.com/games/2-minutes-soccer/
 https://gamedistribution.com/games/2-pics-1-word/
 https://gamedistribution.com/games/2-player-3d-city-racer/
 https://gamedistribution.com/games/2-player-battle-car-racing/
+https://gamedistribution.com/games/2-player-battle/
 https://gamedistribution.com/games/2-player-dark-racing/
 https://gamedistribution.com/games/2-player-head-basketball/
 https://gamedistribution.com/games/2-player-head-football/
@@ -6508,6 +6509,7 @@ https://gamedistribution.com/games/butterfly-kyodai-ru/
 https://gamedistribution.com/games/butterfly-puzzle-challenge/
 https://gamedistribution.com/games/butterfly-shimai/
 https://gamedistribution.com/games/butterfly-slide/
+https://gamedistribution.com/games/butterfly-sort-puzzle/
 https://gamedistribution.com/games/butterfly-triple/
 https://gamedistribution.com/games/butterfly/
 https://gamedistribution.com/games/c-class-sedan-puzzle/
@@ -8917,6 +8919,7 @@ https://gamedistribution.com/games/cube-combo/
 https://gamedistribution.com/games/cube-connect/
 https://gamedistribution.com/games/cube-craft-survival/
 https://gamedistribution.com/games/cube-defence/
+https://gamedistribution.com/games/cube-drop-puzzle/
 https://gamedistribution.com/games/cube-endless-jumping/
 https://gamedistribution.com/games/cube-fall/
 https://gamedistribution.com/games/cube-flip/
@@ -22632,6 +22635,7 @@ https://gamedistribution.com/games/red-square-adventure/
 https://gamedistribution.com/games/red-stickman%3A-fighting-stick/
 https://gamedistribution.com/games/red-stickman-vs-craftmans-2/
 https://gamedistribution.com/games/red-stickman-vs-craftmans/
+https://gamedistribution.com/games/red-stickman-vs-monster-school-1/
 https://gamedistribution.com/games/red-stickman-vs-monster-school/
 https://gamedistribution.com/games/red-strawberry/
 https://gamedistribution.com/games/red-vs-dead/
