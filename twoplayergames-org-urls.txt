@@ -1360,6 +1360,7 @@ https://www.twoplayergames.org/game/mow-it
 https://www.twoplayergames.org/game/mr-bean-jump
 https://www.twoplayergames.org/game/mr-noob-vs-zombies
 https://www.twoplayergames.org/game/mr-racer-car-racing
+https://www.twoplayergames.org/game/mrdude-king-of-the-hill
 https://www.twoplayergames.org/game/multi-bomberman
 https://www.twoplayergames.org/game/multiplayer-drift
 https://www.twoplayergames.org/game/multiplayer-tetris
@@ -1692,6 +1693,7 @@ https://www.twoplayergames.org/game/rock-paper-scissors
 https://www.twoplayergames.org/game/rocket-bike
 https://www.twoplayergames.org/game/rocket-bikes-highway-race
 https://www.twoplayergames.org/game/rocket-car-ball
+https://www.twoplayergames.org/game/rocket-goal-io
 https://www.twoplayergames.org/game/rocket-stunt-cars
 https://www.twoplayergames.org/game/roller-coaster
 https://www.twoplayergames.org/game/roller-splat
@@ -1790,6 +1792,7 @@ https://www.twoplayergames.org/game/slope-2
 https://www.twoplayergames.org/game/slope-3
 https://www.twoplayergames.org/game/slope-ball
 https://www.twoplayergames.org/game/slope-emoji-2
+https://www.twoplayergames.org/game/slope-rider
 https://www.twoplayergames.org/game/slope-run
 https://www.twoplayergames.org/game/slot-car-racing
 https://www.twoplayergames.org/game/slow-down

@@ -3979,6 +3979,7 @@ https://gamedistribution.com/games/assault-fury/
 https://gamedistribution.com/games/assault-zone-3d/
 https://gamedistribution.com/games/assault-zone/
 https://gamedistribution.com/games/assemble-mecha/
+https://gamedistribution.com/games/associations/
 https://gamedistribution.com/games/asteroid-burst/
 https://gamedistribution.com/games/asteroid-crusher/
 https://gamedistribution.com/games/asteroid-shield%3A-tile-matching-space-defense/
@@ -8316,6 +8317,7 @@ https://gamedistribution.com/games/connection!/
 https://gamedistribution.com/games/connector/
 https://gamedistribution.com/games/conquer-the-city/
 https://gamedistribution.com/games/conquer-the-galaxy/
+https://gamedistribution.com/games/conquer.io/
 https://gamedistribution.com/games/conquer/
 https://gamedistribution.com/games/constellation-energy-lines/
 https://gamedistribution.com/games/construct-a-bridge/
@@ -10783,6 +10785,7 @@ https://gamedistribution.com/games/ellie-and-annie-black-swan-and-white-swan/
 https://gamedistribution.com/games/ellie-and-annie-doll-house/
 https://gamedistribution.com/games/ellie-and-annie-movie-night!/
 https://gamedistribution.com/games/ellie-and-annie-pijama-party/
+https://gamedistribution.com/games/ellie-and-ben-christmas-eve/
 https://gamedistribution.com/games/ellie-and-ben-christmas-preparation/
 https://gamedistribution.com/games/ellie-and-ben-date-night/
 https://gamedistribution.com/games/ellie-and-ben-fall-date/
@@ -24936,6 +24939,7 @@ https://gamedistribution.com/games/spider-solitaire-3/
 https://gamedistribution.com/games/spider-solitaire-4/
 https://gamedistribution.com/games/spider-solitaire-5/
 https://gamedistribution.com/games/spider-solitaire-6/
+https://gamedistribution.com/games/spider-solitaire-7/
 https://gamedistribution.com/games/spider-solitaire-blue/
 https://gamedistribution.com/games/spider-solitaire-html5/
 https://gamedistribution.com/games/spider-solitaire-original/
@@ -28525,6 +28529,7 @@ https://gamedistribution.com/games/whack-them-all/
 https://gamedistribution.com/games/wham-o-slip-n-slide/
 https://gamedistribution.com/games/what's-in-my-bag/
 https://gamedistribution.com/games/what-a-leg/
+https://gamedistribution.com/games/what-a-walk/
 https://gamedistribution.com/games/what-comes-next/
 https://gamedistribution.com/games/what-do-animals-eat/
 https://gamedistribution.com/games/what-is-next/
