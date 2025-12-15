@@ -628,6 +628,7 @@ https://www.crazygames.com/game/card-cafe
 https://www.crazygames.com/game/card-scramble-viola-s-diner
 https://www.crazygames.com/game/card-shuffle-sort
 https://www.crazygames.com/game/card-solitaire-word-game
+https://www.crazygames.com/game/card-sort-ghc
 https://www.crazygames.com/game/cardboard-house
 https://www.crazygames.com/game/cards-keeper
 https://www.crazygames.com/game/cargo-truck-driver-simulator
@@ -1624,6 +1625,7 @@ https://www.crazygames.com/game/gulag
 https://www.crazygames.com/game/gulper-io
 https://www.crazygames.com/game/gumball-drop
 https://www.crazygames.com/game/gummy-blocks-battle
+https://www.crazygames.com/game/gun-bounce-idle
 https://www.crazygames.com/game/gun-fu-stickman-2-zzv
 https://www.crazygames.com/game/gun-master
 https://www.crazygames.com/game/gun-master-3d---fps-shooting-game
@@ -2806,7 +2808,6 @@ https://www.crazygames.com/game/pinball
 https://www.crazygames.com/game/pinball-idle
 https://www.crazygames.com/game/ping-pong-chaos
 https://www.crazygames.com/game/pink-bart-bonte
-https://www.crazygames.com/game/pinturillo
 https://www.crazygames.com/game/pipe-puzzle
 https://www.crazygames.com/game/pipes-the-puzzle
 https://www.crazygames.com/game/pirate-island
@@ -3332,6 +3333,7 @@ https://www.crazygames.com/game/solitaire-reverse
 https://www.crazygames.com/game/solitaire-the-great-journey
 https://www.crazygames.com/game/solitairetripeaks-island-expeditio
 https://www.crazygames.com/game/soo-match-room-design
+https://www.crazygames.com/game/sophie-s-farm
 https://www.crazygames.com/game/sort-it-uei
 https://www.crazygames.com/game/sort-n-hold-3d
 https://www.crazygames.com/game/sort-parking
@@ -3612,6 +3614,7 @@ https://www.crazygames.com/game/tank-masters---idle-tanks
 https://www.crazygames.com/game/tank-merge-royal
 https://www.crazygames.com/game/tank-wars-iaw
 https://www.crazygames.com/game/tankcraft
+https://www.crazygames.com/game/tankcraft-2
 https://www.crazygames.com/game/tankgank-com
 https://www.crazygames.com/game/tanko-io
 https://www.crazygames.com/game/tanks-2d-tank-wars
@@ -4490,6 +4493,7 @@ https://www.crazygames.com/t/mouse/24
 https://www.crazygames.com/t/mouse/25
 https://www.crazygames.com/t/mouse/26
 https://www.crazygames.com/t/mouse/27
+https://www.crazygames.com/t/mouse/28
 https://www.crazygames.com/t/mouse/3
 https://www.crazygames.com/t/mouse/4
 https://www.crazygames.com/t/mouse/5
