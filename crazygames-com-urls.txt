@@ -1296,6 +1296,7 @@ https://www.crazygames.com/game/faraway-puzzle-escape
 https://www.crazygames.com/game/farm-clash-3d
 https://www.crazygames.com/game/farm-family
 https://www.crazygames.com/game/farm-land
+https://www.crazygames.com/game/farm-land-idy
 https://www.crazygames.com/game/farm-merge
 https://www.crazygames.com/game/farm-merge-valley
 https://www.crazygames.com/game/farm-ring-idle
@@ -1923,6 +1924,7 @@ https://www.crazygames.com/game/italian-brainrot-clicker-usp
 https://www.crazygames.com/game/italian-brainrot-merge
 https://www.crazygames.com/game/italianbrainrotquiz-io
 https://www.crazygames.com/game/iza-s-supermarket
+https://www.crazygames.com/game/jackal-zombie-survival
 https://www.crazygames.com/game/jacksmith
 https://www.crazygames.com/game/jail-escape
 https://www.crazygames.com/game/jailbreak-hide-or-attack
@@ -3473,6 +3475,7 @@ https://www.crazygames.com/game/stickman-tennis-3d
 https://www.crazygames.com/game/stickman-that-one-level
 https://www.crazygames.com/game/stickman-tower-defense-idle-3d
 https://www.crazygames.com/game/stickman-vs-villager-save-the-girl
+https://www.crazygames.com/game/stickman-weapon-master
 https://www.crazygames.com/game/stickman-world-war
 https://www.crazygames.com/game/stickman-ww2
 https://www.crazygames.com/game/stickman-zombie-3d
