@@ -500,6 +500,7 @@ https://www.twoplayergames.org/game/crazy-plane-landing
 https://www.twoplayergames.org/game/crazy-push
 https://www.twoplayergames.org/game/crazy-stunts-3d
 https://www.twoplayergames.org/game/crazy-super-bunnies
+https://www.twoplayergames.org/game/crazy-traffic-racer
 https://www.twoplayergames.org/game/cristiano-ronaldo-kick-n-run
 https://www.twoplayergames.org/game/crossbar-challenge
 https://www.twoplayergames.org/game/crossword-puzzle
@@ -509,6 +510,7 @@ https://www.twoplayergames.org/game/crowdcityio
 https://www.twoplayergames.org/game/crunch-lock
 https://www.twoplayergames.org/game/crunchball-3000
 https://www.twoplayergames.org/game/crunching-ninjas
+https://www.twoplayergames.org/game/cryzen-io
 https://www.twoplayergames.org/game/cs-go-sniper-map
 https://www.twoplayergames.org/game/cube-battle-royale
 https://www.twoplayergames.org/game/cube-city-racing
@@ -1443,6 +1445,7 @@ https://www.twoplayergames.org/game/obby-pogo-parkour
 https://www.twoplayergames.org/game/obby-prison-escape
 https://www.twoplayergames.org/game/obby-prison-escape-speed
 https://www.twoplayergames.org/game/obby-rainbow-tower
+https://www.twoplayergames.org/game/obby-roads-io
 https://www.twoplayergames.org/game/obby-survive-parkour
 https://www.twoplayergames.org/game/obby-the-legendary-dragon
 https://www.twoplayergames.org/game/obby-tower-parkour-climb
@@ -2354,6 +2357,7 @@ https://www.twoplayergames.org/game/warrior-dual
 https://www.twoplayergames.org/game/warzone-getaway-2020
 https://www.twoplayergames.org/game/water-sort-color-puzzle
 https://www.twoplayergames.org/game/watermelon-suika-game
+https://www.twoplayergames.org/game/wave-dash
 https://www.twoplayergames.org/game/wave-road-3d
 https://www.twoplayergames.org/game/were-impostors-kill-together
 https://www.twoplayergames.org/game/whack-a-craft
@@ -2371,6 +2375,7 @@ https://www.twoplayergames.org/game/wheely-6
 https://www.twoplayergames.org/game/wheely-7
 https://www.twoplayergames.org/game/wheely-8
 https://www.twoplayergames.org/game/who-will-win-create-a-battle
+https://www.twoplayergames.org/game/wings-io
 https://www.twoplayergames.org/game/wolf-simulator-wild-animals-3d
 https://www.twoplayergames.org/game/wood-block-puzzle
 https://www.twoplayergames.org/game/wood-carving

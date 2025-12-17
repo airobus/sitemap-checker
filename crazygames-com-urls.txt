@@ -481,6 +481,7 @@ https://www.crazygames.com/game/boncy-farm
 https://www.crazygames.com/game/bone-breaker-tycoon
 https://www.crazygames.com/game/bone-doctor-shoulder-case
 https://www.crazygames.com/game/boom-cell
+https://www.crazygames.com/game/boom-karts
 https://www.crazygames.com/game/boom-land-lite
 https://www.crazygames.com/game/boom-slingers-reboom
 https://www.crazygames.com/game/boom-vid
@@ -857,6 +858,7 @@ https://www.crazygames.com/game/crazy-combat
 https://www.crazygames.com/game/crazy-crypt-escape
 https://www.crazygames.com/game/crazy-drift
 https://www.crazygames.com/game/crazy-dummy-swing-multiplayer
+https://www.crazygames.com/game/crazy-fish
 https://www.crazygames.com/game/crazy-flasher-3
 https://www.crazygames.com/game/crazy-flips-3d
 https://www.crazygames.com/game/crazy-for-speed
@@ -3063,6 +3065,7 @@ https://www.crazygames.com/game/road-turn
 https://www.crazygames.com/game/robbie-game-challenges
 https://www.crazygames.com/game/robbie-the-robot
 https://www.crazygames.com/game/robo-runner
+https://www.crazygames.com/game/robo-shop
 https://www.crazygames.com/game/robot-dog-city-simulator
 https://www.crazygames.com/game/robot-police-iron-panther
 https://www.crazygames.com/game/robot-unicorn-attack
@@ -3991,7 +3994,6 @@ https://www.crazygames.com/game/wire-beat
 https://www.crazygames.com/game/witch-pong
 https://www.crazygames.com/game/witchy-sacrifices
 https://www.crazygames.com/game/wizard-io
-https://www.crazygames.com/game/wizardos
 https://www.crazygames.com/game/wksp-rumble
 https://www.crazygames.com/game/wodr
 https://www.crazygames.com/game/wolf-family-simulator
