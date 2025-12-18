@@ -546,6 +546,7 @@ https://www.crazygames.com/game/bubble-pop-classic
 https://www.crazygames.com/game/bubble-shooter-classic
 https://www.crazygames.com/game/bubble-sorting
 https://www.crazygames.com/game/bubble-spinner
+https://www.crazygames.com/game/bubble-story
 https://www.crazygames.com/game/bubble-tower-3d
 https://www.crazygames.com/game/bubble-trouble-2-rebubbled
 https://www.crazygames.com/game/bubble-trouble-cpy
@@ -705,6 +706,7 @@ https://www.crazygames.com/game/chicken-and-bee
 https://www.crazygames.com/game/chicken-clicker
 https://www.crazygames.com/game/chicken-cs
 https://www.crazygames.com/game/chicken-scream
+https://www.crazygames.com/game/chicken-strike-hfm
 https://www.crazygames.com/game/chickenauts-demo
 https://www.crazygames.com/game/chihuahua-clicker-hku
 https://www.crazygames.com/game/chips-sort-puzzle
@@ -788,7 +790,6 @@ https://www.crazygames.com/game/color-line
 https://www.crazygames.com/game/color-match-amg
 https://www.crazygames.com/game/color-music-hop-ball-games
 https://www.crazygames.com/game/color-nuts-bolts-puzzle
-https://www.crazygames.com/game/color-page-asmr
 https://www.crazygames.com/game/color-pixel-art-classic
 https://www.crazygames.com/game/color-roll-3d
 https://www.crazygames.com/game/color-sort-kitchen-chaos
@@ -888,6 +889,7 @@ https://www.crazygames.com/game/crazy-stunt-cars-multiplayer
 https://www.crazygames.com/game/crazy-vikings-life
 https://www.crazygames.com/game/crazy-walk
 https://www.crazygames.com/game/crazy-wars
+https://www.crazygames.com/game/crazy-zoo-monkey
 https://www.crazygames.com/game/crazysteveio
 https://www.crazygames.com/game/create-a-ride
 https://www.crazygames.com/game/create-your-beach
@@ -2629,6 +2631,7 @@ https://www.crazygames.com/game/nuts-bolts-screw-glass-puzzle
 https://www.crazygames.com/game/nuts-bolts-unscrew-puzzle
 https://www.crazygames.com/game/nuts-puzzle-sort-by-color
 https://www.crazygames.com/game/o-void
+https://www.crazygames.com/game/obby-1-jump-per-click
 https://www.crazygames.com/game/obby-1-to-spaceflight-altitude
 https://www.crazygames.com/game/obby-boxer
 https://www.crazygames.com/game/obby-brainrot-merge
@@ -3159,6 +3162,7 @@ https://www.crazygames.com/game/scary-maze
 https://www.crazygames.com/game/scavenger-hunt---hidden-items
 https://www.crazygames.com/game/scavenger-hunt---multiplayer
 https://www.crazygames.com/game/school-panic
+https://www.crazygames.com/game/schoolboy-escape-2
 https://www.crazygames.com/game/schoolboy-escape-runaway
 https://www.crazygames.com/game/scoring-champion
 https://www.crazygames.com/game/screamals
