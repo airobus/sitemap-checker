@@ -3512,6 +3512,7 @@ https://gamedistribution.com/games/animal-basketball/
 https://gamedistribution.com/games/animal-block-pop-puzzle/
 https://gamedistribution.com/games/animal-bubble/
 https://gamedistribution.com/games/animal-buggy-racing/
+https://gamedistribution.com/games/animal-bus-traffic-jam/
 https://gamedistribution.com/games/animal-cars-match-3/
 https://gamedistribution.com/games/animal-connection/
 https://gamedistribution.com/games/animal-cupcakes-for-kids/
@@ -3979,6 +3980,7 @@ https://gamedistribution.com/games/assault-fury/
 https://gamedistribution.com/games/assault-zone-3d/
 https://gamedistribution.com/games/assault-zone/
 https://gamedistribution.com/games/assemble-mecha/
+https://gamedistribution.com/games/association-connect-word/
 https://gamedistribution.com/games/associations/
 https://gamedistribution.com/games/asteroid-burst/
 https://gamedistribution.com/games/asteroid-crusher/
@@ -5934,6 +5936,7 @@ https://gamedistribution.com/games/brainrot-memory/
 https://gamedistribution.com/games/brainrot-merge-1/
 https://gamedistribution.com/games/brainrot-merge-drop-puzzles/
 https://gamedistribution.com/games/brainrot-merge/
+https://gamedistribution.com/games/brainrot-mob-clash-3d/
 https://gamedistribution.com/games/brainstorm/
 https://gamedistribution.com/games/brainstorming-2d/
 https://gamedistribution.com/games/brainy-cars/
@@ -6206,6 +6209,7 @@ https://gamedistribution.com/games/bubble-plopper/
 https://gamedistribution.com/games/bubble-pop-adventures/
 https://gamedistribution.com/games/bubble-pop-butterfly/
 https://gamedistribution.com/games/bubble-pop-classic/
+https://gamedistribution.com/games/bubble-pop-fairyland/
 https://gamedistribution.com/games/bubble-pop/
 https://gamedistribution.com/games/bubble-popper/
 https://gamedistribution.com/games/bubble-queen-cat/
@@ -13610,6 +13614,7 @@ https://gamedistribution.com/games/gorilla-adventure/
 https://gamedistribution.com/games/gorillas-tiles-of-the-unexpected/
 https://gamedistribution.com/games/gossip-girls-divas-in-highschool/
 https://gamedistribution.com/games/gothic-dress-up/
+https://gamedistribution.com/games/gothic-knife/
 https://gamedistribution.com/games/gothic-new-era/
 https://gamedistribution.com/games/gotiaio/
 https://gamedistribution.com/games/governor-of-poker---blackjack/
@@ -20636,6 +20641,7 @@ https://gamedistribution.com/games/pinball-football/
 https://gamedistribution.com/games/pinball-of-oz/
 https://gamedistribution.com/games/pinball-simulator/
 https://gamedistribution.com/games/pinball-world-cup/
+https://gamedistribution.com/games/pinball-zombies/
 https://gamedistribution.com/games/pinballvs/
 https://gamedistribution.com/games/pineapple-pen-master/
 https://gamedistribution.com/games/pineapple-style/
