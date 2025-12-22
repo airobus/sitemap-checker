@@ -602,7 +602,6 @@ https://www.crazygames.com/game/cannon-clash-yoo
 https://www.crazygames.com/game/cannon-pirates-multiplayer
 https://www.crazygames.com/game/captains-idle
 https://www.crazygames.com/game/capture-war
-https://www.crazygames.com/game/capybara-block-blast
 https://www.crazygames.com/game/capybara-block-shot
 https://www.crazygames.com/game/capybara-clicker
 https://www.crazygames.com/game/capybara-clicker-2
@@ -1273,6 +1272,7 @@ https://www.crazygames.com/game/evolve
 https://www.crazygames.com/game/evowarsio
 https://www.crazygames.com/game/exhibit-of-sorrows
 https://www.crazygames.com/game/exo-observation
+https://www.crazygames.com/game/extreme-drifter-yfn
 https://www.crazygames.com/game/extreme-makeover
 https://www.crazygames.com/game/extreme-makeover-harley-edition
 https://www.crazygames.com/game/extreme-offroad-cars-2
@@ -2584,6 +2584,7 @@ https://www.crazygames.com/game/nitro-burnout
 https://www.crazygames.com/game/no-crossroads
 https://www.crazygames.com/game/no-limits-drag-racing
 https://www.crazygames.com/game/no-pain-no-gain---ragdoll-sandbox
+https://www.crazygames.com/game/no-shorts
 https://www.crazygames.com/game/nonogram
 https://www.crazygames.com/game/nonogram-frvr
 https://www.crazygames.com/game/noob-and-zombies
@@ -3385,6 +3386,7 @@ https://www.crazygames.com/game/spider-solitaire-fuw
 https://www.crazygames.com/game/spiderdoll
 https://www.crazygames.com/game/spinhunter
 https://www.crazygames.com/game/spirit-guardians
+https://www.crazygames.com/game/spirit-wars-2d
 https://www.crazygames.com/game/splatmans
 https://www.crazygames.com/game/sploop-io
 https://www.crazygames.com/game/splotch
