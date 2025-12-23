@@ -2,6 +2,7 @@ https://about.crazygames.com/
 https://www.crazygames.com/
 https://www.crazygames.com/c/action
 https://www.crazygames.com/c/action/10
+https://www.crazygames.com/c/action/11
 https://www.crazygames.com/c/action/2
 https://www.crazygames.com/c/action/3
 https://www.crazygames.com/c/action/4
@@ -895,7 +896,6 @@ https://www.crazygames.com/game/create-your-beach
 https://www.crazygames.com/game/creative-coloring
 https://www.crazygames.com/game/creative-kill-chamber
 https://www.crazygames.com/game/creepy-granny-scream-scary-freddy
-https://www.crazygames.com/game/cribbage-jd
 https://www.crazygames.com/game/cricket-clash
 https://www.crazygames.com/game/cricket-frvr
 https://www.crazygames.com/game/cricket-superstar-league
@@ -919,6 +919,7 @@ https://www.crazygames.com/game/cryptoword
 https://www.crazygames.com/game/cs-chaos-squad
 https://www.crazygames.com/game/cs-strike-cold-shooters
 https://www.crazygames.com/game/cube-commander
+https://www.crazygames.com/game/cube-drop-puzzle
 https://www.crazygames.com/game/cube-gun
 https://www.crazygames.com/game/cube-island-3d
 https://www.crazygames.com/game/cube-stories-escape
@@ -1424,6 +1425,7 @@ https://www.crazygames.com/game/fortzone-battle-royale-xkd
 https://www.crazygames.com/game/forward
 https://www.crazygames.com/game/forward-assault
 https://www.crazygames.com/game/foundation-kingdom-build-guard
+https://www.crazygames.com/game/four-in-a-row
 https://www.crazygames.com/game/four-mini-kingdoms-war
 https://www.crazygames.com/game/fox-simulator-3d
 https://www.crazygames.com/game/fps-commando-gun-shooting-game
@@ -1849,6 +1851,7 @@ https://www.crazygames.com/game/idle-idle-gamedev
 https://www.crazygames.com/game/idle-inventor
 https://www.crazygames.com/game/idle-it-company
 https://www.crazygames.com/game/idle-lumber-mill
+https://www.crazygames.com/game/idle-magic-academy-tycoon
 https://www.crazygames.com/game/idle-makeup-store
 https://www.crazygames.com/game/idle-medieval-tower-defense
 https://www.crazygames.com/game/idle-mine-remix
@@ -2551,7 +2554,6 @@ https://www.crazygames.com/game/nail-art-salon-for-girls
 https://www.crazygames.com/game/nail-doctor
 https://www.crazygames.com/game/nano-racers
 https://www.crazygames.com/game/narrow-one
-https://www.crazygames.com/game/nature-strikes-back
 https://www.crazygames.com/game/nebula-tarot-cat-uee
 https://www.crazygames.com/game/necro-sludge
 https://www.crazygames.com/game/neko-sliding-cat-puzzle
@@ -2817,6 +2819,7 @@ https://www.crazygames.com/game/pinball
 https://www.crazygames.com/game/pinball-idle
 https://www.crazygames.com/game/ping-pong-chaos
 https://www.crazygames.com/game/pink-bart-bonte
+https://www.crazygames.com/game/pinturillo
 https://www.crazygames.com/game/pipe-puzzle
 https://www.crazygames.com/game/pipes-the-puzzle
 https://www.crazygames.com/game/pirate-island
@@ -2965,6 +2968,7 @@ https://www.crazygames.com/game/puzzle-play
 https://www.crazygames.com/game/puzzle-room-escape
 https://www.crazygames.com/game/puzzle-what-a-twist
 https://www.crazygames.com/game/puzzle-wood-block
+https://www.crazygames.com/game/pvp-card-strategy
 https://www.crazygames.com/game/pyramid-solitaire-ancient-egypt
 https://www.crazygames.com/game/python-snake-simulator
 https://www.crazygames.com/game/qb-legend
