@@ -353,6 +353,7 @@ https://poki.com/en/g/coil
 https://poki.com/en/g/coin-factory
 https://poki.com/en/g/coin-machine
 https://poki.com/en/g/cold-storage
+https://poki.com/en/g/collect-n-evolve
 https://poki.com/en/g/color-artist
 https://poki.com/en/g/color-car
 https://poki.com/en/g/color-crash
@@ -1261,6 +1262,7 @@ https://poki.com/en/g/pixlinks
 https://poki.com/en/g/pixwars-2
 https://poki.com/en/g/pixwars-3
 https://poki.com/en/g/pizza-day
+https://poki.com/en/g/pizza-planet
 https://poki.com/en/g/pizza-tower
 https://poki.com/en/g/pizzafall
 https://poki.com/en/g/pizzapunk
@@ -1505,6 +1507,7 @@ https://poki.com/en/g/sniper-clash-3d
 https://poki.com/en/g/sniper-code-2
 https://poki.com/en/g/sniper-vs-dinosaurs
 https://poki.com/en/g/snow-plow
+https://poki.com/en/g/snow-riders
 https://poki.com/en/g/snow-tale
 https://poki.com/en/g/soccer-league
 https://poki.com/en/g/soccer-skills-champions-league
@@ -1575,6 +1578,7 @@ https://poki.com/en/g/stickman-boxing-ko-champion
 https://poki.com/en/g/stickman-bridge-constructor
 https://poki.com/en/g/stickman-climb
 https://poki.com/en/g/stickman-climb-2
+https://poki.com/en/g/stickman-climb-3d
 https://poki.com/en/g/stickman-crazy-box
 https://poki.com/en/g/stickman-dragon-fight
 https://poki.com/en/g/stickman-escape
