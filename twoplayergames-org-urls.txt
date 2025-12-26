@@ -439,6 +439,7 @@ https://www.twoplayergames.org/game/color-cleaner
 https://www.twoplayergames.org/game/color-crash
 https://www.twoplayergames.org/game/color-galaxy
 https://www.twoplayergames.org/game/color-race-obby
+https://www.twoplayergames.org/game/color-sand-puzzle
 https://www.twoplayergames.org/game/color-snake
 https://www.twoplayergames.org/game/color-tanks
 https://www.twoplayergames.org/game/color-tunnel
@@ -488,6 +489,7 @@ https://www.twoplayergames.org/game/crash-car-parkour-simulator
 https://www.twoplayergames.org/game/crazy-atv
 https://www.twoplayergames.org/game/crazy-ball
 https://www.twoplayergames.org/game/crazy-ball-2
+https://www.twoplayergames.org/game/crazy-bike-stunts
 https://www.twoplayergames.org/game/crazy-cats
 https://www.twoplayergames.org/game/crazy-descent
 https://www.twoplayergames.org/game/crazy-gangnam-jump
@@ -505,6 +507,7 @@ https://www.twoplayergames.org/game/cristiano-ronaldo-kick-n-run
 https://www.twoplayergames.org/game/crossbar-challenge
 https://www.twoplayergames.org/game/crossword-puzzle
 https://www.twoplayergames.org/game/crossy-chicken
+https://www.twoplayergames.org/game/crowd-evolution
 https://www.twoplayergames.org/game/crowd-run-3d
 https://www.twoplayergames.org/game/crowdcityio
 https://www.twoplayergames.org/game/crunch-lock
@@ -1685,6 +1688,7 @@ https://www.twoplayergames.org/game/road-carnage
 https://www.twoplayergames.org/game/road-crash
 https://www.twoplayergames.org/game/robbers-in-town
 https://www.twoplayergames.org/game/robbie-become-a-beast
+https://www.twoplayergames.org/game/robbie-stand-on-the-right-color
 https://www.twoplayergames.org/game/robby-the-lava-tsunami
 https://www.twoplayergames.org/game/robo-duel-fight
 https://www.twoplayergames.org/game/robo-duel-fight-2-ninja
@@ -1850,6 +1854,7 @@ https://www.twoplayergames.org/game/soccer-physics-mobile
 https://www.twoplayergames.org/game/soccer-pixel
 https://www.twoplayergames.org/game/soccer-random
 https://www.twoplayergames.org/game/soccer-tournament
+https://www.twoplayergames.org/game/soflo-wheelie-life
 https://www.twoplayergames.org/game/sokoban
 https://www.twoplayergames.org/game/soldier-rush
 https://www.twoplayergames.org/game/sonic-sea-adventure
