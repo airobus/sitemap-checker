@@ -1981,6 +1981,7 @@ https://www.twoplayergames.org/game/stabfishio
 https://www.twoplayergames.org/game/stack-breaker
 https://www.twoplayergames.org/game/starblast-io
 https://www.twoplayergames.org/game/stateio
+https://www.twoplayergames.org/game/steal-brainrot-67
 https://www.twoplayergames.org/game/steal-brainrot-arena
 https://www.twoplayergames.org/game/steal-brainrot-duel
 https://www.twoplayergames.org/game/steal-car-duel
@@ -2322,6 +2323,7 @@ https://www.twoplayergames.org/game/unroll-ball-slide
 https://www.twoplayergames.org/game/uphill-rush-10
 https://www.twoplayergames.org/game/uphill-rush-8
 https://www.twoplayergames.org/game/uphill-rush-9
+https://www.twoplayergames.org/game/urus-city-driver
 https://www.twoplayergames.org/game/valentines-meet
 https://www.twoplayergames.org/game/veck-io
 https://www.twoplayergames.org/game/vegetable-ninjas

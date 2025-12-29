@@ -1052,6 +1052,7 @@ https://www.crazygames.com/game/diepio
 https://www.crazygames.com/game/dig-a-hole-in-russia
 https://www.crazygames.com/game/dig-craft
 https://www.crazygames.com/game/dig-or-die-prison-escape-simulator
+https://www.crazygames.com/game/dig-out-of-prison
 https://www.crazygames.com/game/dig-tycoon---idle-game-3d
 https://www.crazygames.com/game/digital-circus-obby
 https://www.crazygames.com/game/digital-circus-parkour-game
@@ -1963,6 +1964,7 @@ https://www.crazygames.com/game/jewel-academy
 https://www.crazygames.com/game/jewel-hunter
 https://www.crazygames.com/game/jewel-monsters
 https://www.crazygames.com/game/jewels-frvr
+https://www.crazygames.com/game/jigpic-solitaire
 https://www.crazygames.com/game/jigsaw-fantasy
 https://www.crazygames.com/game/jingle-defense
 https://www.crazygames.com/game/john-mambo---pixel-arcade-shooter-xdn
@@ -2346,6 +2348,7 @@ https://www.crazygames.com/game/merge-restaurant
 https://www.crazygames.com/game/merge-run
 https://www.crazygames.com/game/merge-rush-z
 https://www.crazygames.com/game/merge-siege-ship-jqx
+https://www.crazygames.com/game/merge-steal-brainrot
 https://www.crazygames.com/game/merge-the-numbers
 https://www.crazygames.com/game/merge-to-battle
 https://www.crazygames.com/game/merge-to-million
