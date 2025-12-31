@@ -119,6 +119,7 @@ https://poki.com/en/g/become-a-puppy-groomer
 https://poki.com/en/g/become-an-ear-doctor
 https://poki.com/en/g/bee-sort-by-sam
 https://poki.com/en/g/beecoins-inc
+https://poki.com/en/g/bff-math-class
 https://poki.com/en/g/big-neon-tower-vs-tiny-square
 https://poki.com/en/g/big-shot-boxing
 https://poki.com/en/g/big-tall-small
@@ -1038,7 +1039,6 @@ https://poki.com/en/g/merge-and-double
 https://poki.com/en/g/merge-arena
 https://poki.com/en/g/merge-battle
 https://poki.com/en/g/merge-cakes
-https://poki.com/en/g/merge-cats
 https://poki.com/en/g/merge-cyber-racers
 https://poki.com/en/g/merge-fish
 https://poki.com/en/g/merge-gangster-cars
@@ -1755,6 +1755,7 @@ https://poki.com/en/g/tic-tac-toe
 https://poki.com/en/g/tic-tac-toe-3
 https://poki.com/en/g/tictactoe
 https://poki.com/en/g/tictoc-kpop-fashion
+https://poki.com/en/g/tictoc-nightlife-fashion
 https://poki.com/en/g/tictoc-paris-fashion
 https://poki.com/en/g/tictoc-summer-fashion
 https://poki.com/en/g/tiger-simulator-3d
