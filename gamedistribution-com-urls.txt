@@ -5394,6 +5394,7 @@ https://gamedistribution.com/games/block-3d/
 https://gamedistribution.com/games/block-avalanche/
 https://gamedistribution.com/games/block-blast-1/
 https://gamedistribution.com/games/block-blast-2048/
+https://gamedistribution.com/games/block-blast-jewel-puzzle/
 https://gamedistribution.com/games/block-blast/
 https://gamedistribution.com/games/block-blaster-puzzle/
 https://gamedistribution.com/games/block-blasty-saga/
@@ -6915,6 +6916,7 @@ https://gamedistribution.com/games/card-master/
 https://gamedistribution.com/games/card-match-10/
 https://gamedistribution.com/games/card-quest%3A-10-minute-adventure/
 https://gamedistribution.com/games/card-shuffle-sort/
+https://gamedistribution.com/games/card-solitaire%3A-word-game/
 https://gamedistribution.com/games/cardbox-race/
 https://gamedistribution.com/games/cards%3A-klondike-solitaire/
 https://gamedistribution.com/games/cards-2048/
@@ -7958,6 +7960,7 @@ https://gamedistribution.com/games/codename-space-babes/
 https://gamedistribution.com/games/coe-rabbit/
 https://gamedistribution.com/games/coe-snake/
 https://gamedistribution.com/games/coffee-break-memory/
+https://gamedistribution.com/games/coffee-color-blocks/
 https://gamedistribution.com/games/coffee-craze-sorting-game/
 https://gamedistribution.com/games/coffee-master-idle/
 https://gamedistribution.com/games/coffee-match-rush%3A-sort-puzzle/
@@ -8567,6 +8570,7 @@ https://gamedistribution.com/games/cozy-resort-escape/
 https://gamedistribution.com/games/cpl-cricket-tournament/
 https://gamedistribution.com/games/cpl-tournament-2020/
 https://gamedistribution.com/games/crab-and-fish/
+https://gamedistribution.com/games/crab-guards/
 https://gamedistribution.com/games/craft-block-world-building/
 https://gamedistribution.com/games/craft-boy-runner/
 https://gamedistribution.com/games/craft-conflict/
@@ -10141,6 +10145,7 @@ https://gamedistribution.com/games/draw-to-fly/
 https://gamedistribution.com/games/draw-to-home/
 https://gamedistribution.com/games/draw-to-kill/
 https://gamedistribution.com/games/draw-to-smash!/
+https://gamedistribution.com/games/draw-to-smash-zombie/
 https://gamedistribution.com/games/draw-to-toilet-line-drawing/
 https://gamedistribution.com/games/draw-two-save-save-the-man/
 https://gamedistribution.com/games/draw-war/
@@ -18093,6 +18098,7 @@ https://gamedistribution.com/games/merge-rush-z/
 https://gamedistribution.com/games/merge-sesame/
 https://gamedistribution.com/games/merge-ships/
 https://gamedistribution.com/games/merge-shooter/
+https://gamedistribution.com/games/merge-smith/
 https://gamedistribution.com/games/merge-snake-battle/
 https://gamedistribution.com/games/merge-squares/
 https://gamedistribution.com/games/merge-star/
@@ -24466,6 +24472,7 @@ https://gamedistribution.com/games/snake-island-3d/
 https://gamedistribution.com/games/snake-king/
 https://gamedistribution.com/games/snake-land/
 https://gamedistribution.com/games/snake-mania/
+https://gamedistribution.com/games/snake-masters/
 https://gamedistribution.com/games/snake-neon/
 https://gamedistribution.com/games/snake-of-bullets-collect-and-shoot!/
 https://gamedistribution.com/games/snake-on-ladders/
@@ -26302,6 +26309,7 @@ https://gamedistribution.com/games/survive-alone/
 https://gamedistribution.com/games/survive-apocalypse/
 https://gamedistribution.com/games/survive-in-the-forest/
 https://gamedistribution.com/games/survive-the-glass-bridge/
+https://gamedistribution.com/games/survive-the-night-1/
 https://gamedistribution.com/games/surviving-in-the-woods/
 https://gamedistribution.com/games/surviving-the-zombies/
 https://gamedistribution.com/games/survivor-in-rainbow-monster/
