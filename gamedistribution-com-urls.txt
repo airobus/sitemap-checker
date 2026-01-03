@@ -268,6 +268,7 @@ https://gamedistribution.com/games/3d-flash-racers/
 https://gamedistribution.com/games/3d-fps-target-shooting/
 https://gamedistribution.com/games/3d-free-kick-world-cup-18/
 https://gamedistribution.com/games/3d-helix-vortex/
+https://gamedistribution.com/games/3d-kid-sliding-puzzle/
 https://gamedistribution.com/games/3d-kung-fu-fight-beat-em-up/
 https://gamedistribution.com/games/3d-la-supercars-2/
 https://gamedistribution.com/games/3d-match-puzzle-mania/
@@ -3752,6 +3753,7 @@ https://gamedistribution.com/games/aqua-fish-dental-care/
 https://gamedistribution.com/games/aqua-link/
 https://gamedistribution.com/games/aqua-man-sea-fight/
 https://gamedistribution.com/games/aqua-pipes/
+https://gamedistribution.com/games/aqua-sort%3A-water-color-puzzle/
 https://gamedistribution.com/games/aquablitz-2/
 https://gamedistribution.com/games/aquablitz/
 https://gamedistribution.com/games/aquaform-marinett-and-friends/
@@ -8148,6 +8150,7 @@ https://gamedistribution.com/games/color-snake-2/
 https://gamedistribution.com/games/color-snake-3/
 https://gamedistribution.com/games/color-snake-3d-online/
 https://gamedistribution.com/games/color-snake/
+https://gamedistribution.com/games/color-sort%3A-impostor-edition/
 https://gamedistribution.com/games/color-sort-3d/
 https://gamedistribution.com/games/color-sort-mania/
 https://gamedistribution.com/games/color-sort-puzzle/
@@ -12791,6 +12794,7 @@ https://gamedistribution.com/games/fruit-breaker/
 https://gamedistribution.com/games/fruit-bubble-shooters/
 https://gamedistribution.com/games/fruit-candy-merge/
 https://gamedistribution.com/games/fruit-cartoon-puzzle/
+https://gamedistribution.com/games/fruit-catcher/
 https://gamedistribution.com/games/fruit-chocolate-cake-cooking/
 https://gamedistribution.com/games/fruit-cocktail-memory/
 https://gamedistribution.com/games/fruit-connect-3/
@@ -13543,6 +13547,7 @@ https://gamedistribution.com/games/gold-mine-8/
 https://gamedistribution.com/games/gold-miner-1/
 https://gamedistribution.com/games/gold-miner-2/
 https://gamedistribution.com/games/gold-miner-bros/
+https://gamedistribution.com/games/gold-miner-classic-1/
 https://gamedistribution.com/games/gold-miner-classic/
 https://gamedistribution.com/games/gold-miner-jack-2/
 https://gamedistribution.com/games/gold-miner-jack/
@@ -17975,6 +17980,7 @@ https://gamedistribution.com/games/memory-emoji/
 https://gamedistribution.com/games/memory-game-with-numbers/
 https://gamedistribution.com/games/memory-icon/
 https://gamedistribution.com/games/memory-kids-halloween-game/
+https://gamedistribution.com/games/memory-lane/
 https://gamedistribution.com/games/memory-match-jungle-animals/
 https://gamedistribution.com/games/memory-match-magic/
 https://gamedistribution.com/games/memory-match-puzzle/
@@ -20272,6 +20278,7 @@ https://gamedistribution.com/games/parking-block/
 https://gamedistribution.com/games/parking-boats-at-sea/
 https://gamedistribution.com/games/parking-car-crash/
 https://gamedistribution.com/games/parking-car/
+https://gamedistribution.com/games/parking-driver/
 https://gamedistribution.com/games/parking-escape/
 https://gamedistribution.com/games/parking-fast/
 https://gamedistribution.com/games/parking-frenzy/
@@ -25479,6 +25486,7 @@ https://gamedistribution.com/games/stick-hero-mighty-tower-wars/
 https://gamedistribution.com/games/stick-hero/
 https://gamedistribution.com/games/stick-man-battle-fighting/
 https://gamedistribution.com/games/stick-man-hook/
+https://gamedistribution.com/games/stick-master-teleport/
 https://gamedistribution.com/games/stick-ninja-survival/
 https://gamedistribution.com/games/stick-panda/
 https://gamedistribution.com/games/stick-rope-hero/
@@ -27046,6 +27054,7 @@ https://gamedistribution.com/games/the-wisp/
 https://gamedistribution.com/games/the-witch-room/
 https://gamedistribution.com/games/the-worlds-easiest-quiz-game/
 https://gamedistribution.com/games/the-zombie-dude/
+https://gamedistribution.com/games/the-zombie-house/
 https://gamedistribution.com/games/thewireio/
 https://gamedistribution.com/games/they-are-coming/
 https://gamedistribution.com/games/thief-fps-fire-marshal/
