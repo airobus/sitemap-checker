@@ -272,6 +272,7 @@ https://gamedistribution.com/games/3d-kid-sliding-puzzle/
 https://gamedistribution.com/games/3d-kung-fu-fight-beat-em-up/
 https://gamedistribution.com/games/3d-la-supercars-2/
 https://gamedistribution.com/games/3d-match-puzzle-mania/
+https://gamedistribution.com/games/3d-maze-control/
 https://gamedistribution.com/games/3d-moto-simulator/
 https://gamedistribution.com/games/3d-muscle-car-race/
 https://gamedistribution.com/games/3d-pixels/
@@ -3512,6 +3513,7 @@ https://gamedistribution.com/games/animal-auto-repair-shop/
 https://gamedistribution.com/games/animal-babies/
 https://gamedistribution.com/games/animal-basketball/
 https://gamedistribution.com/games/animal-block-pop-puzzle/
+https://gamedistribution.com/games/animal-blocks/
 https://gamedistribution.com/games/animal-bubble/
 https://gamedistribution.com/games/animal-buggy-racing/
 https://gamedistribution.com/games/animal-bus-traffic-jam/
@@ -7341,6 +7343,7 @@ https://gamedistribution.com/games/chicken-dodge/
 https://gamedistribution.com/games/chicken-egg-challenge/
 https://gamedistribution.com/games/chicken-farm-escape/
 https://gamedistribution.com/games/chicken-invaders/
+https://gamedistribution.com/games/chicken-jump-%3A-a-tap-challenge/
 https://gamedistribution.com/games/chicken-jump/
 https://gamedistribution.com/games/chicken-love/
 https://gamedistribution.com/games/chicken-math/
@@ -8488,6 +8491,7 @@ https://gamedistribution.com/games/cosmic-tetriz-puzzles/
 https://gamedistribution.com/games/cosmo-pet-starry-care/
 https://gamedistribution.com/games/cosmo-puzzle/
 https://gamedistribution.com/games/cosmo-void/
+https://gamedistribution.com/games/cosmos-404/
 https://gamedistribution.com/games/cosplay-gamer-girls/
 https://gamedistribution.com/games/cosplay-girl-hair-station/
 https://gamedistribution.com/games/cotoland-block-puzzle/
@@ -8579,6 +8583,7 @@ https://gamedistribution.com/games/craft-boy-runner/
 https://gamedistribution.com/games/craft-conflict/
 https://gamedistribution.com/games/craft-drill/
 https://gamedistribution.com/games/craft-man-vs-giant-tnt/
+https://gamedistribution.com/games/craft-of-wars/
 https://gamedistribution.com/games/craft-punch-2/
 https://gamedistribution.com/games/craft-punch/
 https://gamedistribution.com/games/craft-runner/
@@ -13715,6 +13720,7 @@ https://gamedistribution.com/games/grass-cut-master/
 https://gamedistribution.com/games/grass-cutter-1/
 https://gamedistribution.com/games/grass-cutter/
 https://gamedistribution.com/games/grass-cutting-puzzle/
+https://gamedistribution.com/games/grass-defense/
 https://gamedistribution.com/games/grass-land/
 https://gamedistribution.com/games/grass-ranch/
 https://gamedistribution.com/games/grass-reaper/
@@ -15363,6 +15369,7 @@ https://gamedistribution.com/games/idle-miners/
 https://gamedistribution.com/games/idle-mining-empire/
 https://gamedistribution.com/games/idle-mobs-farm/
 https://gamedistribution.com/games/idle-mole-empire/
+https://gamedistribution.com/games/idle-money-factory/
 https://gamedistribution.com/games/idle-money-tree/
 https://gamedistribution.com/games/idle-oasis/
 https://gamedistribution.com/games/idle-painter/
@@ -20487,6 +20494,7 @@ https://gamedistribution.com/games/perfect-snipe-online/
 https://gamedistribution.com/games/perfect-sniper-3d/
 https://gamedistribution.com/games/perfect-stylish-street-look/
 https://gamedistribution.com/games/perfect-tan-preparation/
+https://gamedistribution.com/games/perfect-tidy/
 https://gamedistribution.com/games/perfect-time/
 https://gamedistribution.com/games/perfect-tongue/
 https://gamedistribution.com/games/perfect-turn-1/
@@ -23348,6 +23356,7 @@ https://gamedistribution.com/games/running-crowd-city/
 https://gamedistribution.com/games/running-dragon/
 https://gamedistribution.com/games/running-girl-3d/
 https://gamedistribution.com/games/running-horse-slide/
+https://gamedistribution.com/games/running-in-foam/
 https://gamedistribution.com/games/running-jump/
 https://gamedistribution.com/games/running-ninja/
 https://gamedistribution.com/games/running-on-christmas/
@@ -28363,6 +28372,7 @@ https://gamedistribution.com/games/viyash-boat-escape/
 https://gamedistribution.com/games/vlogger-shooting-with-sally/
 https://gamedistribution.com/games/vloggers-life-tycoon/
 https://gamedistribution.com/games/void-city/
+https://gamedistribution.com/games/void-orbit/
 https://gamedistribution.com/games/void-run/
 https://gamedistribution.com/games/volcano-escapes/
 https://gamedistribution.com/games/volkswagen-id-buggy-puzzle/
