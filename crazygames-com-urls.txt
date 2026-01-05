@@ -741,7 +741,6 @@ https://www.crazygames.com/game/clash-of-ages
 https://www.crazygames.com/game/clash-of-ages-dzl
 https://www.crazygames.com/game/clash-of-armor
 https://www.crazygames.com/game/clash-of-cakes
-https://www.crazygames.com/game/clash-of-memes
 https://www.crazygames.com/game/clash-of-orcs
 https://www.crazygames.com/game/clash-of-skulls
 https://www.crazygames.com/game/clash-of-tanks
@@ -1915,6 +1914,7 @@ https://www.crazygames.com/game/iron-legion
 https://www.crazygames.com/game/iron-towers-alliance
 https://www.crazygames.com/game/is-today-another-day
 https://www.crazygames.com/game/island-builder
+https://www.crazygames.com/game/island-of-treasures-bpn
 https://www.crazygames.com/game/island-racer
 https://www.crazygames.com/game/islander
 https://www.crazygames.com/game/isometric-escape
@@ -2000,6 +2000,7 @@ https://www.crazygames.com/game/kill-the-spartan
 https://www.crazygames.com/game/killover-qjn
 https://www.crazygames.com/game/killstreak-3d-shooter
 https://www.crazygames.com/game/king-io-world-war
+https://www.crazygames.com/game/king-of-cash-idle-business-sim
 https://www.crazygames.com/game/king-of-street-football-nuo
 https://www.crazygames.com/game/king-of-thieves
 https://www.crazygames.com/game/king-s-landing---arcade-idle
@@ -2294,6 +2295,7 @@ https://www.crazygames.com/game/memoji-puzzle
 https://www.crazygames.com/game/memory-cards-sni
 https://www.crazygames.com/game/men-vs-gorillas-nbu
 https://www.crazygames.com/game/meow-market-krz
+https://www.crazygames.com/game/merge-a-fruit
 https://www.crazygames.com/game/merge-academy
 https://www.crazygames.com/game/merge-age-warriors
 https://www.crazygames.com/game/merge-and-fight
@@ -2546,6 +2548,7 @@ https://www.crazygames.com/game/narrow-one
 https://www.crazygames.com/game/nebula-tarot-cat-uee
 https://www.crazygames.com/game/necro-sludge
 https://www.crazygames.com/game/neko-sliding-cat-puzzle
+https://www.crazygames.com/game/neon-memory
 https://www.crazygames.com/game/neon-planet-idle-clicker
 https://www.crazygames.com/game/neon-rider-vwz
 https://www.crazygames.com/game/neon-stars

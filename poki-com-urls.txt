@@ -43,7 +43,6 @@ https://poki.com/en/g/age-of-war
 https://poki.com/en/g/air-hockey-championship-deluxe
 https://poki.com/en/g/airport-clash-3d
 https://poki.com/en/g/alchemix-match-3
-https://poki.com/en/g/aliens-nest
 https://poki.com/en/g/amazon-spider-solitaire
 https://poki.com/en/g/american-football-challenge
 https://poki.com/en/g/american-football-real
@@ -316,7 +315,6 @@ https://poki.com/en/g/cave-chaos-2
 https://poki.com/en/g/celebrity-bffs-festival-fun
 https://poki.com/en/g/changetype
 https://poki.com/en/g/chaotic-war-3
-https://poki.com/en/g/checkers
 https://poki.com/en/g/checkers-multiplayer
 https://poki.com/en/g/cheese-dreams
 https://poki.com/en/g/cheese-dreams-new-moon
@@ -330,7 +328,6 @@ https://poki.com/en/g/chicken-merge
 https://poki.com/en/g/chicken-merge-2
 https://poki.com/en/g/chicken-sword-ninja-master
 https://poki.com/en/g/chicky-farm
-https://poki.com/en/g/chopstick-cooking
 https://poki.com/en/g/chromagic
 https://poki.com/en/g/circloo
 https://poki.com/en/g/circloo-2
@@ -853,7 +850,6 @@ https://poki.com/en/g/idle-startup-tycoon
 https://poki.com/en/g/idle-success
 https://poki.com/en/g/idle-tree-city
 https://poki.com/en/g/idle-zoo-safari-rescue
-https://poki.com/en/g/im-borr
 https://poki.com/en/g/impossible-13
 https://poki.com/en/g/impossible-tic-tac-toe
 https://poki.com/en/g/in-the-doghouse
@@ -912,7 +908,6 @@ https://poki.com/en/g/just-park-it-12
 https://poki.com/en/g/just-tanks
 https://poki.com/en/g/karakuri
 https://poki.com/en/g/karate-fighter
-https://poki.com/en/g/kates-cooking-party
 https://poki.com/en/g/kates-cooking-party-2
 https://poki.com/en/g/kawaii-dressup
 https://poki.com/en/g/kawaii-fruits-3d
@@ -936,7 +931,6 @@ https://poki.com/en/g/kori-walk
 https://poki.com/en/g/kronchnroll
 https://poki.com/en/g/kubi-pets
 https://poki.com/en/g/la-petite-avril
-https://poki.com/en/g/laborer-2
 https://poki.com/en/g/lampada-street
 https://poki.com/en/g/lands-of-blight
 https://poki.com/en/g/laser-blade-3000
@@ -1484,7 +1478,6 @@ https://poki.com/en/g/slime-pizza
 https://poki.com/en/g/slime-rider
 https://poki.com/en/g/slime-road
 https://poki.com/en/g/slime-war
-https://poki.com/en/g/slimemaker
 https://poki.com/en/g/sling-drift
 https://poki.com/en/g/sling-kong
 https://poki.com/en/g/sling-world-cup
@@ -1698,7 +1691,6 @@ https://poki.com/en/g/tag-2
 https://poki.com/en/g/tail-swing
 https://poki.com/en/g/tank-ball-monster-battle
 https://poki.com/en/g/tank-battle-war-commander
-https://poki.com/en/g/tank-trouble
 https://poki.com/en/g/tank-trouble-2
 https://poki.com/en/g/tank-vs-zombies
 https://poki.com/en/g/tanked-up
@@ -1890,6 +1882,7 @@ https://poki.com/en/g/wind-rider
 https://poki.com/en/g/winner-vs-loser
 https://poki.com/en/g/winter-clash-3d
 https://poki.com/en/g/winter-dodge
+https://poki.com/en/g/witchy-and-the-puzzle-adventures-0acb9046
 https://poki.com/en/g/wonder-high-dressup
 https://poki.com/en/g/wonderputt
 https://poki.com/en/g/wood-blocks-3d
@@ -1939,7 +1932,6 @@ https://poki.com/en/g/yummy-super-pizza
 https://poki.com/en/g/yummy-taco
 https://poki.com/en/g/yummy-toast
 https://poki.com/en/g/yummy-waffle-ice-cream
-https://poki.com/en/g/z-raid
 https://poki.com/en/g/zapper-io
 https://poki.com/en/g/zeepkist-crash-2d
 https://poki.com/en/g/zen-blocks
