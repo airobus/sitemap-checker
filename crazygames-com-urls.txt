@@ -741,6 +741,7 @@ https://www.crazygames.com/game/clash-of-ages
 https://www.crazygames.com/game/clash-of-ages-dzl
 https://www.crazygames.com/game/clash-of-armor
 https://www.crazygames.com/game/clash-of-cakes
+https://www.crazygames.com/game/clash-of-memes
 https://www.crazygames.com/game/clash-of-orcs
 https://www.crazygames.com/game/clash-of-skulls
 https://www.crazygames.com/game/clash-of-tanks
@@ -1511,6 +1512,7 @@ https://www.crazygames.com/game/garage-parking
 https://www.crazygames.com/game/garden-idle
 https://www.crazygames.com/game/garden-tile
 https://www.crazygames.com/game/gas-monsters
+https://www.crazygames.com/game/gas-station-3d
 https://www.crazygames.com/game/gas-station-dcp
 https://www.crazygames.com/game/gas-station-ooe
 https://www.crazygames.com/game/gaz-to-the-moon
@@ -1789,6 +1791,7 @@ https://www.crazygames.com/game/hyper-cars-ramp-crash
 https://www.crazygames.com/game/hyper-drone-racer
 https://www.crazygames.com/game/hyper-evolution
 https://www.crazygames.com/game/hyper-knight
+https://www.crazygames.com/game/hyper-wave-trial
 https://www.crazygames.com/game/hyperball-tachyon
 https://www.crazygames.com/game/hyperblox-shooting
 https://www.crazygames.com/game/hyperplex-3d
@@ -1872,7 +1875,6 @@ https://www.crazygames.com/game/idle-supermarket-tycoon
 https://www.crazygames.com/game/idle-superpowers
 https://www.crazygames.com/game/idle-train-empire-tycoon
 https://www.crazygames.com/game/idle-train-factory
-https://www.crazygames.com/game/idle-transport-tycoon-eqf
 https://www.crazygames.com/game/idle-treadmill
 https://www.crazygames.com/game/idle-world
 https://www.crazygames.com/game/idle-zombie-wave
@@ -4122,6 +4124,18 @@ https://www.crazygames.com/game/zoocraft
 https://www.crazygames.com/game/zooma-marble-quest-3d
 https://www.crazygames.com/game/zumba-quest
 https://www.crazygames.com/hot
+https://www.crazygames.com/multiplayer
+https://www.crazygames.com/multiplayer/2
+https://www.crazygames.com/multiplayer/2?tab=2-player
+https://www.crazygames.com/multiplayer/2?tab=multiplayer
+https://www.crazygames.com/multiplayer/3?tab=2-player
+https://www.crazygames.com/multiplayer/3?tab=multiplayer
+https://www.crazygames.com/multiplayer/4?tab=2-player
+https://www.crazygames.com/multiplayer/4?tab=multiplayer
+https://www.crazygames.com/multiplayer/5?tab=multiplayer
+https://www.crazygames.com/multiplayer/6?tab=multiplayer
+https://www.crazygames.com/multiplayer?tab=2-player
+https://www.crazygames.com/multiplayer?tab=multiplayer
 https://www.crazygames.com/new
 https://www.crazygames.com/new/10
 https://www.crazygames.com/new/2
@@ -4132,6 +4146,7 @@ https://www.crazygames.com/new/6
 https://www.crazygames.com/new/7
 https://www.crazygames.com/new/8
 https://www.crazygames.com/new/9
+https://www.crazygames.com/originals
 https://www.crazygames.com/privacy-policy
 https://www.crazygames.com/sitemap/games
 https://www.crazygames.com/sitemap/games/10
