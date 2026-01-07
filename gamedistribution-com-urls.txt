@@ -8325,6 +8325,7 @@ https://gamedistribution.com/games/connect-me/
 https://gamedistribution.com/games/connect-merge-1/
 https://gamedistribution.com/games/connect-merge/
 https://gamedistribution.com/games/connect-pipes-plumber/
+https://gamedistribution.com/games/connect-puzzle-image/
 https://gamedistribution.com/games/connect-the-balls/
 https://gamedistribution.com/games/connect-the-bubbles/
 https://gamedistribution.com/games/connect-the-christmas/
@@ -25434,6 +25435,7 @@ https://gamedistribution.com/games/stay-on-road/
 https://gamedistribution.com/games/stay-on-the-road/
 https://gamedistribution.com/games/stayhome-princess-makeup-lessons/
 https://gamedistribution.com/games/steal-arowana-fish/
+https://gamedistribution.com/games/steal-brainrot-arena/
 https://gamedistribution.com/games/steal-brainrot-duel/
 https://gamedistribution.com/games/steal-brainrot-monsters!/
 https://gamedistribution.com/games/steal-car-duel/
