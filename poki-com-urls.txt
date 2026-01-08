@@ -17,7 +17,6 @@ https://poki.com/en/g/3d-arena-racing
 https://poki.com/en/g/3d-car-simulator
 https://poki.com/en/g/3d-chibi-dressup
 https://poki.com/en/g/3d-city-racer
-https://poki.com/en/g/3d-monster-truck-skyroads
 https://poki.com/en/g/3d-moto-simulator-2
 https://poki.com/en/g/4-images-1-word
 https://poki.com/en/g/4-pics-1-word
@@ -30,11 +29,9 @@ https://poki.com/en/g/4th-and-goal-2024
 https://poki.com/en/g/8bit-fiesta
 https://poki.com/en/g/9-ball-pool
 https://poki.com/en/g/99-balls
-https://poki.com/en/g/a-cat-story
 https://poki.com/en/g/a-cleaning-story
 https://poki.com/en/g/a-pretty-odd-bunny
 https://poki.com/en/g/a-pretty-odd-bunny-roast-it
-https://poki.com/en/g/a-recipe-for-disaster
 https://poki.com/en/g/a-small-world-cup
 https://poki.com/en/g/adventure-cube
 https://poki.com/en/g/adventure-drivers
@@ -56,10 +53,10 @@ https://poki.com/en/g/ant-art-tycoon
 https://poki.com/en/g/anycolor
 https://poki.com/en/g/anycolor-by-numbers
 https://poki.com/en/g/anycolor-horoscopes
+https://poki.com/en/g/apocalypse-merge
 https://poki.com/en/g/apple-knight
 https://poki.com/en/g/apple-knight-farmers-market
 https://poki.com/en/g/apple-knight-fight
-https://poki.com/en/g/apple-knight-golf
 https://poki.com/en/g/apple-knight-mini-dungeons
 https://poki.com/en/g/apple-worm
 https://poki.com/en/g/aqua-thrills
@@ -124,17 +121,12 @@ https://poki.com/en/g/big-shot-boxing
 https://poki.com/en/g/big-tall-small
 https://poki.com/en/g/big-tower-tiny-square
 https://poki.com/en/g/big-tower-tiny-square-2
-https://poki.com/en/g/bike-trials-junkyard
-https://poki.com/en/g/bike-trials-offroad-1
 https://poki.com/en/g/bike-trials-winter-1
-https://poki.com/en/g/bike-trials-winter-2
-https://poki.com/en/g/biker-street
 https://poki.com/en/g/bird-jumper
 https://poki.com/en/g/black-html5
 https://poki.com/en/g/blacksmith-tycoon
 https://poki.com/en/g/blacktop-police-chase
 https://poki.com/en/g/blast-red
-https://poki.com/en/g/blast-rpg
 https://poki.com/en/g/blaze-drifter
 https://poki.com/en/g/blightborne
 https://poki.com/en/g/blob-drop
@@ -218,7 +210,6 @@ https://poki.com/en/g/breaking-the-bank
 https://poki.com/en/g/breakoid
 https://poki.com/en/g/brick-breaker
 https://poki.com/en/g/bricks
-https://poki.com/en/g/brigand-brigade
 https://poki.com/en/g/bring-me-cakes
 https://poki.com/en/g/brushbattle
 https://poki.com/en/g/bubble-charms
@@ -237,16 +228,13 @@ https://poki.com/en/g/bubbles-2
 https://poki.com/en/g/bubbles-cool
 https://poki.com/en/g/bubbleshooter
 https://poki.com/en/g/buck-bounce
-https://poki.com/en/g/bufo-merge
 https://poki.com/en/g/build-land
 https://poki.com/en/g/build-league
 https://poki.com/en/g/build-my-brainrot
 https://poki.com/en/g/bullet-bros
-https://poki.com/en/g/bullethead
 https://poki.com/en/g/bulletz-io
 https://poki.com/en/g/bump-battle-royale
 https://poki.com/en/g/bumper-cars-soccer
-https://poki.com/en/g/bumpy-flop
 https://poki.com/en/g/bumpy-jumpy
 https://poki.com/en/g/bunny-bistro
 https://poki.com/en/g/bunny-farm
@@ -268,14 +256,11 @@ https://poki.com/en/g/calamari
 https://poki.com/en/g/call-of-tanks
 https://poki.com/en/g/cannon-blast
 https://poki.com/en/g/cannon-strike
-https://poki.com/en/g/canopy
 https://poki.com/en/g/capitalist-bus-driver
 https://poki.com/en/g/capyloop-stones
 https://poki.com/en/g/car-detailing-master
 https://poki.com/en/g/car-drift-racers-2
 https://poki.com/en/g/car-eats-car-dungeon-adventure
-https://poki.com/en/g/car-eats-car-sea-adventure
-https://poki.com/en/g/car-eats-car-winter-adventure
 https://poki.com/en/g/car-machines
 https://poki.com/en/g/car-parking-jam
 https://poki.com/en/g/car-parking-school
@@ -283,6 +268,7 @@ https://poki.com/en/g/car-simulator-arena
 https://poki.com/en/g/car-stunts-adventure
 https://poki.com/en/g/card-hog
 https://poki.com/en/g/carnado-stunt-car
+https://poki.com/en/g/carrom-multiplayer
 https://poki.com/en/g/cars-thief
 https://poki.com/en/g/cars-thief-tank-edition
 https://poki.com/en/g/cartoon-mini-racing
@@ -290,8 +276,6 @@ https://poki.com/en/g/cartoon-racers-north-pole
 https://poki.com/en/g/cashchubbies-islands
 https://poki.com/en/g/castle-blocks
 https://poki.com/en/g/castle-defender-saga
-https://poki.com/en/g/castle-fight-with-buddies
-https://poki.com/en/g/castle-of-chaos
 https://poki.com/en/g/castle-pals
 https://poki.com/en/g/castle-woodwarf
 https://poki.com/en/g/casual-chess
@@ -314,11 +298,9 @@ https://poki.com/en/g/cave-blast
 https://poki.com/en/g/cave-chaos
 https://poki.com/en/g/cave-chaos-2
 https://poki.com/en/g/celebrity-bffs-festival-fun
-https://poki.com/en/g/changetype
 https://poki.com/en/g/chaotic-war-3
 https://poki.com/en/g/checkers-multiplayer
 https://poki.com/en/g/cheese-dreams
-https://poki.com/en/g/cheese-dreams-new-moon
 https://poki.com/en/g/cherry-on-the-cake
 https://poki.com/en/g/chess-grandmaster
 https://poki.com/en/g/chess-multiplayer
@@ -334,7 +316,6 @@ https://poki.com/en/g/circloo
 https://poki.com/en/g/circloo-2
 https://poki.com/en/g/circloo-xl
 https://poki.com/en/g/circuit-master
-https://poki.com/en/g/circuroid
 https://poki.com/en/g/circus-contest
 https://poki.com/en/g/city-car-driving-stunt-master
 https://poki.com/en/g/city-rider
@@ -347,7 +328,6 @@ https://poki.com/en/g/classic-mahjong
 https://poki.com/en/g/classic-minesweeper
 https://poki.com/en/g/classic-solitaire
 https://poki.com/en/g/cleanscape-masters
-https://poki.com/en/g/climb-fling
 https://poki.com/en/g/coil
 https://poki.com/en/g/coin-factory
 https://poki.com/en/g/coin-machine
@@ -359,7 +339,6 @@ https://poki.com/en/g/color-crash
 https://poki.com/en/g/color-merge-lines
 https://poki.com/en/g/color-pencil-run
 https://poki.com/en/g/colorballs-3d
-https://poki.com/en/g/colourblind
 https://poki.com/en/g/combat-online
 https://poki.com/en/g/combat-online-2
 https://poki.com/en/g/combat-reloaded
@@ -371,20 +350,15 @@ https://poki.com/en/g/conq-io
 https://poki.com/en/g/conveyor-deli
 https://poki.com/en/g/cook-house
 https://poki.com/en/g/cookie-master
-https://poki.com/en/g/cookin-truck
 https://poki.com/en/g/cooking-fast
 https://poki.com/en/g/cooking-fast-halloween
 https://poki.com/en/g/cooking-korean-lesson
-https://poki.com/en/g/cosmic-cannon
 https://poki.com/en/g/cosmos-lines
 https://poki.com/en/g/cougar-simulator-big-cats
 https://poki.com/en/g/count-control-legends
 https://poki.com/en/g/court-kings-3d
 https://poki.com/en/g/cover-orange
-https://poki.com/en/g/cover-orange-gangsters
 https://poki.com/en/g/cover-orange-journey
-https://poki.com/en/g/cover-orange-pirates
-https://poki.com/en/g/cover-orange-space
 https://poki.com/en/g/cover-orange-wild-west
 https://poki.com/en/g/cow-bay
 https://poki.com/en/g/cow-castle
@@ -393,7 +367,6 @@ https://poki.com/en/g/cozy-room-design
 https://poki.com/en/g/crab-and-fish
 https://poki.com/en/g/crafters-inc-tycoon-empire
 https://poki.com/en/g/craftomation-1
-https://poki.com/en/g/craftomation-2
 https://poki.com/en/g/crafty-anvil
 https://poki.com/en/g/crafty-cooks
 https://poki.com/en/g/crazy-bikes
@@ -463,7 +436,6 @@ https://poki.com/en/g/dino-miner
 https://poki.com/en/g/dino-quake
 https://poki.com/en/g/dino-run
 https://poki.com/en/g/dinosaur-game
-https://poki.com/en/g/dirk-valentine
 https://poki.com/en/g/disaster-arena
 https://poki.com/en/g/disco-droids
 https://poki.com/en/g/distraction-driver
@@ -485,7 +457,6 @@ https://poki.com/en/g/domino-merge
 https://poki.com/en/g/doner-kebab-sto
 https://poki.com/en/g/dont-spoil-it
 https://poki.com/en/g/doodle-god
-https://poki.com/en/g/doodle-god-fantasy-world-of-magic
 https://poki.com/en/g/doodle-god-good-old-times
 https://poki.com/en/g/doodle-race
 https://poki.com/en/g/doomr-io
@@ -505,7 +476,6 @@ https://poki.com/en/g/dreadhead-parkour
 https://poki.com/en/g/dress-up-the-lovely-princess
 https://poki.com/en/g/drift-boss
 https://poki.com/en/g/driftwave
-https://poki.com/en/g/drill-up
 https://poki.com/en/g/drills-merge-master
 https://poki.com/en/g/drilly-the-miner
 https://poki.com/en/g/drive-freedom
@@ -529,7 +499,6 @@ https://poki.com/en/g/dungeon-dash
 https://poki.com/en/g/dungeon-miner
 https://poki.com/en/g/dungeon-quest
 https://poki.com/en/g/dungeons-and-blades
-https://poki.com/en/g/dungeons-dressups
 https://poki.com/en/g/dunk-perfect
 https://poki.com/en/g/dunkbrush
 https://poki.com/en/g/dunkers
@@ -545,7 +514,6 @@ https://poki.com/en/g/dyna-boy
 https://poki.com/en/g/eagle-ride
 https://poki.com/en/g/earths-greatest-defender
 https://poki.com/en/g/eat-the-world
-https://poki.com/en/g/eggbot-vs-zombies
 https://poki.com/en/g/eggsplosion
 https://poki.com/en/g/eggy-car
 https://poki.com/en/g/eggys-big-adventure
@@ -556,7 +524,6 @@ https://poki.com/en/g/elixpur-idle
 https://poki.com/en/g/eliza-mall-mania
 https://poki.com/en/g/ellie-and-ben-date-night
 https://poki.com/en/g/ellies-surprise-birthday-party
-https://poki.com/en/g/elysian
 https://poki.com/en/g/emoji-builder
 https://poki.com/en/g/emoji-coloring
 https://poki.com/en/g/emoji-dropper
@@ -591,7 +558,6 @@ https://poki.com/en/g/farm-and-mine
 https://poki.com/en/g/farm-battles
 https://poki.com/en/g/farm-clash-3d
 https://poki.com/en/g/fashion-odyssey-country2country
-https://poki.com/en/g/fast-food-dumpster-adventure
 https://poki.com/en/g/fast-typer
 https://poki.com/en/g/fast-typer-2
 https://poki.com/en/g/fast-typer-3
@@ -618,20 +584,15 @@ https://poki.com/en/g/fishing-world
 https://poki.com/en/g/fixing-time
 https://poki.com/en/g/flag-paint-world-tour
 https://poki.com/en/g/flags
-https://poki.com/en/g/flags-maniac
 https://poki.com/en/g/flags-quiz
 https://poki.com/en/g/fleeing-the-complex
 https://poki.com/en/g/flick-goal
 https://poki.com/en/g/flicking-soccer
-https://poki.com/en/g/flightless
 https://poki.com/en/g/flip-bros
-https://poki.com/en/g/flip-hero-io
 https://poki.com/en/g/flip-runner
 https://poki.com/en/g/flip-the-bottle
-https://poki.com/en/g/flipchamps-dual-strike
 https://poki.com/en/g/flipper-dunk
 https://poki.com/en/g/flipside
-https://poki.com/en/g/floppy-tower
 https://poki.com/en/g/flowz
 https://poki.com/en/g/fluffball
 https://poki.com/en/g/fluffy-cuddlies
@@ -648,7 +609,6 @@ https://poki.com/en/g/football-legends
 https://poki.com/en/g/football-masters
 https://poki.com/en/g/football-penalty-champions
 https://poki.com/en/g/footballwars-online
-https://poki.com/en/g/footyzag
 https://poki.com/en/g/forgotten-hill-disillusion-florafauna
 https://poki.com/en/g/forgotten-hill-disillusion-the-library
 https://poki.com/en/g/forgotten-hill-fall-html5
@@ -657,7 +617,6 @@ https://poki.com/en/g/forgotten-hill-memento-love-beyond
 https://poki.com/en/g/forgotten-hill-memento-playground
 https://poki.com/en/g/forgotten-hill-puppeteer-html5
 https://poki.com/en/g/forgotten-hill-surgery
-https://poki.com/en/g/forgotten-hill-the-third-axis
 https://poki.com/en/g/forgotten-hill-the-wardrobe
 https://poki.com/en/g/forgotten-hill-the-wardrobe-2
 https://poki.com/en/g/forgotten-hill-the-wardrobe-3
@@ -666,7 +625,6 @@ https://poki.com/en/g/forgotten-hill-the-wardrobe-5
 https://poki.com/en/g/fortride-open-world
 https://poki.com/en/g/fortz
 https://poki.com/en/g/four-in-a-row
-https://poki.com/en/g/fowlst
 https://poki.com/en/g/fox-adventurer
 https://poki.com/en/g/fox-island-builder
 https://poki.com/en/g/fox-simulator-3d
@@ -680,7 +638,6 @@ https://poki.com/en/g/freeway-fury-2-html5
 https://poki.com/en/g/freeway-fury-3
 https://poki.com/en/g/friday-night-funkin
 https://poki.com/en/g/frostbite
-https://poki.com/en/g/frostwing
 https://poki.com/en/g/fruit-ninja
 https://poki.com/en/g/fruit-wheel
 https://poki.com/en/g/fruitmates-adventure
@@ -700,7 +657,6 @@ https://poki.com/en/g/funny-eye-surgery
 https://poki.com/en/g/funny-food-duel
 https://poki.com/en/g/funny-hair-salon
 https://poki.com/en/g/funny-haircut
-https://poki.com/en/g/funny-heroes-emergency
 https://poki.com/en/g/funny-kitty-care
 https://poki.com/en/g/funny-kitty-dressup
 https://poki.com/en/g/funny-kitty-haircut
@@ -709,13 +665,11 @@ https://poki.com/en/g/funny-pet-haircut
 https://poki.com/en/g/funny-puppy-care
 https://poki.com/en/g/funny-puppy-dressup
 https://poki.com/en/g/funny-puppy-emergency
+https://poki.com/en/g/funny-rescue-sumo
 https://poki.com/en/g/funny-shooter-2
 https://poki.com/en/g/funny-shopping-supermarket
 https://poki.com/en/g/funny-tattoo-shop
-https://poki.com/en/g/funny-throat-surgery
-https://poki.com/en/g/funny-throat-surgery-2
 https://poki.com/en/g/funny-travelling-airport
-https://poki.com/en/g/furcifers-fungeon
 https://poki.com/en/g/fury-bike-rider
 https://poki.com/en/g/fury-warship
 https://poki.com/en/g/g-switch-3
@@ -748,7 +702,6 @@ https://poki.com/en/g/gold-digger-frvr
 https://poki.com/en/g/golden-hit
 https://poki.com/en/g/golf-champions
 https://poki.com/en/g/golf-zero
-https://poki.com/en/g/golfinity
 https://poki.com/en/g/golfparty-io
 https://poki.com/en/g/goober-world
 https://poki.com/en/g/google-feud
@@ -775,7 +728,6 @@ https://poki.com/en/g/guess-what
 https://poki.com/en/g/guess-who
 https://poki.com/en/g/gun-fu-stickman-2
 https://poki.com/en/g/gun-master-2
-https://poki.com/en/g/gunbrick
 https://poki.com/en/g/gym-masters
 https://poki.com/en/g/hammer-2-reloaded
 https://poki.com/en/g/hangman
@@ -794,7 +746,6 @@ https://poki.com/en/g/heroes-league
 https://poki.com/en/g/hex-frvr
 https://poki.com/en/g/hexa-war-idle-battle
 https://poki.com/en/g/hexagon-fall
-https://poki.com/en/g/hexamatch
 https://poki.com/en/g/hexellent
 https://poki.com/en/g/hidden-pigeon
 https://poki.com/en/g/hide-and-seek-escape-games
@@ -816,13 +767,10 @@ https://poki.com/en/g/horror-dungeon-3d
 https://poki.com/en/g/horror-nights-story
 https://poki.com/en/g/horse-shoeing
 https://poki.com/en/g/horse-simulator-3d
-https://poki.com/en/g/hospital-stories-doctor-basketball
 https://poki.com/en/g/hospital-stories-doctor-rugby
 https://poki.com/en/g/hospital-stories-doctor-soccer
 https://poki.com/en/g/hot-air
 https://poki.com/en/g/hot-air-2
-https://poki.com/en/g/hot-air-jr
-https://poki.com/en/g/hot-dog-zombies
 https://poki.com/en/g/house-of-hazards
 https://poki.com/en/g/how-to-loot-pin-pull
 https://poki.com/en/g/huggy-wuggy-shooter
@@ -840,14 +788,12 @@ https://poki.com/en/g/idle-breakout
 https://poki.com/en/g/idle-cowshed
 https://poki.com/en/g/idle-digging-tycoon
 https://poki.com/en/g/idle-farming-business
-https://poki.com/en/g/idle-gang
 https://poki.com/en/g/idle-gold-miner
 https://poki.com/en/g/idle-light-city
 https://poki.com/en/g/idle-lumber-inc
 https://poki.com/en/g/idle-miner
 https://poki.com/en/g/idle-mining-empire
 https://poki.com/en/g/idle-money-tree
-https://poki.com/en/g/idle-pet-business
 https://poki.com/en/g/idle-startup-tycoon
 https://poki.com/en/g/idle-success
 https://poki.com/en/g/idle-tree-city
@@ -867,7 +813,6 @@ https://poki.com/en/g/invaders-io
 https://poki.com/en/g/iron-snout
 https://poki.com/en/g/irrational-karate
 https://poki.com/en/g/island-odyssey-return-of-the-sea
-https://poki.com/en/g/isotiles
 https://poki.com/en/g/its-story-time
 https://poki.com/en/g/izowave-build-and-defend
 https://poki.com/en/g/j-j-jump
@@ -886,8 +831,6 @@ https://poki.com/en/g/jiffy
 https://poki.com/en/g/jigsaw-deluxe
 https://poki.com/en/g/jigsaw-gems
 https://poki.com/en/g/jigsaw-photo-puzzle-christmas
-https://poki.com/en/g/jigsaw-photo-puzzle-summer
-https://poki.com/en/g/jigsaw-photo-puzzle-winter
 https://poki.com/en/g/jigsaw-surprise
 https://poki.com/en/g/johnny-prankster
 https://poki.com/en/g/johnny-trigger-action-shooter
@@ -899,7 +842,6 @@ https://poki.com/en/g/jump-and-hover
 https://poki.com/en/g/jump-only
 https://poki.com/en/g/jumpignons
 https://poki.com/en/g/jumping-clones
-https://poki.com/en/g/jumping-jaxx
 https://poki.com/en/g/jumping-shell
 https://poki.com/en/g/jumpossess
 https://poki.com/en/g/jungle-bubble-shooter-mania
@@ -928,13 +870,11 @@ https://poki.com/en/g/kix-dream-soccer
 https://poki.com/en/g/klondike-solitaire-2
 https://poki.com/en/g/klung
 https://poki.com/en/g/knight-brawl
-https://poki.com/en/g/knuckleheads
 https://poki.com/en/g/koala-bros-bash
 https://poki.com/en/g/kori-walk
 https://poki.com/en/g/kronchnroll
 https://poki.com/en/g/kubi-pets
 https://poki.com/en/g/la-petite-avril
-https://poki.com/en/g/lampada-street
 https://poki.com/en/g/lands-of-blight
 https://poki.com/en/g/laser-blade-3000
 https://poki.com/en/g/laser-maze-puzzle
@@ -944,7 +884,6 @@ https://poki.com/en/g/lava-bird
 https://poki.com/en/g/lava-land
 https://poki.com/en/g/learn-2-fly
 https://poki.com/en/g/ledge-throw
-https://poki.com/en/g/let-will-grigg-play
 https://poki.com/en/g/lethal-sniper-3d-army-soldier
 https://poki.com/en/g/lets-roll
 https://poki.com/en/g/level-devil
@@ -964,12 +903,10 @@ https://poki.com/en/g/little-alchemy-2
 https://poki.com/en/g/little-cabin-in-the-woods
 https://poki.com/en/g/little-master-cricket
 https://poki.com/en/g/little-tricky-prankster
-https://poki.com/en/g/lockehorn
 https://poki.com/en/g/logic-master-1
 https://poki.com/en/g/london-jigsaw-puzzle
 https://poki.com/en/g/longcat
 https://poki.com/en/g/look-your-loot
-https://poki.com/en/g/loot-legacy
 https://poki.com/en/g/lords-of-gomoku
 https://poki.com/en/g/lost-yeti-html5
 https://poki.com/en/g/love-balls
@@ -1000,8 +937,6 @@ https://poki.com/en/g/magic-solitaire
 https://poki.com/en/g/magic-touch
 https://poki.com/en/g/magicland-io
 https://poki.com/en/g/magikmon
-https://poki.com/en/g/magneboy
-https://poki.com/en/g/mahjoctopus
 https://poki.com/en/g/mahjong
 https://poki.com/en/g/mahjong-cards
 https://poki.com/en/g/mahjong-firefly
@@ -1009,7 +944,6 @@ https://poki.com/en/g/mahjong-linker-kyodai-game
 https://poki.com/en/g/mahjong-pyramids
 https://poki.com/en/g/mahjong-sweet-connection
 https://poki.com/en/g/mall-tycoon
-https://poki.com/en/g/malletmania
 https://poki.com/en/g/marble-run
 https://poki.com/en/g/marble-run-2d
 https://poki.com/en/g/marble-run-3d
@@ -1025,7 +959,6 @@ https://poki.com/en/g/math-pixel-puzzle
 https://poki.com/en/g/math-trivia-live
 https://poki.com/en/g/max-and-mink
 https://poki.com/en/g/maze-path-of-light
-https://poki.com/en/g/maze-speedrun
 https://poki.com/en/g/mech-bots-arena
 https://poki.com/en/g/mechabots
 https://poki.com/en/g/mekabolt
@@ -1035,7 +968,6 @@ https://poki.com/en/g/meow-merge
 https://poki.com/en/g/merge-and-decor
 https://poki.com/en/g/merge-and-double
 https://poki.com/en/g/merge-arena
-https://poki.com/en/g/merge-battle
 https://poki.com/en/g/merge-cakes
 https://poki.com/en/g/merge-cyber-racers
 https://poki.com/en/g/merge-fish
@@ -1057,7 +989,6 @@ https://poki.com/en/g/mermaid-dress-up
 https://poki.com/en/g/microwars
 https://poki.com/en/g/microwars-2
 https://poki.com/en/g/midnight-drive
-https://poki.com/en/g/mikas-candy-adventure
 https://poki.com/en/g/mike-and-mia-1st-day-at-school
 https://poki.com/en/g/mimelet
 https://poki.com/en/g/mine-cartoon-cube-world
@@ -1065,7 +996,6 @@ https://poki.com/en/g/mine-line
 https://poki.com/en/g/mine-sweeper-3
 https://poki.com/en/g/minecraft-classic
 https://poki.com/en/g/minefun-io
-https://poki.com/en/g/mini-guardians-castle-defense
 https://poki.com/en/g/mini-train
 https://poki.com/en/g/minibattles
 https://poki.com/en/g/minibattles-survivor
@@ -1083,7 +1013,6 @@ https://poki.com/en/g/monster-merge
 https://poki.com/en/g/monster-tracks
 https://poki.com/en/g/monster-truck-forest-delivery
 https://poki.com/en/g/monster-truck-racing-arena
-https://poki.com/en/g/monster-truck-shadow-racer
 https://poki.com/en/g/monster-truck-torment
 https://poki.com/en/g/monsters-wheels-special
 https://poki.com/en/g/moon-waltz
@@ -1128,13 +1057,10 @@ https://poki.com/en/g/mystical-birdlink
 https://poki.com/en/g/nail-salon
 https://poki.com/en/g/nails-diy-manicure-master
 https://poki.com/en/g/nano-war
-https://poki.com/en/g/nanobots
 https://poki.com/en/g/narrow-one
 https://poki.com/en/g/need-for-madness
-https://poki.com/en/g/nekopirate
 https://poki.com/en/g/nekopirate-quest-for-gold
 https://poki.com/en/g/neon-car-maze
-https://poki.com/en/g/neon-flytron-cyberpunk-racer
 https://poki.com/en/g/neon-war
 https://poki.com/en/g/new-york-jigsaw-puzzle
 https://poki.com/en/g/nightpoint-io
@@ -1168,17 +1094,13 @@ https://poki.com/en/g/olly-the-paw
 https://poki.com/en/g/one-button-bounce
 https://poki.com/en/g/one-hundred-castles-solitaire
 https://poki.com/en/g/one-line-draw
-https://poki.com/en/g/one-more-bounce
 https://poki.com/en/g/one-more-dash
 https://poki.com/en/g/one-more-line
-https://poki.com/en/g/onekey
 https://poki.com/en/g/onet-fruit-classic
 https://poki.com/en/g/onet-master
 https://poki.com/en/g/onet-paradise
 https://poki.com/en/g/online-sudoku
-https://poki.com/en/g/oodlegobs
 https://poki.com/en/g/ooze-odyssey
-https://poki.com/en/g/operation-desert-road
 https://poki.com/en/g/orange
 https://poki.com/en/g/ovo-classic
 https://poki.com/en/g/ovo-dimensions
@@ -1221,7 +1143,6 @@ https://poki.com/en/g/parkour-race
 https://poki.com/en/g/party-time
 https://poki.com/en/g/partytoons
 https://poki.com/en/g/path-to-glory
-https://poki.com/en/g/pathing
 https://poki.com/en/g/penalty-challenge
 https://poki.com/en/g/penalty-kicks
 https://poki.com/en/g/penalty-rivals
@@ -1250,7 +1171,6 @@ https://poki.com/en/g/pipes
 https://poki.com/en/g/pirate-defense
 https://poki.com/en/g/pirate-heroes-sea-battles
 https://poki.com/en/g/pirate-island
-https://poki.com/en/g/pirates-merger
 https://poki.com/en/g/pixel-express
 https://poki.com/en/g/pixel-fishing
 https://poki.com/en/g/pixel-pop
@@ -1268,9 +1188,7 @@ https://poki.com/en/g/pizzapunk
 https://poki.com/en/g/plactions
 https://poki.com/en/g/plane-wars
 https://poki.com/en/g/planet-destruction
-https://poki.com/en/g/platform-countdown
 https://poki.com/en/g/plonky
-https://poki.com/en/g/plunger
 https://poki.com/en/g/pocket-car-city
 https://poki.com/en/g/pocket-hockey
 https://poki.com/en/g/pocket-zoo
@@ -1296,7 +1214,6 @@ https://poki.com/en/g/portrait-of-an-obsession
 https://poki.com/en/g/power-badminton
 https://poki.com/en/g/power-light
 https://poki.com/en/g/power-wash-cleanup
-https://poki.com/en/g/powerup
 https://poki.com/en/g/prankster-3d
 https://poki.com/en/g/princess-lovely-fashion
 https://poki.com/en/g/princess-room-cleaning
@@ -1315,7 +1232,6 @@ https://poki.com/en/g/puppet-master
 https://poki.com/en/g/puppet-soccer-challenge
 https://poki.com/en/g/puppetman-ragdoll-puzzle
 https://poki.com/en/g/puzzle-path
-https://poki.com/en/g/pylon
 https://poki.com/en/g/quack-quest
 https://poki.com/en/g/quick-gun
 https://poki.com/en/g/quivershot
@@ -1344,7 +1260,6 @@ https://poki.com/en/g/rallypoint-4
 https://poki.com/en/g/ranch-ufo
 https://poki.com/en/g/raze-3
 https://poki.com/en/g/real-cars-in-city
-https://poki.com/en/g/real-estate-rush
 https://poki.com/en/g/real-simulator-monster-truck
 https://poki.com/en/g/real-tennis
 https://poki.com/en/g/rebels-clash
@@ -1389,7 +1304,6 @@ https://poki.com/en/g/rooftop-snipers
 https://poki.com/en/g/rooftop-snipers-2
 https://poki.com/en/g/roper
 https://poki.com/en/g/rotate
-https://poki.com/en/g/rotatez
 https://poki.com/en/g/routemania
 https://poki.com/en/g/rowdy-city-wrestling
 https://poki.com/en/g/rowdy-wrestling
@@ -1415,7 +1329,6 @@ https://poki.com/en/g/sandtris
 https://poki.com/en/g/satisbox
 https://poki.com/en/g/sausage-flip
 https://poki.com/en/g/save-dogogo
-https://poki.com/en/g/scary-hill
 https://poki.com/en/g/scary-little-prankster
 https://poki.com/en/g/scary-maze
 https://poki.com/en/g/scary-teacher-3d
@@ -1424,7 +1337,6 @@ https://poki.com/en/g/school-bus-demolition-derby
 https://poki.com/en/g/school-escape-skip-games
 https://poki.com/en/g/schools-out-the-great-escape
 https://poki.com/en/g/scrap-divers
-https://poki.com/en/g/screw-factory
 https://poki.com/en/g/screw-jam-puzzle
 https://poki.com/en/g/scribble
 https://poki.com/en/g/sector-781
@@ -1443,7 +1355,6 @@ https://poki.com/en/g/sheep-party
 https://poki.com/en/g/shenzhen-mahjong
 https://poki.com/en/g/shift-to-drift
 https://poki.com/en/g/shipo-io
-https://poki.com/en/g/shoot-n-shout-turbo
 https://poki.com/en/g/shooters-3d
 https://poki.com/en/g/shootz
 https://poki.com/en/g/short-life
@@ -1471,7 +1382,6 @@ https://poki.com/en/g/slash-the-rope
 https://poki.com/en/g/slashz
 https://poki.com/en/g/sleepless-pug
 https://poki.com/en/g/slice-master
-https://poki.com/en/g/slime-buddies
 https://poki.com/en/g/slime-dunk
 https://poki.com/en/g/slime-journey
 https://poki.com/en/g/slime-laboratory
@@ -1490,7 +1400,6 @@ https://poki.com/en/g/smash-car-idle-2
 https://poki.com/en/g/smash-it
 https://poki.com/en/g/smash-karts
 https://poki.com/en/g/smashy-duo
-https://poki.com/en/g/smoots-pinball-zombie
 https://poki.com/en/g/smoots-tennis-first-serve
 https://poki.com/en/g/snackio
 https://poki.com/en/g/snake-cool
@@ -1519,13 +1428,10 @@ https://poki.com/en/g/solitaire-html5
 https://poki.com/en/g/solitaire-klondike-2
 https://poki.com/en/g/solitaire-reverse
 https://poki.com/en/g/sort-the-court
-https://poki.com/en/g/soulspark
 https://poki.com/en/g/space-ballz
 https://poki.com/en/g/space-bubbles
 https://poki.com/en/g/space-burst
-https://poki.com/en/g/space-major-miner
 https://poki.com/en/g/space-thing
-https://poki.com/en/g/spacehopper
 https://poki.com/en/g/spaceship-merge
 https://poki.com/en/g/spaceugh
 https://poki.com/en/g/spaders
@@ -1603,9 +1509,7 @@ https://poki.com/en/g/street-slickers
 https://poki.com/en/g/streetfight-king-of-the-gang
 https://poki.com/en/g/streets-of-anarchy-fists-of-war
 https://poki.com/en/g/striker-dummies
-https://poki.com/en/g/string-theory-2-remastered
 https://poki.com/en/g/string-theory-remastered
-https://poki.com/en/g/strings
 https://poki.com/en/g/stud-rider
 https://poki.com/en/g/stumped
 https://poki.com/en/g/stunt-bike-extreme
@@ -1620,7 +1524,6 @@ https://poki.com/en/g/stupidella-4
 https://poki.com/en/g/stupidella-click
 https://poki.com/en/g/stupidella-horror
 https://poki.com/en/g/stupidella-horror-2
-https://poki.com/en/g/submolok
 https://poki.com/en/g/subway-clash-3d
 https://poki.com/en/g/subway-surfers
 https://poki.com/en/g/subway-surfers-blast
@@ -1652,7 +1555,6 @@ https://poki.com/en/g/super-racing-gt-drag-pro
 https://poki.com/en/g/super-shopper
 https://poki.com/en/g/super-speeder
 https://poki.com/en/g/super-star-car
-https://poki.com/en/g/super-treadmill
 https://poki.com/en/g/super-tunnel-rush
 https://poki.com/en/g/superbattle-2
 https://poki.com/en/g/superbike-hero
@@ -1662,7 +1564,6 @@ https://poki.com/en/g/superhero-look-alike-contest
 https://poki.com/en/g/superhot-prototype
 https://poki.com/en/g/supernova
 https://poki.com/en/g/survival-builder
-https://poki.com/en/g/survival-express
 https://poki.com/en/g/survival-island
 https://poki.com/en/g/survival-race
 https://poki.com/en/g/survivor-z
@@ -1678,12 +1579,10 @@ https://poki.com/en/g/sweet-world
 https://poki.com/en/g/sweety-mahjong
 https://poki.com/en/g/swerve-survive
 https://poki.com/en/g/swimming-pro
-https://poki.com/en/g/swindler-2-html5
 https://poki.com/en/g/swindler-html5
 https://poki.com/en/g/swingers
 https://poki.com/en/g/swingo
 https://poki.com/en/g/swipe-basketball
-https://poki.com/en/g/swipe-fighter-heroes
 https://poki.com/en/g/swole-simulator
 https://poki.com/en/g/sword-masters
 https://poki.com/en/g/swords-and-sandals
@@ -1696,14 +1595,12 @@ https://poki.com/en/g/tank-ball-monster-battle
 https://poki.com/en/g/tank-battle-war-commander
 https://poki.com/en/g/tank-trouble-2
 https://poki.com/en/g/tank-vs-zombies
-https://poki.com/en/g/tanked-up
 https://poki.com/en/g/tanko-io
 https://poki.com/en/g/tap-hero
 https://poki.com/en/g/tap-tricks
 https://poki.com/en/g/tear-blocks-down
 https://poki.com/en/g/teeny-tiny-town
 https://poki.com/en/g/teleport-jumper
-https://poki.com/en/g/temple-glider
 https://poki.com/en/g/temple-of-boom
 https://poki.com/en/g/temple-run
 https://poki.com/en/g/temple-run-2
@@ -1714,8 +1611,6 @@ https://poki.com/en/g/temple-run-2-spooky-summit
 https://poki.com/en/g/tennis-hero
 https://poki.com/en/g/tennis-masters
 https://poki.com/en/g/terradome
-https://poki.com/en/g/test-subject-arena
-https://poki.com/en/g/test-subject-arena-2
 https://poki.com/en/g/test-subject-blue
 https://poki.com/en/g/test-subject-complete
 https://poki.com/en/g/test-subject-green-html5
@@ -1731,7 +1626,6 @@ https://poki.com/en/g/the-pillar
 https://poki.com/en/g/the-real-juggle
 https://poki.com/en/g/the-secret-of-tetrapylae
 https://poki.com/en/g/the-sniper-code
-https://poki.com/en/g/the-sorcerer
 https://poki.com/en/g/the-spear-stickman
 https://poki.com/en/g/the-speed-ninja
 https://poki.com/en/g/the-stones-of-the-pharaoh
@@ -1767,10 +1661,6 @@ https://poki.com/en/g/tiny-fishing
 https://poki.com/en/g/tiny-towers
 https://poki.com/en/g/tinytownracing
 https://poki.com/en/g/tired-to-fall
-https://poki.com/en/g/tired-to-fall-winter
-https://poki.com/en/g/toaster-dash
-https://poki.com/en/g/too-many-ninjas
-https://poki.com/en/g/top-chef-hero-2
 https://poki.com/en/g/top-speed-3d
 https://poki.com/en/g/total-party-kill
 https://poki.com/en/g/total-recoil
@@ -1778,8 +1668,6 @@ https://poki.com/en/g/totems-of-tag
 https://poki.com/en/g/touchdown-rush
 https://poki.com/en/g/touchdowners
 https://poki.com/en/g/tower-crush
-https://poki.com/en/g/tower-defense-mingling
-https://poki.com/en/g/tower-defense-super-heroes
 https://poki.com/en/g/tower-merge
 https://poki.com/en/g/towntopia
 https://poki.com/en/g/toxic
@@ -1812,14 +1700,10 @@ https://poki.com/en/g/tumble-wrestling
 https://poki.com/en/g/tunnel-rush
 https://poki.com/en/g/tunnel-rush-2
 https://poki.com/en/g/turn-right
-https://poki.com/en/g/turn-undead
 https://poki.com/en/g/turnament
-https://poki.com/en/g/twang
 https://poki.com/en/g/twice
 https://poki.com/en/g/twin-shot
 https://poki.com/en/g/twin-shot-2-html5
-https://poki.com/en/g/twins-adventures-attic-surprise
-https://poki.com/en/g/twirl
 https://poki.com/en/g/two-button-bounce
 https://poki.com/en/g/typing-fighter
 https://poki.com/en/g/udder
@@ -1835,7 +1719,6 @@ https://poki.com/en/g/unicycle-legend
 https://poki.com/en/g/unpuzzle
 https://poki.com/en/g/unpuzzler
 https://poki.com/en/g/unpuzzlex
-https://poki.com/en/g/up-and-beyond
 https://poki.com/en/g/up-together
 https://poki.com/en/g/upwarp
 https://poki.com/en/g/urban-racer
@@ -1858,7 +1741,6 @@ https://poki.com/en/g/wall-of-doom
 https://poki.com/en/g/war-lands
 https://poki.com/en/g/war-master
 https://poki.com/en/g/war-masters-tactical-strategy
-https://poki.com/en/g/war-of-caribbean-pirates
 https://poki.com/en/g/war-of-sticks
 https://poki.com/en/g/warbrokers-io
 https://poki.com/en/g/water-color-sort
@@ -1866,7 +1748,6 @@ https://poki.com/en/g/water-gun-shooter
 https://poki.com/en/g/water-polo-ragdoll
 https://poki.com/en/g/watercraft-rush
 https://poki.com/en/g/watermelon-drop
-https://poki.com/en/g/wave-rider
 https://poki.com/en/g/we-become-what-we-behold
 https://poki.com/en/g/we-skate
 https://poki.com/en/g/wedding-dress-up
@@ -1880,8 +1761,6 @@ https://poki.com/en/g/wheres-your-country
 https://poki.com/en/g/whip-flip
 https://poki.com/en/g/who-is
 https://poki.com/en/g/who-is-2-brain-puzzle-chats
-https://poki.com/en/g/wild-bullets
-https://poki.com/en/g/wind-rider
 https://poki.com/en/g/winner-vs-loser
 https://poki.com/en/g/winter-clash-3d
 https://poki.com/en/g/winter-dodge
@@ -1894,12 +1773,10 @@ https://poki.com/en/g/woody-sort
 https://poki.com/en/g/word-boss
 https://poki.com/en/g/word-chains
 https://poki.com/en/g/word-city-crossed
-https://poki.com/en/g/word-city-uncrossed
 https://poki.com/en/g/word-finder
 https://poki.com/en/g/word-match
 https://poki.com/en/g/word-monsters
 https://poki.com/en/g/word-search
-https://poki.com/en/g/word-slide
 https://poki.com/en/g/wordoku
 https://poki.com/en/g/words-emoji
 https://poki.com/en/g/words-search-classic-edition
@@ -1922,7 +1799,6 @@ https://poki.com/en/g/yeah-bunny
 https://poki.com/en/g/yeah-bunny-2
 https://poki.com/en/g/yohoho-io
 https://poki.com/en/g/yokai-dungeon
-https://poki.com/en/g/you-only-livez-twice
 https://poki.com/en/g/your-love-calculator
 https://poki.com/en/g/yummy-chocolate-factory
 https://poki.com/en/g/yummy-churros-ice-cream
@@ -1935,12 +1811,10 @@ https://poki.com/en/g/yummy-super-pizza
 https://poki.com/en/g/yummy-taco
 https://poki.com/en/g/yummy-toast
 https://poki.com/en/g/yummy-waffle-ice-cream
-https://poki.com/en/g/zapper-io
 https://poki.com/en/g/zeepkist-crash-2d
 https://poki.com/en/g/zen-blocks
 https://poki.com/en/g/zen-splatter
 https://poki.com/en/g/zoi-the-escape
-https://poki.com/en/g/zomball
 https://poki.com/en/g/zombie-bounce
 https://poki.com/en/g/zombie-cows
 https://poki.com/en/g/zombie-derby
@@ -1951,11 +1825,9 @@ https://poki.com/en/g/zombie-killer
 https://poki.com/en/g/zombie-outbreak-arena
 https://poki.com/en/g/zombie-plague
 https://poki.com/en/g/zombie-rush
-https://poki.com/en/g/zombie-siege-outbreak
 https://poki.com/en/g/zombies-ate-my-castle
 https://poki.com/en/g/zombies-vs-finger
 https://poki.com/en/g/zomblox-io
-https://poki.com/en/g/zombotag
 https://poki.com/en/g/zombroad
 https://poki.com/en/g/zomrage
 https://poki.com/en/g/zoodrop

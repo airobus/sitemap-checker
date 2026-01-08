@@ -952,6 +952,7 @@ https://www.twoplayergames.org/game/gold-miner-2
 https://www.twoplayergames.org/game/gold-miner-bros
 https://www.twoplayergames.org/game/gold-miner-challenge
 https://www.twoplayergames.org/game/gold-miner-jack
+https://www.twoplayergames.org/game/gold-miner-special-edition
 https://www.twoplayergames.org/game/golden-duel-fast-draw
 https://www.twoplayergames.org/game/golf-battle
 https://www.twoplayergames.org/game/golf-orbit
@@ -1140,6 +1141,7 @@ https://www.twoplayergames.org/game/jigsaw-puzzle
 https://www.twoplayergames.org/game/jim-loves-mary
 https://www.twoplayergames.org/game/jim-loves-mary-2
 https://www.twoplayergames.org/game/jo-and-momo
+https://www.twoplayergames.org/game/jump-dash
 https://www.twoplayergames.org/game/jump-king-2
 https://www.twoplayergames.org/game/jumping-cats-challenge
 https://www.twoplayergames.org/game/jumping-ninjas-deluxe
@@ -2005,6 +2007,7 @@ https://www.twoplayergames.org/game/stick-fighter
 https://www.twoplayergames.org/game/stick-fighter-2
 https://www.twoplayergames.org/game/stick-fighter-3d
 https://www.twoplayergames.org/game/stick-figure-badminton-3
+https://www.twoplayergames.org/game/stick-master-teleport
 https://www.twoplayergames.org/game/stick-run
 https://www.twoplayergames.org/game/stick-soccer-3d
 https://www.twoplayergames.org/game/stick-war
