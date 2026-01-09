@@ -623,7 +623,6 @@ https://www.crazygames.com/game/car-simulator-crash-city
 https://www.crazygames.com/game/car-sky-survival
 https://www.crazygames.com/game/car-speed-racing-tycoon
 https://www.crazygames.com/game/car-tuning-simulator
-https://www.crazygames.com/game/caravels-online-miv
 https://www.crazygames.com/game/carball-io
 https://www.crazygames.com/game/card-cafe
 https://www.crazygames.com/game/card-scramble-viola-s-diner
@@ -722,6 +721,7 @@ https://www.crazygames.com/game/cinema-panic-2
 https://www.crazygames.com/game/circloo
 https://www.crazygames.com/game/circloo-2
 https://www.crazygames.com/game/circuit-master
+https://www.crazygames.com/game/circuit-racing
 https://www.crazygames.com/game/city-blocks
 https://www.crazygames.com/game/city-builder
 https://www.crazygames.com/game/city-bus-driver
@@ -1974,6 +1974,7 @@ https://www.crazygames.com/game/juicyjong
 https://www.crazygames.com/game/jump-and-hover
 https://www.crazygames.com/game/jump-guys
 https://www.crazygames.com/game/jump-in-to-the-plane
+https://www.crazygames.com/game/jump-master-car-racing-peo
 https://www.crazygames.com/game/jump-to-sky-3d-parcour
 https://www.crazygames.com/game/jump-up-3d-basketball-game
 https://www.crazygames.com/game/jump-up-3d-mini-basketball
@@ -2308,6 +2309,7 @@ https://www.crazygames.com/game/merge-a-fruit
 https://www.crazygames.com/game/merge-academy
 https://www.crazygames.com/game/merge-age-warriors
 https://www.crazygames.com/game/merge-and-fight
+https://www.crazygames.com/game/merge-and-munch
 https://www.crazygames.com/game/merge-army
 https://www.crazygames.com/game/merge-babies
 https://www.crazygames.com/game/merge-battle-car
@@ -2643,6 +2645,7 @@ https://www.crazygames.com/game/obby-brainrot-merge
 https://www.crazygames.com/game/obby-car-challenge-drive
 https://www.crazygames.com/game/obby-cards-the-legend-hunt
 https://www.crazygames.com/game/obby-challenge-prison-run
+https://www.crazygames.com/game/obby-crazy-cart-ride-qlw
 https://www.crazygames.com/game/obby-dead-river
 https://www.crazygames.com/game/obby-dumb-or-genius-iq-test
 https://www.crazygames.com/game/obby-gym-simulator-escape
@@ -4649,7 +4652,6 @@ https://www.crazygames.com/t/strategy/3
 https://www.crazygames.com/t/strategy/4
 https://www.crazygames.com/t/strategy/5
 https://www.crazygames.com/t/strategy/6
-https://www.crazygames.com/t/strategy/7
 https://www.crazygames.com/t/stunt
 https://www.crazygames.com/t/stunt/2
 https://www.crazygames.com/t/stunt/3
