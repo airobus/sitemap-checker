@@ -16444,6 +16444,7 @@ https://gamedistribution.com/games/kingdoms-wars/
 https://gamedistribution.com/games/kingpin-goat-escape/
 https://gamedistribution.com/games/kings-and-queens-mahjong/
 https://gamedistribution.com/games/kings-and-queens-match-2/
+https://gamedistribution.com/games/kings-and-queens-match-3/
 https://gamedistribution.com/games/kings-and-queens-match/
 https://gamedistribution.com/games/kings-and-queens-solitaire-tripeaks/
 https://gamedistribution.com/games/kings-card-decisions/
@@ -26758,6 +26759,7 @@ https://gamedistribution.com/games/tea-time/
 https://gamedistribution.com/games/tea-treatment/
 https://gamedistribution.com/games/teacher-jigsaw-game/
 https://gamedistribution.com/games/teacher-simulator-christmas-exam/
+https://gamedistribution.com/games/teacher-simulator/
 https://gamedistribution.com/games/teacher-transformation/
 https://gamedistribution.com/games/team-kaboom/
 https://gamedistribution.com/games/team-loyalty/

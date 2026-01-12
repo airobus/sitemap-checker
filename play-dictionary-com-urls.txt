@@ -16,9 +16,11 @@ https://play.dictionary.com/games/backgammon
 https://play.dictionary.com/games/ballistic
 https://play.dictionary.com/games/best-free-themed-puzzles
 https://play.dictionary.com/games/block-champ
+https://play.dictionary.com/games/blockables
 https://play.dictionary.com/games/bridge
 https://play.dictionary.com/games/bubble-dragons
 https://play.dictionary.com/games/bubble-dragons-saga
+https://play.dictionary.com/games/bubble-tower
 https://play.dictionary.com/games/bubble-town
 https://play.dictionary.com/games/canasta
 https://play.dictionary.com/games/candy-mahjongg
@@ -29,6 +31,7 @@ https://play.dictionary.com/games/chess
 https://play.dictionary.com/games/classic-solitaire
 https://play.dictionary.com/games/clutter-cornucopia
 https://play.dictionary.com/games/codeword
+https://play.dictionary.com/games/color-king
 https://play.dictionary.com/games/coloring-book-for-grown-ups
 https://play.dictionary.com/games/commuter-crossword
 https://play.dictionary.com/games/cooking-live
@@ -64,8 +67,10 @@ https://play.dictionary.com/games/dictionary-word-puzzle
 https://play.dictionary.com/games/dictionary-word-search-maker
 https://play.dictionary.com/games/dictionary-wordle-solver
 https://play.dictionary.com/games/dictionary-words-with-friends-cheat
+https://play.dictionary.com/games/double-deck-pinochle
 https://play.dictionary.com/games/easy-crossword
 https://play.dictionary.com/games/element-blocks
+https://play.dictionary.com/games/endless-lake
 https://play.dictionary.com/games/euchre
 https://play.dictionary.com/games/family-feud
 https://play.dictionary.com/games/find-hidden-object
@@ -83,7 +88,9 @@ https://play.dictionary.com/games/golf-solitaire
 https://play.dictionary.com/games/hard-crossword
 https://play.dictionary.com/games/hex-jigsaw-challenge
 https://play.dictionary.com/games/hex-puzzle-adventure
+https://play.dictionary.com/games/hex-sense
 https://play.dictionary.com/games/house-flip
+https://play.dictionary.com/games/jelly-blast-pro
 https://play.dictionary.com/games/jewel-quest
 https://play.dictionary.com/games/jewel-shuffle
 https://play.dictionary.com/games/jigsaw
@@ -107,6 +114,7 @@ https://play.dictionary.com/games/mr-runner-x
 https://play.dictionary.com/games/not-not-game
 https://play.dictionary.com/games/one-line
 https://play.dictionary.com/games/outspell
+https://play.dictionary.com/games/pearls-of-atlantis-bottomless-trench
 https://play.dictionary.com/games/penny-dell-brain-booster-crossword
 https://play.dictionary.com/games/penny-dell-crossword
 https://play.dictionary.com/games/penny-dell-easy-morning-crossword
@@ -127,6 +135,7 @@ https://play.dictionary.com/games/sergeant-major
 https://play.dictionary.com/games/sheffer-crossword
 https://play.dictionary.com/games/smart-friends
 https://play.dictionary.com/games/smartle
+https://play.dictionary.com/games/snake-2048
 https://play.dictionary.com/games/spades-multiplayer
 https://play.dictionary.com/games/spider-solitaire-game
 https://play.dictionary.com/games/sudoku
@@ -139,6 +148,7 @@ https://play.dictionary.com/games/ten-x-ten
 https://play.dictionary.com/games/the-chase-uk
 https://play.dictionary.com/games/the-chase-us
 https://play.dictionary.com/games/todays-hurdle
+https://play.dictionary.com/games/train-miner
 https://play.dictionary.com/games/tri-peaks-solitaire
 https://play.dictionary.com/games/trizzle-halloween
 https://play.dictionary.com/games/true-trivia-game
@@ -146,6 +156,7 @@ https://play.dictionary.com/games/two-minute-mini-crossword
 https://play.dictionary.com/games/wander-words
 https://play.dictionary.com/games/whist
 https://play.dictionary.com/games/word-clash
+https://play.dictionary.com/games/word-fishing
 https://play.dictionary.com/games/word-scramble
 https://play.dictionary.com/games/word-search
 https://play.dictionary.com/games/word-wipe
