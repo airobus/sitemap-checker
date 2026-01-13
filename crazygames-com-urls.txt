@@ -2256,6 +2256,7 @@ https://www.crazygames.com/game/mancala-shu
 https://www.crazygames.com/game/marble-merge
 https://www.crazygames.com/game/marble-race-creator
 https://www.crazygames.com/game/marble-run
+https://www.crazygames.com/game/marble-shooter
 https://www.crazygames.com/game/marina-fever-tycoon
 https://www.crazygames.com/game/marine-survivors
 https://www.crazygames.com/game/market-boss
@@ -3095,6 +3096,7 @@ https://www.crazygames.com/game/rocket-bot-royale
 https://www.crazygames.com/game/rocket-clash-3d
 https://www.crazygames.com/game/rocket-launch
 https://www.crazygames.com/game/rocket-well
+https://www.crazygames.com/game/rocketgoal-io
 https://www.crazygames.com/game/rocking-sky-trip
 https://www.crazygames.com/game/rodha
 https://www.crazygames.com/game/roglide-slide-match-blocks
