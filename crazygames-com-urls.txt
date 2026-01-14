@@ -1587,6 +1587,7 @@ https://www.crazygames.com/game/goober-royale
 https://www.crazygames.com/game/goober-shot
 https://www.crazygames.com/game/good-doggo
 https://www.crazygames.com/game/google-feud
+https://www.crazygames.com/game/gothic-story-rpg
 https://www.crazygames.com/game/grab-and-run
 https://www.crazygames.com/game/grab-them-all
 https://www.crazygames.com/game/graduation-makeup-trends
@@ -2118,6 +2119,7 @@ https://www.crazygames.com/game/lethal-sniper-3d-army-soldier
 https://www.crazygames.com/game/letterclash
 https://www.crazygames.com/game/letters-match
 https://www.crazygames.com/game/level-eaten
+https://www.crazygames.com/game/lexicon-quest
 https://www.crazygames.com/game/lexy
 https://www.crazygames.com/game/lhama-clicker
 https://www.crazygames.com/game/life-in-the-static
@@ -2187,6 +2189,7 @@ https://www.crazygames.com/game/machine-gun-gardener
 https://www.crazygames.com/game/machine-room-escape
 https://www.crazygames.com/game/mad-boss
 https://www.crazygames.com/game/mad-cars-racing-and-crash
+https://www.crazygames.com/game/mad-day-special
 https://www.crazygames.com/game/mad-evolution-idle-merge
 https://www.crazygames.com/game/mad-guns---battle-royale-ndd
 https://www.crazygames.com/game/mad-royale-tactics
@@ -2632,6 +2635,7 @@ https://www.crazygames.com/game/number-line-match
 https://www.crazygames.com/game/number-masters
 https://www.crazygames.com/game/number-race
 https://www.crazygames.com/game/number-shoot
+https://www.crazygames.com/game/number-snap
 https://www.crazygames.com/game/numbers-arena
 https://www.crazygames.com/game/nut-sort-build-the-city
 https://www.crazygames.com/game/nuts-and-bolts-brainteasers
@@ -3004,6 +3008,7 @@ https://www.crazygames.com/game/rag-doll
 https://www.crazygames.com/game/ragdoll-archers
 https://www.crazygames.com/game/ragdoll-arena-2-player
 https://www.crazygames.com/game/ragdoll-break
+https://www.crazygames.com/game/ragdoll-drop-tycoon
 https://www.crazygames.com/game/ragdoll-fight
 https://www.crazygames.com/game/ragdoll-ninja-imposter-hero
 https://www.crazygames.com/game/ragdoll-soccer-2-players
@@ -3357,6 +3362,7 @@ https://www.crazygames.com/game/solitaire-the-great-journey
 https://www.crazygames.com/game/solitairetripeaks-island-expeditio
 https://www.crazygames.com/game/soo-match-room-design
 https://www.crazygames.com/game/sophie-s-farm
+https://www.crazygames.com/game/sorcerers-refuge
 https://www.crazygames.com/game/sort-it-uei
 https://www.crazygames.com/game/sort-n-hold-3d
 https://www.crazygames.com/game/sort-parking
@@ -4679,6 +4685,7 @@ https://www.crazygames.com/t/top-down
 https://www.crazygames.com/t/top-down/2
 https://www.crazygames.com/t/top-down/3
 https://www.crazygames.com/t/top-down/4
+https://www.crazygames.com/t/top-down/5
 https://www.crazygames.com/t/tower-defense
 https://www.crazygames.com/t/tower-defense/2
 https://www.crazygames.com/t/traffic

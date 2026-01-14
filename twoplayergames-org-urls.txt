@@ -1455,6 +1455,7 @@ https://www.twoplayergames.org/game/obby-rainbow-tower
 https://www.twoplayergames.org/game/obby-roads-io
 https://www.twoplayergames.org/game/obby-survive-parkour
 https://www.twoplayergames.org/game/obby-the-legendary-dragon
+https://www.twoplayergames.org/game/obby-toilet-line
 https://www.twoplayergames.org/game/obby-tower-parkour-climb
 https://www.twoplayergames.org/game/obby-training-by-car
 https://www.twoplayergames.org/game/obby-training-on-the-train
@@ -2046,6 +2047,7 @@ https://www.twoplayergames.org/game/stickman-training-hero
 https://www.twoplayergames.org/game/stickman-vs-zombies-epic-fight
 https://www.twoplayergames.org/game/stickman-warrior
 https://www.twoplayergames.org/game/stickman-warriors
+https://www.twoplayergames.org/game/stickman-zombie-vs-stickman-hero
 https://www.twoplayergames.org/game/stock-car-hero
 https://www.twoplayergames.org/game/straw-hat-samurai
 https://www.twoplayergames.org/game/street-fighter
@@ -2164,6 +2166,7 @@ https://www.twoplayergames.org/game/tap-tap-shots
 https://www.twoplayergames.org/game/tap-the-frog
 https://www.twoplayergames.org/game/tap-to-color-painting-book
 https://www.twoplayergames.org/game/tarzan-brothers
+https://www.twoplayergames.org/game/teacher-simulator
 https://www.twoplayergames.org/game/temple-of-boom
 https://www.twoplayergames.org/game/tennis
 https://www.twoplayergames.org/game/tennis-fury
