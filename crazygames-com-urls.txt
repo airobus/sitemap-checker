@@ -1719,6 +1719,7 @@ https://www.crazygames.com/game/heroic-battle
 https://www.crazygames.com/game/hex-color-idle
 https://www.crazygames.com/game/hex-empire
 https://www.crazygames.com/game/hex-frvr
+https://www.crazygames.com/game/hex-sense-2
 https://www.crazygames.com/game/hexa-blast-game
 https://www.crazygames.com/game/hexa-block-2048-idle
 https://www.crazygames.com/game/hexa-go
@@ -2535,6 +2536,7 @@ https://www.crazygames.com/game/my-crystal-underwater
 https://www.crazygames.com/game/my-dinoland
 https://www.crazygames.com/game/my-dweller-gang
 https://www.crazygames.com/game/my-flour-factory
+https://www.crazygames.com/game/my-home-planet-rho
 https://www.crazygames.com/game/my-imperfect-cult
 https://www.crazygames.com/game/my-island
 https://www.crazygames.com/game/my-jelly-bear-pet
@@ -2873,6 +2875,7 @@ https://www.crazygames.com/game/planet-miner-frvr
 https://www.crazygames.com/game/planet-plummet
 https://www.crazygames.com/game/planetarium-2
 https://www.crazygames.com/game/planetary-assault
+https://www.crazygames.com/game/planetary-defense
 https://www.crazygames.com/game/planetary-terraformer
 https://www.crazygames.com/game/plangman
 https://www.crazygames.com/game/plant-squad
@@ -2914,6 +2917,7 @@ https://www.crazygames.com/game/pop-it-duel
 https://www.crazygames.com/game/pop-jewels
 https://www.crazygames.com/game/pop-match-3d
 https://www.crazygames.com/game/popcorn-chef-2
+https://www.crazygames.com/game/popcorn-empire-simulator
 https://www.crazygames.com/game/popcorn-fever
 https://www.crazygames.com/game/popit-vs-spinner
 https://www.crazygames.com/game/portal-2d
@@ -3644,6 +3648,7 @@ https://www.crazygames.com/game/tangle-master
 https://www.crazygames.com/game/tank-battle-war-commander
 https://www.crazygames.com/game/tank-masters---idle-tanks
 https://www.crazygames.com/game/tank-merge-royal
+https://www.crazygames.com/game/tank-snipers
 https://www.crazygames.com/game/tank-wars-iaw
 https://www.crazygames.com/game/tankcraft
 https://www.crazygames.com/game/tankcraft-2

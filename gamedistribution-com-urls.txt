@@ -6256,6 +6256,7 @@ https://gamedistribution.com/games/bubble-race-party/
 https://gamedistribution.com/games/bubble-rain/
 https://gamedistribution.com/games/bubble-rush/
 https://gamedistribution.com/games/bubble-shoot/
+https://gamedistribution.com/games/bubble-shooter%3A-spinner-pop/
 https://gamedistribution.com/games/bubble-shooter-1/
 https://gamedistribution.com/games/bubble-shooter-2/
 https://gamedistribution.com/games/bubble-shooter-2020/
@@ -8016,6 +8017,7 @@ https://gamedistribution.com/games/coin-run/
 https://gamedistribution.com/games/coin-rush/
 https://gamedistribution.com/games/coin-slope/
 https://gamedistribution.com/games/coin-smash/
+https://gamedistribution.com/games/coin-stack-up/
 https://gamedistribution.com/games/coins-transporter-monster-truck/
 https://gamedistribution.com/games/coins/
 https://gamedistribution.com/games/coinz!/
@@ -11143,6 +11145,7 @@ https://gamedistribution.com/games/escape-adventure-escape/
 https://gamedistribution.com/games/escape-amuzepark/
 https://gamedistribution.com/games/escape-ancient-egypt/
 https://gamedistribution.com/games/escape-ancient-temple/
+https://gamedistribution.com/games/escape-and-steal-brainrot%3A-sahur-hills/
 https://gamedistribution.com/games/escape-black-forest-house-/
 https://gamedistribution.com/games/escape-blushpink-room/
 https://gamedistribution.com/games/escape-camp-woodchuck/
@@ -19840,6 +19843,7 @@ https://gamedistribution.com/games/obby%3A-gym-simulator-escape/
 https://gamedistribution.com/games/obby%3A-pogo-parkour!/
 https://gamedistribution.com/games/obby-%2B1-pet-every-seconds/
 https://gamedistribution.com/games/obby-3d-sprunki-parkour/
+https://gamedistribution.com/games/obby-and-dead-river/
 https://gamedistribution.com/games/obby-blox-hook/
 https://gamedistribution.com/games/obby-blox-parkour/
 https://gamedistribution.com/games/obby-climb-racing/
