@@ -5704,6 +5704,7 @@ https://gamedistribution.com/games/bola/
 https://gamedistribution.com/games/boller/
 https://gamedistribution.com/games/bolt-climb%3A-tap-to-the-top/
 https://gamedistribution.com/games/bolts-and-nuts-puzzle/
+https://gamedistribution.com/games/bolts-and-nuts-sorting/
 https://gamedistribution.com/games/bolts-and-nuts/
 https://gamedistribution.com/games/bolts/
 https://gamedistribution.com/games/bomb-balls-3d/
@@ -6514,6 +6515,7 @@ https://gamedistribution.com/games/burnout-night-racing/
 https://gamedistribution.com/games/burst-em-all/
 https://gamedistribution.com/games/bus-city-parking-simulator/
 https://gamedistribution.com/games/bus-collect/
+https://gamedistribution.com/games/bus-color-jam/
 https://gamedistribution.com/games/bus-differences/
 https://gamedistribution.com/games/bus-driver-3d-bus-driving-simulator-game/
 https://gamedistribution.com/games/bus-driver-simulator-3d/
@@ -12636,6 +12638,7 @@ https://gamedistribution.com/games/forest-runner/
 https://gamedistribution.com/games/forest-spot-the-difference/
 https://gamedistribution.com/games/forest-survival-simulator/
 https://gamedistribution.com/games/forest-survival/
+https://gamedistribution.com/games/forest-survivor-rougelike/
 https://gamedistribution.com/games/forest-tiles/
 https://gamedistribution.com/games/forest-village-getaway-episode-1/
 https://gamedistribution.com/games/forest-village-getaway-episode-2/
@@ -12717,6 +12720,7 @@ https://gamedistribution.com/games/free-fall/
 https://gamedistribution.com/games/free-flow/
 https://gamedistribution.com/games/free-gear/
 https://gamedistribution.com/games/free-helicopter-flying-simulator/
+https://gamedistribution.com/games/free-hoops/
 https://gamedistribution.com/games/free-jelly/
 https://gamedistribution.com/games/free-kick/
 https://gamedistribution.com/games/free-new-york-taxi-driver-3d-sim/
@@ -16222,6 +16226,7 @@ https://gamedistribution.com/games/k-pop-hunter-fashion/
 https://gamedistribution.com/games/k-pop-hunter-halloween-fashion/
 https://gamedistribution.com/games/k-pop-new-years-concert-2/
 https://gamedistribution.com/games/k-pop-puzzle-hunters/
+https://gamedistribution.com/games/k-wedding-dream/
 https://gamedistribution.com/games/kage-ninjas-revenge/
 https://gamedistribution.com/games/kaiten-sushi/
 https://gamedistribution.com/games/kangaroo-mouse-flying-cheese/
