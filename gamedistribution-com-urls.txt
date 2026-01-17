@@ -3973,6 +3973,7 @@ https://gamedistribution.com/games/arrow-twist/
 https://gamedistribution.com/games/arrow-wave/
 https://gamedistribution.com/games/arrower/
 https://gamedistribution.com/games/arrows-adventure/
+https://gamedistribution.com/games/arrows-puzzle-escape/
 https://gamedistribution.com/games/arrows/
 https://gamedistribution.com/games/arrozoid/
 https://gamedistribution.com/games/arsenal-online/
@@ -7884,6 +7885,7 @@ https://gamedistribution.com/games/classic-jeep-sim-parking-2020/
 https://gamedistribution.com/games/classic-klondike-solitaire-card-game/
 https://gamedistribution.com/games/classic-klondike-solitaire/
 https://gamedistribution.com/games/classic-labyrinth-3d-maze/
+https://gamedistribution.com/games/classic-mahjong-1/
 https://gamedistribution.com/games/classic-mahjong-deluxe/
 https://gamedistribution.com/games/classic-mahjong/
 https://gamedistribution.com/games/classic-match3/
@@ -14610,6 +14612,7 @@ https://gamedistribution.com/games/heroes-of-match-3/
 https://gamedistribution.com/games/heroes-of-myths-talpa/
 https://gamedistribution.com/games/heroes-towers/
 https://gamedistribution.com/games/heroic-dash/
+https://gamedistribution.com/games/heroic-knight/
 https://gamedistribution.com/games/heroic-quest/
 https://gamedistribution.com/games/heroic-survival/
 https://gamedistribution.com/games/heros-journey/

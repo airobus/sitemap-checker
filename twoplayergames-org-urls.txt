@@ -1074,6 +1074,7 @@ https://www.twoplayergames.org/game/horse-riding-simulator
 https://www.twoplayergames.org/game/horse-simulator-3d
 https://www.twoplayergames.org/game/hot-dog-bush
 https://www.twoplayergames.org/game/hotel-manager
+https://www.twoplayergames.org/game/hotgear
 https://www.twoplayergames.org/game/house-of-hazards
 https://www.twoplayergames.org/game/house-of-wolves
 https://www.twoplayergames.org/game/hover-havoc
@@ -1136,6 +1137,7 @@ https://www.twoplayergames.org/game/jelly-run-2048
 https://www.twoplayergames.org/game/jenga
 https://www.twoplayergames.org/game/jet-boat-racing
 https://www.twoplayergames.org/game/jetpack-joyride
+https://www.twoplayergames.org/game/jetpack-jump
 https://www.twoplayergames.org/game/jewel-burst
 https://www.twoplayergames.org/game/jigsaw-puzzle
 https://www.twoplayergames.org/game/jim-loves-mary
@@ -1440,6 +1442,7 @@ https://www.twoplayergames.org/game/obby-99-nights-escape-1-speed
 https://www.twoplayergames.org/game/obby-blox-parkour
 https://www.twoplayergames.org/game/obby-climb-and-jump
 https://www.twoplayergames.org/game/obby-climb-and-slide
+https://www.twoplayergames.org/game/obby-dead-river
 https://www.twoplayergames.org/game/obby-dig-to-the-center-of-the-earth
 https://www.twoplayergames.org/game/obby-disaster-survival
 https://www.twoplayergames.org/game/obby-escape-prison-rat-dance
