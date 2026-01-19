@@ -207,6 +207,7 @@ https://www.crazygames.com/game/apple-shooter
 https://www.crazygames.com/game/aqua-miner-underwater-drilling-game
 https://www.crazygames.com/game/aquapark-balls-party
 https://www.crazygames.com/game/aquapark-io-yky
+https://www.crazygames.com/game/arcade-casino-tycoon
 https://www.crazygames.com/game/arcade-empire
 https://www.crazygames.com/game/arcade-rope
 https://www.crazygames.com/game/archer-clash-ftj
@@ -1187,6 +1188,7 @@ https://www.crazygames.com/game/escape-20-rooms
 https://www.crazygames.com/game/escape-evil-granny-viz
 https://www.crazygames.com/game/escape-from-pizzeria
 https://www.crazygames.com/game/escape-from-prison-multiplayer
+https://www.crazygames.com/game/escape-from-school-angry-teacher
 https://www.crazygames.com/game/escape-from-the-bunker-survival
 https://www.crazygames.com/game/escape-from-zombies
 https://www.crazygames.com/game/escape-game-room-with-a-lamp
@@ -1214,6 +1216,7 @@ https://www.crazygames.com/game/evo-fish
 https://www.crazygames.com/game/evo-gears
 https://www.crazygames.com/game/evohero---idle-gladiators
 https://www.crazygames.com/game/evolution-factor-1
+https://www.crazygames.com/game/evolutionary-tribe-mqd
 https://www.crazygames.com/game/evolve
 https://www.crazygames.com/game/evowarsio
 https://www.crazygames.com/game/exhibit-of-sorrows
@@ -2080,6 +2083,7 @@ https://www.crazygames.com/game/machine-gun-gardener
 https://www.crazygames.com/game/machine-room-escape
 https://www.crazygames.com/game/mad-boss
 https://www.crazygames.com/game/mad-cars-racing-and-crash
+https://www.crazygames.com/game/mad-day-2-special
 https://www.crazygames.com/game/mad-day-special
 https://www.crazygames.com/game/mad-evolution-idle-merge
 https://www.crazygames.com/game/mad-guns---battle-royale-ndd
@@ -3782,7 +3786,6 @@ https://www.crazygames.com/game/void-scrappers
 https://www.crazygames.com/game/void-siege-jze
 https://www.crazygames.com/game/volcano-island
 https://www.crazygames.com/game/volley-random
-https://www.crazygames.com/game/vortex-9-ubs
 https://www.crazygames.com/game/vortex-fruit-drop
 https://www.crazygames.com/game/vortex-io
 https://www.crazygames.com/game/voxel-playground-ragdoll-noob
@@ -4120,7 +4123,6 @@ https://www.crazygames.com/t/battle/5
 https://www.crazygames.com/t/battle/6
 https://www.crazygames.com/t/battle/7
 https://www.crazygames.com/t/battle/8
-https://www.crazygames.com/t/battle/9
 https://www.crazygames.com/t/battleship
 https://www.crazygames.com/t/bike
 https://www.crazygames.com/t/bike/2
