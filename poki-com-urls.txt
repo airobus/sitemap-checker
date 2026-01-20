@@ -12,7 +12,6 @@ https://poki.com/en/g/2-player-city-racing
 https://poki.com/en/g/2-player-city-racing-2
 https://poki.com/en/g/2048
 https://poki.com/en/g/2048-balls-number-puzzle
-https://poki.com/en/g/3-Mice
 https://poki.com/en/g/3d-arena-racing
 https://poki.com/en/g/3d-car-simulator
 https://poki.com/en/g/3d-chibi-dressup
@@ -368,7 +367,6 @@ https://poki.com/en/g/crafty-cooks
 https://poki.com/en/g/crazy-bikes
 https://poki.com/en/g/crazy-cars
 https://poki.com/en/g/crazy-descent
-https://poki.com/en/g/crazy-freekick
 https://poki.com/en/g/crazy-party
 https://poki.com/en/g/crazy-pig-simulator
 https://poki.com/en/g/crazy-platez
@@ -561,7 +559,6 @@ https://poki.com/en/g/fatcat
 https://poki.com/en/g/fear-response
 https://poki.com/en/g/feets-doctor-urgent-care
 https://poki.com/en/g/festival-vibes-makeup
-https://poki.com/en/g/fidget-spinner-high-score
 https://poki.com/en/g/final-ninja-html5
 https://poki.com/en/g/final-ninja-zero-html5
 https://poki.com/en/g/find-a-cat
@@ -583,7 +580,6 @@ https://poki.com/en/g/flags
 https://poki.com/en/g/flags-quiz
 https://poki.com/en/g/fleeing-the-complex
 https://poki.com/en/g/flick-goal
-https://poki.com/en/g/flicking-soccer
 https://poki.com/en/g/flip-bros
 https://poki.com/en/g/flip-runner
 https://poki.com/en/g/flip-the-bottle
@@ -722,7 +718,6 @@ https://poki.com/en/g/gswitch
 https://poki.com/en/g/gswitch-2
 https://poki.com/en/g/guess-the-emojis
 https://poki.com/en/g/guess-what
-https://poki.com/en/g/guess-who
 https://poki.com/en/g/gun-fu-stickman-2
 https://poki.com/en/g/gun-master-2
 https://poki.com/en/g/gym-masters
@@ -895,7 +890,6 @@ https://poki.com/en/g/like-a-king
 https://poki.com/en/g/limited-survive
 https://poki.com/en/g/line-connect
 https://poki.com/en/g/line-up-dots
-https://poki.com/en/g/linebacker-alley-2
 https://poki.com/en/g/lines-to-fill
 https://poki.com/en/g/little-alchemy-2
 https://poki.com/en/g/little-cabin-in-the-woods
@@ -1162,7 +1156,6 @@ https://poki.com/en/g/pick-up-associations
 https://poki.com/en/g/pickcrafter
 https://poki.com/en/g/picnic-penguin
 https://poki.com/en/g/picture-it
-https://poki.com/en/g/pinball-space-adventure
 https://poki.com/en/g/ping-pong-go
 https://poki.com/en/g/ping-pong-html5
 https://poki.com/en/g/pink
@@ -1288,7 +1281,6 @@ https://poki.com/en/g/rock-paper-clicker
 https://poki.com/en/g/rocket-clash-3d
 https://poki.com/en/g/rocket-road
 https://poki.com/en/g/rocket-soccer-derby
-https://poki.com/en/g/rocking-wheels
 https://poki.com/en/g/rockitty
 https://poki.com/en/g/rodeo-stampede-mountains
 https://poki.com/en/g/rodeo-stampede-savannah
@@ -1638,7 +1630,6 @@ https://poki.com/en/g/throw-it-higher
 https://poki.com/en/g/thumb-fighter
 https://poki.com/en/g/thumb-fighter-christmas
 https://poki.com/en/g/thumb-fighter-halloween
-https://poki.com/en/g/thunderdogs-io
 https://poki.com/en/g/thung-wars
 https://poki.com/en/g/tic-tac-toe
 https://poki.com/en/g/tic-tac-toe-3
@@ -1798,6 +1789,7 @@ https://poki.com/en/g/yeah-bunny
 https://poki.com/en/g/yeah-bunny-2
 https://poki.com/en/g/yohoho-io
 https://poki.com/en/g/yokai-dungeon
+https://poki.com/en/g/you-monster
 https://poki.com/en/g/your-love-calculator
 https://poki.com/en/g/yummy-chocolate-factory
 https://poki.com/en/g/yummy-churros-ice-cream
