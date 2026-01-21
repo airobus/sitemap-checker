@@ -124,7 +124,7 @@ https://poki.com/en/g/bike-trials-winter-1
 https://poki.com/en/g/bird-jumper
 https://poki.com/en/g/black-html5
 https://poki.com/en/g/blacksmith-tycoon
-https://poki.com/en/g/blacktop-police-chase
+https://poki.com/en/g/blacktop-police-chase-3e8505f8
 https://poki.com/en/g/blast-red
 https://poki.com/en/g/blaze-drifter
 https://poki.com/en/g/blightborne
@@ -370,6 +370,7 @@ https://poki.com/en/g/crazy-descent
 https://poki.com/en/g/crazy-party
 https://poki.com/en/g/crazy-pig-simulator
 https://poki.com/en/g/crazy-platez
+https://poki.com/en/g/crazy-race
 https://poki.com/en/g/crazy-road-trip
 https://poki.com/en/g/cricket-hero
 https://poki.com/en/g/cricket-superstar
@@ -1431,6 +1432,7 @@ https://poki.com/en/g/sparkanoid
 https://poki.com/en/g/spectrum
 https://poki.com/en/g/speed-king
 https://poki.com/en/g/speed-pool-king
+https://poki.com/en/g/speed-stars
 https://poki.com/en/g/spent-shells
 https://poki.com/en/g/spider-solitaire
 https://poki.com/en/g/spider-solitaire-ctl

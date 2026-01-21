@@ -7291,6 +7291,7 @@ https://gamedistribution.com/games/challenge-your-friends/
 https://gamedistribution.com/games/chameleon-want-eat/
 https://gamedistribution.com/games/champion-archer/
 https://gamedistribution.com/games/champion-soccer/
+https://gamedistribution.com/games/champions-fc/
 https://gamedistribution.com/games/champions-slot/
 https://gamedistribution.com/games/change-square/
 https://gamedistribution.com/games/change-the-color/
@@ -19874,6 +19875,7 @@ https://gamedistribution.com/games/obby-rainbow-tower/
 https://gamedistribution.com/games/obby-rescue-mission/
 https://gamedistribution.com/games/obby-survive-parkour/
 https://gamedistribution.com/games/obby-the-legendary-dragon/
+https://gamedistribution.com/games/obby-toilet-line/
 https://gamedistribution.com/games/obby-tower-parkour-climb/
 https://gamedistribution.com/games/obby-tower/
 https://gamedistribution.com/games/object-hunt/
@@ -29514,6 +29516,7 @@ https://gamedistribution.com/games/zombie-survival-1/
 https://gamedistribution.com/games/zombie-survival-2/
 https://gamedistribution.com/games/zombie-survival-3/
 https://gamedistribution.com/games/zombie-survival-gun-3d/
+https://gamedistribution.com/games/zombie-survival-shooter-1/
 https://gamedistribution.com/games/zombie-survival-shooter/
 https://gamedistribution.com/games/zombie-survival/
 https://gamedistribution.com/games/zombie-survivor-fight/
