@@ -281,6 +281,7 @@ https://poki.com/en/g/cat-coffee-shop
 https://poki.com/en/g/cat-gunner-super-zombie-shoot
 https://poki.com/en/g/cat-pizza
 https://poki.com/en/g/cat-room-blast
+https://poki.com/en/g/cat-simulator
 https://poki.com/en/g/catch-the-candy-html5
 https://poki.com/en/g/catpad
 https://poki.com/en/g/cats
@@ -919,6 +920,7 @@ https://poki.com/en/g/mad-day
 https://poki.com/en/g/mad-day-2
 https://poki.com/en/g/mad-scientist-clicker-idle-crazy-inc
 https://poki.com/en/g/mad-skills-motocross-2
+https://poki.com/en/g/mad-skills-rallycross
 https://poki.com/en/g/mad-truck-challenge-special
 https://poki.com/en/g/madzoong
 https://poki.com/en/g/mafia-billiard-tricks
@@ -1508,8 +1510,6 @@ https://poki.com/en/g/stumped
 https://poki.com/en/g/stunt-bike-extreme
 https://poki.com/en/g/stunt-car-challenge-3
 https://poki.com/en/g/stunt-car-extreme
-https://poki.com/en/g/stupid-zombies
-https://poki.com/en/g/stupid-zombies-2
 https://poki.com/en/g/stupidella-1
 https://poki.com/en/g/stupidella-2
 https://poki.com/en/g/stupidella-3
