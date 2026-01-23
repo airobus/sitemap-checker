@@ -1225,6 +1225,7 @@ https://www.twoplayergames.org/game/ludo
 https://www.twoplayergames.org/game/ludo-hero
 https://www.twoplayergames.org/game/ludo-online
 https://www.twoplayergames.org/game/ludo-wars
+https://www.twoplayergames.org/game/luxury-highway-cars
 https://www.twoplayergames.org/game/mace-of-janissary
 https://www.twoplayergames.org/game/machine-city-balls
 https://www.twoplayergames.org/game/mad-defense
@@ -1448,6 +1449,7 @@ https://www.twoplayergames.org/game/obby-disaster-survival
 https://www.twoplayergames.org/game/obby-dragon-training
 https://www.twoplayergames.org/game/obby-escape-prison-rat-dance
 https://www.twoplayergames.org/game/obby-extreme-cart-ride
+https://www.twoplayergames.org/game/obby-fish-training
 https://www.twoplayergames.org/game/obby-fly-the-farthest-in-an-airplane
 https://www.twoplayergames.org/game/obby-grow-with-every-step
 https://www.twoplayergames.org/game/obby-gym-simulator-escape
@@ -1459,11 +1461,13 @@ https://www.twoplayergames.org/game/obby-prison-escape-speed
 https://www.twoplayergames.org/game/obby-rainbow-tower
 https://www.twoplayergames.org/game/obby-roads-io
 https://www.twoplayergames.org/game/obby-survive-parkour
+https://www.twoplayergames.org/game/obby-swimming-competition
 https://www.twoplayergames.org/game/obby-the-legendary-dragon
 https://www.twoplayergames.org/game/obby-toilet-line
 https://www.twoplayergames.org/game/obby-tower-parkour-climb
 https://www.twoplayergames.org/game/obby-training-by-car
 https://www.twoplayergames.org/game/obby-training-on-the-train
+https://www.twoplayergames.org/game/obby-tsunami-1-speed
 https://www.twoplayergames.org/game/obby-universe-mini-games
 https://www.twoplayergames.org/game/obby-working-as-a-firefighter
 https://www.twoplayergames.org/game/off-road-rain-cargo-simulator
@@ -1660,6 +1664,7 @@ https://www.twoplayergames.org/game/real-driving-simulator
 https://www.twoplayergames.org/game/real-fight
 https://www.twoplayergames.org/game/real-flight-simulator
 https://www.twoplayergames.org/game/real-football
+https://www.twoplayergames.org/game/real-football-3d
 https://www.twoplayergames.org/game/real-love-tester
 https://www.twoplayergames.org/game/real-mtb-downhill-3d
 https://www.twoplayergames.org/game/real-taxi-driver

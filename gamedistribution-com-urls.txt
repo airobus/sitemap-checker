@@ -3967,6 +3967,7 @@ https://gamedistribution.com/games/arrow-count-master/
 https://gamedistribution.com/games/arrow-fest/
 https://gamedistribution.com/games/arrow-hit/
 https://gamedistribution.com/games/arrow-master/
+https://gamedistribution.com/games/arrow-out-and-linker/
 https://gamedistribution.com/games/arrow-shot/
 https://gamedistribution.com/games/arrow-survival%3A-15-seconds/
 https://gamedistribution.com/games/arrow-twist/
@@ -4783,6 +4784,7 @@ https://gamedistribution.com/games/basket-slam-dunk-2/
 https://gamedistribution.com/games/basket-slam-dunk/
 https://gamedistribution.com/games/basket-slam/
 https://gamedistribution.com/games/basket-sport-stars/
+https://gamedistribution.com/games/basket-swap/
 https://gamedistribution.com/games/basket-swooshes-plus/
 https://gamedistribution.com/games/basketball-1/
 https://gamedistribution.com/games/basketball-2/
@@ -5965,6 +5967,7 @@ https://gamedistribution.com/games/braindom-2/
 https://gamedistribution.com/games/braindom/
 https://gamedistribution.com/games/brainrot-a-difference-challenge/
 https://gamedistribution.com/games/brainrot-boing-boing-merge/
+https://gamedistribution.com/games/brainrot-bridge-race-3d/
 https://gamedistribution.com/games/brainrot-cleaning/
 https://gamedistribution.com/games/brainrot-click-to-hatch/
 https://gamedistribution.com/games/brainrot-clicker/
@@ -6814,6 +6817,7 @@ https://gamedistribution.com/games/captain-of-the-sea-difference/
 https://gamedistribution.com/games/captain-sniper/
 https://gamedistribution.com/games/captain-snowball/
 https://gamedistribution.com/games/capture-the-chickens/
+https://gamedistribution.com/games/capybara-block-blast/
 https://gamedistribution.com/games/capybara-block-drop/
 https://gamedistribution.com/games/capybara-block-shot/
 https://gamedistribution.com/games/capybara-coin-master/
@@ -8013,6 +8017,7 @@ https://gamedistribution.com/games/coffee-puzzle/
 https://gamedistribution.com/games/coffee-stack/
 https://gamedistribution.com/games/coffin-dancer/
 https://gamedistribution.com/games/coin-clicker/
+https://gamedistribution.com/games/coin-color-sort/
 https://gamedistribution.com/games/coin-craze/
 https://gamedistribution.com/games/coin-dozer/
 https://gamedistribution.com/games/coin-empire/
@@ -9393,6 +9398,7 @@ https://gamedistribution.com/games/deadly-space-stories-ai-gone-bad/
 https://gamedistribution.com/games/deads-on-the-road/
 https://gamedistribution.com/games/deadswitch-3/
 https://gamedistribution.com/games/dear-grim-reaper/
+https://gamedistribution.com/games/dear-island/
 https://gamedistribution.com/games/death-alley/
 https://gamedistribution.com/games/death-ball/
 https://gamedistribution.com/games/death-car-racing-2020-highway-racing-game/
@@ -12858,6 +12864,7 @@ https://gamedistribution.com/games/fruit-doctor/
 https://gamedistribution.com/games/fruit-escape-draw-line/
 https://gamedistribution.com/games/fruit-farm-frenzy/
 https://gamedistribution.com/games/fruit-farm/
+https://gamedistribution.com/games/fruit-goals-match/
 https://gamedistribution.com/games/fruit-hunting/
 https://gamedistribution.com/games/fruit-jam-1/
 https://gamedistribution.com/games/fruit-jam-merge-puzzle-game/
@@ -17332,6 +17339,7 @@ https://gamedistribution.com/games/luxury-bath-design/
 https://gamedistribution.com/games/luxury-brand-wedding-gowns/
 https://gamedistribution.com/games/luxury-cars-puzzle/
 https://gamedistribution.com/games/luxury-duplex-house-escape/
+https://gamedistribution.com/games/luxury-highway-cars/
 https://gamedistribution.com/games/luxury-limo-taxi-driver-city-game/
 https://gamedistribution.com/games/luxury-medium-suv-puzzle/
 https://gamedistribution.com/games/luxury-motorbike-puzzle/
@@ -18024,6 +18032,7 @@ https://gamedistribution.com/games/mega-truck/
 https://gamedistribution.com/games/mega-water-surface-car-racing-game-3d/
 https://gamedistribution.com/games/megacity-hop/
 https://gamedistribution.com/games/melodic-tiles/
+https://gamedistribution.com/games/melon-drop%3A-fruit-merge-master/
 https://gamedistribution.com/games/melonman/
 https://gamedistribution.com/games/melting-ball/
 https://gamedistribution.com/games/melty-time/
@@ -23962,6 +23971,7 @@ https://gamedistribution.com/games/sheepop-1/
 https://gamedistribution.com/games/shelf-shift-match/
 https://gamedistribution.com/games/shelf-sweep/
 https://gamedistribution.com/games/shell-bedroom-escape/
+https://gamedistribution.com/games/shell-strikers/
 https://gamedistribution.com/games/shelly's-barbie-haircut/
 https://gamedistribution.com/games/shelly's-face-painting-designs/
 https://gamedistribution.com/games/shelter-security%3A-gatekeeper-simulator/
@@ -26688,6 +26698,7 @@ https://gamedistribution.com/games/tap-and-go-deluxe-1/
 https://gamedistribution.com/games/tap-and-go-deluxe/
 https://gamedistribution.com/games/tap-and-go-ja/
 https://gamedistribution.com/games/tap-and-go/
+https://gamedistribution.com/games/tap-away-block-puzzle-3d/
 https://gamedistribution.com/games/tap-away/
 https://gamedistribution.com/games/tap-block-puzzle%3A-smash-game/
 https://gamedistribution.com/games/tap-candy-sweets-clicker/
