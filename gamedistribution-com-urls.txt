@@ -3735,6 +3735,7 @@ https://gamedistribution.com/games/annie-winter-dress/
 https://gamedistribution.com/games/annies-tailor-course/
 https://gamedistribution.com/games/annihilate/
 https://gamedistribution.com/games/anniversary-gift/
+https://gamedistribution.com/games/anomaly-content-record/
 https://gamedistribution.com/games/anrokku/
 https://gamedistribution.com/games/ant-colony/
 https://gamedistribution.com/games/ant-smash/
@@ -10247,6 +10248,7 @@ https://gamedistribution.com/games/dream-wedding-planner/
 https://gamedistribution.com/games/dream-wedding/
 https://gamedistribution.com/games/dreamfields/
 https://gamedistribution.com/games/dreamlike-room/
+https://gamedistribution.com/games/dreams/
 https://gamedistribution.com/games/dreamy-home/
 https://gamedistribution.com/games/dreamy-jewel/
 https://gamedistribution.com/games/dress-design-for-princess/
@@ -12842,6 +12844,7 @@ https://gamedistribution.com/games/frozen-winter-mania/
 https://gamedistribution.com/games/fruit-adventure/
 https://gamedistribution.com/games/fruit-balls%3A-juicy-fusion/
 https://gamedistribution.com/games/fruit-blade/
+https://gamedistribution.com/games/fruit-block-tetra-puzzle/
 https://gamedistribution.com/games/fruit-blocks-match/
 https://gamedistribution.com/games/fruit-blocks-puzzles/
 https://gamedistribution.com/games/fruit-boom/
@@ -17436,6 +17439,7 @@ https://gamedistribution.com/games/magic-fast-food/
 https://gamedistribution.com/games/magic-finger-puzzle-3d/
 https://gamedistribution.com/games/magic-finger/
 https://gamedistribution.com/games/magic-flow/
+https://gamedistribution.com/games/magic-forest-merge-the-secrets/
 https://gamedistribution.com/games/magic-forest-tiles-puzzle/
 https://gamedistribution.com/games/magic-girl-escape-1/
 https://gamedistribution.com/games/magic-girl-escape/
@@ -17866,6 +17870,7 @@ https://gamedistribution.com/games/matera-casa-grotta-di-vico-solitario-escape/
 https://gamedistribution.com/games/math-and-dice-kids-educational-game/
 https://gamedistribution.com/games/math-attack/
 https://gamedistribution.com/games/math-balls/
+https://gamedistribution.com/games/math-block/
 https://gamedistribution.com/games/math-box-balance/
 https://gamedistribution.com/games/math-boxing-comparison/
 https://gamedistribution.com/games/math-bug/
@@ -22425,6 +22430,7 @@ https://gamedistribution.com/games/racing-horizon/
 https://gamedistribution.com/games/racing-island/
 https://gamedistribution.com/games/racing-jigsaw-deluxe/
 https://gamedistribution.com/games/racing-jump/
+https://gamedistribution.com/games/racing-master-3d/
 https://gamedistribution.com/games/racing-motorbike-jigsaw/
 https://gamedistribution.com/games/racing-motorbike-slide/
 https://gamedistribution.com/games/racing-motorcycles-memory/
@@ -23274,6 +23280,7 @@ https://gamedistribution.com/games/rotating-wheel-game-2d/
 https://gamedistribution.com/games/rotation-blast/
 https://gamedistribution.com/games/rotative-pipes-puzzle/
 https://gamedistribution.com/games/rotator/
+https://gamedistribution.com/games/rough-ball/
 https://gamedistribution.com/games/roulette-3d/
 https://gamedistribution.com/games/round-6%3A-the-game/
 https://gamedistribution.com/games/round-hit-3d/
@@ -27530,6 +27537,7 @@ https://gamedistribution.com/games/toy-match-1/
 https://gamedistribution.com/games/toy-match-2/
 https://gamedistribution.com/games/toy-match-3/
 https://gamedistribution.com/games/toy-match/
+https://gamedistribution.com/games/toy-rumble-3d/
 https://gamedistribution.com/games/toy-shooter/
 https://gamedistribution.com/games/toy-shop-jigsaw-puzzle/
 https://gamedistribution.com/games/toy-shop/
