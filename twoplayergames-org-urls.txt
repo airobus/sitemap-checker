@@ -864,6 +864,7 @@ https://www.twoplayergames.org/game/from-nerd-to-popular-ballerina-cappuccina
 https://www.twoplayergames.org/game/frontwars-io
 https://www.twoplayergames.org/game/frost-land-snow-survival
 https://www.twoplayergames.org/game/fruit-break
+https://www.twoplayergames.org/game/fruit-merge-match-game
 https://www.twoplayergames.org/game/fruit-ninja
 https://www.twoplayergames.org/game/fun-basketball
 https://www.twoplayergames.org/game/fun-football
@@ -1453,6 +1454,7 @@ https://www.twoplayergames.org/game/obby-fish-training
 https://www.twoplayergames.org/game/obby-fly-the-farthest-in-an-airplane
 https://www.twoplayergames.org/game/obby-grow-with-every-step
 https://www.twoplayergames.org/game/obby-gym-simulator-escape
+https://www.twoplayergames.org/game/obby-minecart-climb-and-slide
 https://www.twoplayergames.org/game/obby-on-a-bike
 https://www.twoplayergames.org/game/obby-parkour-ultimate
 https://www.twoplayergames.org/game/obby-pogo-parkour
