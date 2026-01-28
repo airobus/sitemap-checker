@@ -795,6 +795,7 @@ https://www.twoplayergames.org/game/fish-eat-fish
 https://www.twoplayergames.org/game/fish-eat-getting-big
 https://www.twoplayergames.org/game/fish-eat-grow-big
 https://www.twoplayergames.org/game/fish-eat-grow-mega
+https://www.twoplayergames.org/game/fish-eat-io
 https://www.twoplayergames.org/game/fish-stab-getting-big
 https://www.twoplayergames.org/game/fishing-dash
 https://www.twoplayergames.org/game/fishing-io
@@ -2007,6 +2008,7 @@ https://www.twoplayergames.org/game/steal-brainrot-eggs
 https://www.twoplayergames.org/game/steal-car-duel
 https://www.twoplayergames.org/game/stealing-the-diamond
 https://www.twoplayergames.org/game/stick-archers-battle
+https://www.twoplayergames.org/game/stick-arena-battle
 https://www.twoplayergames.org/game/stick-badminton
 https://www.twoplayergames.org/game/stick-badminton-2
 https://www.twoplayergames.org/game/stick-clash-online

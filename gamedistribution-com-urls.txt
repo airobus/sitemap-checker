@@ -8075,6 +8075,7 @@ https://gamedistribution.com/games/color-band-3d/
 https://gamedistribution.com/games/color-bars/
 https://gamedistribution.com/games/color-blast-3d/
 https://gamedistribution.com/games/color-blast/
+https://gamedistribution.com/games/color-block-blast-3/
 https://gamedistribution.com/games/color-block-jam-1/
 https://gamedistribution.com/games/color-block-jam-2/
 https://gamedistribution.com/games/color-block-jam/
@@ -9705,6 +9706,7 @@ https://gamedistribution.com/games/dinosaur-hunter-survival/
 https://gamedistribution.com/games/dinosaur-hunting-dino-attack-3d/
 https://gamedistribution.com/games/dinosaur-memory-challenge-1/
 https://gamedistribution.com/games/dinosaur-memory-challenge/
+https://gamedistribution.com/games/dinosaur-rampage/
 https://gamedistribution.com/games/dinosaur-run/
 https://gamedistribution.com/games/dinosaur-shifting-run/
 https://gamedistribution.com/games/dinosaur-spot-the-difference/
@@ -18689,6 +18691,7 @@ https://gamedistribution.com/games/modern-train-driving-simulator-city-train-gam
 https://gamedistribution.com/games/mohex/
 https://gamedistribution.com/games/mojicon-emoji-connect/
 https://gamedistribution.com/games/mojicon-fruit-connect/
+https://gamedistribution.com/games/mojicon-love-connect/
 https://gamedistribution.com/games/mojicon-winter-connect/
 https://gamedistribution.com/games/mojo-match-3d/
 https://gamedistribution.com/games/mole%3A-the-first-scavange/
@@ -23648,6 +23651,7 @@ https://gamedistribution.com/games/sausage-dog/
 https://gamedistribution.com/games/sausage-flip-1/
 https://gamedistribution.com/games/sausage-flip-free/
 https://gamedistribution.com/games/sausage-flip/
+https://gamedistribution.com/games/sausage-man-shooting-adventure/
 https://gamedistribution.com/games/sausage-rivals-3d/
 https://gamedistribution.com/games/sausage-run/
 https://gamedistribution.com/games/sausage-rush/
@@ -26474,6 +26478,7 @@ https://gamedistribution.com/games/sweet-candy/
 https://gamedistribution.com/games/sweet-cats-coloring/
 https://gamedistribution.com/games/sweet-cotton-candy-maker/
 https://gamedistribution.com/games/sweet-crush/
+https://gamedistribution.com/games/sweet-dessert-hole/
 https://gamedistribution.com/games/sweet-donut-maker-bakery/
 https://gamedistribution.com/games/sweet-elephants-jigsaw/
 https://gamedistribution.com/games/sweet-fairy-dressup/

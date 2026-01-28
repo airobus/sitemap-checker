@@ -2214,6 +2214,7 @@ https://www.crazygames.com/game/merge-cooking-game
 https://www.crazygames.com/game/merge-defense
 https://www.crazygames.com/game/merge-dig
 https://www.crazygames.com/game/merge-duel
+https://www.crazygames.com/game/merge-fantasy
 https://www.crazygames.com/game/merge-fruits
 https://www.crazygames.com/game/merge-galaxy
 https://www.crazygames.com/game/merge-happy-planets
@@ -2270,6 +2271,7 @@ https://www.crazygames.com/game/mineblox---guess-the-recipe
 https://www.crazygames.com/game/mineclicker
 https://www.crazygames.com/game/mineclicker-2
 https://www.crazygames.com/game/minecube
+https://www.crazygames.com/game/mineenergy2
 https://www.crazygames.com/game/minemerge
 https://www.crazygames.com/game/miner-cat-4
 https://www.crazygames.com/game/miner-s-odyssey
@@ -2577,6 +2579,7 @@ https://www.crazygames.com/game/only-up-balls
 https://www.crazygames.com/game/only-up-craft
 https://www.crazygames.com/game/open-100-doors
 https://www.crazygames.com/game/open-house
+https://www.crazygames.com/game/openfront-gsw
 https://www.crazygames.com/game/openguessr
 https://www.crazygames.com/game/operation-desert-road-kck
 https://www.crazygames.com/game/opposite-day
@@ -4169,6 +4172,7 @@ https://www.crazygames.com/t/crafting
 https://www.crazygames.com/t/crash
 https://www.crazygames.com/t/cricket
 https://www.crazygames.com/t/cute
+https://www.crazygames.com/t/daily
 https://www.crazygames.com/t/defense
 https://www.crazygames.com/t/defense/2
 https://www.crazygames.com/t/defense/3
