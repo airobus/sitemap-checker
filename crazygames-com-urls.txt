@@ -583,6 +583,7 @@ https://www.crazygames.com/game/car-clash-2
 https://www.crazygames.com/game/car-crash-simulator-royale
 https://www.crazygames.com/game/car-drawing
 https://www.crazygames.com/game/car-eats-car-arctic-adventure
+https://www.crazygames.com/game/car-eats-car-dungeon-adventure-lfp
 https://www.crazygames.com/game/car-eats-car-underwater-adventure
 https://www.crazygames.com/game/car-eats-car-volcanic-adventure
 https://www.crazygames.com/game/car-eats-car-winter-adventure-ajd
@@ -1711,6 +1712,7 @@ https://www.crazygames.com/game/i-dont-even-know
 https://www.crazygames.com/game/ibiza-foam-party
 https://www.crazygames.com/game/ice-cream-cafe
 https://www.crazygames.com/game/ice-cream-fever-cooking-game
+https://www.crazygames.com/game/ice-cream-inc-xkw
 https://www.crazygames.com/game/ice-dodo
 https://www.crazygames.com/game/ice-fishing
 https://www.crazygames.com/game/ice-skating-ballerina
@@ -2533,6 +2535,7 @@ https://www.crazygames.com/game/obby-ride-carts
 https://www.crazygames.com/game/obby-sprunki-pet-world
 https://www.crazygames.com/game/obby-tame-the-legendary-dragon
 https://www.crazygames.com/game/obby-the-royal-race
+https://www.crazygames.com/game/obby-tycoon-build-the-city
 https://www.crazygames.com/game/obby-vs-brainrot
 https://www.crazygames.com/game/obby-with-friends-draw-and-jump
 https://www.crazygames.com/game/obby-with-friends-online
@@ -2698,7 +2701,6 @@ https://www.crazygames.com/game/pixel-apocalypse-infection-begin
 https://www.crazygames.com/game/pixel-combat-zombies-strike
 https://www.crazygames.com/game/pixel-force
 https://www.crazygames.com/game/pixel-gun-3d
-https://www.crazygames.com/game/pixel-gun-apocalypse-5
 https://www.crazygames.com/game/pixel-hero-warfare
 https://www.crazygames.com/game/pixel-mine-challenge
 https://www.crazygames.com/game/pixel-on-titan-aot
@@ -3376,6 +3378,7 @@ https://www.crazygames.com/game/strikeforce-kitty
 https://www.crazygames.com/game/striker-dummies
 https://www.crazygames.com/game/stronghold-dude
 https://www.crazygames.com/game/struckd---3d-game-creator
+https://www.crazygames.com/game/stunt-horizon
 https://www.crazygames.com/game/stunt-mania-3d
 https://www.crazygames.com/game/stunt-paradise
 https://www.crazygames.com/game/stupid-zombies-ybg
@@ -4308,6 +4311,7 @@ https://www.crazygames.com/t/mobile/19
 https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/20
 https://www.crazygames.com/t/mobile/21
+https://www.crazygames.com/t/mobile/22
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
 https://www.crazygames.com/t/mobile/5
@@ -4383,7 +4387,6 @@ https://www.crazygames.com/t/pixel/2
 https://www.crazygames.com/t/pixel/3
 https://www.crazygames.com/t/pixel/4
 https://www.crazygames.com/t/pixel/5
-https://www.crazygames.com/t/pixel/6
 https://www.crazygames.com/t/platform
 https://www.crazygames.com/t/platform/2
 https://www.crazygames.com/t/platform/3
