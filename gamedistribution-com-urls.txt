@@ -12549,6 +12549,7 @@ https://gamedistribution.com/games/food-empire-inc/
 https://gamedistribution.com/games/food-gang-run/
 https://gamedistribution.com/games/food-grinder/
 https://gamedistribution.com/games/food-hidden-stars/
+https://gamedistribution.com/games/food-jam/
 https://gamedistribution.com/games/food-junction/
 https://gamedistribution.com/games/food-match/
 https://gamedistribution.com/games/food-merge/
@@ -13690,6 +13691,7 @@ https://gamedistribution.com/games/golfing-island/
 https://gamedistribution.com/games/gomu-goman/
 https://gamedistribution.com/games/gone-fishing/
 https://gamedistribution.com/games/gonna-fly/
+https://gamedistribution.com/games/goo-slime-jump/
 https://gamedistribution.com/games/good-and-evil-dressup/
 https://gamedistribution.com/games/good-knight-princess-rescue/
 https://gamedistribution.com/games/good-luck-racer-2/
@@ -13699,6 +13701,7 @@ https://gamedistribution.com/games/good-vs-bad-girl/
 https://gamedistribution.com/games/good-yard/
 https://gamedistribution.com/games/goods-master-3d/
 https://gamedistribution.com/games/goods-sort-master/
+https://gamedistribution.com/games/goods-triple-match-3d/
 https://gamedistribution.com/games/goof-runner/
 https://gamedistribution.com/games/google-feud/
 https://gamedistribution.com/games/goon-ball/
@@ -17772,6 +17775,7 @@ https://gamedistribution.com/games/marry-me-kitty-html5/
 https://gamedistribution.com/games/marry-me-kitty/
 https://gamedistribution.com/games/mars-landing/
 https://gamedistribution.com/games/mars-v-jupiter/
+https://gamedistribution.com/games/marshmallow-rush/
 https://gamedistribution.com/games/mart-puzzle-shopping-sort/
 https://gamedistribution.com/games/martial-arts%3A-fighter-duel/
 https://gamedistribution.com/games/martial-arts-fighters/
@@ -18856,6 +18860,7 @@ https://gamedistribution.com/games/monster-shooter-defense/
 https://gamedistribution.com/games/monster-shooter/
 https://gamedistribution.com/games/monster-skin-doctor/
 https://gamedistribution.com/games/monster-slayer-merge-and-survive/
+https://gamedistribution.com/games/monster-slayers/
 https://gamedistribution.com/games/monster-slumber-party-funny-faces/
 https://gamedistribution.com/games/monster-soccer-3d/
 https://gamedistribution.com/games/monster-taxi-jigsaw-puzzle/
@@ -23781,6 +23786,7 @@ https://gamedistribution.com/games/school-buses-puzzle/
 https://gamedistribution.com/games/school-connect/
 https://gamedistribution.com/games/school-day-preps/
 https://gamedistribution.com/games/school-day/
+https://gamedistribution.com/games/school-escape%3A-obbie-run!/
 https://gamedistribution.com/games/school-fun-differences/
 https://gamedistribution.com/games/school-fun/
 https://gamedistribution.com/games/school-girls-summer-camp!/
@@ -29192,6 +29198,7 @@ https://gamedistribution.com/games/x-trial-racing/
 https://gamedistribution.com/games/x2-blocks-2048%3A-match-numbers/
 https://gamedistribution.com/games/x2-solitaire-merge%3A-2048-cards/
 https://gamedistribution.com/games/xdrive-iperformance-puzzle/
+https://gamedistribution.com/games/xeno-defense-protocol/
 https://gamedistribution.com/games/xiblba-match/
 https://gamedistribution.com/games/xmas-2020-mahjong-deluxe/
 https://gamedistribution.com/games/xmas-2020-sudoku/

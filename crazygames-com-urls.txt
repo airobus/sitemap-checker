@@ -506,7 +506,6 @@ https://www.crazygames.com/game/brick-bash-saga
 https://www.crazygames.com/game/bricks-breaker
 https://www.crazygames.com/game/bridge-builder-eoi
 https://www.crazygames.com/game/bridge-race
-https://www.crazygames.com/game/bro-royale
 https://www.crazygames.com/game/broomcraft-mystic-evasion
 https://www.crazygames.com/game/brother-wake-up
 https://www.crazygames.com/game/brutalmania-io
@@ -689,6 +688,7 @@ https://www.crazygames.com/game/christmas-sorting-syk
 https://www.crazygames.com/game/chrome-dino
 https://www.crazygames.com/game/cinderella-dress-up-girl-games
 https://www.crazygames.com/game/cinema-panic-2
+https://www.crazygames.com/game/circle-farm
 https://www.crazygames.com/game/circloo
 https://www.crazygames.com/game/circloo-2
 https://www.crazygames.com/game/circuit-master
@@ -1968,6 +1968,7 @@ https://www.crazygames.com/game/krewio
 https://www.crazygames.com/game/krunker-io
 https://www.crazygames.com/game/kuja
 https://www.crazygames.com/game/kuzbass-horror
+https://www.crazygames.com/game/lamplighter-merge-magic
 https://www.crazygames.com/game/landfill-sim
 https://www.crazygames.com/game/landlord---real-estate-tycoon
 https://www.crazygames.com/game/landor-quest-2
@@ -2529,6 +2530,8 @@ https://www.crazygames.com/game/obby-gym-simulator-escape
 https://www.crazygames.com/game/obby-hide-and-seek-battle-royale
 https://www.crazygames.com/game/obby-mini-games
 https://www.crazygames.com/game/obby-parkour-race
+https://www.crazygames.com/game/obby-party-multiplayer-ozu
+https://www.crazygames.com/game/obby-plane-power-challenge-fly
 https://www.crazygames.com/game/obby-pull-a-sword
 https://www.crazygames.com/game/obby-ragdoll-boxing
 https://www.crazygames.com/game/obby-ride-carts

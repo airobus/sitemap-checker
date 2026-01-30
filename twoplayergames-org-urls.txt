@@ -2001,7 +2001,6 @@ https://www.twoplayergames.org/game/stabfishio
 https://www.twoplayergames.org/game/stack-breaker
 https://www.twoplayergames.org/game/starblast-io
 https://www.twoplayergames.org/game/stateio
-https://www.twoplayergames.org/game/steal-brainrot-67
 https://www.twoplayergames.org/game/steal-brainrot-arena
 https://www.twoplayergames.org/game/steal-brainrot-duel
 https://www.twoplayergames.org/game/steal-brainrot-eggs
@@ -2041,6 +2040,7 @@ https://www.twoplayergames.org/game/stickman-battle-fighting
 https://www.twoplayergames.org/game/stickman-bike-rider
 https://www.twoplayergames.org/game/stickman-bridge-constructor
 https://www.twoplayergames.org/game/stickman-broken-bones-io
+https://www.twoplayergames.org/game/stickman-dismounting
 https://www.twoplayergames.org/game/stickman-downhill
 https://www.twoplayergames.org/game/stickman-epic
 https://www.twoplayergames.org/game/stickman-escape-school
