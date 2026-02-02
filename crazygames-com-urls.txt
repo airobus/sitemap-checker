@@ -322,6 +322,7 @@ https://www.crazygames.com/game/battle-arena-race-to-win
 https://www.crazygames.com/game/battle-button-clicker
 https://www.crazygames.com/game/battle-cars-3d
 https://www.crazygames.com/game/battle-chess
+https://www.crazygames.com/game/battle-for-resources
 https://www.crazygames.com/game/battle-for-the-galaxy
 https://www.crazygames.com/game/battle-island
 https://www.crazygames.com/game/battle-of-knights-robby-and-dragons
@@ -481,7 +482,6 @@ https://www.crazygames.com/game/bowling-champion
 https://www.crazygames.com/game/bowman
 https://www.crazygames.com/game/box-builder
 https://www.crazygames.com/game/box-it-up
-https://www.crazygames.com/game/boxing-3d
 https://www.crazygames.com/game/boxing-random
 https://www.crazygames.com/game/boxing-stars
 https://www.crazygames.com/game/brain-teaser
@@ -627,6 +627,7 @@ https://www.crazygames.com/game/castle-defender-saga
 https://www.crazygames.com/game/castle-keeper
 https://www.crazygames.com/game/castle-wars
 https://www.crazygames.com/game/castle-wars-middle-ages
+https://www.crazygames.com/game/cat-and-granny-2
 https://www.crazygames.com/game/cat-and-granny-original
 https://www.crazygames.com/game/cat-bakery
 https://www.crazygames.com/game/cat-escape-ksv
@@ -1624,7 +1625,6 @@ https://www.crazygames.com/game/hexa-blast-game
 https://www.crazygames.com/game/hexa-block-2048-idle
 https://www.crazygames.com/game/hexa-go
 https://www.crazygames.com/game/hexa-sort
-https://www.crazygames.com/game/hexanaut-io
 https://www.crazygames.com/game/hextoland
 https://www.crazygames.com/game/hidden-mars
 https://www.crazygames.com/game/hidden-object-clues-and-mysteries
@@ -1864,6 +1864,7 @@ https://www.crazygames.com/game/jingle-defense
 https://www.crazygames.com/game/john-mambo---pixel-arcade-shooter-xdn
 https://www.crazygames.com/game/johnny-n-tommy---prank-masters
 https://www.crazygames.com/game/johnny-rocketfingers
+https://www.crazygames.com/game/join-clash-3d
 https://www.crazygames.com/game/juice-factory---fruit-farm-3d-sel
 https://www.crazygames.com/game/juice-production-tycoon
 https://www.crazygames.com/game/juice-production-tycoon-remake
@@ -2206,7 +2207,6 @@ https://www.crazygames.com/game/merge-and-munch
 https://www.crazygames.com/game/merge-army
 https://www.crazygames.com/game/merge-battle-car
 https://www.crazygames.com/game/merge-battle-tactics
-https://www.crazygames.com/game/merge-bistro
 https://www.crazygames.com/game/merge-block-2048
 https://www.crazygames.com/game/merge-blocks-3d
 https://www.crazygames.com/game/merge-cakes
@@ -3182,6 +3182,7 @@ https://www.crazygames.com/game/sniper-mission-blj
 https://www.crazygames.com/game/sniper-shot-bullet-time
 https://www.crazygames.com/game/sniper-strike
 https://www.crazygames.com/game/sniper-team-3
+https://www.crazygames.com/game/snooker
 https://www.crazygames.com/game/snow-farm-happy-new-year
 https://www.crazygames.com/game/snow-plow-truck
 https://www.crazygames.com/game/snow-rider-3d
@@ -3682,7 +3683,6 @@ https://www.crazygames.com/game/trap-lords
 https://www.crazygames.com/game/trap-the-cat
 https://www.crazygames.com/game/trap-the-cat-pix
 https://www.crazygames.com/game/trash-cafe
-https://www.crazygames.com/game/trash-factory
 https://www.crazygames.com/game/travel-tile
 https://www.crazygames.com/game/travel-with-me-asmr-edition
 https://www.crazygames.com/game/treasure-champion---chest-capture
