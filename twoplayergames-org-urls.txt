@@ -341,6 +341,7 @@ https://www.twoplayergames.org/game/car-chase
 https://www.twoplayergames.org/game/car-crash-simulator
 https://www.twoplayergames.org/game/car-crash-test
 https://www.twoplayergames.org/game/car-crash-test-abandoned-city
+https://www.twoplayergames.org/game/car-crushers-2
 https://www.twoplayergames.org/game/car-destruction-king
 https://www.twoplayergames.org/game/car-eats-car-2
 https://www.twoplayergames.org/game/car-eats-car-dungeon-adventure
@@ -1456,6 +1457,7 @@ https://www.twoplayergames.org/game/obby-fish-training
 https://www.twoplayergames.org/game/obby-fly-the-farthest-in-an-airplane
 https://www.twoplayergames.org/game/obby-grow-with-every-step
 https://www.twoplayergames.org/game/obby-gym-simulator-escape
+https://www.twoplayergames.org/game/obby-iq-escape
 https://www.twoplayergames.org/game/obby-minecart-climb-and-slide
 https://www.twoplayergames.org/game/obby-on-a-bike
 https://www.twoplayergames.org/game/obby-parkour-ultimate
@@ -2318,6 +2320,7 @@ https://www.twoplayergames.org/game/two-players-football
 https://www.twoplayergames.org/game/two-punk-racing
 https://www.twoplayergames.org/game/two-punk-racing-2
 https://www.twoplayergames.org/game/two-stunt-racers
+https://www.twoplayergames.org/game/two-stunt-supercars
 https://www.twoplayergames.org/game/two-stunts
 https://www.twoplayergames.org/game/two-supra-drifer
 https://www.twoplayergames.org/game/two-tubes-3d
