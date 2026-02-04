@@ -941,6 +941,7 @@ https://www.crazygames.com/game/daily-emoji-hunt
 https://www.crazygames.com/game/daily-kitchen-escape
 https://www.crazygames.com/game/daily-puzzle
 https://www.crazygames.com/game/daily-room-escape
+https://www.crazygames.com/game/daily-solitaire-challenge
 https://www.crazygames.com/game/dalgona-candy-honeycomb-cookie-kam
 https://www.crazygames.com/game/dalgona-game
 https://www.crazygames.com/game/damn-it-ttl
@@ -1626,6 +1627,7 @@ https://www.crazygames.com/game/hexa-blast-game
 https://www.crazygames.com/game/hexa-block-2048-idle
 https://www.crazygames.com/game/hexa-go
 https://www.crazygames.com/game/hexa-sort
+https://www.crazygames.com/game/hexanaut-io
 https://www.crazygames.com/game/hextoland
 https://www.crazygames.com/game/hidden-mars
 https://www.crazygames.com/game/hidden-object-clues-and-mysteries
@@ -2488,6 +2490,7 @@ https://www.crazygames.com/game/noob-tower-defense
 https://www.crazygames.com/game/noob-trolls-pro
 https://www.crazygames.com/game/noob-vs-cops
 https://www.crazygames.com/game/noob-vs-monsters
+https://www.crazygames.com/game/noob-vs-pro-4-lucky-block-afw
 https://www.crazygames.com/game/noob-vs-pro-challenge-xxy
 https://www.crazygames.com/game/noob-vs-pro-zombi-apocalypse
 https://www.crazygames.com/game/noob-wall-crusher
@@ -3526,7 +3529,6 @@ https://www.crazygames.com/game/taz-mechanic-simulator
 https://www.crazygames.com/game/tcg-shop-cards-toys-and-comics-nbm
 https://www.crazygames.com/game/tdp4-team-battle
 https://www.crazygames.com/game/teacher-simulator
-https://www.crazygames.com/game/team-order-racing-manager
 https://www.crazygames.com/game/tech-mart-simulator
 https://www.crazygames.com/game/teenage-celebrity-rivalry
 https://www.crazygames.com/game/teeth-runner
@@ -4028,6 +4030,7 @@ https://www.crazygames.com/sitemap/games/37
 https://www.crazygames.com/sitemap/games/38
 https://www.crazygames.com/sitemap/games/39
 https://www.crazygames.com/sitemap/games/4
+https://www.crazygames.com/sitemap/games/40
 https://www.crazygames.com/sitemap/games/5
 https://www.crazygames.com/sitemap/games/6
 https://www.crazygames.com/sitemap/games/7
@@ -4318,6 +4321,7 @@ https://www.crazygames.com/t/mobile/2
 https://www.crazygames.com/t/mobile/20
 https://www.crazygames.com/t/mobile/21
 https://www.crazygames.com/t/mobile/22
+https://www.crazygames.com/t/mobile/23
 https://www.crazygames.com/t/mobile/3
 https://www.crazygames.com/t/mobile/4
 https://www.crazygames.com/t/mobile/5
@@ -4408,6 +4412,7 @@ https://www.crazygames.com/t/premium
 https://www.crazygames.com/t/premium/2
 https://www.crazygames.com/t/premium/3
 https://www.crazygames.com/t/premium/4
+https://www.crazygames.com/t/quick-break
 https://www.crazygames.com/t/quiz
 https://www.crazygames.com/t/racing
 https://www.crazygames.com/t/racing/2
