@@ -726,6 +726,7 @@ https://www.twoplayergames.org/game/escape-road
 https://www.twoplayergames.org/game/escape-road-2
 https://www.twoplayergames.org/game/escape-road-city
 https://www.twoplayergames.org/game/escape-road-city-2
+https://www.twoplayergames.org/game/escape-school-duel
 https://www.twoplayergames.org/game/escaping-the-prison
 https://www.twoplayergames.org/game/ev-io
 https://www.twoplayergames.org/game/evil-robot
@@ -1614,6 +1615,7 @@ https://www.twoplayergames.org/game/poxel-io
 https://www.twoplayergames.org/game/prince-and-princess-elope
 https://www.twoplayergames.org/game/princess-run-3d
 https://www.twoplayergames.org/game/prision-break
+https://www.twoplayergames.org/game/prison-master-escape-journey
 https://www.twoplayergames.org/game/protect-my-dog-2
 https://www.twoplayergames.org/game/pull-the-pin
 https://www.twoplayergames.org/game/puppet-climb

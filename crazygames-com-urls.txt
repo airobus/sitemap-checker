@@ -241,7 +241,6 @@ https://www.crazygames.com/game/atomic-champions
 https://www.crazygames.com/game/attack-of-duty
 https://www.crazygames.com/game/attack-of-the-dead
 https://www.crazygames.com/game/atv-ultimate-offroad
-https://www.crazygames.com/game/australian-patience
 https://www.crazygames.com/game/auto-drive
 https://www.crazygames.com/game/auto-drive---highway
 https://www.crazygames.com/game/auto-ninja
@@ -382,6 +381,7 @@ https://www.crazygames.com/game/bitcoiner-dth
 https://www.crazygames.com/game/black
 https://www.crazygames.com/game/black-friday-dress-up-selfie
 https://www.crazygames.com/game/black-friday-mystery-sale
+https://www.crazygames.com/game/black-hole-idle
 https://www.crazygames.com/game/black-light-escape
 https://www.crazygames.com/game/black-light-escape-2
 https://www.crazygames.com/game/blackchain
@@ -1151,6 +1151,7 @@ https://www.crazygames.com/game/ellie-christmas-makeup
 https://www.crazygames.com/game/ellie-s-recipe-dubai-chocolate-bar
 https://www.crazygames.com/game/elvenrage
 https://www.crazygames.com/game/elves-clan-tricky-adventures
+https://www.crazygames.com/game/ember-ruin
 https://www.crazygames.com/game/embercry
 https://www.crazygames.com/game/emerald-and-amber
 https://www.crazygames.com/game/emerland-solitaire-card-game
@@ -1232,6 +1233,7 @@ https://www.crazygames.com/game/fairy-puzzle
 https://www.crazygames.com/game/fairyland-merge-and-magic
 https://www.crazygames.com/game/fall-ball-clicker
 https://www.crazygames.com/game/fall-beans
+https://www.crazygames.com/game/fall-of-the-king
 https://www.crazygames.com/game/fall-words
 https://www.crazygames.com/game/falling-art-ragdoll-simulator
 https://www.crazygames.com/game/falling-ball
@@ -4197,7 +4199,6 @@ https://www.crazygames.com/t/difficult
 https://www.crazygames.com/t/difficult/2
 https://www.crazygames.com/t/dinosaur
 https://www.crazygames.com/t/dirt-bike
-https://www.crazygames.com/t/doctor
 https://www.crazygames.com/t/dog
 https://www.crazygames.com/t/dragon
 https://www.crazygames.com/t/drawing
@@ -4243,7 +4244,6 @@ https://www.crazygames.com/t/hidden-object
 https://www.crazygames.com/t/horde-survival
 https://www.crazygames.com/t/horror
 https://www.crazygames.com/t/horror/2
-https://www.crazygames.com/t/hospital
 https://www.crazygames.com/t/humor
 https://www.crazygames.com/t/hunting
 https://www.crazygames.com/t/idea-studios
@@ -4479,7 +4479,6 @@ https://www.crazygames.com/t/stunt
 https://www.crazygames.com/t/stunt/2
 https://www.crazygames.com/t/stunt/3
 https://www.crazygames.com/t/superhero
-https://www.crazygames.com/t/surgery
 https://www.crazygames.com/t/survive
 https://www.crazygames.com/t/survive/2
 https://www.crazygames.com/t/survive/3

@@ -5077,6 +5077,7 @@ https://gamedistribution.com/games/bestie-face-art/
 https://gamedistribution.com/games/bestie-hidden-and-decorated-egg/
 https://gamedistribution.com/games/besties-beachwear/
 https://gamedistribution.com/games/besties-black-friday-collections/
+https://gamedistribution.com/games/besties-chinese-new-year-celebration/
 https://gamedistribution.com/games/besties-dotted-fashion/
 https://gamedistribution.com/games/besties-lemonade-stand/
 https://gamedistribution.com/games/besties-makeover-salon/
@@ -12890,6 +12891,7 @@ https://gamedistribution.com/games/fruit-farm/
 https://gamedistribution.com/games/fruit-goals-match/
 https://gamedistribution.com/games/fruit-hunting/
 https://gamedistribution.com/games/fruit-jam-1/
+https://gamedistribution.com/games/fruit-jam-master/
 https://gamedistribution.com/games/fruit-jam-merge-puzzle-game/
 https://gamedistribution.com/games/fruit-jam/
 https://gamedistribution.com/games/fruit-juice-maker-1/
@@ -19927,6 +19929,7 @@ https://gamedistribution.com/games/obby-on-a-bike/
 https://gamedistribution.com/games/obby-parkour-extreme/
 https://gamedistribution.com/games/obby-parkour-ultimate/
 https://gamedistribution.com/games/obby-prison%3A-craft-escape/
+https://gamedistribution.com/games/obby-prison-run/
 https://gamedistribution.com/games/obby-rainbow-tower/
 https://gamedistribution.com/games/obby-rescue-mission/
 https://gamedistribution.com/games/obby-survive-parkour/
@@ -26073,6 +26076,7 @@ https://gamedistribution.com/games/summer-vacation-dressup/
 https://gamedistribution.com/games/summer-waitress-dress-up-game/
 https://gamedistribution.com/games/summertime-celebration/
 https://gamedistribution.com/games/summon-the-hero/
+https://gamedistribution.com/games/summon-tribe/
 https://gamedistribution.com/games/sumo-party/
 https://gamedistribution.com/games/sumo-push-push/
 https://gamedistribution.com/games/sumo-saga/
