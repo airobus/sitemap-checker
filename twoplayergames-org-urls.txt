@@ -310,6 +310,7 @@ https://www.twoplayergames.org/game/bucket-crusher
 https://www.twoplayergames.org/game/buggy-racers
 https://www.twoplayergames.org/game/build-craft
 https://www.twoplayergames.org/game/build-royale
+https://www.twoplayergames.org/game/build-your-furniture-store
 https://www.twoplayergames.org/game/bullet-heaven-2
 https://www.twoplayergames.org/game/bullet-league-robogeddon
 https://www.twoplayergames.org/game/bullet-time-fighting
@@ -1666,6 +1667,7 @@ https://www.twoplayergames.org/game/rally-point-4
 https://www.twoplayergames.org/game/raymans-incrediballs-dodge
 https://www.twoplayergames.org/game/reach-the-core
 https://www.twoplayergames.org/game/real-bowling
+https://www.twoplayergames.org/game/real-car-parking-3d
 https://www.twoplayergames.org/game/real-cars-epic-stunts
 https://www.twoplayergames.org/game/real-chess
 https://www.twoplayergames.org/game/real-driving-simulator
